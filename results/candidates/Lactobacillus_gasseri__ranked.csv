@@ -1,0 +1,1577 @@
+Gene,Non-unique Gene name,Annotation,max_pident,max_aln_len,n_hits,qlen,max_cov
+rapA,rapA,RNA polymerase-associated protein RapA,0.0,0,0,,0.0
+xerC_5,xerC_5,Tyrosine recombinase XerC,0.0,0,0,,0.0
+hsdS,hsdS,Type I restriction enzyme EcoR124I/EcoR124II specificity subunit,0.0,0,0,,0.0
+group_816,,hypothetical protein,0.0,0,0,,0.0
+hsdM,hsdM,Type I restriction enzymeP methylase subunit,0.0,0,0,,0.0
+group_663,,hypothetical protein,0.0,0,0,,0.0
+group_654,,hypothetical protein,0.0,0,0,,0.0
+yagU_2,yagU_2,Inner membrane protein YagU,0.0,0,0,,0.0
+group_263,,hypothetical protein,0.0,0,0,,0.0
+smc_2,smc_2,Chromosome partition protein Smc,0.0,0,0,,0.0
+group_210,,hypothetical protein,0.0,0,0,,0.0
+group_112,,hypothetical protein,0.0,0,0,,0.0
+group_97,,hypothetical protein,0.0,0,0,,0.0
+gltC,gltC,Transcriptional dual regulator GltC,0.0,0,0,,0.0
+group_37,,hypothetical protein,0.0,0,0,,0.0
+group_25,,hypothetical protein,0.0,0,0,,0.0
+group_227,,hypothetical protein,71.226,212,3,303.0,0.7
+group_14,,hypothetical protein,73.78,164,1,198.0,0.828
+group_202,,hypothetical protein,76.912,719,3,717.0,1.003
+group_77,,hypothetical protein,77.778,837,3,837.0,1.0
+group_228,,hypothetical protein,78.652,89,3,282.0,0.316
+group_174,,hypothetical protein,78.947,133,3,276.0,0.482
+group_120,,hypothetical protein,79.31,87,1,522.0,0.167
+group_765,,hypothetical protein,79.391,723,7,723.0,1.0
+group_586,,hypothetical protein,79.576,519,3,519.0,1.0
+thi4,thi4,Thiamine thiazole synthase,80.0,55,1,1797.0,0.031
+group_408,,hypothetical protein,80.392,51,4,1089.0,0.047
+group_213,,hypothetical protein,80.392,177,7,408.0,0.434
+group_771,,hypothetical protein,81.905,210,3,210.0,1.0
+group_15,,hypothetical protein,81.928,166,2,198.0,0.838
+group_24,,hypothetical protein,83.226,155,1,159.0,0.975
+smc_3,smc_3,Chromosome partition protein Smc,83.333,54,5,1431.0,0.038
+group_690,,hypothetical protein,83.478,230,8,228.0,1.009
+group_80,,hypothetical protein,83.516,819,3,819.0,1.0
+group_414,,hypothetical protein,83.658,924,13,924.0,1.0
+mngR,mngR,Mannosyl-D-glycerate transport/metabolism system repressor MngR,83.884,726,3,726.0,1.0
+group_661,,hypothetical protein,84.314,1122,14,1122.0,1.0
+group_705,,IS3 family transposase ISEnfa5,84.507,709,15,708.0,1.001
+pdxK,pdxK,Pyridoxine/pyridoxal/pyridoxamine kinase,84.615,832,7,828.0,1.005
+ytrA,ytrA,HTH-type transcriptional repressor YtrA,85.095,369,9,369.0,1.0
+group_91,,hypothetical protein,85.185,730,4,729.0,1.001
+group_130,,hypothetical protein,85.203,419,10,480.0,0.873
+group_479,,hypothetical protein,85.261,443,10,441.0,1.005
+deoD,deoD,Purine nucleoside phosphorylase DeoD-type,85.509,766,17,765.0,1.001
+rluB_2,rluB_2,Ribosomal large subunit pseudouridine synthase B,85.755,702,21,702.0,1.0
+group_133,,hypothetical protein,85.841,461,3,462.0,0.998
+group_166,,hypothetical protein,86.0,301,3,300.0,1.003
+group_85,,hypothetical protein,86.047,812,2,810.0,1.002
+group_1,,(R)-mandelonitrile lyase,86.404,231,9,237.0,0.975
+group_216,,hypothetical protein,86.878,663,12,663.0,1.0
+group_33,,hypothetical protein,86.885,161,4,150.0,1.073
+group_556,,hypothetical protein,87.151,1192,3,1173.0,1.016
+artJ,artJ,ABC transporter arginine-binding protein 1,87.247,792,7,792.0,1.0
+dfrA,dfrA,Dihydrofolate reductase,87.379,522,11,516.0,1.012
+add1,add1,Adenosine deaminase 1,87.475,998,7,1002.0,0.996
+group_46,,hypothetical protein,87.562,603,3,603.0,1.0
+yajO,yajO,1-deoxyxylulose-5-phosphate synthase YajO,87.593,404,3,534.0,0.757
+group_341,,hypothetical protein,87.619,210,7,210.0,1.0
+group_422,,hypothetical protein,87.745,816,3,807.0,1.011
+nth_2,nth_2,Endonuclease III,87.786,655,3,651.0,1.006
+group_194,,hypothetical protein,87.859,453,3,453.0,1.0
+lacX_2~~~lacX_1,lacX_2;lacX_1;,Protein LacX plasmid;hypothetical protein,87.982,882,3,882.0,1.0
+msrA,msrA,Peptide methionine sulfoxide reductase MsrA,87.993,558,12,558.0,1.0
+group_44,,hypothetical protein,88.0,2742,33,3237.0,0.847
+trmK,trmK,tRNA (adenine(22)-N(1))-methyltransferase,88.047,686,12,684.0,1.003
+group_453,,hypothetical protein,88.057,573,10,561.0,1.021
+ogt,ogt,Methylated-DNA--protein-cysteine methyltransferase constitutive,88.072,503,6,519.0,0.969
+group_680,,hypothetical protein,88.077,520,3,525.0,0.99
+sorB_2,sorB_2,PTS system sorbose-specific EIIB component,88.081,495,4,495.0,1.0
+group_824,,hypothetical protein,88.095,4297,24,4254.0,1.01
+group_394,,hypothetical protein,88.166,172,4,174.0,0.989
+group_2,,hypothetical protein,88.235,85,4,237.0,0.359
+group_162,,hypothetical protein,88.235,316,4,327.0,0.966
+pbpX_2~~~pbpX_1,pbpX_2;pbpX_1,Putative penicillin-binding protein PbpX,88.258,1022,7,1038.0,0.985
+group_622,,hypothetical protein,88.288,333,5,333.0,1.0
+group_47,,hypothetical protein,88.301,624,12,624.0,1.0
+yagU_1,yagU_1,Inner membrane protein YagU,88.317,509,3,510.0,0.998
+scaC,scaC,Manganese import ATP-binding protein ScaC,88.418,708,15,708.0,1.0
+group_55,,hypothetical protein,88.496,1104,3,1104.0,1.0
+cbh,cbh,Bile salt hydrolase/transferase,88.753,978,10,978.0,1.0
+group_49,,hypothetical protein,88.849,846,9,834.0,1.014
+group_16,,hypothetical protein,88.918,2285,21,2283.0,1.001
+group_625,,hypothetical protein,88.977,1134,3,1134.0,1.0
+group_233,,hypothetical protein,88.983,236,3,252.0,0.937
+group_230,,hypothetical protein,89.015,264,3,264.0,1.0
+group_667,,hypothetical protein,89.055,201,1,288.0,0.698
+brpA,brpA,Biofilm regulatory protein A,89.099,1110,15,1110.0,1.0
+cydC,cydC,Glutathione/L-cysteine transport system ATP-binding/permease protein CydC,89.118,1746,14,1746.0,1.0
+cutC,cutC,PF03932 family protein CutC,89.147,645,3,645.0,1.0
+group_499,,hypothetical protein,89.17,383,3,381.0,1.005
+group_692,,hypothetical protein,89.186,786,2,786.0,1.0
+group_81,,hypothetical protein,89.255,819,13,819.0,1.0
+group_178,,hypothetical protein,89.272,261,7,261.0,1.0
+group_433,,hypothetical protein,89.3,730,5,723.0,1.01
+group_655,,hypothetical protein,89.352,648,7,648.0,1.0
+group_71,,Aldo-keto reductase/MSMEI_2347,89.384,876,10,876.0,1.0
+fetB,fetB,putative iron export permease protein FetB,89.418,756,9,762.0,0.992
+eis,eis,N-acetyltransferase Eis,89.433,1164,11,1161.0,1.003
+pyrC,pyrC,Dihydroorotase,89.437,1280,7,1278.0,1.002
+group_186,,hypothetical protein,89.454,2950,11,2949.0,1.0
+thrB,thrB,Homoserine kinase,89.468,864,7,864.0,1.0
+group_76,,hypothetical protein,89.48,846,2,846.0,1.0
+fetA,fetA,putative iron export ATP-binding protein FetA,89.515,639,9,639.0,1.0
+group_43,,hypothetical protein,89.695,1737,4,1731.0,1.003
+group_476,,Flavodoxin,89.709,447,12,447.0,1.0
+dacA,dacA,D-alanyl-D-alanine carboxypeptidase DacA,89.763,928,15,927.0,1.001
+group_45,,hypothetical protein,89.826,747,3,747.0,1.0
+menH_1,menH_1,2-succinyl-6-hydroxy-24-cyclohexadiene-1-carboxylate synthase,89.831,944,16,945.0,0.999
+group_146,,hypothetical protein,89.899,396,2,399.0,0.992
+rutB,;rutB,hypothetical protein;Ureidoacrylate amidohydrolase RutB,89.907,547,10,546.0,1.002
+group_390,,hypothetical protein,89.947,852,21,852.0,1.0
+group_481,,hypothetical protein,89.954,438,8,438.0,1.0
+comA,comA,Transport/processing ATP-binding protein ComA,89.962,1584,65,1584.0,1.0
+yidA_3~~~yidA_1,yidA_3;yidA_1,Sugar phosphatase YidA,89.963,807,13,807.0,1.0
+ctpE,ctpE,Calcium-transporting ATPase CtpE,89.979,2425,12,2427.0,0.999
+group_109,,D-ribitol-5-phosphate phosphatase,90.0,600,9,600.0,1.0
+uvrB_1,uvrB_1,UvrABC system protein B,90.018,2845,16,2844.0,1.0
+group_597,,hypothetical protein,90.056,885,8,888.0,0.997
+group_398,,hypothetical protein,90.098,1325,11,1323.0,1.002
+thrC,thrC,Threonine synthase,90.121,1488,7,1488.0,1.0
+vmlR,vmlR,Ribosome protection protein VmlR,90.179,1529,18,1506.0,1.015
+recD2,recD2,ATP-dependent RecD2 DNA helicase,90.248,2379,18,2379.0,1.0
+group_86,,GTP cyclohydrolase 1 type 2,90.351,800,12,798.0,1.003
+group_262,,hypothetical protein,90.385,624,3,624.0,1.0
+clcA_1,clcA_1,H(+)/Cl(-) exchange transporter ClcA,90.452,1372,9,1374.0,0.999
+mvaA,mvaA,3-hydroxy-3-methylglutaryl-coenzyme A reductase,90.453,1236,12,1236.0,1.0
+group_807,,hypothetical protein,90.48,1208,12,1212.0,0.997
+group_40,,hypothetical protein,90.504,1034,7,1032.0,1.002
+group_9,,hypothetical protein,90.521,211,4,210.0,1.005
+pnbA,;pnbA,hypothetical protein;4-nitrobenzoate reductase,90.541,666,14,666.0,1.0
+group_804,,hypothetical protein,90.568,880,15,885.0,0.994
+rnhB,rnhB,Ribonuclease HII,90.571,753,12,753.0,1.0
+thiN,thiN,Thiamine pyrophosphokinase,90.583,669,12,669.0,1.0
+group_643,,hypothetical protein,90.588,429,22,399.0,1.075
+group_387,,hypothetical protein,90.594,404,8,411.0,0.983
+agaA_2,agaA_2,Alpha-galactosidase AgaA,90.636,2234,11,2232.0,1.001
+group_790,,hypothetical protein,90.659,2580,29,2580.0,1.0
+group_209,,hypothetical protein,90.667,300,1,414.0,0.725
+rppH,;rppH,hypothetical protein;RNA pyrophosphohydrolase,90.676,429,11,429.0,1.0
+tcrA,tcrA,Transcriptional regulatory protein TcrA,90.691,666,20,666.0,1.0
+group_738,,Acetyltransferase,90.703,441,7,441.0,1.0
+tadA_1,tadA_1,tRNA-specific adenosine deaminase,90.728,453,13,453.0,1.0
+group_758,,hypothetical protein,90.728,151,3,150.0,1.007
+group_588,,hypothetical protein,90.741,648,3,648.0,1.0
+tetM,tetM,Tetracycline resistance protein TetM from transposon Tn916,90.744,1943,7,1923.0,1.01
+group_165,,hypothetical protein,90.759,303,4,303.0,1.0
+group_619,,hypothetical protein,90.785,468,7,519.0,0.902
+rplI,rplI,Large ribosomal subunit protein bL9,90.789,458,13,456.0,1.004
+group_580,,hypothetical protein,90.8,422,25,387.0,1.09
+recX,recX,Regulatory protein RecX,90.809,816,11,816.0,1.0
+group_748,,hypothetical protein,90.83,458,7,459.0,0.998
+garB,garB,Glutathione amide reductase,90.841,1332,3,1332.0,1.0
+group_355,,hypothetical protein,90.86,186,3,186.0,1.0
+group_252,,hypothetical protein,90.86,186,3,186.0,1.0
+tmung,tmung,Type-4 uracil-DNA glycosylase,90.881,636,7,636.0,1.0
+sasA_1,sasA_1,Adaptive-response sensory-kinase SasA,90.902,1298,12,1275.0,1.018
+group_786,,hypothetical protein,90.909,297,3,297.0,1.0
+group_745,,Putative phosphatase,90.92,804,16,804.0,1.0
+group_707,,hypothetical protein,90.936,684,3,684.0,1.0
+hom,hom,Homoserine dehydrogenase,90.954,1227,7,1227.0,1.0
+group_379,,hypothetical protein,90.971,1761,25,1761.0,1.0
+yjaB,yjaB,Peptidyl-lysine N-acetyltransferase YjaB,90.972,432,7,426.0,1.014
+ybiV_2,ybiV_2,Sugar phosphatase YbiV,91.001,789,16,789.0,1.0
+group_739,,hypothetical protein,91.057,369,10,369.0,1.0
+group_126,,hypothetical protein,91.057,492,6,492.0,1.0
+group_17,,hypothetical protein,91.061,2271,4,2271.0,1.0
+comFA,comFA,Competence protein ComFA,91.095,1269,12,1269.0,1.0
+uup_5~~~uup_7,uup_5;;uup_7,ATP-binding protein Uup;hypothetical protein,91.111,2340,68,2340.0,1.0
+pepV_2,pepV_2,Beta-Ala-Xaa dipeptidase,91.116,1317,3,1317.0,1.0
+rpiA,rpiA,Ribose-5-phosphate isomerase A,91.117,698,12,699.0,0.999
+group_28,,hypothetical protein,91.126,1848,2,1848.0,1.0
+group_161,,hypothetical protein,91.131,327,7,327.0,1.0
+group_626,,hypothetical protein,91.137,677,11,678.0,0.999
+kdpB,kdpB,Potassium-transporting ATPase ATP-binding subunit,91.138,2299,26,2268.0,1.014
+group_618,,hypothetical protein,91.156,995,7,996.0,0.999
+group_621,,hypothetical protein,91.161,939,3,939.0,1.0
+ribCF,ribCF,Bifunctional riboflavin kinase/FMN adenylyltransferase,91.161,939,12,939.0,1.0
+group_725,,hypothetical protein,91.166,849,12,849.0,1.0
+catM_1,catM_1,HTH-type transcriptional regulator CatM,91.166,849,7,849.0,1.0
+group_755,,hypothetical protein,91.168,1970,3,1983.0,0.993
+group_32,,hypothetical protein,91.176,103,5,2070.0,0.05
+group_34,,putative ABC transporter ATP-binding protein,91.176,1606,10,1608.0,0.999
+group_427,,Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase,91.18,771,8,771.0,1.0
+group_454,,hypothetical protein,91.219,558,7,558.0,1.0
+rfbX,rfbX,Putative O-antigen transporter,91.232,1437,12,1437.0,1.0
+group_796,,hypothetical protein,91.253,423,4,423.0,1.0
+group_53,,hypothetical protein,91.257,1218,4,1218.0,1.0
+group_11,,hypothetical protein,91.287,2572,22,2571.0,1.0
+group_136,,hypothetical protein,91.333,450,7,450.0,1.0
+prmA,prmA,Ribosomal protein L11 methyltransferase,91.35,956,12,948.0,1.008
+group_443,,hypothetical protein,91.36,625,3,627.0,0.997
+group_616,,hypothetical protein,91.375,429,7,429.0,1.0
+pepDA_4~~~pepDA_3~~~pepDA_2,pepDA_4;pepDA_3;pepDA_2,Dipeptidase A,91.384,1428,44,1416.0,1.008
+murQ,murQ,N-acetylmuramic acid 6-phosphate etherase,91.387,894,11,894.0,1.0
+group_713,,hypothetical protein,91.406,384,9,384.0,1.0
+group_562,,Endoglucanase,91.421,1119,13,1119.0,1.0
+bltD,bltD,Spermine/spermidine N(1)-acetyltransferase,91.441,479,4,489.0,0.98
+group_774,,hypothetical protein,91.453,702,12,702.0,1.0
+yfcA,yfcA,putative membrane transporter protein YfcA,91.459,761,12,762.0,0.999
+group_662,,hypothetical protein,91.465,867,12,867.0,1.0
+ftsY,ftsY,Signal recognition particle receptor FtsY,91.481,1350,13,1350.0,1.0
+group_389,,hypothetical protein,91.503,617,13,612.0,1.008
+group_407,,hypothetical protein,91.512,1131,15,1131.0,1.0
+group_609,,DegV domain-containing protein,91.538,840,8,840.0,1.0
+yidA_4,yidA_4,Sugar phosphatase YidA,91.544,816,25,816.0,1.0
+mvaS,mvaS,Hydroxymethylglutaryl-CoA synthase,91.581,1164,12,1164.0,1.0
+group_259,,hypothetical protein,91.593,678,6,678.0,1.0
+comGA,comGA,Competence protein ComGA,91.616,978,12,978.0,1.0
+metN,metN,Methionine import ATP-binding protein MetN,91.619,1050,107,1050.0,1.0
+gabD1,gabD1,Succinate-semialdehyde dehydrogenase [NADP(+)] 1,91.63,1374,16,1374.0,1.0
+group_799,,hypothetical protein,91.64,1902,3,1899.0,1.002
+xylB,xylB,Xylulose kinase,91.65,1510,7,1509.0,1.001
+group_746,,hypothetical protein,91.667,684,7,684.0,1.0
+group_669,,hypothetical protein,91.667,288,18,288.0,1.0
+tcyN,tcyN,L-cystine import ATP-binding protein TcyN,91.667,648,85,648.0,1.0
+gatC_1~~~gatC_3,gatC_1;gatC_3,PTS system galactitol-specific EIIC component,91.678,1454,7,1455.0,0.999
+group_127,,hypothetical protein,91.718,483,6,483.0,1.0
+rnz,rnz,Ribonuclease Z,91.72,930,17,930.0,1.0
+galK_1,galK_1,Galactokinase,91.721,918,12,918.0,1.0
+nnrD,nnrD,ADP-dependent (S)-NAD(P)H-hydrate dehydratase,91.726,846,12,846.0,1.0
+group_377,,hypothetical protein,91.728,544,3,549.0,0.991
+copA,copA,Copper-exporting P-type ATPase,91.779,1942,22,1935.0,1.004
+hslO,hslO,33 kDa chaperonin,91.781,876,13,876.0,1.0
+yoaB,yoaB,Calcium-transporting ATPase 1,91.781,2628,97,2628.0,1.0
+group_381,,hypothetical protein,91.785,1692,7,1692.0,1.0
+ylbL,ylbL,putative protein YlbL,91.79,1011,17,1011.0,1.0
+group_451,,hypothetical protein,91.795,585,11,585.0,1.0
+sbnD_2~~~sbnD_1,sbnD_2;sbnD_1,Staphyloferrin B transporter,91.798,1207,14,1212.0,0.996
+group_639,,hypothetical protein,91.803,734,3,732.0,1.003
+rluB_1,rluB_1,Ribosomal large subunit pseudouridine synthase B,91.806,720,15,720.0,1.0
+group_814,,hypothetical protein,91.828,1236,12,1236.0,1.0
+group_222,,hypothetical protein,91.83,612,7,612.0,1.0
+group_723,,putative RNA methyltransferase,91.847,1353,19,1353.0,1.0
+paiA,paiA,Spermidine/spermine N(1)-acetyltransferase,91.848,552,3,552.0,1.0
+egtUBC,egtUBC,putative ergothioneine transporter EgtUBC,91.876,1551,3,1551.0,1.0
+group_420,,hypothetical protein,91.876,837,5,834.0,1.004
+map,map,Methionine aminopeptidase 1,91.879,826,12,825.0,1.001
+group_585,,hypothetical protein,91.896,654,6,654.0,1.0
+group_417,,hypothetical protein,91.901,852,17,852.0,1.0
+yidA_1,yidA_1,Sugar phosphatase YidA,91.912,817,20,816.0,1.001
+ecfA2,ecfA2,Energy-coupling factor transporter ATP-binding protein EcfA2,91.926,867,23,867.0,1.0
+group_56,,hypothetical protein,91.941,1101,3,1086.0,1.014
+tilS,tilS,tRNA(Ile)-lysidine synthase,91.975,1296,12,1296.0,1.0
+mdtP_1,mdtP_1,Multidrug transporter protein MdtP,91.989,1473,15,1473.0,1.0
+rsmC,rsmC,Ribosomal RNA small subunit methyltransferase C,91.993,612,12,612.0,1.0
+group_98,,hypothetical protein,91.994,687,19,684.0,1.004
+group_572,,hypothetical protein,92.012,1014,3,1014.0,1.0
+rpe,rpe,Ribulose-phosphate 3-epimerase,92.012,651,15,651.0,1.0
+group_448,,hypothetical protein,92.013,601,4,600.0,1.002
+group_51,,hypothetical protein,92.021,564,3,564.0,1.0
+ansA,ansA,L-asparaginase 1,92.028,1016,7,1017.0,0.999
+pepX,pepX,Xaa-Pro dipeptidyl-peptidase,92.03,2394,12,2385.0,1.004
+group_93,,hypothetical protein,92.045,472,7,720.0,0.656
+group_441,,hypothetical protein,92.049,660,2,648.0,1.019
+folT,folT,Folate transporter FolT,92.054,516,12,516.0,1.0
+group_442,,hypothetical protein,92.056,652,7,642.0,1.016
+group_640,,hypothetical protein,92.063,441,3,441.0,1.0
+group_764,,Aldo-keto reductase/MSMEI_2347,92.075,861,19,858.0,1.003
+pepE_2,pepE_2,Aminopeptidase E,92.078,1338,43,1338.0,1.0
+lacR_2,lacR_2,HTH-type transcriptional regulator LacR,92.116,1002,7,1002.0,1.0
+mrnC,mrnC,Mini-ribonuclease 3,92.117,444,12,444.0,1.0
+menA,menA,14-dihydroxy-2-naphthoate octaprenyltransferase,92.125,927,3,927.0,1.0
+group_116,,hypothetical protein,92.125,546,6,546.0,1.0
+patB,patB,Cystathionine beta-lyase PatB,92.128,557,10,567.0,0.982
+group_201,,hypothetical protein,92.129,1893,15,1872.0,1.011
+ypiA,ypiA,TPR repeat-containing protein YpiA,92.137,1259,12,1260.0,0.999
+rsmD,rsmD,Ribosomal RNA small subunit methyltransferase D,92.168,549,12,549.0,1.0
+ecfT_1,ecfT_1,Energy-coupling factor transporter transmembrane protein EcfT,92.178,831,7,831.0,1.0
+group_27,,hypothetical protein,92.188,128,3,132.0,0.97
+yedJ,yedJ,putative protein YedJ,92.202,654,12,654.0,1.0
+group_192,,hypothetical protein,92.208,462,3,462.0,1.0
+rihC,rihC,Non-specific ribonucleoside hydrolase RihC,92.208,925,16,924.0,1.001
+group_558,,hypothetical protein,92.209,786,7,783.0,1.004
+fpgS,fpgS,Folylpolyglutamate synthase,92.222,1264,15,1260.0,1.003
+ykoD_2,ykoD_2,Putative HMP/thiamine import ATP-binding protein YkoD,92.239,1353,18,1353.0,1.0
+group_677,,L-lactate oxidase,92.252,1239,14,1239.0,1.0
+addB,addB,ATP-dependent helicase/deoxyribonuclease subunit B,92.263,3477,27,3477.0,1.0
+group_231,,hypothetical protein,92.271,828,3,828.0,1.0
+group_393,,NADH:fumarate oxidoreductase,92.285,1374,16,1374.0,1.0
+fluC2,fluC2,Fluoride-specific ion channel FluC 2,92.287,363,10,363.0,1.0
+group_139,,hypothetical protein,92.29,441,3,441.0,1.0
+tcyP,tcyP,L-cystine uptake protein TcyP,92.291,1388,3,1389.0,0.999
+group_117,,hypothetical protein,92.322,534,5,534.0,1.0
+hepT,hepT,Heptaprenyl diphosphate synthase component 2,92.33,1017,6,1017.0,1.0
+trmFO,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO,92.331,1317,12,1317.0,1.0
+group_226,,hypothetical protein,92.347,588,3,588.0,1.0
+ybiT,ybiT,putative ATP-binding protein YbiT,92.36,1623,19,1623.0,1.0
+mshA,mshA,D-inositol-3-phosphate glycosyltransferase,92.371,1101,12,1101.0,1.0
+group_358,,hypothetical protein,92.373,118,10,174.0,0.678
+mnaA,mnaA,UDP-N-acetylglucosamine 2-epimerase,92.379,1299,12,1299.0,1.0
+group_418,,hypothetical protein,92.381,840,7,840.0,1.0
+group_256,,hypothetical protein,92.381,735,17,735.0,1.0
+dpaL,dpaL,Diaminopropionate ammonia-lyase,92.386,1182,3,1182.0,1.0
+pepO_1,pepO_1,Neutral endopeptidase,92.387,1987,32,1944.0,1.022
+group_229,,hypothetical protein,92.391,552,2,549.0,1.005
+group_511,,hypothetical protein,92.398,342,12,342.0,1.0
+group_218,,hypothetical protein,92.41,4383,22,6654.0,0.659
+group_60,,hypothetical protein,92.415,1002,12,1002.0,1.0
+dinB_2,dinB_2,DNA polymerase IV,92.424,1320,14,1320.0,1.0
+dinB_1,dinB_1,DNA polymerase IV,92.424,1122,12,1122.0,1.0
+xerS,xerS,Tyrosine recombinase XerS,92.437,1071,13,1071.0,1.0
+group_242,,hypothetical protein,92.447,609,14,609.0,1.0
+truA,truA,tRNA pseudouridine synthase A,92.453,795,12,795.0,1.0
+group_78,,Putative phosphatase,92.457,822,12,822.0,1.0
+dtd,dtd,D-aminoacyl-tRNA deacylase,92.466,443,12,438.0,1.011
+recJ,recJ,Single-stranded-DNA-specific exonuclease RecJ,92.47,2271,14,2271.0,1.0
+yqgN,yqgN,putative protein YqgN,92.473,558,11,558.0,1.0
+scpA,scpA,Segregation and condensation protein A,92.473,744,12,744.0,1.0
+group_694,,hypothetical protein,92.497,2439,19,2439.0,1.0
+hexR,hexR,HTH-type transcriptional regulator HexR,92.5,840,7,840.0,1.0
+qorB,qorB,Quinone oxidoreductase 2,92.503,867,3,867.0,1.0
+yfiC,yfiC,tRNA1(Val) (adenine(37)-N6)-methyltransferase,92.517,1029,12,1017.0,1.012
+maa,maa,Maltose O-acetyltransferase,92.52,615,13,615.0,1.0
+rlmP,rlmP,23S rRNA (guanosine(2553)-2'-O)-methyltransferase RlmP,92.52,781,12,762.0,1.025
+group_0,,hypothetical protein,92.523,118,8,240.0,0.492
+group_638,,hypothetical protein,92.527,743,6,735.0,1.011
+priA,priA,Replication restart protein PriA,92.529,2417,18,2397.0,1.008
+yheI_2,yheI_2,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI,92.53,1767,39,1767.0,1.0
+rbsKrbiA,rbsK/rbiA,Bifunctional ribokinase/ribose-5-phosphate isomerase A,92.532,924,19,924.0,1.0
+group_603,,hypothetical protein,92.535,576,3,576.0,1.0
+lepA_2,lepA_2,Elongation factor 4,92.55,1844,12,1839.0,1.003
+pyrR_2,pyrR_2,Bifunctional protein pyrR,92.551,537,13,537.0,1.0
+metE,;metE,hypothetical protein;5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase,92.552,1101,9,1101.0,1.0
+rihB,rihB,Pyrimidine-specific ribonucleoside hydrolase RihB,92.557,935,10,927.0,1.009
+rnj2,rnj2,Ribonuclease J 2,92.568,1776,25,1776.0,1.0
+odcI,odcI,Inducible ornithine decarboxylase,92.571,2100,14,2100.0,1.0
+group_362,,hypothetical protein,92.576,2007,2,2007.0,1.0
+group_369,,hypothetical protein,92.583,1928,31,1929.0,0.999
+pepC,pepC,Aminopeptidase C,92.587,1349,80,1350.0,0.999
+group_30,,hypothetical protein,92.593,27,1,90.0,0.3
+group_805,,hypothetical protein,92.593,1215,10,1215.0,1.0
+group_190,,hypothetical protein,92.593,783,3,783.0,1.0
+comGC,comGC,Competence protein ComGC,92.593,297,12,297.0,1.0
+mutL,mutL,DNA mismatch repair protein MutL,92.604,1893,18,1893.0,1.0
+azoR,azoR,FMN dependent NADH:quinone oxidoreductase,92.612,582,1,582.0,1.0
+miaA,miaA,tRNA dimethylallyltransferase,92.617,921,13,921.0,1.0
+truB,truB,tRNA pseudouridine synthase B,92.617,894,15,894.0,1.0
+ypsC,ypsC,Putative RNA methyltransferase YpsC,92.622,1126,12,1125.0,1.001
+degV_1,degV_1,Protein DegV,92.641,924,7,924.0,1.0
+ykoE,ykoE,Putative HMP/thiamine permease protein YkoE,92.652,558,3,558.0,1.0
+group_110,,Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase,92.655,588,12,588.0,1.0
+yfkJ,yfkJ,Low molecular weight protein-tyrosine-phosphatase YfkJ,92.662,477,16,477.0,1.0
+dprA,dprA,DNA processing protein DprA,92.671,846,12,846.0,1.0
+group_801,,hypothetical protein,92.674,546,7,546.0,1.0
+fni,fni,Isopentenyl-diphosphate delta-isomerase,92.683,1025,12,1026.0,0.999
+group_270,,hypothetical protein,92.708,1248,4,1248.0,1.0
+comFC,comFC,Competence protein ComFC,92.708,673,12,672.0,1.001
+uup_2~~~uup_3,;uup_2;uup_3,hypothetical protein;ATP-binding protein Uup,92.712,1578,39,1578.0,1.0
+group_105,,hypothetical protein,92.713,645,12,645.0,1.0
+dnaD,dnaD,Replicative helicase loading/DNA remodeling protein DnaD,92.713,645,12,645.0,1.0
+rnhA,rnhA,Ribonuclease H,92.715,778,18,756.0,1.029
+metG_1~~~metG,metG_1;metG,Methionine--tRNA ligase,92.716,2008,14,1977.0,1.016
+group_184,,hypothetical protein,92.732,1197,7,1197.0,1.0
+group_170,,hypothetical protein,92.734,289,7,291.0,0.993
+pcp,pcp,Pyrrolidone-carboxylate peptidase,92.736,648,12,648.0,1.0
+bglG,bglG,Cryptic beta-glucoside bgl operon antiterminator,92.738,840,8,840.0,1.0
+fhs1,fhs1,Formate--tetrahydrofolate ligase 1,92.738,1694,12,1680.0,1.008
+dnaN,dnaN,Beta sliding clamp,92.75,1140,12,1131.0,1.008
+cpdA,cpdA,3'5'-cyclic adenosine monophosphate phosphodiesterase CpdA,92.782,1233,20,1233.0,1.0
+group_397,,hypothetical protein,92.783,1344,7,1344.0,1.0
+carB_2,carB_2,Carbamoyl phosphate synthase large chain,92.788,3189,16,3189.0,1.0
+thyA,thyA,Thymidylate synthase,92.79,967,12,957.0,1.01
+mdtP_2,mdtP_2,Multidrug transporter protein MdtP,92.798,1458,14,1458.0,1.0
+bglK_1,bglK_1,Beta-glucoside kinase,92.799,861,4,861.0,1.0
+group_700,,hypothetical protein,92.8,442,16,444.0,0.995
+catM_2,catM_2;,HTH-type transcriptional regulator CatM;hypothetical protein,92.803,928,12,927.0,1.001
+coaBC,coaBC,Coenzyme A biosynthesis bifunctional protein CoaBC,92.804,1209,12,1209.0,1.0
+group_143,,hypothetical protein,92.806,417,3,417.0,1.0
+cycA_1,cycA_1,D-serine/D-alanine/glycine transporter,92.809,1350,35,1350.0,1.0
+mecA,mecA,Adapter protein MecA 1,92.813,654,12,654.0,1.0
+group_375,,hypothetical protein,92.815,849,7,849.0,1.0
+cca,cca,CCA-adding enzyme,92.815,1197,13,1197.0,1.0
+group_378,,putative ABC transporter ATP-binding protein,92.825,1770,37,1770.0,1.0
+farB,;farB,hypothetical protein;Fatty acid resistance protein FarB,92.832,1395,6,1395.0,1.0
+rhaS_2,rhaS_2,HTH-type transcriptional activator RhaS,92.833,879,6,879.0,1.0
+iolU,iolU,scyllo-inositol 2-dehydrogenase (NADP(+)) IolU,92.835,963,7,963.0,1.0
+group_84,,hypothetical protein,92.848,811,6,810.0,1.001
+menG,menG,Demethylmenaquinone methyltransferase,92.857,714,7,714.0,1.0
+group_488,,hypothetical protein,92.857,420,3,420.0,1.0
+eno_1,eno_1,Enolase,92.857,210,16,210.0,1.0
+group_157,,hypothetical protein,92.857,336,8,336.0,1.0
+smc_4,smc_4,Chromosome partition protein Smc,92.867,3561,36,3561.0,1.0
+ntd,ntd,Nucleoside deoxyribosyltransferase,92.872,478,11,477.0,1.002
+yfmL,yfmL,putative ATP-dependent RNA helicase YfmL,92.88,1246,19,1236.0,1.008
+glvR,glvR,HTH-type transcriptional regulator GlvR,92.885,759,3,759.0,1.0
+group_72,,hypothetical protein,92.89,858,12,858.0,1.0
+uvrC,uvrC,UvrABC system protein C,92.901,1806,12,1803.0,1.002
+dxs,dxs,1-deoxy-D-xylulose-5-phosphate synthase,92.902,1761,11,1761.0,1.0
+murG,murG,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,92.902,1113,12,1113.0,1.0
+lspA,lspA,Lipoprotein signal peptidase,92.903,465,13,465.0,1.0
+group_685,,hypothetical protein,92.904,1212,13,1212.0,1.0
+yfcJ,yfcJ,putative MFS-type transporter YfcJ,92.906,1170,13,1170.0,1.0
+rnmV,rnmV,Ribonuclease M5,92.908,564,12,564.0,1.0
+group_206,,hypothetical protein,92.908,423,10,423.0,1.0
+group_172,,hypothetical protein,92.908,282,3,282.0,1.0
+group_150,,hypothetical protein,92.913,381,4,381.0,1.0
+group_602,,hypothetical protein,92.915,861,8,861.0,1.0
+napA,napA,Na(+)/H(+) antiporter,92.937,1161,12,1161.0,1.0
+yfnB,yfnB,Putative HAD-hydrolase YfnB,92.938,708,10,708.0,1.0
+smoB,smoB,6-dehydroglucose reductase,92.939,1048,6,1047.0,1.001
+group_721,,hypothetical protein,92.941,459,20,423.0,1.085
+group_102,,hypothetical protein,92.943,678,12,666.0,1.018
+glnH_2,glnH_2,ABC transporter glutamine-binding protein GlnH,92.944,822,22,822.0,1.0
+cls_1,cls_1,Cardiolipin synthase,92.944,1505,27,1488.0,1.011
+tagF,tagF,Teichoic acid poly(glycerol phosphate) polymerase,92.95,1149,12,1149.0,1.0
+group_4,,hypothetical protein,92.952,227,5,231.0,0.983
+gspA,gspA,General stress protein A,92.955,951,14,951.0,1.0
+thlA,thlA,Acetyl-CoA acetyltransferase,92.973,1167,17,1167.0,1.0
+uptA,uptA,Undecaprenyl phosphate transporter A,92.974,612,6,612.0,1.0
+treR,treR,HTH-type transcriptional regulator TreR,92.975,726,10,726.0,1.0
+uup_7,uup_7,ATP-binding protein Uup,92.977,954,4,954.0,1.0
+mgsR,mgsR,Regulatory protein MgsR,92.978,359,12,357.0,1.006
+rimI_2,rimI_2,[Ribosomal protein bS18]-alanine N-acetyltransferase,92.982,570,7,570.0,1.0
+group_462,,hypothetical protein,92.982,513,12,513.0,1.0
+group_171,,hypothetical protein,92.982,285,3,285.0,1.0
+engB,engB,putative GTP-binding protein EngB,92.991,585,12,585.0,1.0
+sapB,sapB,Protein SapB,93.02,702,12,702.0,1.0
+ltaS2,ltaS2,Lipoteichoic acid synthase 2,93.023,2193,29,2193.0,1.0
+srmB,srmB,ATP-dependent RNA helicase SrmB,93.027,2223,7,2223.0,1.0
+group_645,,hypothetical protein,93.037,675,3,675.0,1.0
+mutS,mutS,DNA mismatch repair protein MutS,93.046,2594,16,2574.0,1.008
+group_62,,hypothetical protein,93.047,978,3,978.0,1.0
+mdtD~~~hsrA~~~mdtP_4,mdtD;hsrA;mdtP_4,Putative multidrug resistance protein MdtD;putative transport protein HsrA;Multidrug transporter protein MdtP,93.047,1395,23,1395.0,1.0
+pyrB,pyrB,Aspartate carbamoyltransferase catalytic subunit,93.051,993,7,993.0,1.0
+group_623,,hypothetical protein,93.06,318,3,318.0,1.0
+spxH,spxH,ClpXP adapter protein SpxH,93.069,606,8,606.0,1.0
+group_95,,hypothetical protein,93.079,708,3,708.0,1.0
+group_709,,N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase,93.082,954,3,954.0,1.0
+rsmB,rsmB,Ribosomal RNA small subunit methyltransferase B,93.09,1318,17,1317.0,1.001
+group_200,,hypothetical protein,93.1,1029,5,1029.0,1.0
+bmpA,bmpA,ABC transporter nucleoside-binding protein BmpA,93.103,1074,27,1074.0,1.0
+group_510,,hypothetical protein,93.103,348,3,348.0,1.0
+cpdB,cpdB,2'3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase,93.103,1576,12,1566.0,1.006
+ybhL_1,ybhL_1,Inner membrane protein YbhL,93.103,718,20,714.0,1.006
+polA_2~~~polA,polA_2;polA,DNA polymerase I,93.123,2690,13,2661.0,1.011
+rsmI,rsmI,Ribosomal RNA small subunit methyltransferase I,93.124,858,12,858.0,1.0
+rlmH,rlmH,Ribosomal RNA large subunit methyltransferase H,93.125,480,12,480.0,1.0
+group_52,,hypothetical protein,93.144,1269,3,1269.0,1.0
+group_306,,hypothetical protein,93.151,850,20,849.0,1.001
+rsmA,rsmA,Ribosomal RNA small subunit methyltransferase A,93.154,891,12,891.0,1.0
+nadK,nadK,NAD kinase,93.159,804,13,804.0,1.0
+yajL,yajL,Protein/nucleic acid deglycase 3,93.162,585,12,585.0,1.0
+pyrP,pyrP,Uracil permease,93.168,1332,12,1332.0,1.0
+ccpA_1,ccpA_1,Catabolite control protein A,93.173,996,14,996.0,1.0
+nth_1,nth_1,Endonuclease III,93.175,630,12,630.0,1.0
+carB_1,carB_1,Carbamoyl phosphate synthase large chain,93.175,3165,39,3165.0,1.0
+group_68,,hypothetical protein,93.177,894,19,894.0,1.0
+group_823,,hypothetical protein,93.219,1224,12,1224.0,1.0
+malL_2,malL_2,Oligo-16-glucosidase,93.225,1668,38,1668.0,1.0
+group_196,,hypothetical protein,93.228,443,3,444.0,0.998
+dtpT,dtpT,Di-/tripeptide transporter,93.24,1494,12,1494.0,1.0
+group_478,,hypothetical protein,93.243,444,11,444.0,1.0
+rnc,rnc,Ribonuclease 3,93.245,681,12,681.0,1.0
+tag,tag,DNA-3-methyladenine glycosylase 1,93.25,563,11,576.0,0.977
+pta,pta,Phosphate acetyltransferase,93.252,978,15,978.0,1.0
+ruvA,ruvA,Holliday junction branch migration complex subunit RuvA,93.264,579,11,579.0,1.0
+group_606,,hypothetical protein,93.272,1308,13,1308.0,1.0
+group_435,,hypothetical protein,93.276,699,3,699.0,1.0
+lacG_1,lacG_1,6-phospho-beta-galactosidase,93.277,1428,26,1428.0,1.0
+ysdC,ysdC,Putative aminopeptidase YsdC,93.278,1086,8,1086.0,1.0
+group_90,,hypothetical protein,93.278,729,12,729.0,1.0
+fabG,fabG,3-oxoacyl-[acyl-carrier-protein] reductase FabG,93.278,740,13,729.0,1.015
+group_711,,hypothetical protein,93.282,387,3,387.0,1.0
+group_600,,hypothetical protein,93.287,864,17,864.0,1.0
+group_356,,putative tautomerase.1,93.296,180,12,180.0,1.0
+malL_1,malL_1,Oligo-16-glucosidase,93.301,1657,33,1659.0,0.999
+group_101,,hypothetical protein,93.304,672,8,672.0,1.0
+dinG_1,dinG_1,3'-5' exonuclease DinG,93.319,2814,21,2814.0,1.0
+nhaC,nhaC,Na(+)/H(+) antiporter NhaC,93.319,1382,12,1377.0,1.004
+rlmCD,rlmCD,23S rRNA (uracil-C(5))-methyltransferase RlmCD,93.333,1389,17,1389.0,1.0
+group_300,,hypothetical protein,93.333,870,16,870.0,1.0
+group_152,,hypothetical protein,93.333,360,4,360.0,1.0
+group_132,,hypothetical protein,93.333,465,14,465.0,1.0
+group_125,,hypothetical protein,93.333,495,6,495.0,1.0
+spsB_1,spsB_1,Signal peptidase IB,93.333,570,20,570.0,1.0
+group_128,,hypothetical protein,93.347,481,1,480.0,1.002
+guaC,guaC,GMP reductase,93.353,994,12,993.0,1.001
+oatA,oatA,Peptidoglycan O-acetyltransferase OatA,93.354,1947,13,1926.0,1.011
+exoA_1,exoA_1,Exodeoxyribonuclease,93.357,831,12,828.0,1.004
+tlyA,tlyA,16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA,93.358,815,12,813.0,1.002
+ybiV_1,ybiV_1,Sugar phosphatase YbiV,93.358,823,24,813.0,1.012
+gpmA_5,gpmA_5,23-bisphosphoglycerate-dependent phosphoglycerate mutase,93.363,684,12,678.0,1.009
+group_589,,hypothetical protein,93.37,362,12,363.0,0.997
+ycaM_1,ycaM_1,Inner membrane transporter YcaM,93.374,1485,37,1479.0,1.004
+recG,recG,ATP-dependent DNA helicase RecG,93.376,2038,12,2040.0,0.999
+parC,parC,DNA topoisomerase IV subunit A ParC,93.39,2481,24,2481.0,1.0
+bbmA,bbmA,Intracellular maltogenic amylase,93.391,1725,12,1725.0,1.0
+group_808,,hypothetical protein,93.392,1029,12,1023.0,1.006
+yigZ,yigZ,IMPACT family member YigZ,93.393,667,12,666.0,1.002
+group_124,,hypothetical protein,93.411,516,17,516.0,1.0
+group_22,,hypothetical protein,93.413,177,7,177.0,1.0
+group_235,,hypothetical protein,93.421,1382,12,1368.0,1.01
+holA,holA,DNA polymerase III subunit delta,93.434,998,14,990.0,1.008
+ykoD_1,ykoD_1,Putative HMP/thiamine import ATP-binding protein YkoD,93.438,1722,15,1722.0,1.0
+cytR,cytR,HTH-type transcriptional repressor CytR,93.439,945,12,945.0,1.0
+fpaP_1,fpaP_1,Proline iminopeptidase,93.446,885,8,885.0,1.0
+recN,recN,DNA repair protein RecN,93.452,1680,12,1680.0,1.0
+group_642,,hypothetical protein,93.464,153,3,171.0,0.895
+group_779,,Protein SprT-like protein,93.464,459,10,459.0,1.0
+msrC,msrC,Free methionine-R-sulfoxide reductase,93.464,459,7,459.0,1.0
+group_267,,hypothetical protein,93.473,858,12,858.0,1.0
+bcrA,bcrA,Bacitracin transport ATP-binding protein BcrA,93.475,705,5,705.0,1.0
+dnaX,dnaX,DNA polymerase III subunit tau,93.477,1809,28,1809.0,1.0
+cshB,cshB,DEAD-box ATP-dependent RNA helicase CshB,93.477,1395,19,1395.0,1.0
+pepN,pepN,Aminopeptidase N,93.478,2564,21,2535.0,1.011
+group_581,,hypothetical protein,93.481,955,15,951.0,1.004
+yvqK,yvqK,Corrinoid adenosyltransferase,93.482,537,4,537.0,1.0
+ecfT_2,ecfT_2,Energy-coupling factor transporter transmembrane protein EcfT,93.484,798,12,798.0,1.0
+tcyL,tcyL,L-cystine transport system permease protein TcyL,93.488,645,9,645.0,1.0
+group_778,,hypothetical protein,93.496,942,36,927.0,1.016
+group_405,,hypothetical protein,93.502,1185,10,1185.0,1.0
+yclM,yclM,Aspartokinase 3,93.506,1371,11,1356.0,1.011
+galM,galM,Aldose 1-epimerase,93.509,986,15,987.0,0.999
+group_114,,hypothetical protein,93.509,570,12,570.0,1.0
+group_617,,Oleate hydratase,93.511,1821,14,1773.0,1.027
+plsX,plsX,Phosphate acyltransferase,93.513,1002,12,1002.0,1.0
+ctpA,ctpA,Carboxy-terminal processing protease CtpA,93.513,1449,3,1449.0,1.0
+gla,gla,Glycerol facilitator-aquaporin gla,93.519,756,10,756.0,1.0
+group_681,,hypothetical protein,93.524,525,3,525.0,1.0
+group_305,,hypothetical protein,93.542,1533,13,1533.0,1.0
+uvrA_2,uvrA_2,UvrABC system protein A,93.548,2862,34,2862.0,1.0
+rhaS_3,rhaS_3,HTH-type transcriptional activator RhaS,93.548,930,15,930.0,1.0
+group_19,,hypothetical protein,93.548,186,7,186.0,1.0
+group_386,,hypothetical protein,93.548,837,11,825.0,1.015
+group_203,,hypothetical protein,93.557,714,6,714.0,1.0
+gmuE,gmuE,Putative fructokinase,93.559,885,12,885.0,1.0
+thiQ,thiQ,Thiamine import ATP-binding protein ThiQ,93.578,763,7,765.0,0.997
+group_64,,hypothetical protein,93.582,967,12,966.0,1.001
+group_380,,putative ABC transporter ATP-binding protein,93.599,1734,41,1734.0,1.0
+ribU,ribU,Riboflavin transporter RibU,93.603,594,6,594.0,1.0
+qmcA,qmcA,Protein QmcA,93.607,876,12,876.0,1.0
+xpt,xpt,Xanthine phosphoribosyltransferase,93.61,582,12,579.0,1.005
+ppc,ppc,Phosphoenolpyruvate carboxylase,93.611,2739,7,2739.0,1.0
+argS,argS,Arginine--tRNA ligase,93.62,1686,12,1677.0,1.005
+kup_1,kup_1,Low affinity potassium transport system protein Kup,93.644,1998,19,1998.0,1.0
+yheH,yheH,putative multidrug resistance ABC transporter ATP-binding/permease protein YheH,93.645,1794,26,1794.0,1.0
+aes,;aes,hypothetical protein;Acetyl esterase,93.66,899,16,900.0,0.999
+group_752,,hypothetical protein,93.663,789,13,789.0,1.0
+group_590,,hypothetical protein,93.664,363,3,363.0,1.0
+group_212,,hypothetical protein,93.67,1722,7,1722.0,1.0
+group_776,,hypothetical protein,93.672,1127,14,1122.0,1.004
+group_258,,Beta-glucosidase BoGH3B;hypothetical protein;Beta-xylosidase,93.674,2229,5,2229.0,1.0
+cls_2,cls_2,Cardiolipin synthase,93.678,1392,26,1392.0,1.0
+group_392,,hypothetical protein,93.682,1377,12,1377.0,1.0
+rarA_1,rarA_1,Replication-associated recombination protein A,93.687,1300,15,1299.0,1.001
+group_611,,hypothetical protein,93.697,825,7,825.0,1.0
+group_419,,hypothetical protein,93.698,841,2,840.0,1.001
+udk,udk,Uridine kinase,93.701,635,13,636.0,0.998
+kefC,kefC,Glutathione-regulated potassium-efflux system protein KefC,93.702,1826,15,1827.0,0.999
+group_69,,hypothetical protein,93.708,890,12,891.0,0.999
+nadE,nadE,NH(3)-dependent NAD(+) synthetase,93.714,859,12,858.0,1.001
+group_553,,hypothetical protein,93.728,3061,30,3060.0,1.0
+group_584,,hypothetical protein,93.743,927,7,927.0,1.0
+dapX,dapX,putative N-acetyl-LL-diaminopimelate aminotransferase,93.75,1184,23,1185.0,0.999
+group_601,,hypothetical protein,93.75,861,8,861.0,1.0
+licT_5,licT_5,Transcription antiterminator LicT,93.75,864,3,864.0,1.0
+rdgB,rdgB,dITP/XTP pyrophosphatase,93.75,624,12,624.0,1.0
+mfd,mfd,Transcription-repair-coupling factor,93.75,3514,36,3498.0,1.005
+group_770,,hypothetical protein,93.766,786,41,786.0,1.0
+cysS,cysS,Cysteine--tRNA ligase,93.772,1413,25,1413.0,1.0
+group_255,,Putative TrmH family tRNA/rRNA methyltransferase,93.783,756,13,756.0,1.0
+group_99,,Potassium channel,93.793,684,10,684.0,1.0
+group_79,,Aldo-keto reductase/MSMEI_2346,93.796,822,14,822.0,1.0
+dnaJ,dnaJ,Chaperone protein DnaJ,93.83,1167,15,1167.0,1.0
+group_87,,hypothetical protein,93.832,762,11,762.0,1.0
+cobB,cobB,NAD-dependent protein deacetylase,93.838,714,12,714.0,1.0
+cfa,;cfa,hypothetical protein;Cyclopropane-fatty-acyl-phospholipid synthase,93.838,1071,7,1071.0,1.0
+ecsA,ecsA,ABC-type transporter ATP-binding protein EcsA,93.842,747,18,747.0,1.0
+galK_2,galK_2,Galactokinase,93.846,1174,18,1170.0,1.003
+potH,potH,Putrescine transport system permease protein PotH,93.85,813,13,813.0,1.0
+ywlC,ywlC,Threonylcarbamoyl-AMP synthase,93.857,997,12,993.0,1.004
+group_512,,hypothetical protein,93.86,342,3,342.0,1.0
+kup_2,kup_2,Low affinity potassium transport system protein Kup,93.86,2052,19,2052.0,1.0
+mnmE,mnmE,tRNA modification GTPase MnmE,93.867,1392,12,1386.0,1.004
+rimM,rimM,Ribosome maturation factor RimM,93.87,522,12,522.0,1.0
+group_559,,hypothetical protein,93.876,1143,4,1143.0,1.0
+group_636,,hypothetical protein,93.889,180,3,180.0,1.0
+group_648,,hypothetical protein,93.891,933,26,933.0,1.0
+pepT_3,pepT_3,Peptidase T,93.897,1278,13,1278.0,1.0
+steT,steT,Serine/threonine exchanger SteT,93.898,1311,14,1311.0,1.0
+uvrB_2,uvrB_2,UvrABC system protein B,93.899,2016,12,2016.0,1.0
+trmD,trmD,tRNA (guanine-N(1)-)-methyltransferase,93.914,723,12,723.0,1.0
+tmk,tmk,Thymidylate kinase,93.925,642,13,642.0,1.0
+yeaE,yeaE,Methylglyoxal reductase YeaE,93.929,840,7,840.0,1.0
+bglK_2,bglK_2,Beta-glucoside kinase,93.929,906,16,906.0,1.0
+murK,murK,N-acetylmuramic acid/N-acetylglucosamine kinase,93.939,924,14,924.0,1.0
+group_596,,Putative 3-methyladenine DNA glycosylase,93.939,627,13,627.0,1.0
+glcU_1,glcU_1,putative glucose uptake protein GlcU,93.939,891,6,891.0,1.0
+prmC,prmC,Release factor glutamine methyltransferase,93.95,843,12,843.0,1.0
+tagA,tagA,N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase,93.951,777,15,777.0,1.0
+rutD,rutD,Putative carbamate hydrolase RutD,93.951,777,7,777.0,1.0
+mutSB,mutSB,Putative endonuclease MutS2,93.959,2367,13,2367.0,1.0
+ywpJ,ywpJ,Phosphatase YwpJ,93.961,861,7,861.0,1.0
+group_561,,hypothetical protein,93.963,762,12,762.0,1.0
+group_782,,Bis(5'-nucleosyl)-tetraphosphatase symmetrical,93.97,597,12,597.0,1.0
+eno_2~~~eno_3,eno_2;eno_3,Enolase,93.972,1128,21,1128.0,1.0
+group_58,,hypothetical protein,93.975,1029,15,1029.0,1.0
+rqcP2,rqcP2,Ribosome-associated protein quality control protein P2,93.985,798,10,798.0,1.0
+uup_3,uup_3,ATP-binding protein Uup,93.991,1764,6,1764.0,1.0
+proS,proS,Proline--tRNA ligase,93.993,1706,12,1698.0,1.005
+ldh_1,ldh_1,L-lactate dehydrogenase,94.002,927,22,927.0,1.0
+polC_1,polC_1,DNA polymerase III PolC-type,94.022,4331,17,4299.0,1.007
+fumC,fumC,Fumarate hydratase class II,94.03,1407,12,1407.0,1.0
+spoIIIE,spoIIIE,DNA translocase SpoIIIE,94.033,2430,12,2424.0,1.002
+divIB,divIB,Cell division protein DivIB,94.035,855,7,855.0,1.0
+rbgA,rbgA,Ribosome biogenesis GTPase A,94.048,845,12,840.0,1.006
+mltF_1,mltF_1,Membrane-bound lytic murein transglycosylase F,94.055,1497,10,1497.0,1.0
+group_576,,hypothetical protein,94.058,690,12,690.0,1.0
+bglH_1,bglH_1,Aryl-phospho-beta-D-glucosidase BglH,94.058,1380,15,1380.0,1.0
+group_574,,hypothetical protein,94.068,708,5,708.0,1.0
+pyrF,pyrF,Orotidine 5'-phosphate decarboxylase,94.068,708,7,708.0,1.0
+group_812,,hypothetical protein,94.071,624,22,624.0,1.0
+rsgA,rsgA,Small ribosomal subunit biogenesis GTPase RsgA,94.072,894,14,894.0,1.0
+fmt,fmt,Methionyl-tRNA formyltransferase,94.074,945,12,945.0,1.0
+spsB_2,spsB_2,Signal peptidase IB,94.081,642,17,642.0,1.0
+xseA,xseA,Exodeoxyribonuclease 7 large subunit,94.092,1371,18,1371.0,1.0
+prfB,prfB,Peptide chain release factor 2,94.094,1004,21,999.0,1.005
+group_568,,hypothetical protein,94.095,1050,7,1050.0,1.0
+ccpA_3,ccpA_3,Catabolite control protein A,94.1,983,2,984.0,0.999
+group_627,,hypothetical protein,94.11,747,3,747.0,1.0
+bsh,bsh,Conjugated bile acid hydrolase,94.111,951,3,951.0,1.0
+iscS_1,iscS_1,Cysteine desulfurase IscS,94.113,1155,20,1155.0,1.0
+group_780,,hypothetical protein,94.118,287,20,456.0,0.629
+group_35,,Putative multidrug export ATP-binding/permease protein,94.118,1598,55,1596.0,1.001
+pepE_1,pepE_1,Aminopeptidase E,94.127,1329,44,1311.0,1.014
+group_257,,hypothetical protein,94.131,443,1,441.0,1.005
+murI,murI,Glutamate racemase,94.132,801,12,801.0,1.0
+dusB,dusB,tRNA-dihydrouridine synthase B,94.141,1007,12,1008.0,0.999
+xerC_3,xerC_3,Tyrosine recombinase XerC,94.156,924,12,924.0,1.0
+group_794,,hypothetical protein,94.156,463,9,462.0,1.002
+group_119,,hypothetical protein,94.162,531,3,531.0,1.0
+group_674,,hypothetical protein,94.169,1269,22,1269.0,1.0
+thiI,thiI,putative tRNA sulfurtransferase,94.171,1220,13,1218.0,1.002
+group_159,,hypothetical protein,94.172,326,4,327.0,0.997
+yhaM,yhaM,3'-5' exoribonuclease YhaM,94.172,978,12,978.0,1.0
+group_583,,hypothetical protein,94.172,1527,15,1527.0,1.0
+group_123,,hypothetical protein,94.186,516,5,516.0,1.0
+group_753,,hypothetical protein,94.187,843,15,843.0,1.0
+rbsD,rbsD,D-ribose pyranase,94.192,401,8,396.0,1.013
+group_108,,hypothetical protein,94.196,603,8,603.0,1.0
+group_70,,hypothetical protein,94.198,879,12,879.0,1.0
+group_803,,hypothetical protein,94.199,1017,17,1017.0,1.0
+group_391,,hypothetical protein,94.203,1380,13,1380.0,1.0
+msrB,msrB,Peptide methionine sulfoxide reductase MsrB,94.213,432,13,432.0,1.0
+group_535,,hypothetical protein,94.218,294,3,294.0,1.0
+group_449,,hypothetical protein,94.218,588,4,588.0,1.0
+pacL,pacL,Calcium-transporting ATPase,94.218,2802,61,2802.0,1.0
+urdA,urdA,Urocanate reductase,94.219,1858,27,1851.0,1.004
+group_784,,hypothetical protein,94.22,519,12,519.0,1.0
+group_740,,hypothetical protein,94.222,1125,3,1125.0,1.0
+mutM,mutM,Formamidopyrimidine-DNA glycosylase,94.224,835,12,831.0,1.005
+murT,murT,Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT,94.235,1354,13,1353.0,1.001
+glpE,glpE,Thiosulfate sulfurtransferase GlpE,94.236,399,12,399.0,1.0
+czcD,czcD,Cadmium cobalt and zinc/H(+)-K(+) antiporter,94.237,885,12,885.0,1.0
+group_430,,hypothetical protein,94.244,747,3,747.0,1.0
+manZ_6,manZ_6,PTS system mannose-specific EIID component,94.245,834,11,834.0,1.0
+obg,obg,GTPase Obg,94.25,1307,12,1287.0,1.016
+alr,alr,Alanine racemase,94.253,1133,12,1131.0,1.002
+group_100,,Phosphorylated carbohydrates phosphatase,94.273,681,12,681.0,1.0
+group_517,,hypothetical protein,94.277,334,11,333.0,1.003
+iolG,iolG,Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase,94.283,997,7,996.0,1.001
+phoR~~~sasA_2,;phoR;sasA_2,hypothetical protein;Alkaline phosphatase synthesis sensor protein PhoR;Adaptive-response sensory-kinase SasA,94.284,1452,12,1452.0,1.0
+group_736,,hypothetical protein,94.286,945,3,945.0,1.0
+ecfA1,ecfA1,Energy-coupling factor transporter ATP-binding protein EcfA1,94.286,849,35,849.0,1.0
+bglH_2~~~bglA_1~~~bglH_1,bglH_2;bglA_1;bglH_1,Aryl-phospho-beta-D-glucosidase BglH;6-phospho-beta-glucosidase BglA,94.286,1494,64,1494.0,1.0
+pncB2,pncB2,Nicotinate phosphoribosyltransferase pncB2,94.297,1473,12,1473.0,1.0
+pepQ,pepQ,Xaa-Pro dipeptidase,94.304,1119,15,1107.0,1.011
+prfC,prfC,Peptide chain release factor 3,94.328,1574,13,1569.0,1.003
+glyA_1~~~glyA,glyA_1;glyA,Serine hydroxymethyltransferase,94.337,1236,12,1236.0,1.0
+group_793,,hypothetical protein,94.353,549,12,549.0,1.0
+group_579,,hypothetical protein,94.358,1347,7,1347.0,1.0
+group_754,,hypothetical protein,94.362,1011,3,1011.0,1.0
+group_608,,hypothetical protein,94.364,550,8,555.0,0.991
+group_151,,hypothetical protein,94.366,245,9,375.0,0.653
+clpE_2,clpE_2,ATP-dependent Clp protease ATP-binding subunit ClpE,94.375,2189,60,2169.0,1.009
+xerD,xerD,Tyrosine recombinase XerD,94.377,907,24,909.0,0.998
+group_788,,hypothetical protein,94.378,498,7,498.0,1.0
+hpt_1,hpt_1,Hypoxanthine-guanine phosphoribosyltransferase,94.386,570,16,570.0,1.0
+tmcAL,tmcAL,tRNA(Met) cytidine acetate ligase,94.387,1167,12,1158.0,1.008
+dagK,dagK,Diacylglycerol kinase,94.389,924,12,909.0,1.017
+group_607,,hypothetical protein,94.398,839,7,840.0,0.999
+group_575,,hypothetical protein,94.404,411,12,411.0,1.0
+group_73,,DegV domain-containing protein,94.406,859,12,858.0,1.001
+scpB,scpB,Segregation and condensation protein B,94.416,591,16,591.0,1.0
+group_224,,hypothetical protein,94.428,1364,12,1365.0,0.999
+group_459,,hypothetical protein,94.434,521,3,522.0,0.998
+group_260,,hypothetical protein,94.439,938,12,936.0,1.002
+group_821,,hypothetical protein,94.444,540,7,540.0,1.0
+uppS,uppS,Ditranspolycis-undecaprenyl-diphosphate synthase ((2E6E)-farnesyl-diphosphate specific),94.444,720,12,720.0,1.0
+aspS,aspS,Aspartate--tRNA ligase,94.444,1854,13,1854.0,1.0
+rclA,rclA,putative pyridine nucleotide-disulfide oxidoreductase RclA,94.444,1338,9,1332.0,1.005
+pbp2a,pbp2a,Penicillin-binding protein 2a,94.461,2058,12,2058.0,1.0
+yumC,yumC,Ferredoxin--NADP reductase 2,94.462,957,21,957.0,1.0
+group_423,,putative oxidoreductase,94.465,795,12,795.0,1.0
+ligA,ligA,DNA ligase,94.469,2007,12,2007.0,1.0
+pyrDB,pyrDB,Dihydroorotate dehydrogenase B (NAD(+)) catalytic subunit,94.481,924,8,924.0,1.0
+hisS,hisS,Histidine--tRNA ligase,94.483,1287,12,1287.0,1.0
+potC,potC,Spermidine/putrescine transport system permease protein PotC,94.486,798,12,798.0,1.0
+ltaS1,ltaS1,Lipoteichoic acid synthase 1,94.49,2069,29,2070.0,1.0
+yabA,yabA,Replication initiation control protein YabA,94.493,345,12,345.0,1.0
+group_154,,hypothetical protein,94.493,345,3,345.0,1.0
+tagK_2,tagK_2,D-tagatose-1-phosphate kinase,94.498,927,3,927.0,1.0
+group_773,,L-2-hydroxyisocaproate dehydrogenase,94.499,909,8,909.0,1.0
+pbuG_1,pbuG_1,Guanine/hypoxanthine permease PbuG,94.504,1310,31,1311.0,0.999
+celB,celB,PTS system cellobiose-specific EIIC component,94.52,1332,28,1332.0,1.0
+plsY_1,plsY_1,Glycerol-3-phosphate acyltransferase,94.525,621,15,621.0,1.0
+pgl,pgl,6-phosphogluconolactonase,94.526,1023,12,1023.0,1.0
+ypuA,ypuA,putative protein YpuA,94.53,969,12,969.0,1.0
+ftsA,ftsA,Cell division protein FtsA,94.53,1375,14,1371.0,1.003
+yvdD,yvdD,LOG family protein YvdD,94.533,567,3,567.0,1.0
+rsfS,rsfS,Ribosomal silencing factor RsfS,94.54,348,12,348.0,1.0
+ezrA,ezrA,Septation ring formation regulator EzrA,94.548,1724,17,1731.0,0.996
+tsaE,tsaE,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE,94.549,477,12,477.0,1.0
+clpX,clpX,ATP-dependent Clp protease ATP-binding subunit ClpX,94.55,1266,17,1266.0,1.0
+lexA,lexA,LexA repressor,94.551,624,9,624.0,1.0
+rsmF,rsmF,Ribosomal RNA small subunit methyltransferase F,94.552,1395,21,1395.0,1.0
+group_217,,hypothetical protein,94.554,661,3,660.0,1.002
+rluD_2,rluD_2,Ribosomal large subunit pseudouridine synthase D,94.556,900,24,900.0,1.0
+group_727,,(R)-S-adenosyl-L-methionine hydrolase,94.563,846,3,846.0,1.0
+group_96,,hypothetical protein,94.564,699,7,699.0,1.0
+pepV_1,pepV_1,Beta-Ala-Xaa dipeptidase,94.564,1407,12,1398.0,1.006
+radA,radA,DNA repair protein RadA,94.565,1380,12,1380.0,1.0
+yheI_1,yheI_1,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI,94.571,1590,66,1584.0,1.004
+topA,topA,DNA topoisomerase 1,94.573,2082,12,2082.0,1.0
+group_818,,hypothetical protein,94.574,516,7,516.0,1.0
+tarD,tarD,Glycerol-3-phosphate cytidylyltransferase,94.574,387,12,387.0,1.0
+rpsN2,rpsN2,Small ribosomal subunit protein uS14A,94.574,258,14,258.0,1.0
+group_800,,hypothetical protein,94.574,430,7,426.0,1.009
+crtE,crtE,Geranylgeranyl pyrophosphate synthase,94.579,867,12,867.0,1.0
+hprK,hprK,HPr kinase/phosphorylase,94.583,960,12,960.0,1.0
+nagR_1,nagR_1,HTH-type transcriptional repressor NagR,94.587,702,12,702.0,1.0
+yqeY,yqeY,putative protein YqeY,94.595,444,15,444.0,1.0
+ykfB,ykfB,L-Ala-D/L-Glu epimerase,94.602,1056,3,1056.0,1.0
+group_106,,hypothetical protein,94.608,612,12,612.0,1.0
+group_61,,hypothetical protein,94.611,1002,12,1002.0,1.0
+bglA_2,bglA_2,Aryl-phospho-beta-D-glucosidase BglA,94.617,1449,78,1449.0,1.0
+metQ,metQ,putative D-methionine-binding lipoprotein MetQ,94.62,855,17,855.0,1.0
+group_198,,hypothetical protein,94.621,1041,3,1041.0,1.0
+lgt,lgt,Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase,94.624,837,13,837.0,1.0
+group_614,,hypothetical protein,94.628,819,7,819.0,1.0
+group_624,,hypothetical protein,94.633,708,12,708.0,1.0
+group_612,,hypothetical protein,94.647,822,10,822.0,1.0
+group_145,,hypothetical protein,94.647,411,6,411.0,1.0
+group_241,,hypothetical protein,94.649,1383,16,1383.0,1.0
+pbpB,pbpB,Penicillin-binding protein 2B,94.654,2151,13,2151.0,1.0
+group_182,,hypothetical protein,94.659,1217,12,1218.0,0.999
+bmr3_1,bmr3_1,Multidrug resistance protein 3,94.659,1479,31,1479.0,1.0
+tagO,tagO,putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase,94.663,1143,12,1143.0,1.0
+glnH_1,glnH_1,ABC transporter glutamine-binding protein GlnH,94.667,825,21,825.0,1.0
+group_248,,hypothetical protein,94.667,225,3,225.0,1.0
+pepO_2,pepO_2,Neutral endopeptidase,94.667,1965,31,1950.0,1.008
+prkC,prkC,Serine/threonine-protein kinase PrkC,94.671,1989,20,1989.0,1.0
+cnbA,cnbA,Chloronitrobenzene nitroreductase,94.673,657,17,657.0,1.0
+group_537,,hypothetical protein,94.681,282,8,282.0,1.0
+ung,ung,Uracil-DNA glycosylase,94.684,696,12,696.0,1.0
+pepE_3,pepE_3,Aminopeptidase E,94.685,1317,44,1317.0,1.0
+artM,artM,Arginine transport ATP-binding protein ArtM,94.687,734,101,735.0,0.999
+nusA,nusA,Transcription termination/antitermination protein NusA,94.69,1224,12,1221.0,1.002
+group_817,,Putative gluconeogenesis factor,94.701,1038,12,1038.0,1.0
+gpsA,gpsA,Glycerol-3-phosphate dehydrogenase [NAD(P)+],94.706,1020,12,1020.0,1.0
+murA1,murA1,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,94.708,1266,12,1266.0,1.0
+ettA,ettA,Energy-dependent translational throttle protein EttA,94.72,1952,24,1932.0,1.01
+tagK_1,tagK_1,D-tagatose-1-phosphate kinase,94.73,816,3,816.0,1.0
+clpC,clpC,Negative regulator of genetic competence ClpC/MecB,94.735,2471,63,2469.0,1.001
+nadD,nadD,Nicotinate-nucleotide adenylyltransferase,94.737,627,12,627.0,1.0
+group_107,,Gamma-resorcylate decarboxylase,94.745,609,5,609.0,1.0
+mtgA_1,mtgA_1,Biosynthetic peptidoglycan transglycosylase,94.746,2379,14,2376.0,1.001
+mbl,mbl,Cell shape-determining protein Mbl,94.747,992,24,990.0,1.002
+yfdH,yfdH,Prophage bactoprenol glucosyl transferase,94.748,937,12,933.0,1.004
+gpsB_1,gpsB_1,Cell cycle protein GpsB,94.749,438,12,438.0,1.0
+glmS,glmS,Glutamine--fructose-6-phosphate aminotransferase [isomerizing],94.757,1816,12,1812.0,1.002
+group_560,,hypothetical protein,94.759,477,12,477.0,1.0
+group_189,,hypothetical protein,94.762,210,3,210.0,1.0
+group_620,,hypothetical protein,94.764,783,3,783.0,1.0
+group_188,,hypothetical protein,94.764,2712,18,2712.0,1.0
+ribT,ribT,Protein RibT,94.766,363,12,363.0,1.0
+mnmA,mnmA,tRNA-specific 2-thiouridylase MnmA,94.77,1132,12,1128.0,1.004
+dnaG,dnaG,DNA primase,94.774,1818,21,1818.0,1.0
+group_751,,hypothetical protein,94.775,555,12,555.0,1.0
+group_221,,hypothetical protein,94.778,900,7,900.0,1.0
+potD,potD,Spermidine/putrescine-binding periplasmic protein,94.786,1074,12,1074.0,1.0
+gmuR_2,gmuR_2,HTH-type transcriptional regulator GmuR,94.787,733,12,729.0,1.005
+trmB,trmB,tRNA (guanine-N(7)-)-methyltransferase,94.793,660,12,654.0,1.009
+plsC,plsC,1-acyl-sn-glycerol-3-phosphate acyltransferase,94.797,618,12,615.0,1.005
+whiA,whiA,putative cell division protein WhiA,94.798,942,12,942.0,1.0
+group_605,,hypothetical protein,94.808,1329,7,1329.0,1.0
+coaD,coaD,Phosphopantetheine adenylyltransferase,94.81,501,12,501.0,1.0
+murB,murB,UDP-N-acetylenolpyruvoylglucosamine reductase,94.812,906,12,906.0,1.0
+prpC,prpC,Protein phosphatase PrpC,94.821,753,12,753.0,1.0
+pstS1,pstS1,Phosphate-binding protein PstS 1,94.828,870,16,870.0,1.0
+purB,purB,Adenylosuccinate lyase,94.83,1297,12,1296.0,1.001
+glcR_1,glcR_1,HTH-type transcriptional repressor GlcR,94.845,776,7,780.0,0.995
+potA,potA,Spermidine/putrescine import ATP-binding protein PotA,94.847,1104,70,1104.0,1.0
+ftsW,ftsW,putative peptidoglycan glycosyltransferase FtsW,94.852,1199,12,1185.0,1.012
+cvfB,cvfB,Conserved virulence factor B,94.855,894,12,894.0,1.0
+hslV,hslV,ATP-dependent protease subunit HslV,94.857,525,12,525.0,1.0
+group_741,,hypothetical protein,94.858,564,12,564.0,1.0
+group_598,,hypothetical protein,94.859,603,6,603.0,1.0
+yqeH,yqeH,putative protein YqeH,94.865,1110,17,1110.0,1.0
+group_48,,hypothetical protein,94.872,312,3,312.0,1.0
+group_3,,hypothetical protein,94.872,234,3,234.0,1.0
+yutF,yutF,5'-nucleotidase YutF,94.891,783,12,783.0,1.0
+uup_4,uup_4,ATP-binding protein Uup,94.901,1569,24,1569.0,1.0
+group_792,,hypothetical protein,94.902,765,5,765.0,1.0
+ruvB,ruvB,Holliday junction branch migration complex subunit RuvB,94.902,1020,12,1020.0,1.0
+group_485,,hypothetical protein,94.907,432,3,432.0,1.0
+rhaS_1,rhaS_1,HTH-type transcriptional activator RhaS,94.928,828,2,828.0,1.0
+dut,dut,Deoxyuridine 5'-triphosphate nucleotidohydrolase,94.928,552,12,552.0,1.0
+dnaA,dnaA,Chromosomal replication initiator protein DnaA,94.945,1365,12,1365.0,1.0
+mgtB_2,mgtB_2,Magnesium-transporting ATPase P-type 1,94.949,990,18,990.0,1.0
+group_396,,putative transporter,94.974,1353,9,1353.0,1.0
+murC,murC,UDP-N-acetylmuramate--L-alanine ligase,94.977,1319,12,1314.0,1.004
+lemA,lemA,Protein LemA,94.982,558,12,558.0,1.0
+sasA_2,sasA_2,Adaptive-response sensory-kinase SasA,94.987,1536,28,1536.0,1.0
+grpE,grpE,Protein GrpE,94.991,579,12,579.0,1.0
+group_264,,hypothetical protein,94.994,879,10,879.0,1.0
+ackA_1,ackA_1,Acetate kinase,94.996,1209,27,1200.0,1.008
+murJ,murJ,Lipid II flippase MurJ,94.997,1659,12,1659.0,1.0
+group_384,,hypothetical protein,94.997,1539,9,1539.0,1.0
+lacF_2,lacF_2,PTS system lactose-specific EIIA component,95.0,360,16,360.0,1.0
+sigA,sigA,RNA polymerase sigma factor SigA,95.009,1122,12,1122.0,1.0
+group_806,,hypothetical protein,95.013,381,7,381.0,1.0
+metP,metP,Methionine import system permease protein MetP,95.014,704,12,702.0,1.003
+group_781,,hypothetical protein,95.016,321,3,321.0,1.0
+group_232,,hypothetical protein,95.019,261,3,261.0,1.0
+glmU,glmU,Bifunctional protein GlmU,95.022,1386,12,1386.0,1.0
+group_591,,hypothetical protein,95.032,934,12,924.0,1.011
+pgsA,pgsA,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,95.035,566,14,564.0,1.004
+group_464,,hypothetical protein,95.04,504,12,504.0,1.0
+mnmG,mnmG,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG,95.042,1896,12,1896.0,1.0
+rnr,rnr,Ribonuclease R,95.043,2340,12,2340.0,1.0
+group_760,,Sulfurtransferase,95.05,303,3,303.0,1.0
+gpmA_4,gpmA_4,23-bisphosphoglycerate-dependent phosphoglycerate mutase,95.072,690,15,690.0,1.0
+yvcJ,yvcJ,Nucleotide-binding protein YvcJ,95.091,878,15,876.0,1.002
+group_693,,hypothetical protein,95.092,489,3,489.0,1.0
+xpkA,xpkA,Xylulose-5-phosphate phosphoketolase,95.094,2413,16,2406.0,1.003
+pcrA,pcrA,ATP-dependent DNA helicase PcrA,95.098,2288,20,2244.0,1.02
+group_385,,hypothetical protein,95.102,1368,7,1368.0,1.0
+purR,purR,Purine biosynthesis transcriptional repressor PurR,95.102,843,12,837.0,1.007
+yhfK,yhfK,putative sugar epimerase YhfK,95.103,633,7,633.0,1.0
+group_197,,hypothetical protein,95.132,1931,26,1932.0,0.999
+group_382,,putative protein,95.135,1671,12,1665.0,1.004
+yqfL,yqfL,Putative pyruvate phosphate dikinase regulatory protein,95.136,843,12,843.0,1.0
+slmA,slmA,Nucleoid occlusion factor SlmA,95.152,660,13,660.0,1.0
+corC,corC,Magnesium and cobalt efflux protein CorC,95.156,867,12,867.0,1.0
+group_717,,hypothetical protein,95.157,351,3,351.0,1.0
+sph,sph,Oleate hydratase,95.158,1790,14,1776.0,1.008
+group_563,,hypothetical protein,95.161,186,6,186.0,1.0
+group_383,,hypothetical protein,95.166,996,11,993.0,1.003
+folD,folD,Bifunctional protein FolD protein,95.171,849,9,849.0,1.0
+bioH,bioH,Pimeloyl-[acyl-carrier protein] methyl ester esterase,95.173,666,12,663.0,1.005
+htpX_2,htpX_2,Protease HtpX,95.174,891,14,891.0,1.0
+smpB,smpB,SsrA-binding protein,95.175,462,12,456.0,1.013
+group_810,,Putative transport protein,95.178,1182,12,1182.0,1.0
+valS,valS,Valine--tRNA ligase,95.189,2649,14,2640.0,1.003
+group_122,,hypothetical protein,95.192,520,3,519.0,1.002
+ppaC,ppaC,putative manganese-dependent inorganic pyrophosphatase,95.192,941,12,936.0,1.005
+metK,metK,S-adenosylmethionine synthase,95.199,1208,12,1209.0,0.999
+relA,relA,GTP pyrophosphokinase,95.206,2269,12,2253.0,1.007
+zosA,zosA,Zinc-transporting ATPase,95.208,1878,28,1878.0,1.0
+mraY,mraY,Phospho-N-acetylmuramoyl-pentapeptide-transferase,95.208,960,14,960.0,1.0
+cydB,cydB,Cytochrome bd-I ubiquinol oxidase subunit 2,95.21,1023,10,1023.0,1.0
+group_761,,hypothetical protein,95.211,529,12,522.0,1.013
+strL,;strL,hypothetical protein;dTDP-4-dehydrorhamnose reductase,95.213,841,6,1029.0,0.817
+group_775,,hypothetical protein,95.215,627,12,627.0,1.0
+strA,strA,Sortase A,95.217,690,12,690.0,1.0
+ypdF,ypdF,Aminopeptidase YpdF,95.225,1110,12,1110.0,1.0
+nhaK,;nhaK,hypothetical protein;Sodium potassium lithium and rubidium/H(+) antiporter,95.229,1572,21,1572.0,1.0
+ycaM_3,ycaM_3,Inner membrane transporter YcaM,95.238,1449,17,1449.0,1.0
+galT,galT,Galactose-1-phosphate uridylyltransferase,95.238,1470,12,1470.0,1.0
+group_785,,hypothetical protein,95.238,231,12,231.0,1.0
+guaB,guaB,Inosine-5'-monophosphate dehydrogenase,95.238,1155,12,1155.0,1.0
+dedA,dedA,DedA family protein,95.238,651,12,651.0,1.0
+group_31,,hypothetical protein,95.238,1812,34,1812.0,1.0
+rnj1,rnj1,Ribonuclease J 1,95.238,1684,17,1680.0,1.002
+rodA,rodA,Peptidoglycan glycosyltransferase RodA,95.238,1205,12,1197.0,1.007
+licC_1,licC_1,Lichenan permease IIC component,95.255,1433,13,1431.0,1.001
+pstB3_1,pstB3_1,Phosphate import ATP-binding protein PstB 3,95.256,801,39,801.0,1.0
+aimA,aimA,Glutamate/serine transporter AimA,95.256,1602,12,1602.0,1.0
+glnQ_2,glnQ_2,Glutamine transport ATP-binding protein GlnQ,95.257,759,103,759.0,1.0
+pyrAA_1,pyrAA_1,Carbamoyl phosphate synthase pyrimidine-specific small chain,95.261,1068,12,1056.0,1.011
+group_492,,hypothetical protein,95.262,401,2,402.0,0.998
+pepT_1~~~pepT_2,pepT_1;pepT_2,Peptidase T,95.272,1248,24,1248.0,1.0
+nusB,nusB,Transcription antitermination protein NusB,95.274,402,12,402.0,1.0
+alx,alx,Putative membrane-bound redox modulator Alx,95.275,783,13,783.0,1.0
+group_599,,hypothetical protein,95.277,1355,7,1356.0,0.999
+acpS,acpS,Holo-[acyl-carrier-protein] synthase,95.278,360,12,360.0,1.0
+group_50,,hypothetical protein,95.28,4300,70,8454.0,0.509
+pheT_2,pheT_2,Phenylalanine--tRNA ligase beta subunit,95.28,2433,19,2415.0,1.007
+leuS,leuS,Leucine--tRNA ligase,95.281,2416,12,2415.0,1.0
+group_735,,hypothetical protein,95.283,3701,145,6486.0,0.571
+group_312,,hypothetical protein,95.287,1167,26,1149.0,1.016
+cdaA,cdaA,Cyclic di-AMP synthase CdaA,95.289,849,12,849.0,1.0
+epsH,epsH,Putative glycosyltransferase EpsH,95.307,831,12,831.0,1.0
+def_1,def_1,Peptide deformylase,95.315,556,12,555.0,1.002
+gmuR_1,gmuR_1,HTH-type transcriptional regulator GmuR,95.317,726,4,726.0,1.0
+ytpP,ytpP,Thioredoxin-like protein YtpP,95.327,321,12,321.0,1.0
+pucK,pucK,Uric acid permease PucK,95.335,1329,12,1329.0,1.0
+group_811,,hypothetical protein,95.341,279,3,279.0,1.0
+rimI_1,rimI_1,[Ribosomal protein bS18]-alanine N-acetyltransferase,95.341,558,12,558.0,1.0
+group_57,,Phosphomevalonate kinase,95.345,1074,12,1074.0,1.0
+gatA_2,gatA_2,Glutamyl-tRNA(Gln) amidotransferase subunit A,95.347,1448,12,1440.0,1.006
+group_555,,Putative universal stress protein,95.354,495,20,495.0,1.0
+resD,resD,Transcriptional regulatory protein ResD,95.359,711,22,711.0,1.0
+group_668,,hypothetical protein,95.385,343,3,345.0,0.994
+glnP,glnP,putative glutamine ABC transporter permease protein GlnP,95.392,651,19,651.0,1.0
+iphP,iphP,Tyrosine-protein phosphatase,95.398,804,12,804.0,1.0
+hit,hit,Protein hit,95.402,435,12,435.0,1.0
+appC,appC,Cytochrome bd-II ubiquinol oxidase subunit 1,95.402,1392,12,1392.0,1.0
+cpoA,cpoA,Alpha-galactosylglucosyldiacylglycerol synthase,95.402,1045,12,1044.0,1.001
+prfA,prfA,Peptide chain release factor 1,95.409,1090,26,1089.0,1.001
+group_522,,hypothetical protein,95.413,327,10,327.0,1.0
+group_571,,hypothetical protein,95.417,720,12,720.0,1.0
+group_239,,hypothetical protein,95.421,546,12,546.0,1.0
+yidC,yidC,Membrane protein insertase YidC,95.427,984,12,984.0,1.0
+trpS2,trpS2,Tryptophan--tRNA ligase 2,95.432,1029,12,1029.0,1.0
+licC_3~~~licC_2,licC_3;licC_2,Lichenan permease IIC component,95.434,1314,18,1314.0,1.0
+group_39,,hypothetical protein,95.434,657,6,657.0,1.0
+mtnN,mtnN,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,95.442,702,13,702.0,1.0
+zwf,zwf,Glucose-6-phosphate 1-dehydrogenase,95.445,1457,12,1449.0,1.006
+asnS,asnS,Asparagine--tRNA ligase,95.458,1300,12,1299.0,1.001
+cdaR,cdaR,CdaA regulatory protein CdaR,95.459,969,12,969.0,1.0
+recF,recF,DNA replication and repair protein RecF,95.467,1125,12,1125.0,1.0
+der,der,GTPase Der,95.486,1318,22,1308.0,1.008
+gluP,gluP,Rhomboid protease GluP,95.488,687,12,687.0,1.0
+sorA_4,sorA_4,PTS system sorbose-specific EIIC component,95.489,798,8,798.0,1.0
+group_750,,hypothetical protein,95.5,600,12,600.0,1.0
+pyrAA_2,pyrAA_2,Carbamoyl phosphate synthase pyrimidine-specific small chain,95.5,1089,19,1089.0,1.0
+tadA_2,tadA_2,tRNA-specific adenosine deaminase,95.501,489,12,489.0,1.0
+trxB,trxB,Thioredoxin reductase,95.513,936,12,936.0,1.0
+group_219,,hypothetical protein,95.518,357,3,357.0,1.0
+pth,pth,Peptidyl-tRNA hydrolase,95.52,559,12,558.0,1.002
+gyrA,gyrA,DNA gyrase subunit A GyrA,95.542,2490,25,2490.0,1.0
+yjeM,yjeM,Inner membrane transporter YjeM,95.56,1509,25,1509.0,1.0
+glyS,glyS,Glycine--tRNA ligase beta subunit,95.562,2096,12,2073.0,1.011
+ileS,ileS,isoleucine--tRNA ligase IleS,95.575,2814,15,2802.0,1.004
+group_168,,hypothetical protein,95.578,294,4,294.0,1.0
+group_547,,hypothetical protein,95.582,253,12,249.0,1.016
+group_524,,hypothetical protein,95.597,318,7,318.0,1.0
+tsaD,tsaD,tRNA N6-adenosine threonylcarbamoyltransferase,95.606,1047,12,1047.0,1.0
+mltG,mltG,Endolytic murein transglycosylase,95.616,1095,3,1095.0,1.0
+yugI,yugI,General stress protein 13,95.628,366,3,366.0,1.0
+dnaB_1,dnaB_1,Replicative DNA helicase DnaB,95.633,1383,13,1374.0,1.007
+apt,apt,Adenine phosphoribosyltransferase,95.644,530,12,528.0,1.004
+tyrS,tyrS,Tyrosine--tRNA ligase,95.645,1268,15,1263.0,1.004
+prsA,prsA,Foldase protein PrsA,95.652,897,12,897.0,1.0
+group_445,,hypothetical protein,95.652,621,7,621.0,1.0
+ydgH,;ydgH,hypothetical protein;Putative membrane protein YdgH,95.667,3776,46,3741.0,1.009
+group_147,,hypothetical protein,95.674,393,12,393.0,1.0
+ptcB,ptcB,PTS system galactose-specific EIIB component,95.679,336,8,324.0,1.037
+gnd,gnd,6-phosphogluconate dehydrogenase decarboxylating,95.68,1419,12,1389.0,1.022
+guaA_1,guaA_1,GMP synthase [glutamine-hydrolyzing],95.689,1554,13,1554.0,1.0
+asnB,asnB,Asparagine synthetase [glutamine-hydrolyzing] 1,95.692,1950,12,1950.0,1.0
+group_593,,hypothetical protein,95.699,1395,13,1395.0,1.0
+recA,recA,Protein RecA,95.708,1095,12,1095.0,1.0
+recU,recU,Holliday junction resolvase RecU,95.714,630,12,630.0,1.0
+agaS,agaS,D-galactosamine-6-phosphate deaminase AgaS,95.716,1167,3,1167.0,1.0
+darA,darA,Cyclic di-AMP receptor A,95.719,331,8,327.0,1.012
+group_604,,D-aspartate ligase,95.721,1332,12,1332.0,1.0
+group_424,,hypothetical protein,95.723,795,3,795.0,1.0
+group_284,,putative ABC transporter ATP-binding protein,95.73,1850,33,1851.0,0.999
+group_415,,hypothetical protein,95.735,891,12,891.0,1.0
+group_565,,hypothetical protein,95.737,1079,12,1083.0,0.996
+ffh,ffh,Signal recognition particle protein,95.737,1431,15,1431.0,1.0
+fpaP_2,fpaP_2,Proline iminopeptidase,95.738,915,12,915.0,1.0
+group_438,,hypothetical protein,95.742,681,3,681.0,1.0
+group_791,,hypothetical protein,95.745,282,12,282.0,1.0
+murF,murF,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,95.76,1374,12,1368.0,1.004
+ykuT,ykuT,putative MscS family protein YkuT,95.764,897,9,897.0,1.0
+gmuR_3,gmuR_3,HTH-type transcriptional regulator GmuR,95.778,450,2,450.0,1.0
+ftsZ,ftsZ,Cell division protein FtsZ,95.779,1374,16,1371.0,1.002
+rasP,rasP,Regulator of sigma-W protease RasP,95.784,1270,12,1257.0,1.01
+group_225,,hypothetical protein,95.791,594,16,594.0,1.0
+secA,secA,Protein translocase subunit SecA,95.792,2407,21,2400.0,1.003
+cmk,cmk,Cytidylate kinase,95.796,674,12,666.0,1.012
+lacF_3,lacF_3,PTS system lactose-specific EIIA component,95.798,357,12,357.0,1.0
+pheS,pheS,Phenylalanine--tRNA ligase alpha subunit,95.81,1055,12,1050.0,1.005
+group_158,,hypothetical protein,95.833,336,12,336.0,1.0
+gpsB_2,gpsB_2,Cell cycle adapter protein GpsB,95.833,792,11,792.0,1.0
+tdk,tdk,Thymidine kinase,95.833,604,13,600.0,1.007
+lysS,lysS,Lysine--tRNA ligase,95.847,1541,12,1542.0,0.999
+group_595,,hypothetical protein,95.861,918,15,918.0,1.0
+ribA,ribA,GTP cyclohydrolase-2,95.862,291,15,279.0,1.043
+tsaB,tsaB,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,95.868,753,12,726.0,1.037
+brnQ_1,brnQ_1,Branched-chain amino acid permease BrnQ,95.87,1380,21,1380.0,1.0
+group_728,,hypothetical protein,95.878,558,7,558.0,1.0
+group_651,,hypothetical protein,95.887,924,3,924.0,1.0
+araQ,araQ,Arabinooligosaccharides transport system permease protein AraQ,95.909,831,12,831.0,1.0
+group_251,,hypothetical protein,95.916,759,7,759.0,1.0
+group_569,,hypothetical protein,95.918,147,3,147.0,1.0
+group_434,,hypothetical protein,95.921,711,10,711.0,1.0
+xseB,xseB,Exodeoxyribonuclease 7 small subunit,95.935,246,12,246.0,1.0
+ybhL_2,ybhL_2,Inner membrane protein YbhL,95.938,723,22,714.0,1.013
+yslB,yslB,putative protein YslB,95.939,394,8,396.0,0.995
+group_244,,hypothetical protein,95.948,543,3,543.0,1.0
+glcU_2,glcU_2,Glucose uptake protein GlcU,95.949,867,7,864.0,1.003
+gmuF,gmuF,putative mannose-6-phosphate isomerase GmuF,95.963,971,14,966.0,1.005
+bmr3_2,bmr3_2,Multidrug resistance protein 3,95.978,1442,36,1446.0,0.997
+czrA,czrA,HTH-type transcriptional repressor CzrA,95.988,324,3,324.0,1.0
+group_13,,hypothetical protein,96.0,201,7,201.0,1.0
+glmM,glmM,Phosphoglucosamine mutase,96.018,1356,12,1356.0,1.0
+spx,spx,Global transcriptional regulator Spx,96.02,402,16,402.0,1.0
+agaA_1,agaA_1,N-acetylgalactosamine-6-phosphate deacetylase,96.028,1175,17,1158.0,1.015
+pgcA,pgcA,Phosphoglucomutase,96.058,1725,12,1725.0,1.0
+degV_2,degV_2,Protein DegV,96.059,888,14,888.0,1.0
+lepA_1,lepA_1,Elongation factor 4,96.07,2646,19,2646.0,1.0
+lacR_3,lacR_3,Lactose phosphotransferase system repressor,96.078,765,3,765.0,1.0
+dgoD,dgoD,D-galactonate dehydratase,96.078,1173,5,1173.0,1.0
+gdpP,gdpP,Cyclic-di-AMP phosphodiesterase GdpP,96.087,2043,12,2019.0,1.012
+niaP,niaP,Niacin transporter NiaP,96.107,1246,5,1233.0,1.011
+glnA,glnA,Glutamine synthetase,96.114,1338,12,1338.0,1.0
+group_243,,hypothetical protein,96.119,438,12,438.0,1.0
+rex,rex,Redox-sensing transcriptional repressor Rex,96.124,645,12,645.0,1.0
+group_180,,hypothetical protein,96.124,258,2,258.0,1.0
+mreC,mreC,Cell shape-determining protein MreC,96.127,852,12,852.0,1.0
+galE_1,galE_1,UDP-glucose 4-epimerase,96.129,155,16,186.0,0.833
+group_155,,hypothetical protein,96.131,336,3,336.0,1.0
+pyrR_1,pyrR_1,Bifunctional protein pyrR,96.133,543,13,543.0,1.0
+group_144,,hypothetical protein,96.135,414,3,414.0,1.0
+uup_1,uup_1,ATP-binding protein Uup,96.142,1581,46,1581.0,1.0
+oxc,oxc,Oxalyl-CoA decarboxylase,96.143,1742,6,1737.0,1.003
+recO,recO,DNA repair protein RecO,96.149,753,8,753.0,1.0
+nrdD,nrdD,Anaerobic ribonucleoside-triphosphate reductase,96.156,2211,12,2211.0,1.0
+cshA,cshA,ATP-dependent RNA helicase CshA,96.159,1458,25,1458.0,1.0
+pstB3_2,pstB3_2,Phosphate import ATP-binding protein PstB 3,96.164,756,46,756.0,1.0
+walK,walK,Sensor histidine kinase WalK,96.164,1874,20,1851.0,1.012
+group_813,,hypothetical protein,96.175,183,3,183.0,1.0
+group_254,,hypothetical protein,96.175,183,3,183.0,1.0
+group_798,,hypothetical protein,96.18,1335,7,1335.0,1.0
+lacE_1,lacE_1,PTS system lactose-specific EIICB component,96.185,1704,14,1704.0,1.0
+group_564,,hypothetical protein,96.186,2019,3,2019.0,1.0
+group_187,,hypothetical protein,96.19,1181,3,1182.0,0.999
+idi,idi,Isopentenyl-diphosphate Delta-isomerase,96.222,450,11,450.0,1.0
+group_195,,Acid shock protein,96.222,450,7,450.0,1.0
+group_789,,hypothetical protein,96.226,424,4,426.0,0.995
+cspR,cspR,Putative tRNA (cytidine(34)-2'-O)-methyltransferase,96.237,559,12,558.0,1.002
+rpoC,rpoC,DNA-directed RNA polymerase subunit beta RpoC,96.242,3672,12,3672.0,1.0
+group_142,,hypothetical protein,96.244,426,4,426.0,1.0
+group_169,,Putative membrane protein insertion efficiency factor,96.259,294,12,294.0,1.0
+group_191,,hypothetical protein,96.268,777,3,777.0,1.0
+phnE,phnE,Phosphate-import permease protein PhnE,96.269,804,15,804.0,1.0
+pyrH,pyrH,Uridylate kinase,96.281,726,12,726.0,1.0
+ftsH,ftsH,ATP-dependent zinc metalloprotease FtsH,96.286,2127,12,2127.0,1.0
+group_167,,hypothetical protein,96.296,297,3,297.0,1.0
+ddlA,ddlA,D-alanine--D-alanine ligase A,96.296,1091,13,1086.0,1.005
+gatB_2,gatB_2,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B,96.296,1440,12,1431.0,1.006
+yerH,yerH,putative lipoprotein YerH,96.316,1140,12,1140.0,1.0
+group_500,,hypothetical protein,96.325,381,3,381.0,1.0
+group_214,,hypothetical protein,96.329,681,12,681.0,1.0
+group_240,,hypothetical protein,96.33,327,12,327.0,1.0
+group_160,,hypothetical protein,96.33,327,7,327.0,1.0
+group_552,,hypothetical protein,96.333,1200,5,1212.0,0.99
+upp,upp,Uracil phosphoribosyltransferase,96.349,632,12,630.0,1.003
+uctC,uctC,Acetyl-CoA:oxalate CoA-transferase,96.38,1188,12,1188.0,1.0
+group_211,,hypothetical protein,96.386,498,3,498.0,1.0
+prs_1,prs_1,Ribose-phosphate pyrophosphokinase,96.399,972,28,972.0,1.0
+group_234,,hypothetical protein,96.402,528,1,528.0,1.0
+ybeY,ybeY,Endoribonuclease YbeY,96.402,528,12,528.0,1.0
+glyQ,glyQ,Glycine--tRNA ligase alpha subunit,96.405,918,13,918.0,1.0
+serS,serS,Serine--tRNA ligase,96.415,1311,12,1311.0,1.0
+dnaK,dnaK,Chaperone protein DnaK,96.421,1872,12,1872.0,1.0
+group_207,,hypothetical protein,96.429,420,12,420.0,1.0
+recQ,recQ,ATP-dependent DNA helicase RecQ,96.429,1794,8,1794.0,1.0
+murD,murD,UDP-N-acetylmuramoylalanine--D-glutamate ligase,96.429,1389,21,1383.0,1.004
+claer,cla-er,CLA biosynthesis enone reductase,96.434,645,9,645.0,1.0
+lmrA,lmrA,Multidrug resistance ABC transporter ATP-binding and permease protein,96.438,786,38,786.0,1.0
+group_646,,Deoxyguanosine kinase,96.444,675,25,675.0,1.0
+secY,secY,Protein translocase subunit SecY,96.451,1298,12,1296.0,1.002
+rnj,rnj,Ribonuclease J,96.467,1302,12,1302.0,1.0
+nrnA,nrnA,putative bifunctional oligoribonuclease and PAP phosphatase NrnA,96.48,966,12,966.0,1.0
+oppF,oppF,Oligopeptide transport ATP-binding protein OppF,96.491,969,30,969.0,1.0
+era,era,GTPase Era,96.491,912,12,912.0,1.0
+group_416,,hypothetical protein,96.497,885,8,885.0,1.0
+pckA,pckA,Phosphoenolpyruvate carboxykinase (ATP),96.504,1659,7,1659.0,1.0
+rbfA,rbfA,Ribosome-binding factor A,96.505,372,12,372.0,1.0
+purA,purA,Adenylosuccinate synthetase,96.512,1290,13,1290.0,1.0
+group_268,,hypothetical protein,96.528,288,4,288.0,1.0
+group_809,,hypothetical protein,96.552,435,17,435.0,1.0
+panT,panT,Pantothenate transporter PanT,96.552,618,11,618.0,1.0
+clpY,clpY,ATP-dependent protease ATPase subunit ClpY,96.552,1395,23,1395.0,1.0
+dps,dps,DNA protection during starvation protein,96.581,468,10,468.0,1.0
+yfbR,yfbR,5'-deoxynucleotidase YfbR,96.589,645,12,645.0,1.0
+gtaB,gtaB,UTP--glucose-1-phosphate uridylyltransferase,96.59,909,13,909.0,1.0
+atpC,atpC,ATP synthase epsilon chain,96.599,441,12,441.0,1.0
+scrB_2~~~scrB_1,scrB_2;scrB_1,Sucrose-6-phosphate hydrolase,96.601,1530,6,1530.0,1.0
+group_783,,Nucleoside triphosphate/diphosphate phosphatase,96.616,591,3,591.0,1.0
+lacX_2,lacX_2,Protein LacX plasmid,96.622,888,12,888.0,1.0
+lacG_2,lacG_2,6-phospho-beta-galactosidase,96.639,1428,29,1428.0,1.0
+lacF_1,lacF_1,Lactose transport system permease protein LacF,96.644,864,12,864.0,1.0
+group_311,,putative ABC transporter ATP-binding protein,96.649,1731,32,1731.0,1.0
+atpG,atpG,ATP synthase gamma chain,96.656,967,14,957.0,1.01
+ybiR,ybiR,Inner membrane protein YbiR,96.658,1121,13,1107.0,1.013
+group_520,,hypothetical protein,96.667,330,3,330.0,1.0
+rpmG3,rpmG3,Large ribosomal subunit protein bL33C,96.667,150,12,150.0,1.0
+fluC1,fluC1,Fluoride-specific ion channel FluC 1,96.667,390,12,390.0,1.0
+group_129,,Putative universal stress protein,96.667,480,15,480.0,1.0
+group_205,,hypothetical protein,96.69,423,12,423.0,1.0
+hrcA,hrcA,Heat-inducible transcription repressor HrcA,96.695,1067,12,1059.0,1.008
+group_767,,Calcium-transporting ATPase 1,96.712,2676,102,2676.0,1.0
+group_156,,hypothetical protein,96.726,336,6,336.0,1.0
+yccX,yccX,Acylphosphatase,96.739,276,7,276.0,1.0
+group_684,,hypothetical protein,96.743,522,3,522.0,1.0
+greA_1,greA_1,Transcription elongation factor GreA,96.753,462,12,462.0,1.0
+prs_2,prs_2,Ribose-phosphate pyrophosphokinase,96.764,989,24,990.0,0.999
+frr,frr,Ribosome-recycling factor,96.774,558,12,558.0,1.0
+group_20,,hypothetical protein,96.774,186,3,186.0,1.0
+phoU,phoU,Phosphate-specific transport system accessory protein PhoU,96.784,684,11,684.0,1.0
+rny,rny,Ribonuclease Y,96.796,1623,16,1623.0,1.0
+adaB,adaB,Methylated-DNA--protein-cysteine methyltransferase inducible,96.798,531,11,531.0,1.0
+rpoZ,rpoZ,DNA-directed RNA polymerase subunit omega,96.804,219,12,219.0,1.0
+yjbM,yjbM,GTP pyrophosphokinase YjbM,96.81,628,15,627.0,1.002
+glnQ_1,glnQ_1,Glutamine transport ATP-binding protein GlnQ,96.819,786,103,786.0,1.0
+npr,npr,NADH peroxidase,96.85,1367,10,1365.0,1.001
+ganQ,ganQ,Galactooligosaccharides transport system permease protein GanQ,96.853,860,13,858.0,1.002
+benM,benM,HTH-type transcriptional regulator BenM,96.857,891,3,891.0,1.0
+pyrG,pyrG,CTP synthase,96.858,1623,12,1623.0,1.0
+hpf,hpf,Ribosome hibernation promotion factor,96.886,549,12,546.0,1.005
+group_271,,hypothetical protein,96.899,258,3,258.0,1.0
+yodB,yodB,HTH-type transcriptional regulator YodB,96.901,355,12,357.0,0.994
+gadC,gadC,Glutamate/gamma-aminobutyrate antiporter,96.923,1434,8,1434.0,1.0
+group_7,,hypothetical protein,96.93,228,12,228.0,1.0
+lacA,lacA,Galactose-6-phosphate isomerase subunit LacA,96.97,429,3,429.0,1.0
+ybaB,ybaB,Nucleoid-associated protein YbaB,96.97,339,12,330.0,1.027
+asd,asd,Aspartate-semialdehyde dehydrogenase,96.978,1059,7,1059.0,1.0
+tsf,tsf,Elongation factor Ts,96.979,1026,19,1026.0,1.0
+group_65,,PhoH-like protein,96.979,960,12,960.0,1.0
+nagR_2,nagR_2,HTH-type transcriptional repressor NagR,96.982,729,3,729.0,1.0
+group_505,,hypothetical protein,96.995,366,9,366.0,1.0
+pox5,pox5,Pyruvate oxidase,97.015,1820,12,1809.0,1.006
+oppD,oppD,Oligopeptide transport ATP-binding protein OppD,97.033,1011,34,1011.0,1.0
+group_819,,hypothetical protein,97.037,135,3,135.0,1.0
+smc_1,smc_1,Chromosome partition protein Smc,97.039,2916,5,2904.0,1.004
+oppC,oppC,Oligopeptide transport system permease protein OppC,97.049,918,12,915.0,1.003
+group_291,,hypothetical protein,97.054,645,12,645.0,1.0
+group_204,,hypothetical protein,97.059,714,12,714.0,1.0
+gamR,gamR,HTH-type transcriptional repressor GamR,97.083,720,3,720.0,1.0
+group_265,,hypothetical protein,97.087,309,4,309.0,1.0
+group_425,,hypothetical protein,97.096,797,12,792.0,1.006
+arlR,arlR,Response regulator ArlR,97.119,729,29,729.0,1.0
+group_269,,hypothetical protein,97.133,558,3,558.0,1.0
+group_246,,hypothetical protein,97.143,315,12,315.0,1.0
+mutS2,mutS2,Endonuclease MutS2,97.157,1864,12,1863.0,1.001
+group_742,,hypothetical protein,97.165,1333,38,1305.0,1.021
+group_253,,putative HTH-type transcriptional regulator,97.168,462,7,459.0,1.007
+group_94,,putative ABC transporter ATP-binding protein,97.187,714,48,711.0,1.004
+cggR,cggR,Central glycolytic genes regulator,97.19,1043,12,1032.0,1.011
+group_820,,hypothetical protein,97.193,570,3,570.0,1.0
+group_613,,hypothetical protein,97.222,252,3,252.0,1.0
+yrrK,yrrK,Putative pre-16S rRNA nuclease,97.222,432,12,432.0,1.0
+group_223,,hypothetical protein,97.225,1015,7,1008.0,1.007
+ganP,ganP,Galactooligosaccharides transport system permease protein GanP,97.271,1368,12,1356.0,1.009
+clpP_3,clpP_3,ATP-dependent Clp protease proteolytic subunit,97.279,588,12,588.0,1.0
+group_797,,hypothetical protein,97.297,111,1,111.0,1.0
+group_532,,hypothetical protein,97.306,297,12,297.0,1.0
+levE,levE,PTS system fructose-specific EIIB component,97.342,489,3,489.0,1.0
+group_374,,hypothetical protein,97.345,117,12,114.0,1.026
+treA,treA,Trehalose-6-phosphate hydrolase,97.371,1659,33,1659.0,1.0
+msmX,msmX,Oligosaccharides import ATP-binding protein MsmX,97.373,1104,67,1104.0,1.0
+ptsH,ptsH,Phosphocarrier protein HPr,97.378,267,12,267.0,1.0
+bipA,bipA,Large ribosomal subunit assembly factor BipA,97.381,1833,38,1833.0,1.0
+atpD,atpD,ATP synthase subunit beta,97.434,1445,12,1443.0,1.001
+rpsP,rpsP,Small ribosomal subunit protein bS16,97.436,273,12,273.0,1.0
+atpH,atpH,ATP synthase subunit delta,97.45,549,12,549.0,1.0
+walR,walR,Transcriptional regulatory protein WalR,97.458,721,38,708.0,1.018
+lacE_2,lacE_2,PTS system lactose-specific EIICB component,97.468,1698,8,1698.0,1.0
+sepF,sepF,Cell division protein SepF,97.471,435,12,435.0,1.0
+group_199,,hypothetical protein,97.489,438,11,438.0,1.0
+glnM,glnM,putative glutamine ABC transporter permease protein GlnM,97.496,639,25,639.0,1.0
+group_181,,hypothetical protein,97.5,240,3,240.0,1.0
+nudF,nudF,ADP-ribose pyrophosphatase,97.518,564,12,564.0,1.0
+pheT_1,pheT_1,Phenylalanine--tRNA ligase beta subunit,97.531,649,22,648.0,1.002
+groEL,groEL,Chaperonin GroEL,97.549,1632,12,1632.0,1.0
+group_523,,hypothetical protein,97.554,327,3,327.0,1.0
+group_664,,hypothetical protein,97.561,861,13,861.0,1.0
+group_566,,hypothetical protein,97.576,165,7,165.0,1.0
+atpF,atpF,ATP synthase subunit b,97.605,501,12,501.0,1.0
+oppA_2,;oppA_2,hypothetical protein;Oligopeptide-binding protein OppA,97.607,1755,48,1755.0,1.0
+group_250,,hypothetical protein,97.634,469,8,465.0,1.009
+recR,recR,Recombination protein RecR,97.667,601,12,600.0,1.002
+rsmH,rsmH,Ribosomal RNA small subunit methyltransferase H,97.679,953,12,948.0,1.005
+pgk,pgk,Phosphoglycerate kinase,97.69,1216,12,1212.0,1.003
+pgi,pgi,Glucose-6-phosphate isomerase,97.693,1344,12,1344.0,1.0
+rimP,rimP,Ribosome maturation factor RimP,97.694,477,12,477.0,1.0
+rpoB,rpoB,DNA-directed RNA polymerase subunit beta RpoB,97.704,3615,12,3615.0,1.0
+tig,tig,Trigger factor,97.704,1350,13,1350.0,1.0
+rpsB,rpsB,Small ribosomal subunit protein uS2,97.71,786,12,786.0,1.0
+group_141,,putative HTH-type transcriptional regulator,97.717,438,3,438.0,1.0
+efp_2,efp_2,Elongation factor P,97.719,570,25,570.0,1.0
+rplO,rplO,Large ribosomal subunit protein uL15,97.732,443,12,441.0,1.005
+gltX,gltX,Glutamate--tRNA ligase,97.733,1500,12,1500.0,1.0
+lacB,lacB,Galactose-6-phosphate isomerase subunit LacB,97.743,581,4,576.0,1.009
+group_644,,hypothetical protein,97.744,399,8,399.0,1.0
+uidA,uidA,Beta-glucuronidase,97.748,222,3,222.0,1.0
+group_177,,hypothetical protein,97.753,267,1,267.0,1.0
+guaA_2,guaA_2,GMP synthase [glutamine-hydrolyzing],97.758,680,13,669.0,1.016
+group_795,,hypothetical protein,97.778,180,3,180.0,1.0
+rpsO,rpsO,Small ribosomal subunit protein uS15,97.778,271,12,270.0,1.004
+group_6,,hypothetical protein,97.807,231,12,228.0,1.013
+ptsI,ptsI,Phosphoenolpyruvate-protein phosphotransferase,97.816,1740,12,1740.0,1.0
+glsA2,glsA2,Glutaminase 2,97.828,921,5,921.0,1.0
+eno2_2,eno2_2,Enolase 2,97.844,1299,16,1299.0,1.0
+ptcA,ptcA,PTS system cellobiose-specific EIIA component,97.859,327,12,327.0,1.0
+group_121,,hypothetical protein,97.881,519,13,519.0,1.0
+tpiA,tpiA,Triosephosphate isomerase,97.884,760,12,756.0,1.005
+gatC_6,gatC_6,PTS system galactitol-specific EIIC component,97.886,1419,3,1419.0,1.0
+group_247,,hypothetical protein,97.89,237,8,237.0,1.0
+mreB,mreB,Cell shape-determining protein MreB,97.904,1002,27,1002.0,1.0
+ykwC_1,ykwC_1,putative oxidoreductase YkwC,97.927,579,2,579.0,1.0
+gmuC,gmuC,PTS system oligo-beta-mannoside-specific EIIC component,97.931,1353,22,1353.0,1.0
+group_676,,hypothetical protein,97.937,1260,14,1260.0,1.0
+group_376,,hypothetical protein,97.938,1794,23,1794.0,1.0
+rqcP,rqcP,RQC P-site tRNA stabilizing factor,97.942,244,9,243.0,1.004
+mgtB_1,mgtB_1,Magnesium-transporting ATPase P-type 1,97.947,2687,21,2679.0,1.003
+pyrE,pyrE,Orotate phosphoribosyltransferase,97.966,643,7,639.0,1.006
+group_477,,putative protein,97.987,447,7,447.0,1.0
+rpsM,rpsM,Small ribosomal subunit protein uS13,97.989,348,12,348.0,1.0
+lacD,lacD,Tagatose 16-diphosphate aldolase,97.992,996,3,996.0,1.0
+yydK,yydK,putative HTH-type transcriptional regulator YydK,97.997,699,3,699.0,1.0
+group_665,,hypothetical protein,98.0,300,8,300.0,1.0
+group_567,,hypothetical protein,98.0,150,9,150.0,1.0
+glnQ_3,glnQ_3,Glutamine transport ATP-binding protein GlnQ,98.0,750,152,750.0,1.0
+rplS,rplS,Large ribosomal subunit protein bL19,98.006,351,12,351.0,1.0
+nusG,nusG,Transcription termination/antitermination protein NusG,98.007,552,12,552.0,1.0
+group_716,,hypothetical protein,98.017,353,5,354.0,0.997
+pfkA,pfkA,ATP-dependent 6-phosphofructokinase,98.021,960,12,960.0,1.0
+gmk_1,gmk_1,Guanylate kinase,98.049,616,12,615.0,1.002
+group_527,,hypothetical protein,98.077,312,8,312.0,1.0
+trxA,trxA,Thioredoxin,98.077,312,12,312.0,1.0
+atpA,atpA,ATP synthase subunit alpha,98.082,1518,12,1512.0,1.004
+group_89,,putative transcriptional regulatory protein,98.087,732,12,732.0,1.0
+ldh_2,ldh_2,L-lactate dehydrogenase,98.148,972,19,972.0,1.0
+mraZ,mraZ,Transcriptional regulator MraZ,98.148,432,12,432.0,1.0
+pbuG_3,pbuG_3,Guanine/hypoxanthine permease PbuG,98.174,1314,34,1314.0,1.0
+atpB,atpB,ATP synthase subunit a,98.187,717,14,717.0,1.0
+infA,infA,Translation initiation factor IF-1,98.198,222,12,222.0,1.0
+fusA,fusA,elongation factor G FusA,98.236,2097,36,2097.0,1.0
+secE,secE,Protein translocase subunit SecE,98.246,171,12,171.0,1.0
+group_551,,hypothetical protein,98.278,814,19,813.0,1.001
+phnD2,phnD2,putative ABC transporter phosphonate/phosphite binding protein PhnD2,98.28,930,26,930.0,1.0
+yidC2,yidC2,Membrane protein insertase YidC 2,98.288,876,12,876.0,1.0
+group_261,,hypothetical protein,98.291,819,12,819.0,1.0
+hdfR,hdfR,HTH-type transcriptional regulator HdfR,98.333,953,5,954.0,0.999
+gpmA_2,gpmA_2,23-bisphosphoglycerate-dependent phosphoglycerate mutase,98.333,660,12,660.0,1.0
+greA_2,greA_2,Transcription elongation factor GreA,98.344,483,12,483.0,1.0
+ftsL,ftsL,Cell division protein FtsL,98.347,363,17,363.0,1.0
+scrA_1,scrA_1,PTS system sucrose-specific EIIBCA component,98.372,1965,35,1965.0,1.0
+group_484,,hypothetical protein,98.38,432,3,432.0,1.0
+group_236,,hypothetical protein,98.38,432,12,432.0,1.0
+pbpA,pbpA,Penicillin-binding protein 2A,98.381,2100,13,2100.0,1.0
+ppaX,ppaX,Pyrophosphatase PpaX,98.405,627,3,627.0,1.0
+ftsL_3,ftsL_3,Cell division protein FtsL,98.413,378,7,378.0,1.0
+sugC,sugC,Trehalose import ATP-binding protein SugC,98.435,1086,94,1086.0,1.0
+eno2_1,eno2_1,Enolase 2,98.446,1287,16,1287.0,1.0
+group_38,,hypothetical protein,98.45,129,7,129.0,1.0
+group_815,,hypothetical protein,98.462,390,3,390.0,1.0
+group_134,,hypothetical protein,98.465,457,2,456.0,1.002
+walJ,walJ,Exodeoxyribonuclease WalJ,98.467,798,13,798.0,1.0
+adk,adk,Adenylate kinase,98.471,655,14,654.0,1.002
+group_148,,hypothetical protein,98.473,393,1,393.0,1.0
+yvdM,yvdM,Beta-phosphoglucomutase,98.492,667,13,663.0,1.006
+dnaB_2,dnaB_2,Replicative helicase loading/DNA remodeling protein DnaB,98.509,1341,12,1341.0,1.0
+hpt_2,hpt_2,Hypoxanthine-guanine phosphoribosyltransferase,98.51,537,10,537.0,1.0
+psiE,psiE,Protein PsiE,98.519,405,3,405.0,1.0
+pyk,pyk,Pyruvate kinase,98.531,1772,12,1770.0,1.001
+group_343,,hypothetical protein,98.551,207,3,207.0,1.0
+group_115,,hypothetical protein,98.551,552,3,552.0,1.0
+rplC,rplC,Large ribosomal subunit protein uL3,98.571,630,12,630.0,1.0
+cspA,cspA,Cold shock-like protein CspA,98.571,210,12,210.0,1.0
+group_466,,hypothetical protein,98.577,492,10,492.0,1.0
+group_570,,hypothetical protein,98.582,141,9,141.0,1.0
+nrdI_1~~~nrdI_2,nrdI_1;nrdI_2,Protein NrdI,98.592,426,5,426.0,1.0
+atpE,atpE,ATP synthase subunit c,98.592,213,12,213.0,1.0
+group_787,,putative HTH-type transcriptional regulator,98.621,441,12,435.0,1.014
+group_578,,hypothetical protein,98.639,147,3,147.0,1.0
+ssb,ssb,Single-stranded DNA-binding protein,98.651,536,26,519.0,1.033
+ribH,ribH,67-dimethyl-8-ribityllumazine synthase,98.674,378,12,378.0,1.0
+rplQ,rplQ,Large ribosomal subunit protein bL17,98.698,384,12,384.0,1.0
+group_41,,hypothetical protein,98.702,1233,1,1233.0,1.0
+thrS,thrS,Threonine--tRNA ligase,98.706,1938,12,1932.0,1.003
+nrdR,nrdR,Transcriptional repressor NrdR,98.707,464,12,465.0,0.998
+group_436,,hypothetical protein,98.707,696,3,696.0,1.0
+frsA,frsA,Esterase FrsA,98.715,1167,1,1167.0,1.0
+uup_6,uup_6,ATP-binding protein Uup,98.724,1579,8,1569.0,1.006
+group_526,,hypothetical protein,98.73,315,3,315.0,1.0
+group_671,,hypothetical protein,98.746,558,11,558.0,1.0
+group_670,,hypothetical protein,98.746,558,6,558.0,1.0
+acpP,acpP,Acyl carrier protein,98.765,243,12,243.0,1.0
+ykwC_2,ykwC_2,putative oxidoreductase YkwC,98.765,324,2,324.0,1.0
+def_2,def_2,Peptide deformylase,98.789,414,7,414.0,1.0
+nrdF1,nrdF1,Ribonucleoside-diphosphate reductase subunit beta nrdF1,98.801,1001,10,993.0,1.008
+group_594,,hypothetical protein,98.802,918,7,918.0,1.0
+group_238,,hypothetical protein,98.83,342,12,342.0,1.0
+group_185,,hypothetical protein,98.83,513,7,513.0,1.0
+group_272,,hypothetical protein,98.87,531,4,531.0,1.0
+group_744,,hypothetical protein,98.889,450,7,450.0,1.0
+rpoE,rpoE,putative DNA-directed RNA polymerase subunit delta,98.895,557,12,543.0,1.026
+group_508,,putative protein,98.898,364,12,363.0,1.003
+group_573,,D-lactate dehydrogenase,98.915,1014,12,1014.0,1.0
+rnpA,rnpA,Ribonuclease P protein component,98.916,369,12,369.0,1.0
+group_647,,hypothetical protein,98.942,378,19,378.0,1.0
+groES,groES,Co-chaperonin GroES,98.947,292,12,285.0,1.025
+coaE,coaE,Dephospho-CoA kinase,98.995,597,12,597.0,1.0
+group_577,,hypothetical protein,98.997,399,3,399.0,1.0
+group_347,,hypothetical protein,99.005,201,3,201.0,1.0
+rpsE,rpsE,Small ribosomal subunit protein uS5,99.048,525,13,525.0,1.0
+rplF,rplF,Large ribosomal subunit protein uL6,99.058,532,12,531.0,1.002
+group_582,,hypothetical protein,99.061,213,3,213.0,1.0
+group_615,,hypothetical protein,99.074,108,3,108.0,1.0
+group_249,,hypothetical protein,99.087,219,16,219.0,1.0
+rpsC,rpsC,Small ribosomal subunit protein uS3,99.103,669,12,669.0,1.0
+rpoY,rpoY,DNA-directed RNA polymerase subunit epsilon,99.123,228,12,228.0,1.0
+rplA,rplA,Large ribosomal subunit protein uL1,99.134,693,13,693.0,1.0
+copZ,copZ,Copper chaperone CopZ,99.134,231,3,231.0,1.0
+gpmA_1,gpmA_1,23-bisphosphoglycerate-dependent phosphoglycerate mutase,99.134,694,13,693.0,1.001
+siwR,;siwR,hypothetical protein;Stress-involved WYL domain-containing regulator,99.143,933,2,933.0,1.0
+secG,secG,putative protein-export membrane protein SecG,99.145,236,16,234.0,1.009
+yokD,yokD,SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD,99.146,820,7,819.0,1.001
+rpsG,rpsG,Small ribosomal subunit protein uS7,99.151,471,12,471.0,1.0
+pbuG_2,pbuG_2,Guanine/hypoxanthine permease PbuG,99.161,1311,31,1311.0,1.0
+group_548,,hypothetical protein,99.197,249,3,249.0,1.0
+group_329,,hypothetical protein,99.206,252,3,252.0,1.0
+group_245,,hypothetical protein,99.225,258,12,258.0,1.0
+group_149,,FMN-binding protein,99.225,387,2,387.0,1.0
+group_610,,hypothetical protein,99.251,267,6,267.0,1.0
+group_282,,hypothetical protein,99.259,135,3,135.0,1.0
+rplK,rplK,Large ribosomal subunit protein uL11,99.296,426,12,426.0,1.0
+group_657,,hypothetical protein,99.306,288,3,288.0,1.0
+nagB,nagB,Glucosamine-6-phosphate deaminase,99.306,720,12,720.0,1.0
+cadA,cadA,Cadmium-transporting ATPase,99.317,1908,7,1902.0,1.003
+rplM,rplM,Large ribosomal subunit protein uL13,99.324,445,12,444.0,1.002
+fba,fba,Fructose-bisphosphate aldolase,99.346,928,12,918.0,1.011
+rplD,rplD,Large ribosomal subunit protein uL4,99.353,629,12,618.0,1.018
+clcA_2,clcA_2,H(+)/Cl(-) exchange transporter ClcA,99.356,1574,12,1554.0,1.013
+rplU,rplU,Large ribosomal subunit protein bL21,99.359,314,12,312.0,1.006
+nrdF,nrdF,Ribonucleoside-diphosphate reductase 2 subunit beta,99.368,1008,6,1008.0,1.0
+oppB,oppB,Oligopeptide transport system permease protein OppB,99.377,963,12,963.0,1.0
+group_557,,hypothetical protein,99.379,484,12,483.0,1.002
+group_672,,hypothetical protein,99.444,846,15,846.0,1.0
+rplE,rplE,Large ribosomal subunit protein uL5,99.448,543,12,543.0,1.0
+group_675,,hypothetical protein,99.451,548,5,546.0,1.004
+rplN,rplN,Large ribosomal subunit protein uL14,99.458,369,12,369.0,1.0
+group_21,,hypothetical protein,99.462,186,12,186.0,1.0
+rpoA,rpoA,DNA-directed RNA polymerase subunit alpha,99.468,942,12,939.0,1.003
+rpmF,rpmF,Large ribosomal subunit protein bL32,99.479,192,12,192.0,1.0
+rpsK,rpsK,Small ribosomal subunit protein uS11,99.487,390,12,390.0,1.0
+rpsH,rpsH,Small ribosomal subunit protein uS8,99.499,399,12,399.0,1.0
+rps1,rps1,Small ribosomal subunit protein bS1,99.5,1201,34,1200.0,1.001
+gap,gap,Glyceraldehyde-3-phosphate dehydrogenase,99.508,1018,12,1017.0,1.001
+rpsL,rpsL,Small ribosomal subunit protein uS12,99.51,409,12,408.0,1.002
+rplB,rplB,Large ribosomal subunit protein uL2,99.522,840,12,837.0,1.004
+aadR,aadR,Transcriptional activatory protein AadR,99.524,630,3,630.0,1.0
+group_104,,hypothetical protein,99.537,648,1,648.0,1.0
+copY,copY,Transcriptional repressor CopY,99.54,435,13,435.0,1.0
+rplP,rplP,Large ribosomal subunit protein uL16,99.543,438,12,438.0,1.0
+group_333,,hypothetical protein,99.55,222,12,222.0,1.0
+rqcH,rqcH,Rqc2 RqcH,99.567,1704,13,1692.0,1.007
+garK,garK,Glycerate 2-kinase,99.571,1131,17,1137.0,0.995
+dexB,dexB,Glucan 16-alpha-glucosidase,99.571,1617,54,1617.0,1.0
+yjjB,yjjB,succinate transporter subunit YjjB,99.575,471,11,471.0,1.0
+veg,veg,Protein Veg,99.583,240,12,240.0,1.0
+group_273,,hypothetical protein,99.588,243,10,243.0,1.0
+alaS,alaS,Alanine--tRNA ligase,99.588,2649,14,2649.0,1.0
+adhE,adhE,Aldehyde-alcohol dehydrogenase,99.592,2610,13,2610.0,1.0
+rpmE2,rpmE2,Large ribosomal subunit protein bL31B,99.603,252,12,252.0,1.0
+hflX,hflX,GTPase HflX,99.61,1281,12,1281.0,1.0
+cydD,cydD,Glutathione/L-cysteine transport system ATP-binding/permease protein CydD,99.623,1818,37,1818.0,1.0
+ptpB_2,ptpB_2,Triple specificity protein phosphatase PtpB,99.627,804,19,804.0,1.0
+hup,hup,DNA-binding protein HU,99.638,276,16,276.0,1.0
+group_659,,hypothetical protein,99.649,285,2,285.0,1.0
+rpsS,rpsS,Small ribosomal subunit protein uS19,99.653,288,12,288.0,1.0
+group_326,,hypothetical protein,99.656,291,13,291.0,1.0
+group_313,,hypothetical protein,99.656,903,27,873.0,1.034
+rpsF,rpsF,Small ribosomal subunit protein bS6,99.663,297,12,297.0,1.0
+rplW,rplW,Large ribosomal subunit protein uL23,99.663,297,12,297.0,1.0
+rpmA,rpmA,Large ribosomal subunit protein bL27,99.667,300,12,300.0,1.0
+gatC_4,gatC_4,Glutamyl-tRNA(Gln) amidotransferase subunit C,99.67,303,12,303.0,1.0
+dnaE,dnaE,DNA polymerase III subunit alpha,99.673,3117,20,3117.0,1.0
+group_292,,hypothetical protein,99.673,6759,37,6705.0,1.008
+gpmA_3~~~gpmA_5,gpmA_3;gpmA_5,23-bisphosphoglycerate-dependent phosphoglycerate mutase,99.693,651,12,651.0,1.0
+guaA_3,guaA_3,GMP synthase [glutamine-hydrolyzing],99.708,684,3,684.0,1.0
+polC_2,polC_2,DNA polymerase III PolC-type,99.711,534,13,534.0,1.0
+thrP_2,thrP_2,Threonine/serine transporter ThrP,99.713,1392,24,1392.0,1.0
+rplV,rplV,Large ribosomal subunit protein uL22,99.718,354,12,354.0,1.0
+rplT_2~~~rplT,rplT_2;rplT,Large ribosomal subunit protein bL20,99.72,358,12,357.0,1.003
+group_303,,hypothetical protein,99.723,723,3,723.0,1.0
+menH_2,menH_2,2-succinyl-6-hydroxy-24-cyclohexadiene-1-carboxylate synthase,99.733,750,16,750.0,1.0
+mscL,mscL,Large-conductance mechanosensitive channel,99.735,378,12,378.0,1.0
+group_632,ptpB_1,Triple specificity protein phosphatase PtpB,99.743,777,8,777.0,1.0
+rpsI,rpsI,Small ribosomal subunit protein uS9,99.747,396,12,396.0,1.0
+group_295,,hypothetical protein,99.752,1209,20,1209.0,1.0
+noc,noc,Nucleoid occlusion protein,99.773,882,27,882.0,1.0
+group_304,,hypothetical protein,99.778,900,22,900.0,1.0
+bcaP_1~~~bcaP_2,bcaP_1;bcaP_2,Branched-chain amino acid permease BcaP,99.784,1389,18,1389.0,1.0
+nrdI_2,nrdI_2,Protein NrdI,99.784,462,7,462.0,1.0
+group_631,,putative transporter,99.786,1401,12,1401.0,1.0
+luxS,luxS,S-ribosylhomocysteine lyase,99.79,477,6,477.0,1.0
+darB,darB,Cyclic di-AMP receptor B,99.796,489,12,489.0,1.0
+group_308,,hypothetical protein,99.797,492,11,492.0,1.0
+group_323,,hypothetical protein,99.808,522,7,522.0,1.0
+group_113,,hypothetical protein,99.825,573,1,573.0,1.0
+helD,helD,DNA helicase IV,99.826,2295,12,2295.0,1.0
+rpsD,rpsD,Small ribosomal subunit protein uS4,99.837,613,12,612.0,1.002
+group_302,,hypothetical protein,99.84,624,12,624.0,1.0
+group_299,,hypothetical protein,99.841,627,6,627.0,1.0
+group_321,,Calcium-transporting ATPase 1,99.851,2685,58,2685.0,1.0
+hrtA~~~lolD,hrtA;lolD,Putative hemin import ATP-binding protein HrtA;Lipoprotein-releasing system ATP-binding protein LolD,99.853,678,61,678.0,1.0
+gatD,gatD,Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD,99.854,684,12,684.0,1.0
+vanR,vanR,Regulatory protein VanR,99.854,687,13,687.0,1.0
+group_307,,hypothetical protein,99.855,690,3,690.0,1.0
+yflS,yflS,Putative malate transporter YflS,99.859,1426,24,1416.0,1.007
+rsmG,rsmG,Ribosomal RNA small subunit methyltransferase G,99.861,720,12,720.0,1.0
+group_318,,hypothetical protein,99.864,758,12,738.0,1.027
+bglH_5,bglH_5,Aryl-phospho-beta-D-glucosidase BglH,99.865,1479,50,1479.0,1.0
+group_301,,hypothetical protein,99.869,762,3,762.0,1.0
+exoA_2,exoA_2,Exodeoxyribonuclease,99.869,765,3,765.0,1.0
+group_277,,hypothetical protein,99.872,783,12,783.0,1.0
+znuB,znuB,High-affinity zinc uptake system membrane protein ZnuB,99.874,792,12,792.0,1.0
+uup_8,uup_8,ATP-binding protein Uup,99.875,1602,48,1602.0,1.0
+sorA_1,sorA_1,PTS system sorbose-specific EIIC component,99.876,823,12,804.0,1.024
+ybbH_1,ybbH_1,putative HTH-type transcriptional regulator YbbH,99.878,819,6,819.0,1.0
+ybbH_2,ybbH_2,putative HTH-type transcriptional regulator YbbH,99.883,852,15,852.0,1.0
+coaA,coaA,Pantothenate kinase,99.883,852,4,852.0,1.0
+btuD_2,;btuD_2,Multidrug efflux system ATP-binding protein;Vitamin B12 import ATP-binding protein BtuD,99.889,913,25,897.0,1.018
+pepF~~~pepF1,pepF;pepF1,Oligopeptidase PepF;Oligoendopeptidase F plasmid,99.89,1812,12,1812.0,1.0
+bglF_3,bglF_3,PTS system beta-glucoside-specific EIIBCA component,99.893,1875,47,1875.0,1.0
+ccpA_2,ccpA_2,Catabolite control protein A,99.899,987,14,987.0,1.0
+manX,manX,PTS system mannose-specific EIIAB component,99.9,1026,12,999.0,1.027
+mupG~~~mupG_2,mupG;mupG_2,6-phospho-N-acetylmuramidase,99.904,1041,8,1041.0,1.0
+clpE_1,clpE_1,ATP-dependent Clp protease ATP-binding subunit ClpE,99.906,2118,71,2118.0,1.0
+group_634,,hypothetical protein,99.917,1200,14,1200.0,1.0
+sbnD_1,sbnD_1,Staphyloferrin B transporter,99.918,1215,15,1215.0,1.0
+yhaP,yhaP,putative protein YhaP,99.919,1227,14,1227.0,1.0
+dltD,dltD,Protein DltD,99.923,1302,12,1302.0,1.0
+group_660,,hypothetical protein,99.924,1320,5,1320.0,1.0
+licC_2,licC_2,Lichenan permease IIC component,99.924,1323,19,1323.0,1.0
+thrP_1,thrP_1,Threonine/serine transporter ThrP,99.928,1383,27,1383.0,1.0
+bcaP_2,bcaP_2,Branched-chain amino acid permease BcaP,99.929,1401,20,1401.0,1.0
+pepD,pepD,Dipeptidase,99.929,1413,32,1413.0,1.0
+ycaM_2,ycaM_2,Inner membrane transporter YcaM,99.931,1443,34,1443.0,1.0
+glcA,glcA,Glycolate permease GlcA,99.934,1512,18,1512.0,1.0
+dltA,dltA,D-alanine--D-alanyl carrier protein ligase,99.934,1519,12,1509.0,1.007
+murE,murE,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase,99.936,1572,13,1572.0,1.0
+scrA_2,scrA_2,PTS system sucrose-specific EIIBCA component,99.949,1945,31,1944.0,1.001
+fruA,fruA,PTS system fructose-specific EIIABC component,99.95,1994,18,1986.0,1.004
+yicI,;yicI,hypothetical protein;Alpha-xylosidase,99.957,2304,7,2304.0,1.0
+galE_2,galE_2,UDP-glucose 4-epimerase,100.0,150,46,180.0,0.833
+group_163,,hypothetical protein,100.0,273,6,312.0,0.875
+group_220,,hypothetical protein,100.0,10024,119,11319.0,0.886
+rluD_1,rluD_1,Ribosomal large subunit pseudouridine synthase D,100.0,913,29,915.0,0.998
+group_802,,hypothetical protein,100.0,771,7,771.0,1.0
+rpmI,rpmI,Large ribosomal subunit protein bL35,100.0,201,12,201.0,1.0
+dnaI,dnaI,Replicative helicase loader DnaI,100.0,900,13,900.0,1.0
+rpmGA,rpmGA,Large ribosomal subunit protein bL33A,100.0,150,12,150.0,1.0
+nrdE1,nrdE1,Ribonucleoside-diphosphate reductase subunit alpha 1,100.0,2168,6,2169.0,1.0
+group_747,,Protein ADP-ribosyltransferase,100.0,810,13,810.0,1.0
+pepDA_2~~~pepDA_3,pepDA_2;pepDA_3,Dipeptidase A,100.0,1434,51,1434.0,1.0
+group_743,,hypothetical protein,100.0,636,12,636.0,1.0
+dkgB,dkgB;,25-diketo-D-gluconic acid reductase B;hypothetical protein,100.0,825,3,825.0,1.0
+dinG_2,dinG_2,3'-5' exonuclease DinG,100.0,963,16,963.0,1.0
+group_737,,hypothetical protein,100.0,849,17,849.0,1.0
+rtpR,rtpR,Adenosylcobalamin-dependent ribonucleoside-triphosphate reductase,100.0,2235,5,2235.0,1.0
+group_666,,hypothetical protein,100.0,1152,12,1152.0,1.0
+group_653,,hypothetical protein,100.0,237,3,237.0,1.0
+gatC_2,gatC_2,PTS system galactitol-specific EIIC component,100.0,1455,7,1455.0,1.0
+group_652,,hypothetical protein,100.0,915,13,915.0,1.0
+group_650,,Deoxyadenosine kinase,100.0,648,25,648.0,1.0
+group_649,,hypothetical protein,100.0,291,23,291.0,1.0
+pbpX_1,pbpX_1,Putative penicillin-binding protein PbpX,100.0,927,3,927.0,1.0
+crp,crp,cAMP-activated global transcriptional regulator CRP,100.0,651,8,651.0,1.0
+rpmH,rpmH,Large ribosomal subunit protein bL34,100.0,141,12,141.0,1.0
+pepO_3,pepO_3,Neutral endopeptidase,100.0,1947,61,1947.0,1.0
+group_637,,hypothetical protein,100.0,159,6,159.0,1.0
+yicL_2,yicL_2,putative inner membrane transporter YicL,100.0,894,22,894.0,1.0
+asnA,asnA,Aspartate--ammonia ligase,100.0,1011,12,1011.0,1.0
+manZ_2,manZ_2,PTS system mannose-specific EIID component,100.0,930,17,930.0,1.0
+group_630,,hypothetical protein,100.0,363,12,363.0,1.0
+group_629,,Putative glutamine amidotransferase,100.0,726,12,726.0,1.0
+group_628,,hypothetical protein,100.0,1221,3,1221.0,1.0
+thiD,thiD,Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,100.0,819,12,819.0,1.0
+manZ_1,manZ_1,PTS system mannose-specific EIID component,100.0,819,27,819.0,1.0
+brnQ_2,brnQ_2,Branched-chain amino acid permease BrnQ,100.0,1365,25,1365.0,1.0
+group_587,,hypothetical protein,100.0,2622,8,2622.0,1.0
+mltF_2,mltF_2,Membrane-bound lytic murein transglycosylase F,100.0,1614,16,1614.0,1.0
+gyrB,gyrB,DNA gyrase subunit B,100.0,1968,34,1968.0,1.0
+group_554,,hypothetical protein,100.0,2957,18,2958.0,1.0
+rpsR,rpsR,Small ribosomal subunit protein bS18,100.0,237,13,237.0,1.0
+htrA,htrA,Serine protease Do-like HtrA,100.0,1221,15,1221.0,1.0
+group_550,,hypothetical protein,100.0,219,1,219.0,1.0
+btuD,btuD,Vitamin B12 import ATP-binding protein BtuD,100.0,960,11,960.0,1.0
+oppA_4,oppA_4,Oligopeptide-binding protein OppA,100.0,1755,43,1755.0,1.0
+oppA_3,oppA_3,Oligopeptide-binding protein OppA,100.0,1758,44,1758.0,1.0
+rpmB,rpmB,Large ribosomal subunit protein bL28,100.0,186,12,186.0,1.0
+group_348,,hypothetical protein,100.0,201,4,201.0,1.0
+group_328,,hypothetical protein,100.0,537,12,537.0,1.0
+nfr1,nfr1,NADH-dependent flavin reductase subunit 1,100.0,543,12,543.0,1.0
+smtB,smtB,HTH-type transcriptional repressor SmtB,100.0,279,7,279.0,1.0
+licT_4,licT_4,Transcription antiterminator LicT,100.0,849,8,849.0,1.0
+yxdM,yxdM,ABC transporter permease protein YxdM,100.0,1869,26,1869.0,1.0
+cobC~~~pspB_2,cobC;pspB_2,Adenosylcobalamin/alpha-ribazole phosphatase;Putative phosphoserine phosphatase 2,100.0,627,5,627.0,1.0
+pspB~~~pspB_1,pspB;pspB_1,Putative phosphoserine phosphatase 2,100.0,600,6,600.0,1.0
+efp_1,efp_1,Elongation factor P,100.0,573,24,573.0,1.0
+group_322,,hypothetical protein,100.0,216,3,216.0,1.0
+group_320,,hypothetical protein,100.0,603,21,603.0,1.0
+group_319,,hypothetical protein,100.0,900,3,900.0,1.0
+group_315,,hypothetical protein,100.0,1776,7,1776.0,1.0
+group_310,,hypothetical protein,100.0,345,4,345.0,1.0
+group_309,,hypothetical protein,100.0,873,16,873.0,1.0
+gmk_2,gmk_2,Guanylate kinase,100.0,558,11,558.0,1.0
+yaaA,yaaA,DNA-binding and peroxide stress resistance protein YaaA,100.0,759,16,759.0,1.0
+spo0J,spo0J,Stage 0 sporulation protein J,100.0,882,18,882.0,1.0
+aroD,aroD,3-dehydroquinate dehydratase,100.0,423,3,423.0,1.0
+mazF,mazF,Endoribonuclease toxin MazF,100.0,342,3,342.0,1.0
+group_297,,hypothetical protein,100.0,249,8,249.0,1.0
+group_296,,hypothetical protein,100.0,270,3,270.0,1.0
+group_294,,hypothetical protein,100.0,573,3,573.0,1.0
+group_293,,hypothetical protein,100.0,393,12,393.0,1.0
+scrB_3~~~scrB_2,scrB_3;scrB_2,Sucrose-6-phosphate hydrolase,100.0,1470,13,1470.0,1.0
+group_290,,hypothetical protein,100.0,360,3,360.0,1.0
+apbE,apbE,FAD:protein FMN transferase,100.0,927,13,927.0,1.0
+group_289,,hypothetical protein,100.0,657,5,657.0,1.0
+znuC,znuC,Zinc import ATP-binding protein ZnuC,100.0,660,18,660.0,1.0
+group_288,,hypothetical protein,100.0,684,5,684.0,1.0
+nanE,nanE,Putative N-acetylmannosamine-6-phosphate 2-epimerase,100.0,693,7,693.0,1.0
+bceA,bceA,Bacitracin export ATP-binding protein BceA,100.0,747,62,747.0,1.0
+group_280,,Aspartate racemase,100.0,750,13,750.0,1.0
+ptsG,ptsG,PTS system glucose-specific EIICBA component,100.0,2076,20,2076.0,1.0
+group_279,,hypothetical protein,100.0,183,3,183.0,1.0
+glcR_2,glcR_2,HTH-type transcriptional repressor GlcR,100.0,759,8,759.0,1.0
+tagU,tagU,Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU,100.0,1125,17,1125.0,1.0
+soj,soj,Sporulation initiation inhibitor protein Soj,100.0,774,12,774.0,1.0
+rcsC,rcsC,Sensor histidine kinase RcsC,100.0,1146,17,1146.0,1.0
+rpsQ,rpsQ,Small ribosomal subunit protein uS17,100.0,267,12,267.0,1.0
+group_266,,hypothetical protein,100.0,300,5,300.0,1.0
+rpsJ,rpsJ,Small ribosomal subunit protein uS10,100.0,309,12,309.0,1.0
+rplL,rplL,Large ribosomal subunit protein bL12,100.0,363,12,363.0,1.0
+rpmJ,rpmJ,Large ribosomal subunit protein bL36,100.0,117,12,117.0,1.0
+rpmD,rpmD,Large ribosomal subunit protein uL30,100.0,183,12,183.0,1.0
+rpsZ,rpsZ,Small ribosomal subunit protein uS14,100.0,186,12,186.0,1.0
+rpmC,rpmC,Large ribosomal subunit protein uL29,100.0,198,12,198.0,1.0
+rplX,rplX,Large ribosomal subunit protein uL24,100.0,240,12,240.0,1.0
+mtgA_2,mtgA_2,Biosynthetic peptidoglycan transglycosylase,100.0,2829,15,2829.0,1.0
+frc_1~~~frc_2~~~frc,frc_1;frc_2;frc,Formyl-CoA:oxalate CoA-transferase,100.0,1359,10,1359.0,1.0
+ganS,ganS,Galactooligosaccharide-binding protein,100.0,1218,18,1218.0,1.0
+group_118,,hypothetical protein,100.0,534,4,534.0,1.0
+plsY_2,plsY_2,Glycerol-3-phosphate acyltransferase,100.0,660,13,660.0,1.0
+htpX_1,htpX_1,Protease HtpX,100.0,918,13,918.0,1.0
+ytlR,ytlR,Putative lipid kinase YtlR,100.0,936,8,936.0,1.0
+amiE,amiE,N-acetylmuramyl-L-alanine amidase,100.0,1020,13,1020.0,1.0
+tuf,tuf,Elongation factor Tu,100.0,1191,31,1191.0,1.0
+rarA_2,rarA_2,Replication-associated recombination protein A,100.0,1281,20,1281.0,1.0
+group_26,,hypothetical protein,100.0,138,1,138.0,1.0
+parE,parE,DNA topoisomerase IV subunit B ParE,100.0,1959,47,1959.0,1.0
+rpsU,rpsU,Small ribosomal subunit protein bS21,100.0,177,12,177.0,1.0
+addA,addA,ATP-dependent helicase/nuclease subunit A,100.0,3615,32,3615.0,1.0
+infC,infC,Translation initiation factor IF-3,100.0,520,12,519.0,1.002
+ygcS,ygcS,Inner membrane metabolite transport protein YgcS,100.0,1278,28,1275.0,1.002
+group_592,,hypothetical protein,100.0,11060,59,11043.0,1.002
+group_327,,Macro domain-containing protein,100.0,511,12,510.0,1.002
+group_316,,putative ABC transporter permease,100.0,1055,12,1053.0,1.002
+tagK_3,tagK_3,D-tagatose-1-phosphate kinase,100.0,918,12,915.0,1.003
+yheS,yheS,putative ATP-binding protein YheS,100.0,1552,13,1548.0,1.003
+dltC,dltC,D-alanyl carrier protein,100.0,241,12,240.0,1.004
+pepDA_1,pepDA_1,Dipeptidase A,100.0,1431,59,1425.0,1.004
+group_298,,hypothetical protein,100.0,838,3,834.0,1.005
+ychF,ychF,Ribosome-binding ATPase YchF,100.0,1108,12,1101.0,1.006
+dltB,dltB,Teichoic acid D-alanyltransferase,100.0,1232,12,1224.0,1.007
+rplR,rplR,Large ribosomal subunit protein uL18,100.0,363,14,360.0,1.008
+iscS_2,iscS_2,Cysteine desulfurase IscS,100.0,1165,23,1155.0,1.009
+dtd3,dtd3,D-aminoacyl-tRNA deacylase,100.0,779,13,771.0,1.01
+rplJ,rplJ,Large ribosomal subunit protein uL10,100.0,580,12,573.0,1.012
+malP,malP,Maltose phosphorylase,100.0,2301,13,2271.0,1.013
+ybiV_3,ybiV_3,Sugar phosphatase YbiV,100.0,797,18,786.0,1.014
+group_237,ackA_1,Acetate kinase,100.0,1198,26,1179.0,1.016
+nfr2,nfr2,NADH-dependent flavin reductase subunit 2,100.0,566,12,555.0,1.02
+group_208,,hypothetical protein,100.0,2446,54,2388.0,1.024
+rpsT,rpsT,Small ribosomal subunit protein bS20,100.0,266,12,258.0,1.031
