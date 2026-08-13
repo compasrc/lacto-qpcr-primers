@@ -1,0 +1,1866 @@
+Gene,Non-unique Gene name,Annotation,Lactobacillus_gasseri__UMB1399__GCA_007826985.2,Lactobacillus_gasseri__UMB6735__GCA_030216645.1
+group_824,,hypothetical protein,DLKHCADP_01444,FKLDPHGP_01674
+group_823,,hypothetical protein,0_refound_5_pseudo,FKLDPHGP_01224
+ecfA2,ecfA2,Energy-coupling factor transporter ATP-binding protein EcfA2,0_refound_4_pseudo,FKLDPHGP_01060
+ftsL_3,ftsL_3,Cell division protein FtsL,0_refound_3_pseudo,FKLDPHGP_01013
+walK,walK,Sensor histidine kinase WalK,0_refound_2_pseudo,FKLDPHGP_00805
+prfA,prfA,Peptide chain release factor 1,0_refound_1_pseudo,FKLDPHGP_00722
+uvrB_2,uvrB_2,UvrABC system protein B,DLKHCADP_01798,FKLDPHGP_00794
+polC_2,polC_2,DNA polymerase III PolC-type,DLKHCADP_01823,FKLDPHGP_00769
+smpB,smpB,SsrA-binding protein,DLKHCADP_01814,FKLDPHGP_00778
+tpiA,tpiA,Triosephosphate isomerase,DLKHCADP_01810,FKLDPHGP_00782
+group_821,,hypothetical protein,DLKHCADP_01800,FKLDPHGP_00792
+pta,pta,Phosphate acetyltransferase,DLKHCADP_01821,FKLDPHGP_00771
+galM,galM,Aldose 1-epimerase,DLKHCADP_01796,FKLDPHGP_00796
+pgcA,pgcA,Phosphoglucomutase,DLKHCADP_01797,FKLDPHGP_00795
+ung,ung,Uracil-DNA glycosylase,DLKHCADP_01820,FKLDPHGP_00772
+rnr,rnr,Ribonuclease R,DLKHCADP_01813,FKLDPHGP_00779
+tsaE,tsaE,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE,DLKHCADP_01822,FKLDPHGP_00770
+eno2_2,eno2_2,Enolase 2,DLKHCADP_01811,FKLDPHGP_00781
+lacR_2,lacR_2,HTH-type transcriptional regulator LacR,DLKHCADP_01793,FKLDPHGP_00799
+ycaM_3,ycaM_3,Inner membrane transporter YcaM,DLKHCADP_01805,FKLDPHGP_00787
+group_820,,hypothetical protein,DLKHCADP_01817,FKLDPHGP_00775
+gap,gap,Glyceraldehyde-3-phosphate dehydrogenase,DLKHCADP_01808,FKLDPHGP_00784
+galK_2,galK_2,Galactokinase,DLKHCADP_01794,FKLDPHGP_00798
+galT,galT,Galactose-1-phosphate uridylyltransferase,DLKHCADP_01795,FKLDPHGP_00797
+rimI_2,rimI_2,[Ribosomal protein bS18]-alanine N-acetyltransferase,DLKHCADP_01815,FKLDPHGP_00777
+uvrA_2,uvrA_2,UvrABC system protein A,DLKHCADP_01799,FKLDPHGP_00793
+group_819,,hypothetical protein,DLKHCADP_01816,FKLDPHGP_00776
+group_818,,hypothetical protein,DLKHCADP_01818,FKLDPHGP_00774
+cggR,cggR,Central glycolytic genes regulator,DLKHCADP_01807,FKLDPHGP_00785
+group_817,,Putative gluconeogenesis factor,DLKHCADP_01802,FKLDPHGP_00790
+ywpJ,ywpJ,Phosphatase YwpJ,DLKHCADP_01819,FKLDPHGP_00773
+secG,secG,putative protein-export membrane protein SecG,DLKHCADP_01812,FKLDPHGP_00780
+clpP_3,clpP_3,ATP-dependent Clp protease proteolytic subunit,DLKHCADP_01804,FKLDPHGP_00788
+pgk,pgk,Phosphoglycerate kinase,DLKHCADP_01809,FKLDPHGP_00783
+whiA,whiA,putative cell division protein WhiA,DLKHCADP_01803,FKLDPHGP_00789
+yvcJ,yvcJ,Nucleotide-binding protein YvcJ,DLKHCADP_01801,FKLDPHGP_00791
+walR,walR,Transcriptional regulatory protein WalR,DLKHCADP_01750,FKLDPHGP_00804
+ybiV_2,ybiV_2,Sugar phosphatase YbiV,DLKHCADP_01590,FKLDPHGP_00083
+rapA,rapA,RNA polymerase-associated protein RapA,DLKHCADP_01582,FKLDPHGP_00370
+hslO,hslO,33 kDa chaperonin,DLKHCADP_01581,FKLDPHGP_01018
+xerC_5,xerC_5,Tyrosine recombinase XerC,DLKHCADP_01576,FKLDPHGP_00374
+hsdS,hsdS,Type I restriction enzyme EcoR124I/EcoR124II specificity subunit,DLKHCADP_01575,FKLDPHGP_00375
+group_816,,hypothetical protein,DLKHCADP_01577,FKLDPHGP_00373
+hsdM,hsdM,Type I restriction enzymeP methylase subunit,DLKHCADP_01578,FKLDPHGP_00372
+group_815,,hypothetical protein,DLKHCADP_01568,FKLDPHGP_00879
+spxH,spxH,ClpXP adapter protein SpxH,DLKHCADP_01551,FKLDPHGP_01314
+hprK,hprK,HPr kinase/phosphorylase,DLKHCADP_01523,FKLDPHGP_01342
+recA,recA,Protein RecA,DLKHCADP_01533,FKLDPHGP_01332
+rny,rny,Ribonuclease Y,DLKHCADP_01532,FKLDPHGP_01333
+group_814,,hypothetical protein,DLKHCADP_01537,FKLDPHGP_01328
+group_813,,hypothetical protein,DLKHCADP_01557,FKLDPHGP_01308
+clpE_2,clpE_2,ATP-dependent Clp protease ATP-binding subunit ClpE,DLKHCADP_01558,FKLDPHGP_01307
+spx,spx,Global transcriptional regulator Spx,DLKHCADP_01554,FKLDPHGP_01311
+hpf,hpf,Ribosome hibernation promotion factor,DLKHCADP_01527,FKLDPHGP_01338
+comFA,comFA,Competence protein ComFA,DLKHCADP_01529,FKLDPHGP_01336
+group_812,,hypothetical protein,DLKHCADP_01550,FKLDPHGP_01315
+ptsH,ptsH,Phosphocarrier protein HPr,DLKHCADP_01556,FKLDPHGP_01309
+yjbM,yjbM,GTP pyrophosphokinase YjbM,DLKHCADP_01549,FKLDPHGP_01316
+lgt,lgt,Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase,DLKHCADP_01522,FKLDPHGP_01343
+ptsI,ptsI,Phosphoenolpyruvate-protein phosphotransferase,DLKHCADP_01555,FKLDPHGP_01310
+rluD_2,rluD_2,Ribosomal large subunit pseudouridine synthase D,DLKHCADP_01547,FKLDPHGP_01318
+tagO,tagO,putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase,DLKHCADP_01531,FKLDPHGP_01334
+secA,secA,Protein translocase subunit SecA,DLKHCADP_01526,FKLDPHGP_01339
+prfB,prfB,Peptide chain release factor 2,DLKHCADP_01525,FKLDPHGP_01340
+cspR,cspR,Putative tRNA (cytidine(34)-2'-O)-methyltransferase,DLKHCADP_01541,FKLDPHGP_01324
+spoIIIE,spoIIIE,DNA translocase SpoIIIE,DLKHCADP_01539,FKLDPHGP_01326
+group_811,,hypothetical protein,DLKHCADP_01524,FKLDPHGP_01341
+sph,sph,Oleate hydratase,DLKHCADP_01546,FKLDPHGP_01319
+pgsA,pgsA,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,DLKHCADP_01534,FKLDPHGP_01331
+gpsA,gpsA,Glycerol-3-phosphate dehydrogenase [NAD(P)+],DLKHCADP_01521,FKLDPHGP_01344
+pgl,pgl,6-phosphogluconolactonase,DLKHCADP_01544,FKLDPHGP_01321
+group_810,,Putative transport protein,DLKHCADP_01542,FKLDPHGP_01323
+group_809,,hypothetical protein,DLKHCADP_01540,FKLDPHGP_01325
+group_808,,hypothetical protein,DLKHCADP_01535,FKLDPHGP_01330
+mecA,mecA,Adapter protein MecA 1,DLKHCADP_01553,FKLDPHGP_01312
+nadK,nadK,NAD kinase,DLKHCADP_01548,FKLDPHGP_01317
+fabG,fabG,3-oxoacyl-[acyl-carrier-protein] reductase FabG,DLKHCADP_01536,FKLDPHGP_01329
+trxB,trxB,Thioredoxin reductase,DLKHCADP_01520,FKLDPHGP_01345
+group_807,,hypothetical protein,DLKHCADP_01545,FKLDPHGP_01320
+group_806,,hypothetical protein,DLKHCADP_01543,FKLDPHGP_01322
+group_805,,hypothetical protein,DLKHCADP_01538,FKLDPHGP_01327
+yigZ,yigZ,IMPACT family member YigZ,DLKHCADP_01530,FKLDPHGP_01335
+group_804,,hypothetical protein,DLKHCADP_01552,FKLDPHGP_01313
+comFC,comFC,Competence protein ComFC,DLKHCADP_01528,FKLDPHGP_01337
+cpoA,cpoA,Alpha-galactosylglucosyldiacylglycerol synthase,DLKHCADP_01451,FKLDPHGP_00003
+ltaS1,ltaS1,Lipoteichoic acid synthase 1,DLKHCADP_01453,FKLDPHGP_00001
+group_803,,hypothetical protein,DLKHCADP_01452,FKLDPHGP_00002
+group_802,,hypothetical protein,DLKHCADP_01450,FKLDPHGP_01673
+group_801,,hypothetical protein,DLKHCADP_01443,FKLDPHGP_01768
+group_800,,hypothetical protein,DLKHCADP_01442,FKLDPHGP_01769
+adhE,adhE,Aldehyde-alcohol dehydrogenase,DLKHCADP_01441,FKLDPHGP_01770
+group_799,,hypothetical protein,DLKHCADP_01438,FKLDPHGP_01767
+group_798,,hypothetical protein,DLKHCADP_01439,FKLDPHGP_01766
+srmB,srmB,ATP-dependent RNA helicase SrmB,DLKHCADP_01440,FKLDPHGP_01765
+farB,;farB,hypothetical protein;Fatty acid resistance protein FarB,DLKHCADP_01431;DLKHCADP_01574,FKLDPHGP_01248
+murC,murC,UDP-N-acetylmuramate--L-alanine ligase,DLKHCADP_01427,FKLDPHGP_01244
+cutC,cutC,PF03932 family protein CutC,DLKHCADP_01426,FKLDPHGP_01243
+group_797,,hypothetical protein,DLKHCADP_01429,FKLDPHGP_01246
+licC_3~~~licC_2,licC_3;licC_2,Lichenan permease IIC component,DLKHCADP_01425,FKLDPHGP_01242
+group_796,,hypothetical protein,DLKHCADP_01430,FKLDPHGP_01247
+gmuR_3,gmuR_3,HTH-type transcriptional regulator GmuR,DLKHCADP_01428,FKLDPHGP_01245
+recX,recX,Regulatory protein RecX,DLKHCADP_01482,FKLDPHGP_01300
+uup_7,uup_7,ATP-binding protein Uup,DLKHCADP_01387,FKLDPHGP_01259
+group_795,,hypothetical protein,DLKHCADP_01493,FKLDPHGP_01289
+mltG,mltG,Endolytic murein transglycosylase,DLKHCADP_01502,FKLDPHGP_01280
+mvaA,mvaA,3-hydroxy-3-methylglutaryl-coenzyme A reductase,DLKHCADP_01485,FKLDPHGP_01297
+pbpA,pbpA,Penicillin-binding protein 2A,DLKHCADP_01499,FKLDPHGP_01283
+rlmCD,rlmCD,23S rRNA (uracil-C(5))-methyltransferase RlmCD,DLKHCADP_01483,FKLDPHGP_01299
+glpE,glpE,Thiosulfate sulfurtransferase GlpE,DLKHCADP_01494,FKLDPHGP_01288
+yqeH,yqeH,putative protein YqeH,DLKHCADP_01516,FKLDPHGP_01266
+group_794,,hypothetical protein,DLKHCADP_01479,FKLDPHGP_01303
+rlmP,rlmP,23S rRNA (guanosine(2553)-2'-O)-methyltransferase RlmP,DLKHCADP_01506,FKLDPHGP_01276
+gluP,gluP,Rhomboid protease GluP,DLKHCADP_01496,FKLDPHGP_01286
+polA_2~~~polA,polA_2;polA,DNA polymerase I,DLKHCADP_01573,FKLDPHGP_01250
+mutM,mutM,Formamidopyrimidine-DNA glycosylase,DLKHCADP_01393,FKLDPHGP_01251
+nrdR,nrdR,Transcriptional repressor NrdR,DLKHCADP_01395,FKLDPHGP_01253
+yidC,yidC,Membrane protein insertase YidC,DLKHCADP_01508,FKLDPHGP_01274
+group_793,,hypothetical protein,DLKHCADP_01511,FKLDPHGP_01271
+group_792,,hypothetical protein,DLKHCADP_01388,FKLDPHGP_01260
+nadD,nadD,Nicotinate-nucleotide adenylyltransferase,DLKHCADP_01515,FKLDPHGP_01267
+rplT_2~~~rplT,rplT_2;rplT,Large ribosomal subunit protein bL20,DLKHCADP_01519,FKLDPHGP_01263
+yccX,yccX,Acylphosphatase,DLKHCADP_01507,FKLDPHGP_01275
+rpmI,rpmI,Large ribosomal subunit protein bL35,DLKHCADP_01390,FKLDPHGP_01262
+dnaI,dnaI,Replicative helicase loader DnaI,DLKHCADP_01397,FKLDPHGP_01255
+pheT_2,pheT_2,Phenylalanine--tRNA ligase beta subunit,DLKHCADP_01503,FKLDPHGP_01279
+yqgN,yqgN,putative protein YqgN,DLKHCADP_01497,FKLDPHGP_01285
+add1,add1,Adenosine deaminase 1,DLKHCADP_01518,FKLDPHGP_01264
+greA_2,greA_2,Transcription elongation factor GreA,DLKHCADP_01501,FKLDPHGP_01281
+rsfS,rsfS,Ribosomal silencing factor RsfS,DLKHCADP_01513,FKLDPHGP_01269
+group_791,,hypothetical protein,DLKHCADP_01476,FKLDPHGP_01306
+tmcAL,tmcAL,tRNA(Met) cytidine acetate ligase,DLKHCADP_01512,FKLDPHGP_01270
+group_790,,hypothetical protein,DLKHCADP_01500,FKLDPHGP_01282
+group_789,,hypothetical protein,DLKHCADP_01386,FKLDPHGP_01258
+mvaS,mvaS,Hydroxymethylglutaryl-CoA synthase,DLKHCADP_01484,FKLDPHGP_01298
+yodB,yodB,HTH-type transcriptional regulator YodB,DLKHCADP_01505,FKLDPHGP_01277
+thlA,thlA,Acetyl-CoA acetyltransferase,DLKHCADP_01486,FKLDPHGP_01296
+miaA,miaA,tRNA dimethylallyltransferase,DLKHCADP_01492,FKLDPHGP_01290
+yfcJ,yfcJ,putative MFS-type transporter YfcJ,DLKHCADP_01490,FKLDPHGP_01292
+group_788,,hypothetical protein,DLKHCADP_01480,FKLDPHGP_01302
+dpaL,dpaL,Diaminopropionate ammonia-lyase,DLKHCADP_01572,FKLDPHGP_01249
+group_787,,putative HTH-type transcriptional regulator,DLKHCADP_01385,FKLDPHGP_01257
+glnA,glnA,Glutamine synthetase,DLKHCADP_01491,FKLDPHGP_01291
+group_786,,hypothetical protein,DLKHCADP_01488,FKLDPHGP_01294
+dnaB_2,dnaB_2,Replicative helicase loading/DNA remodeling protein DnaB,DLKHCADP_01396,FKLDPHGP_01254
+group_785,,hypothetical protein,DLKHCADP_01495,FKLDPHGP_01287
+rpmGA,rpmGA,Large ribosomal subunit protein bL33A,DLKHCADP_01498,FKLDPHGP_01284
+arlR,arlR,Response regulator ArlR,DLKHCADP_01510,FKLDPHGP_01272
+group_784,,hypothetical protein,DLKHCADP_01517,FKLDPHGP_01265
+thrS,thrS,Threonine--tRNA ligase,DLKHCADP_01384,FKLDPHGP_01256
+infC,infC,Translation initiation factor IF-3,DLKHCADP_01389,FKLDPHGP_01261
+sasA_2,sasA_2,Adaptive-response sensory-kinase SasA,DLKHCADP_01509,FKLDPHGP_01273
+pheS,pheS,Phenylalanine--tRNA ligase alpha subunit,DLKHCADP_01504,FKLDPHGP_01278
+group_783,,Nucleoside triphosphate/diphosphate phosphatase,DLKHCADP_01481,FKLDPHGP_01301
+corC,corC,Magnesium and cobalt efflux protein CorC,DLKHCADP_01478,FKLDPHGP_01304
+menH_1,menH_1,2-succinyl-6-hydroxy-24-cyclohexadiene-1-carboxylate synthase,DLKHCADP_01487,FKLDPHGP_01295
+group_782,,Bis(5'-nucleosyl)-tetraphosphatase symmetrical,DLKHCADP_01514,FKLDPHGP_01268
+coaE,coaE,Dephospho-CoA kinase,DLKHCADP_01394,FKLDPHGP_01252
+prfC,prfC,Peptide chain release factor 3,DLKHCADP_01477,FKLDPHGP_01305
+ybiV_1,ybiV_1,Sugar phosphatase YbiV,DLKHCADP_01489,FKLDPHGP_01293
+ligA,ligA,DNA ligase,DLKHCADP_01268,FKLDPHGP_01191
+tarD,tarD,Glycerol-3-phosphate cytidylyltransferase,DLKHCADP_01284,FKLDPHGP_01174
+yidA_1,yidA_1,Sugar phosphatase YidA,DLKHCADP_01261,FKLDPHGP_01198
+group_781,,hypothetical protein,DLKHCADP_01294,FKLDPHGP_01164
+group_780,,hypothetical protein,DLKHCADP_01260,FKLDPHGP_01199
+mshA,mshA,D-inositol-3-phosphate glycosyltransferase,DLKHCADP_01282,FKLDPHGP_01176
+group_779,,Protein SprT-like protein,DLKHCADP_01273,FKLDPHGP_01186
+panT,panT,Pantothenate transporter PanT,DLKHCADP_01271,FKLDPHGP_01188
+psiE,psiE,Protein PsiE,DLKHCADP_01299,FKLDPHGP_01159
+pcrA,pcrA,ATP-dependent DNA helicase PcrA,DLKHCADP_01269,FKLDPHGP_01190
+group_778,,hypothetical protein,DLKHCADP_01296,FKLDPHGP_01162
+group_776,,hypothetical protein,DLKHCADP_01286,FKLDPHGP_01172
+group_775,,hypothetical protein,DLKHCADP_01270,FKLDPHGP_01189
+hexR,hexR,HTH-type transcriptional regulator HexR,DLKHCADP_01291,FKLDPHGP_01167
+nagR_1,nagR_1,HTH-type transcriptional repressor NagR,DLKHCADP_01285,FKLDPHGP_01173
+gatB_2,gatB_2,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B,DLKHCADP_01264,FKLDPHGP_01195
+tagA,tagA,N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase,DLKHCADP_01283,FKLDPHGP_01175
+yerH,yerH,putative lipoprotein YerH,DLKHCADP_01267,FKLDPHGP_01192
+group_774,,hypothetical protein,DLKHCADP_01274,FKLDPHGP_01185
+group_773,,L-2-hydroxyisocaproate dehydrogenase,DLKHCADP_01290,FKLDPHGP_01168
+dagK,dagK,Diacylglycerol kinase,DLKHCADP_01263,FKLDPHGP_01196
+rfbX,rfbX,Putative O-antigen transporter,DLKHCADP_01275,FKLDPHGP_01184
+tagF,tagF,Teichoic acid poly(glycerol phosphate) polymerase,DLKHCADP_01276,FKLDPHGP_01183
+gatA_2,gatA_2,Glutamyl-tRNA(Gln) amidotransferase subunit A,DLKHCADP_01265,FKLDPHGP_01194
+nadE,nadE,NH(3)-dependent NAD(+) synthetase,DLKHCADP_01279,FKLDPHGP_01179
+group_771,,hypothetical protein,DLKHCADP_01262,FKLDPHGP_01197
+group_770,,hypothetical protein,DLKHCADP_01297,FKLDPHGP_01161
+group_767,,Calcium-transporting ATPase 1,DLKHCADP_01278,FKLDPHGP_01180
+pncB2,pncB2,Nicotinate phosphoribosyltransferase pncB2,DLKHCADP_01280,FKLDPHGP_01178
+rclA,rclA,putative pyridine nucleotide-disulfide oxidoreductase RclA,DLKHCADP_01316,FKLDPHGP_01154
+group_765,,hypothetical protein,DLKHCADP_01298,FKLDPHGP_01160
+group_764,,Aldo-keto reductase/MSMEI_2347,DLKHCADP_01315,FKLDPHGP_01155
+group_761,,hypothetical protein,DLKHCADP_01300,FKLDPHGP_01158
+iolG,iolG,Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase,DLKHCADP_01293,FKLDPHGP_01165
+group_760,,Sulfurtransferase,DLKHCADP_01287,FKLDPHGP_01171
+gatC_4,gatC_4,Glutamyl-tRNA(Gln) amidotransferase subunit C,DLKHCADP_01266,FKLDPHGP_01193
+group_758,,hypothetical protein,DLKHCADP_01292,FKLDPHGP_01166
+uup_6,uup_6,ATP-binding protein Uup,DLKHCADP_01277,FKLDPHGP_01181
+group_755,,hypothetical protein,DLKHCADP_01281,FKLDPHGP_01177
+nrdF,nrdF,Ribonucleoside-diphosphate reductase 2 subunit beta,DLKHCADP_01257,FKLDPHGP_01724
+nrdI_1~~~nrdI_2,nrdI_1;nrdI_2,Protein NrdI,DLKHCADP_01258,FKLDPHGP_01725
+nrdE1,nrdE1,Ribonucleoside-diphosphate reductase subunit alpha 1,DLKHCADP_01259,FKLDPHGP_01726
+group_754,,hypothetical protein,DLKHCADP_01228,FKLDPHGP_01646
+group_753,,hypothetical protein,DLKHCADP_01230,FKLDPHGP_01643;FKLDPHGP_01644
+group_752,,hypothetical protein,DLKHCADP_01231,FKLDPHGP_01642
+group_751,,hypothetical protein,DLKHCADP_01233,FKLDPHGP_01640
+group_750,,hypothetical protein,DLKHCADP_01232,FKLDPHGP_01641
+serS,serS,Serine--tRNA ligase,DLKHCADP_01234,FKLDPHGP_01639
+gabD1,gabD1,Succinate-semialdehyde dehydrogenase [NADP(+)] 1,DLKHCADP_01229,FKLDPHGP_01645
+sugC,sugC,Trehalose import ATP-binding protein SugC,DLKHCADP_01226,FKLDPHGP_01661
+group_748,,hypothetical protein,DLKHCADP_01217,FKLDPHGP_01655
+group_747,,Protein ADP-ribosyltransferase,DLKHCADP_01402,FKLDPHGP_01668
+group_746,,hypothetical protein,DLKHCADP_01239,FKLDPHGP_01647
+group_745,,Putative phosphatase,DLKHCADP_01238,FKLDPHGP_01648
+araQ,araQ,Arabinooligosaccharides transport system permease protein AraQ,DLKHCADP_01213,FKLDPHGP_01659
+pepT_3,pepT_3,Peptidase T,DLKHCADP_01399,FKLDPHGP_01671
+paiA,paiA,Spermidine/spermine N(1)-acetyltransferase,DLKHCADP_01218,FKLDPHGP_01654
+pepDA_2~~~pepDA_3,pepDA_2;pepDA_3,Dipeptidase A,DLKHCADP_01225,FKLDPHGP_01662
+group_744,,hypothetical protein,DLKHCADP_01400,FKLDPHGP_01670
+group_743,,hypothetical protein,DLKHCADP_01401,FKLDPHGP_01669
+rnj,rnj,Ribonuclease J,DLKHCADP_01214,FKLDPHGP_01658
+group_742,,hypothetical protein,DLKHCADP_01215,FKLDPHGP_01657
+group_741,,hypothetical protein,DLKHCADP_01235,FKLDPHGP_01650
+murK,murK,N-acetylmuramic acid/N-acetylglucosamine kinase,DLKHCADP_01220,FKLDPHGP_01652
+group_740,,hypothetical protein,DLKHCADP_01222,FKLDPHGP_01666
+dkgB,dkgB;,25-diketo-D-gluconic acid reductase B;hypothetical protein,DLKHCADP_01223,FKLDPHGP_01664;FKLDPHGP_01665
+group_739,,hypothetical protein,DLKHCADP_01216,FKLDPHGP_01656
+dinG_2,dinG_2,3'-5' exonuclease DinG,DLKHCADP_01403,FKLDPHGP_01667
+group_738,,Acetyltransferase,DLKHCADP_01219,FKLDPHGP_01653
+lacF_1,lacF_1,Lactose transport system permease protein LacF,DLKHCADP_01227,FKLDPHGP_01660
+group_737,,hypothetical protein,DLKHCADP_01224,FKLDPHGP_01663
+group_736,,hypothetical protein,DLKHCADP_01221,FKLDPHGP_01651
+ydgH,;ydgH,hypothetical protein;Putative membrane protein YdgH,DLKHCADP_01237;DLKHCADP_01236,FKLDPHGP_01649
+groEL,groEL,Chaperonin GroEL,DLKHCADP_01173,FKLDPHGP_01148
+group_735,,hypothetical protein,DLKHCADP_01174,FKLDPHGP_01149
+yvqK,yvqK,Corrinoid adenosyltransferase,DLKHCADP_01369,FKLDPHGP_01202
+ecfT_1,ecfT_1,Energy-coupling factor transporter transmembrane protein EcfT,DLKHCADP_01364,FKLDPHGP_01207
+group_728,,hypothetical protein,DLKHCADP_01362,FKLDPHGP_01209
+group_727,,(R)-S-adenosyl-L-methionine hydrolase,DLKHCADP_01361,FKLDPHGP_01210
+pepV_2,pepV_2,Beta-Ala-Xaa dipeptidase,DLKHCADP_01435,FKLDPHGP_01239
+group_725,,hypothetical protein,DLKHCADP_01157,FKLDPHGP_01221
+dinB_2,dinB_2,DNA polymerase IV,DLKHCADP_01155,FKLDPHGP_01219
+group_723,,putative RNA methyltransferase,DLKHCADP_01357,FKLDPHGP_01214
+nhaC,nhaC,Na(+)/H(+) antiporter NhaC,DLKHCADP_01360,FKLDPHGP_01211
+ytpP,ytpP,Thioredoxin-like protein YtpP,DLKHCADP_01432,FKLDPHGP_01236
+group_721,,hypothetical protein,DLKHCADP_01150,FKLDPHGP_01235
+prsA,prsA,Foldase protein PrsA,DLKHCADP_01142,FKLDPHGP_01227
+group_717,,hypothetical protein,DLKHCADP_01143,FKLDPHGP_01228
+group_716,,hypothetical protein,DLKHCADP_01159,FKLDPHGP_01223
+pheT_1,pheT_1,Phenylalanine--tRNA ligase beta subunit,DLKHCADP_01433,FKLDPHGP_01237
+group_713,,hypothetical protein,DLKHCADP_01154,FKLDPHGP_01218
+group_711,,hypothetical protein,DLKHCADP_01367,FKLDPHGP_01204
+group_709,,N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase,DLKHCADP_01436,FKLDPHGP_01240
+pbpX_2~~~pbpX_1,pbpX_2;pbpX_1,Putative penicillin-binding protein PbpX,DLKHCADP_01151,FKLDPHGP_01215
+group_707,,hypothetical protein,DLKHCADP_01358,FKLDPHGP_01213
+yhaM,yhaM,3'-5' exoribonuclease YhaM,DLKHCADP_01141,FKLDPHGP_01226
+trmB,trmB,tRNA (guanine-N(7)-)-methyltransferase,DLKHCADP_01148,FKLDPHGP_01233
+ykoD_1,ykoD_1,Putative HMP/thiamine import ATP-binding protein YkoD,DLKHCADP_01363,FKLDPHGP_01208
+bcrA,bcrA,Bacitracin transport ATP-binding protein BcrA,DLKHCADP_01359,FKLDPHGP_01212
+group_705,,IS3 family transposase ISEnfa5,DLKHCADP_01370,FKLDPHGP_01201
+ybhL_2,ybhL_2,Inner membrane protein YbhL,DLKHCADP_01365,FKLDPHGP_01206
+hit,hit,Protein hit,DLKHCADP_01145,FKLDPHGP_01230
+nagR_2,nagR_2,HTH-type transcriptional repressor NagR,DLKHCADP_01434,FKLDPHGP_01238
+group_700,,hypothetical protein,DLKHCADP_01149,FKLDPHGP_01234
+ecsA,ecsA,ABC-type transporter ATP-binding protein EcsA,DLKHCADP_01146,FKLDPHGP_01231
+pbp2a,pbp2a,Penicillin-binding protein 2a,DLKHCADP_01158,FKLDPHGP_01222
+galE_1,galE_1,UDP-glucose 4-epimerase,DLKHCADP_01317,1_refound_8_pseudo
+rtpR,rtpR,Adenosylcobalamin-dependent ribonucleoside-triphosphate reductase,DLKHCADP_01366,FKLDPHGP_01205
+group_694,,hypothetical protein,DLKHCADP_01140,FKLDPHGP_01225
+group_693,,hypothetical protein,DLKHCADP_01144,FKLDPHGP_01229
+group_692,,hypothetical protein,DLKHCADP_01152,FKLDPHGP_01216
+group_690,,hypothetical protein,DLKHCADP_01371,FKLDPHGP_01200
+group_685,,hypothetical protein,DLKHCADP_01147,FKLDPHGP_01232
+group_684,,hypothetical protein,DLKHCADP_01368,FKLDPHGP_01203
+group_681,,hypothetical protein,DLKHCADP_01437,FKLDPHGP_01241
+group_680,,hypothetical protein,DLKHCADP_01153,FKLDPHGP_01217
+dltB,dltB,Teichoic acid D-alanyltransferase,DLKHCADP_01029,FKLDPHGP_01355
+group_677,,L-lactate oxidase,DLKHCADP_01085,FKLDPHGP_01404
+group_676,,hypothetical protein,DLKHCADP_01111,FKLDPHGP_01430
+group_675,,hypothetical protein,DLKHCADP_01093,FKLDPHGP_01412
+group_674,,hypothetical protein,DLKHCADP_01103,FKLDPHGP_01422
+ygcS,ygcS,Inner membrane metabolite transport protein YgcS,DLKHCADP_01105,FKLDPHGP_01424
+yeaE,yeaE,Methylglyoxal reductase YeaE,DLKHCADP_01081,FKLDPHGP_01400
+dltD,dltD,Protein DltD,DLKHCADP_01027,FKLDPHGP_01353
+group_672,,hypothetical protein,DLKHCADP_01110,FKLDPHGP_01429
+group_671,,hypothetical protein,DLKHCADP_01109,FKLDPHGP_01428
+group_670,,hypothetical protein,DLKHCADP_01094,FKLDPHGP_01413
+pbuG_2,pbuG_2,Guanine/hypoxanthine permease PbuG,DLKHCADP_01089,FKLDPHGP_01408
+pbuG_1,pbuG_1,Guanine/hypoxanthine permease PbuG,DLKHCADP_01086,FKLDPHGP_01405
+pbuG_3,pbuG_3,Guanine/hypoxanthine permease PbuG,DLKHCADP_01091,FKLDPHGP_01410
+group_669,,hypothetical protein,DLKHCADP_01097,FKLDPHGP_01416
+group_668,,hypothetical protein,DLKHCADP_01035,FKLDPHGP_01360
+group_667,,hypothetical protein,DLKHCADP_01037,FKLDPHGP_01361
+group_666,,hypothetical protein,DLKHCADP_01033,FKLDPHGP_01359
+group_665,,hypothetical protein,DLKHCADP_01090,FKLDPHGP_01409
+group_664,,hypothetical protein,DLKHCADP_01045,FKLDPHGP_01369
+group_663,,hypothetical protein,DLKHCADP_01047,FKLDPHGP_01371
+group_662,,hypothetical protein,DLKHCADP_01099,FKLDPHGP_01418
+group_661,,hypothetical protein,DLKHCADP_01056,FKLDPHGP_01379
+group_660,,hypothetical protein,DLKHCADP_01023,FKLDPHGP_01349
+group_659,,hypothetical protein,DLKHCADP_01038,FKLDPHGP_01362
+group_657,,hypothetical protein,DLKHCADP_01032,FKLDPHGP_01358
+yidC2,yidC2,Membrane protein insertase YidC 2,DLKHCADP_01117,FKLDPHGP_01436
+group_655,,hypothetical protein,DLKHCADP_01055,FKLDPHGP_01378
+mnmE,mnmE,tRNA modification GTPase MnmE,DLKHCADP_01116,FKLDPHGP_01435
+gnd,gnd,6-phosphogluconate dehydrogenase decarboxylating,DLKHCADP_01113,FKLDPHGP_01432
+appC,appC,Cytochrome bd-II ubiquinol oxidase subunit 1,DLKHCADP_01059,FKLDPHGP_01381
+ykfB,ykfB,L-Ala-D/L-Glu epimerase,DLKHCADP_01072,FKLDPHGP_01395
+murQ,murQ,N-acetylmuramic acid 6-phosphate etherase,DLKHCADP_01074,FKLDPHGP_01397
+bcaP_2,bcaP_2,Branched-chain amino acid permease BcaP,DLKHCADP_01020,FKLDPHGP_01346
+group_654,,hypothetical protein,DLKHCADP_01046,FKLDPHGP_01370
+group_653,,hypothetical protein,DLKHCADP_01024,FKLDPHGP_01350
+dltA,dltA,D-alanine--D-alanyl carrier protein ligase,DLKHCADP_01030,FKLDPHGP_01356
+gatC_1~~~gatC_3,gatC_1;gatC_3,PTS system galactitol-specific EIIC component,DLKHCADP_01052,FKLDPHGP_01375
+darB,darB,Cyclic di-AMP receptor B,DLKHCADP_01040,FKLDPHGP_01364
+gatC_2,gatC_2,PTS system galactitol-specific EIIC component,DLKHCADP_01053,FKLDPHGP_01376
+group_652,,hypothetical protein,DLKHCADP_01022,FKLDPHGP_01348
+group_651,,hypothetical protein,DLKHCADP_01050,FKLDPHGP_01373
+group_650,,Deoxyadenosine kinase,DLKHCADP_01083,FKLDPHGP_01402
+pcp,pcp,Pyrrolidone-carboxylate peptidase,DLKHCADP_01049,FKLDPHGP_01372
+ycaM_1,ycaM_1,Inner membrane transporter YcaM,DLKHCADP_01101,FKLDPHGP_01420
+menA,menA,14-dihydroxy-2-naphthoate octaprenyltransferase,DLKHCADP_01063,FKLDPHGP_01385
+group_649,,hypothetical protein,DLKHCADP_01039,FKLDPHGP_01363
+pbpX_1,pbpX_1,Putative penicillin-binding protein PbpX,DLKHCADP_01026,FKLDPHGP_01352
+crp,crp,cAMP-activated global transcriptional regulator CRP,DLKHCADP_01108,FKLDPHGP_01427
+uup_5~~~uup_7,uup_5;;uup_7,ATP-binding protein Uup;hypothetical protein,DLKHCADP_01057;DLKHCADP_01058,FKLDPHGP_01380
+rnpA,rnpA,Ribonuclease P protein component,DLKHCADP_01118,FKLDPHGP_01437
+group_648,,hypothetical protein,DLKHCADP_01064,FKLDPHGP_01387
+group_647,,hypothetical protein,DLKHCADP_01096,FKLDPHGP_01415
+uup_4,uup_4,ATP-binding protein Uup,DLKHCADP_01044,FKLDPHGP_01368
+group_646,,Deoxyguanosine kinase,DLKHCADP_01084,FKLDPHGP_01403
+group_645,,hypothetical protein,DLKHCADP_01051,FKLDPHGP_01374
+group_644,,hypothetical protein,DLKHCADP_01106,FKLDPHGP_01425
+group_643,,hypothetical protein,DLKHCADP_01080,FKLDPHGP_01399
+fpaP_1,fpaP_1,Proline iminopeptidase,DLKHCADP_01066,FKLDPHGP_01389
+clcA_2,clcA_2,H(+)/Cl(-) exchange transporter ClcA,DLKHCADP_01112,FKLDPHGP_01431
+def_2,def_2,Peptide deformylase,DLKHCADP_01092,FKLDPHGP_01411
+cydC,cydC,Glutathione/L-cysteine transport system ATP-binding/permease protein CydC,DLKHCADP_01062,FKLDPHGP_01384
+group_642,,hypothetical protein,DLKHCADP_01043,FKLDPHGP_01367
+pox5,pox5,Pyruvate oxidase,DLKHCADP_01114,FKLDPHGP_01433
+cydD,cydD,Glutathione/L-cysteine transport system ATP-binding/permease protein CydD,DLKHCADP_01061,FKLDPHGP_01383
+nagB,nagB,Glucosamine-6-phosphate deaminase,DLKHCADP_01082,FKLDPHGP_01401
+mutS2,mutS2,Endonuclease MutS2,DLKHCADP_01107,FKLDPHGP_01426
+cydB,cydB,Cytochrome bd-I ubiquinol oxidase subunit 2,DLKHCADP_01060,FKLDPHGP_01382
+copY,copY,Transcriptional repressor CopY,DLKHCADP_01095,FKLDPHGP_01414
+zosA,zosA,Zinc-transporting ATPase,DLKHCADP_01041,FKLDPHGP_01365
+mnmG,mnmG,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG,DLKHCADP_01115,FKLDPHGP_01434
+rpmH,rpmH,Large ribosomal subunit protein bL34,DLKHCADP_01119,FKLDPHGP_01438
+group_640,,hypothetical protein,DLKHCADP_01104,FKLDPHGP_01423
+copA,copA,Copper-exporting P-type ATPase,DLKHCADP_01098,FKLDPHGP_01417
+group_639,,hypothetical protein,DLKHCADP_01073,FKLDPHGP_01396
+group_638,,hypothetical protein,DLKHCADP_01088,FKLDPHGP_01407
+pepO_3,pepO_3,Neutral endopeptidase,DLKHCADP_01100,FKLDPHGP_01419
+group_637,,hypothetical protein,DLKHCADP_01031,FKLDPHGP_01357
+bmpA,bmpA,ABC transporter nucleoside-binding protein BmpA,DLKHCADP_01065,FKLDPHGP_01388
+group_636,,hypothetical protein,DLKHCADP_01087,FKLDPHGP_01406
+odcI,odcI,Inducible ornithine decarboxylase,DLKHCADP_01102,FKLDPHGP_01421
+clpE_1,clpE_1,ATP-dependent Clp protease ATP-binding subunit ClpE,DLKHCADP_01021,FKLDPHGP_01347
+yfcA,yfcA,putative membrane transporter protein YfcA,DLKHCADP_01075,FKLDPHGP_01398
+napA,napA,Na(+)/H(+) antiporter,DLKHCADP_01042,FKLDPHGP_01366
+yagU_1,yagU_1,Inner membrane protein YagU,DLKHCADP_01054,FKLDPHGP_01377
+group_634,,hypothetical protein,DLKHCADP_01025,FKLDPHGP_01351
+dltC,dltC,D-alanyl carrier protein,DLKHCADP_01028,FKLDPHGP_01354
+group_632,ptpB_1,Triple specificity protein phosphatase PtpB,DLKHCADP_00923,FKLDPHGP_01623
+group_631,,putative transporter,DLKHCADP_00903,FKLDPHGP_01630
+yicL_2,yicL_2,putative inner membrane transporter YicL,DLKHCADP_00900,FKLDPHGP_01627
+asnA,asnA,Aspartate--ammonia ligase,DLKHCADP_00901,FKLDPHGP_01628
+bcaP_1~~~bcaP_2,bcaP_1;bcaP_2,Branched-chain amino acid permease BcaP,DLKHCADP_00899,FKLDPHGP_01626
+sorA_1,sorA_1,PTS system sorbose-specific EIIC component,DLKHCADP_00909,FKLDPHGP_01636
+gatD,gatD,Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD,DLKHCADP_00898,FKLDPHGP_01625
+manZ_2,manZ_2,PTS system mannose-specific EIID component,DLKHCADP_00908,FKLDPHGP_01635
+manX,manX,PTS system mannose-specific EIIAB component,DLKHCADP_00910,FKLDPHGP_01637
+group_630,,hypothetical protein,DLKHCADP_00907,FKLDPHGP_01634
+thrP_2,thrP_2,Threonine/serine transporter ThrP,DLKHCADP_00906,FKLDPHGP_01633
+thrP_1,thrP_1,Threonine/serine transporter ThrP,DLKHCADP_00905,FKLDPHGP_01632
+group_629,,Putative glutamine amidotransferase,DLKHCADP_00904,FKLDPHGP_01631
+group_628,,hypothetical protein,DLKHCADP_00902,FKLDPHGP_01629
+thiD,thiD,Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,DLKHCADP_00897,FKLDPHGP_01624
+group_627,,hypothetical protein,DLKHCADP_00825,FKLDPHGP_00059
+nnrD,nnrD,ADP-dependent (S)-NAD(P)H-hydrate dehydratase,DLKHCADP_00826,FKLDPHGP_00060
+group_626,,hypothetical protein,DLKHCADP_00827,FKLDPHGP_00061
+mdtP_2,mdtP_2,Multidrug transporter protein MdtP,DLKHCADP_00820,FKLDPHGP_00054
+metK,metK,S-adenosylmethionine synthase,DLKHCADP_00819,FKLDPHGP_00053
+group_625,,hypothetical protein,DLKHCADP_00824,FKLDPHGP_00058
+murJ,murJ,Lipid II flippase MurJ,DLKHCADP_00823,FKLDPHGP_00057
+leuS,leuS,Leucine--tRNA ligase,DLKHCADP_00822,FKLDPHGP_00056
+argS,argS,Arginine--tRNA ligase,DLKHCADP_00829,FKLDPHGP_00063
+dacA,dacA,D-alanyl-D-alanine carboxypeptidase DacA,DLKHCADP_00828,FKLDPHGP_00062
+group_624,,hypothetical protein,DLKHCADP_00821,FKLDPHGP_00055
+group_623,,hypothetical protein,DLKHCADP_00796,FKLDPHGP_00065
+group_622,,hypothetical protein,DLKHCADP_00798,FKLDPHGP_00067
+hpt_2,hpt_2,Hypoxanthine-guanine phosphoribosyltransferase,DLKHCADP_00800,FKLDPHGP_00069
+group_621,,hypothetical protein,DLKHCADP_00806,FKLDPHGP_00075
+gla,gla,Glycerol facilitator-aquaporin gla,DLKHCADP_00808,FKLDPHGP_00077
+msrC,msrC,Free methionine-R-sulfoxide reductase,DLKHCADP_00803,FKLDPHGP_00072
+group_620,,hypothetical protein,DLKHCADP_00807,FKLDPHGP_00076
+group_619,,hypothetical protein,DLKHCADP_00811,FKLDPHGP_00080
+group_618,,hypothetical protein,DLKHCADP_00804,FKLDPHGP_00073
+group_617,,Oleate hydratase,DLKHCADP_00812,FKLDPHGP_00081
+bmr3_2,bmr3_2,Multidrug resistance protein 3,DLKHCADP_00810,FKLDPHGP_00079
+fba,fba,Fructose-bisphosphate aldolase,DLKHCADP_00795,FKLDPHGP_00064
+yjaB,yjaB,Peptidyl-lysine N-acetyltransferase YjaB,DLKHCADP_00797,FKLDPHGP_00066
+group_616,,hypothetical protein,DLKHCADP_00813,FKLDPHGP_00082
+group_615,,hypothetical protein,DLKHCADP_00799,FKLDPHGP_00068
+bmr3_1,bmr3_1,Multidrug resistance protein 3,DLKHCADP_00809,FKLDPHGP_00078
+tag,tag,DNA-3-methyladenine glycosylase 1,DLKHCADP_00805,FKLDPHGP_00074
+guaA_2,guaA_2,GMP synthase [glutamine-hydrolyzing],DLKHCADP_00801,FKLDPHGP_00070
+yhfK,yhfK,putative sugar epimerase YhfK,DLKHCADP_00802,FKLDPHGP_00071
+group_614,,hypothetical protein,DLKHCADP_00717,FKLDPHGP_00853
+manZ_1,manZ_1,PTS system mannose-specific EIID component,DLKHCADP_00688,FKLDPHGP_00860
+group_613,,hypothetical protein,DLKHCADP_01122,FKLDPHGP_01476
+group_612,,hypothetical protein,DLKHCADP_01694,FKLDPHGP_00807
+group_611,,hypothetical protein,DLKHCADP_01747,FKLDPHGP_01499
+exoA_1,exoA_1,Exodeoxyribonuclease,DLKHCADP_01139,FKLDPHGP_01473
+epsH,epsH,Putative glycosyltransferase EpsH,DLKHCADP_01726,FKLDPHGP_00839
+group_610,,hypothetical protein,DLKHCADP_01138,FKLDPHGP_01472
+group_609,,DegV domain-containing protein,DLKHCADP_01132,FKLDPHGP_01467
+group_608,,hypothetical protein,DLKHCADP_00694,FKLDPHGP_00866
+group_607,,hypothetical protein,DLKHCADP_00709,FKLDPHGP_00846
+lemA,lemA,Protein LemA,DLKHCADP_01703,FKLDPHGP_00816
+ykoE,ykoE,Putative HMP/thiamine permease protein YkoE,DLKHCADP_01700,FKLDPHGP_00813
+group_606,,hypothetical protein,DLKHCADP_01709,FKLDPHGP_00822
+group_605,,hypothetical protein,DLKHCADP_01693,FKLDPHGP_00806
+garB,garB,Glutathione amide reductase,DLKHCADP_01124,FKLDPHGP_01478
+group_604,,D-aspartate ligase,DLKHCADP_00706,FKLDPHGP_00878
+group_603,,hypothetical protein,DLKHCADP_01126,FKLDPHGP_01480
+rpsF,rpsF,Small ribosomal subunit protein bS6,DLKHCADP_01001,FKLDPHGP_01445
+cycA_1,cycA_1,D-serine/D-alanine/glycine transporter,DLKHCADP_00707,FKLDPHGP_00844
+group_602,,hypothetical protein,DLKHCADP_01744,FKLDPHGP_01496
+ykoD_2,ykoD_2,Putative HMP/thiamine import ATP-binding protein YkoD,DLKHCADP_01699,FKLDPHGP_00812
+group_601,,hypothetical protein,DLKHCADP_01707,FKLDPHGP_00820
+group_600,,hypothetical protein,DLKHCADP_01712,FKLDPHGP_00825
+group_599,,hypothetical protein,DLKHCADP_01742,FKLDPHGP_01493
+brnQ_2,brnQ_2,Branched-chain amino acid permease BrnQ,DLKHCADP_01737,FKLDPHGP_01488
+dnaA,dnaA,Chromosomal replication initiator protein DnaA,DLKHCADP_00995,FKLDPHGP_01439
+dnaB_1,dnaB_1,Replicative DNA helicase DnaB,DLKHCADP_01007,FKLDPHGP_01451
+group_598,,hypothetical protein,DLKHCADP_01740,FKLDPHGP_01491
+gmuE,gmuE,Putative fructokinase,DLKHCADP_01008,FKLDPHGP_01452
+group_597,,hypothetical protein,DLKHCADP_01121,FKLDPHGP_01475
+cls_2,cls_2,Cardiolipin synthase,DLKHCADP_01721,FKLDPHGP_00834
+htpX_2,htpX_2,Protease HtpX,DLKHCADP_01702,FKLDPHGP_00815
+group_596,,Putative 3-methyladenine DNA glycosylase,DLKHCADP_01715,FKLDPHGP_00828
+ppaX,ppaX,Pyrophosphatase PpaX,DLKHCADP_01013,FKLDPHGP_01457
+gadC,gadC,Glutamate/gamma-aminobutyrate antiporter,DLKHCADP_01733,FKLDPHGP_01485
+fpaP_2,fpaP_2,Proline iminopeptidase,DLKHCADP_01739,FKLDPHGP_01490
+group_595,,hypothetical protein,DLKHCADP_01004,FKLDPHGP_01448
+group_594,,hypothetical protein,DLKHCADP_00687,FKLDPHGP_00859
+group_593,,hypothetical protein,DLKHCADP_00704,FKLDPHGP_00876
+yfbR,yfbR,5'-deoxynucleotidase YfbR,DLKHCADP_01711,FKLDPHGP_00824
+group_592,,hypothetical protein,DLKHCADP_01731,FKLDPHGP_01483
+group_591,,hypothetical protein,DLKHCADP_01723,FKLDPHGP_00836
+group_590,,hypothetical protein,DLKHCADP_01728,FKLDPHGP_00841
+group_589,,hypothetical protein,DLKHCADP_01716,FKLDPHGP_00829
+group_588,,hypothetical protein,DLKHCADP_01019,FKLDPHGP_01464
+group_587,,hypothetical protein,DLKHCADP_01128;DLKHCADP_01129,FKLDPHGP_01482
+group_586,,hypothetical protein,DLKHCADP_01015,FKLDPHGP_01459;FKLDPHGP_01460
+rhaS_3,rhaS_3,HTH-type transcriptional activator RhaS,DLKHCADP_01701,FKLDPHGP_00814
+group_585,,hypothetical protein,DLKHCADP_01698,FKLDPHGP_00811
+group_584,,hypothetical protein,DLKHCADP_01136;DLKHCADP_01135,FKLDPHGP_01470
+phnD2,phnD2,putative ABC transporter phosphonate/phosphite binding protein PhnD2,DLKHCADP_00699,FKLDPHGP_00871
+group_583,,hypothetical protein,DLKHCADP_00710,FKLDPHGP_00847
+slmA,slmA,Nucleoid occlusion factor SlmA,DLKHCADP_00708,FKLDPHGP_00845
+bioH,bioH,Pimeloyl-[acyl-carrier protein] methyl ester esterase,DLKHCADP_01727,FKLDPHGP_00840
+group_582,,hypothetical protein,DLKHCADP_01014,FKLDPHGP_01458
+group_581,,hypothetical protein,DLKHCADP_01746,FKLDPHGP_01498
+gspA,gspA,General stress protein A,DLKHCADP_01745,FKLDPHGP_01497
+bsh,bsh,Conjugated bile acid hydrolase,DLKHCADP_01741,FKLDPHGP_01492
+nhaK,;nhaK,hypothetical protein;Sodium potassium lithium and rubidium/H(+) antiporter,DLKHCADP_00714;DLKHCADP_00713,FKLDPHGP_00850
+group_580,,hypothetical protein,DLKHCADP_00690,FKLDPHGP_00862
+adaB,adaB,Methylated-DNA--protein-cysteine methyltransferase inducible,DLKHCADP_01718,FKLDPHGP_00831
+mltF_2,mltF_2,Membrane-bound lytic murein transglycosylase F,DLKHCADP_01714,FKLDPHGP_00827
+group_579,,hypothetical protein,DLKHCADP_01743,FKLDPHGP_01494;FKLDPHGP_01495
+group_578,,hypothetical protein,DLKHCADP_00698,FKLDPHGP_00870
+ypuA,ypuA,putative protein YpuA,DLKHCADP_01725,FKLDPHGP_00838
+group_577,,hypothetical protein,DLKHCADP_00689,FKLDPHGP_00861
+group_576,,hypothetical protein,DLKHCADP_01130,FKLDPHGP_01465
+prs_2,prs_2,Ribose-phosphate pyrophosphokinase,DLKHCADP_01729,FKLDPHGP_00842
+group_575,,hypothetical protein,DLKHCADP_01705,FKLDPHGP_00818
+catM_2,catM_2;,HTH-type transcriptional regulator CatM;hypothetical protein,DLKHCADP_01735;DLKHCADP_01734,FKLDPHGP_01486
+sapB,sapB,Protein SapB,DLKHCADP_01011,FKLDPHGP_01455
+group_574,,hypothetical protein,DLKHCADP_01722,FKLDPHGP_00835
+yfnB,yfnB,Putative HAD-hydrolase YfnB,DLKHCADP_01131,FKLDPHGP_01466
+menG,menG,Demethylmenaquinone methyltransferase,DLKHCADP_01738,FKLDPHGP_01489
+group_573,,D-lactate dehydrogenase,DLKHCADP_01127,FKLDPHGP_01481
+group_572,,hypothetical protein,DLKHCADP_00692,FKLDPHGP_00864
+cobB,cobB,NAD-dependent protein deacetylase,DLKHCADP_01719,FKLDPHGP_00832
+urdA,urdA,Urocanate reductase,DLKHCADP_01736,FKLDPHGP_01487
+gamR,gamR,HTH-type transcriptional repressor GamR,DLKHCADP_00719,FKLDPHGP_00855
+group_571,,hypothetical protein,DLKHCADP_00712,FKLDPHGP_00849
+group_570,,hypothetical protein,DLKHCADP_01706,FKLDPHGP_00819
+mngR,mngR,Mannosyl-D-glycerate transport/metabolism system repressor MngR,DLKHCADP_00695,FKLDPHGP_00867
+tetM,tetM,Tetracycline resistance protein TetM from transposon Tn916,DLKHCADP_01134,FKLDPHGP_01469
+group_569,,hypothetical protein,DLKHCADP_01708,FKLDPHGP_00821
+smoB,smoB,6-dehydroglucose reductase,DLKHCADP_01016,FKLDPHGP_01461
+group_568,,hypothetical protein,DLKHCADP_01123,FKLDPHGP_01477
+group_567,,hypothetical protein,DLKHCADP_00997,FKLDPHGP_01441
+asnB,asnB,Asparagine synthetase [glutamine-hydrolyzing] 1,DLKHCADP_00705,FKLDPHGP_00877
+gyrB,gyrB,DNA gyrase subunit B,DLKHCADP_00999,FKLDPHGP_01443
+group_566,,hypothetical protein,DLKHCADP_01137,FKLDPHGP_01471
+group_565,,hypothetical protein,DLKHCADP_00715,FKLDPHGP_00851
+gdpP,gdpP,Cyclic-di-AMP phosphodiesterase GdpP,DLKHCADP_01005,FKLDPHGP_01449
+group_564,,hypothetical protein,DLKHCADP_01010,FKLDPHGP_01454
+ddlA,ddlA,D-alanine--D-alanine ligase A,DLKHCADP_00711,FKLDPHGP_00848
+rplI,rplI,Large ribosomal subunit protein bL9,DLKHCADP_01006,FKLDPHGP_01450
+rnhA,rnhA,Ribonuclease H,DLKHCADP_01724,FKLDPHGP_00837
+glnQ_2,glnQ_2,Glutamine transport ATP-binding protein GlnQ,DLKHCADP_01713,FKLDPHGP_00826
+ybiR,ybiR,Inner membrane protein YbiR,DLKHCADP_01704,FKLDPHGP_00817
+group_563,,hypothetical protein,DLKHCADP_01133,FKLDPHGP_01468
+group_562,,Endoglucanase,DLKHCADP_01710,FKLDPHGP_00823
+group_561,,hypothetical protein,DLKHCADP_00716,FKLDPHGP_00852
+recF,recF,DNA replication and repair protein RecF,DLKHCADP_00998,FKLDPHGP_01442
+dnaN,dnaN,Beta sliding clamp,DLKHCADP_00996,FKLDPHGP_01440
+group_560,,hypothetical protein,DLKHCADP_01720,FKLDPHGP_00833
+ntd,ntd,Nucleoside deoxyribosyltransferase,DLKHCADP_00693,FKLDPHGP_00865
+rlmH,rlmH,Ribosomal RNA large subunit methyltransferase H,DLKHCADP_01697,FKLDPHGP_00810
+group_559,,hypothetical protein,DLKHCADP_01009,FKLDPHGP_01453
+group_558,,hypothetical protein,DLKHCADP_01748,FKLDPHGP_01500
+alx,alx,Putative membrane-bound redox modulator Alx,DLKHCADP_01717,FKLDPHGP_00830
+gyrA,gyrA,DNA gyrase subunit A GyrA,DLKHCADP_01000,FKLDPHGP_01444
+group_557,,hypothetical protein,DLKHCADP_00703,FKLDPHGP_00875
+guaB,guaB,Inosine-5'-monophosphate dehydrogenase,DLKHCADP_01125,FKLDPHGP_01479
+agaA_1,agaA_1,N-acetylgalactosamine-6-phosphate deacetylase,DLKHCADP_00721,FKLDPHGP_00857
+glnQ_1,glnQ_1,Glutamine transport ATP-binding protein GlnQ,DLKHCADP_00700,FKLDPHGP_00872
+levE,levE,PTS system fructose-specific EIIB component,DLKHCADP_00686,FKLDPHGP_00858
+eis,eis,N-acetyltransferase Eis,DLKHCADP_01018,FKLDPHGP_01463
+agaS,agaS,D-galactosamine-6-phosphate deaminase AgaS,DLKHCADP_00720,FKLDPHGP_00856
+group_556,,hypothetical protein,DLKHCADP_00691,FKLDPHGP_00863
+group_555,,Putative universal stress protein,DLKHCADP_00697,FKLDPHGP_00869
+uvrB_1,uvrB_1,UvrABC system protein B,DLKHCADP_01120,FKLDPHGP_01474
+group_554,,hypothetical protein,DLKHCADP_01732,FKLDPHGP_01484
+walJ,walJ,Exodeoxyribonuclease WalJ,DLKHCADP_01695,FKLDPHGP_00808
+group_553,,hypothetical protein,DLKHCADP_00718,FKLDPHGP_00854
+phnE,phnE,Phosphate-import permease protein PhnE,DLKHCADP_00701,FKLDPHGP_00873
+iphP,iphP,Tyrosine-protein phosphatase,DLKHCADP_00696,FKLDPHGP_00868
+ssb,ssb,Single-stranded DNA-binding protein,DLKHCADP_01002,FKLDPHGP_01446
+rpsR,rpsR,Small ribosomal subunit protein bS18,DLKHCADP_01003,FKLDPHGP_01447
+group_552,,hypothetical protein,DLKHCADP_01730,FKLDPHGP_00843
+htrA,htrA,Serine protease Do-like HtrA,DLKHCADP_01696,FKLDPHGP_00809
+group_551,,hypothetical protein,DLKHCADP_00702,FKLDPHGP_00874
+group_550,,hypothetical protein,DLKHCADP_00613,FKLDPHGP_01152
+acpP,acpP,Acyl carrier protein,DLKHCADP_00414,FKLDPHGP_00246
+xseB,xseB,Exodeoxyribonuclease 7 small subunit,DLKHCADP_00668,FKLDPHGP_00226
+group_548,,hypothetical protein,DLKHCADP_01909,FKLDPHGP_00096
+group_547,,hypothetical protein,DLKHCADP_00436,FKLDPHGP_00267
+rpsP,rpsP,Small ribosomal subunit protein bS16,DLKHCADP_00428,FKLDPHGP_00259
+hup,hup,DNA-binding protein HU,DLKHCADP_00737,FKLDPHGP_00368
+group_537,,hypothetical protein,DLKHCADP_00846,FKLDPHGP_00312
+group_535,,hypothetical protein,DLKHCADP_00672,FKLDPHGP_00230
+group_532,,hypothetical protein,DLKHCADP_00454,FKLDPHGP_00286
+rpmA,rpmA,Large ribosomal subunit protein bL27,DLKHCADP_00661,FKLDPHGP_00219
+rplU,rplU,Large ribosomal subunit protein bL21,DLKHCADP_00660,FKLDPHGP_00218
+group_527,,hypothetical protein,DLKHCADP_00455,FKLDPHGP_00287
+group_526,,hypothetical protein,DLKHCADP_01911,FKLDPHGP_00094
+group_524,,hypothetical protein,DLKHCADP_00848,FKLDPHGP_00314
+group_523,,hypothetical protein,DLKHCADP_00935,FKLDPHGP_00159
+group_522,,hypothetical protein,DLKHCADP_00751,FKLDPHGP_00349
+group_520,,hypothetical protein,DLKHCADP_00942,FKLDPHGP_00140
+group_517,,hypothetical protein,DLKHCADP_00651,FKLDPHGP_00209
+group_512,,hypothetical protein,DLKHCADP_00930,FKLDPHGP_00154
+group_511,,hypothetical protein,DLKHCADP_00426,FKLDPHGP_00257
+group_510,,hypothetical protein,DLKHCADP_00652,FKLDPHGP_00210
+rplS,rplS,Large ribosomal subunit protein bL19,DLKHCADP_00431,FKLDPHGP_00262
+lacF_3,lacF_3,PTS system lactose-specific EIIA component,DLKHCADP_01907,FKLDPHGP_00098
+mgsR,mgsR,Regulatory protein MgsR,DLKHCADP_00659,FKLDPHGP_00217
+ribT,ribT,Protein RibT,DLKHCADP_00728,FKLDPHGP_00359
+group_508,,putative protein,DLKHCADP_00684,FKLDPHGP_00242
+group_505,,hypothetical protein,DLKHCADP_00643,FKLDPHGP_00202
+rbfA,rbfA,Ribosome-binding factor A,DLKHCADP_00457,FKLDPHGP_00289
+group_500,,hypothetical protein,DLKHCADP_00835,FKLDPHGP_00329
+group_499,,hypothetical protein,DLKHCADP_00740,FKLDPHGP_00338
+group_492,,hypothetical protein,DLKHCADP_00739,FKLDPHGP_00337
+nusB,nusB,Transcription antitermination protein NusB,DLKHCADP_00665,FKLDPHGP_00223
+group_488,,hypothetical protein,DLKHCADP_00634,FKLDPHGP_00194
+lacA,lacA,Galactose-6-phosphate isomerase subunit LacA,DLKHCADP_01915,FKLDPHGP_00090
+group_485,,hypothetical protein,DLKHCADP_01944,FKLDPHGP_00116
+group_484,,hypothetical protein,DLKHCADP_01896,FKLDPHGP_00109
+dtd,dtd,D-aminoacyl-tRNA deacylase,DLKHCADP_00837,FKLDPHGP_00331
+group_481,,hypothetical protein,DLKHCADP_00641,FKLDPHGP_00200
+group_479,,hypothetical protein,DLKHCADP_01936,FKLDPHGP_00123
+group_478,,hypothetical protein,DLKHCADP_00841,FKLDPHGP_00335
+group_477,,putative protein,DLKHCADP_00664,FKLDPHGP_00222
+group_476,,Flavodoxin,DLKHCADP_00550,FKLDPHGP_00174
+dps,dps,DNA protection during starvation protein,DLKHCADP_00929,FKLDPHGP_00153
+rimP,rimP,Ribosome maturation factor RimP,DLKHCADP_00452,FKLDPHGP_00284
+group_466,,hypothetical protein,DLKHCADP_01912,FKLDPHGP_00093
+sorB_2,sorB_2,PTS system sorbose-specific EIIB component,DLKHCADP_01947,FKLDPHGP_00113
+group_464,,hypothetical protein,DLKHCADP_00833,FKLDPHGP_00327
+group_462,,hypothetical protein,DLKHCADP_00549,FKLDPHGP_00173
+dfrA,dfrA,Dihydrofolate reductase,DLKHCADP_00535,FKLDPHGP_00305
+group_459,,hypothetical protein,DLKHCADP_00947,FKLDPHGP_00145
+rimM,rimM,Ribosome maturation factor RimM,DLKHCADP_00429,FKLDPHGP_00260
+apt,apt,Adenine phosphoribosyltransferase,DLKHCADP_00469,FKLDPHGP_00301
+yagU_2,yagU_2,Inner membrane protein YagU,DLKHCADP_01588,FKLDPHGP_00084
+group_454,,hypothetical protein,DLKHCADP_00654,FKLDPHGP_00212
+frr,frr,Ribosome-recycling factor,DLKHCADP_00446,FKLDPHGP_00278
+group_453,,hypothetical protein,DLKHCADP_00639,FKLDPHGP_00198
+efp_2,efp_2,Elongation factor P,DLKHCADP_00663,FKLDPHGP_00221
+hpt_1,hpt_1,Hypoxanthine-guanine phosphoribosyltransferase,DLKHCADP_00542,FKLDPHGP_00165
+lacB,lacB,Galactose-6-phosphate isomerase subunit LacB,DLKHCADP_01914,FKLDPHGP_00091
+grpE,grpE,Protein GrpE,DLKHCADP_00463,FKLDPHGP_00295
+group_451,,hypothetical protein,DLKHCADP_00844,FKLDPHGP_00310
+group_449,,hypothetical protein,DLKHCADP_01895,FKLDPHGP_00110
+scpB,scpB,Segregation and condensation protein B,DLKHCADP_00730,FKLDPHGP_00361
+ribU,ribU,Riboflavin transporter RibU,DLKHCADP_00733,FKLDPHGP_00364
+group_448,,hypothetical protein,DLKHCADP_00635,FKLDPHGP_00195
+uptA,uptA,Undecaprenyl phosphate transporter A,DLKHCADP_00744,FKLDPHGP_00342
+gmk_1,gmk_1,Guanylate kinase,DLKHCADP_00673,FKLDPHGP_00231
+plsC,plsC,1-acyl-sn-glycerol-3-phosphate acyltransferase,DLKHCADP_00441,FKLDPHGP_00273
+group_445,,hypothetical protein,DLKHCADP_01899,FKLDPHGP_00106
+lexA,lexA,LexA repressor,DLKHCADP_00435,FKLDPHGP_00266
+group_443,,hypothetical protein,DLKHCADP_00461,FKLDPHGP_00293
+udk,udk,Uridine kinase,DLKHCADP_00939,FKLDPHGP_00136
+tmung,tmung,Type-4 uracil-DNA glycosylase,DLKHCADP_00434,FKLDPHGP_00265
+glnM,glnM,putative glutamine ABC transporter permease protein GlnM,DLKHCADP_01930,FKLDPHGP_00129
+group_442,,hypothetical protein,DLKHCADP_00743,FKLDPHGP_00341
+spsB_2,spsB_2,Signal peptidase IB,DLKHCADP_00432,FKLDPHGP_00263
+group_441,,hypothetical protein,DLKHCADP_00842,FKLDPHGP_00336
+glnP,glnP,putative glutamine ABC transporter permease protein GlnP,DLKHCADP_01929,FKLDPHGP_00130
+rpe,rpe,Ribulose-phosphate 3-epimerase,DLKHCADP_00681,FKLDPHGP_00239
+cnbA,cnbA,Chloronitrobenzene nitroreductase,DLKHCADP_00539,FKLDPHGP_00162
+cmk,cmk,Cytidylate kinase,DLKHCADP_00734,FKLDPHGP_00365
+tcrA,tcrA,Transcriptional regulatory protein TcrA,DLKHCADP_00560,FKLDPHGP_00184
+thiN,thiN,Thiamine pyrophosphokinase,DLKHCADP_00682,FKLDPHGP_00240
+group_438,,hypothetical protein,DLKHCADP_01913,FKLDPHGP_00092
+rnc,rnc,Ribonuclease 3,DLKHCADP_00422,FKLDPHGP_00253
+phoU,phoU,Phosphate-specific transport system accessory protein PhoU,DLKHCADP_00927,FKLDPHGP_00151
+strA,strA,Sortase A,DLKHCADP_00467,FKLDPHGP_00299
+group_436,,hypothetical protein,DLKHCADP_00567,FKLDPHGP_00191
+rpiA,rpiA,Ribose-5-phosphate isomerase A,DLKHCADP_00932,FKLDPHGP_00156
+group_435,,hypothetical protein,DLKHCADP_00540,FKLDPHGP_00163
+metP,metP,Methionine import system permease protein MetP,DLKHCADP_00853,FKLDPHGP_00319
+group_434,,hypothetical protein,DLKHCADP_00544,FKLDPHGP_00167
+rluB_1,rluB_1,Ribosomal large subunit pseudouridine synthase B,DLKHCADP_00731,FKLDPHGP_00362
+uppS,uppS,Ditranspolycis-undecaprenyl-diphosphate synthase ((2E6E)-farnesyl-diphosphate specific),DLKHCADP_00447,FKLDPHGP_00279
+group_433,,hypothetical protein,DLKHCADP_00850,FKLDPHGP_00316
+trmD,trmD,tRNA (guanine-N(1)-)-methyltransferase,DLKHCADP_00430,FKLDPHGP_00261
+treR,treR,HTH-type transcriptional regulator TreR,DLKHCADP_01926,FKLDPHGP_00133
+pyrH,pyrH,Uridylate kinase,DLKHCADP_00445,FKLDPHGP_00277
+gmuR_2,gmuR_2,HTH-type transcriptional regulator GmuR,DLKHCADP_00934,FKLDPHGP_00158
+artM,artM,Arginine transport ATP-binding protein ArtM,DLKHCADP_00946,FKLDPHGP_00144
+scpA,scpA,Segregation and condensation protein A,DLKHCADP_00729,FKLDPHGP_00360
+group_430,,hypothetical protein,DLKHCADP_00732,FKLDPHGP_00363
+glnQ_3,glnQ_3,Glutamine transport ATP-binding protein GlnQ,DLKHCADP_01932,FKLDPHGP_00127
+prpC,prpC,Protein phosphatase PrpC,DLKHCADP_00678,FKLDPHGP_00236
+pstB3_2,pstB3_2,Phosphate import ATP-binding protein PstB 3,DLKHCADP_00926,FKLDPHGP_00150
+lacR_3,lacR_3,Lactose phosphotransferase system repressor,DLKHCADP_01916,FKLDPHGP_00089
+group_427,,Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase,DLKHCADP_00566,FKLDPHGP_00190
+glcR_1,glcR_1,HTH-type transcriptional repressor GlcR,DLKHCADP_00936,FKLDPHGP_00160
+rpsB,rpsB,Small ribosomal subunit protein uS2,DLKHCADP_00443,FKLDPHGP_00275
+group_425,,hypothetical protein,DLKHCADP_00448,FKLDPHGP_00280
+group_424,,hypothetical protein,DLKHCADP_00938,FKLDPHGP_00135
+group_423,,putative oxidoreductase,DLKHCADP_00750,FKLDPHGP_00348
+sorA_4,sorA_4,PTS system sorbose-specific EIIC component,DLKHCADP_01946,FKLDPHGP_00114
+pstB3_1,pstB3_1,Phosphate import ATP-binding protein PstB 3,DLKHCADP_00925,FKLDPHGP_00149
+group_422,,hypothetical protein,DLKHCADP_00741,FKLDPHGP_00339
+tlyA,tlyA,16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA,DLKHCADP_00670,FKLDPHGP_00228
+glnH_2,glnH_2,ABC transporter glutamine-binding protein GlnH,DLKHCADP_01933,FKLDPHGP_00126
+glnH_1,glnH_1,ABC transporter glutamine-binding protein GlnH,DLKHCADP_01931,FKLDPHGP_00128
+map,map,Methionine aminopeptidase 1,DLKHCADP_00551,FKLDPHGP_00175
+pdxK,pdxK,Pyridoxine/pyridoxal/pyridoxamine kinase,DLKHCADP_00653,FKLDPHGP_00211
+manZ_6,manZ_6,PTS system mannose-specific EIID component,DLKHCADP_01945,FKLDPHGP_00115
+group_420,,hypothetical protein,DLKHCADP_00554,FKLDPHGP_00178
+bglG,bglG,Cryptic beta-glucoside bgl operon antiterminator,DLKHCADP_01908,FKLDPHGP_00097
+group_419,,hypothetical protein,DLKHCADP_00840,FKLDPHGP_00334
+group_418,,hypothetical protein,DLKHCADP_00658,FKLDPHGP_00216
+folD,folD,Bifunctional protein FolD protein,DLKHCADP_00666,FKLDPHGP_00224
+catM_1,catM_1,HTH-type transcriptional regulator CatM,DLKHCADP_00538,FKLDPHGP_00308
+group_417,,hypothetical protein,DLKHCADP_00849,FKLDPHGP_00315
+metQ,metQ,putative D-methionine-binding lipoprotein MetQ,DLKHCADP_00851,FKLDPHGP_00317
+crtE,crtE,Geranylgeranyl pyrophosphate synthase,DLKHCADP_00669,FKLDPHGP_00227
+pstS1,pstS1,Phosphate-binding protein PstS 1,DLKHCADP_00948,FKLDPHGP_00146
+rhaS_2,rhaS_2,HTH-type transcriptional activator RhaS,DLKHCADP_00646,FKLDPHGP_00205
+group_416,,hypothetical protein,DLKHCADP_01903,FKLDPHGP_00102
+group_415,,hypothetical protein,DLKHCADP_00924,FKLDPHGP_00148
+cvfB,cvfB,Conserved virulence factor B,DLKHCADP_00726,FKLDPHGP_00357
+rsgA,rsgA,Small ribosomal subunit biogenesis GTPase RsgA,DLKHCADP_00680,FKLDPHGP_00238
+truB,truB,tRNA pseudouridine synthase B,DLKHCADP_00458,FKLDPHGP_00290
+bglK_2,bglK_2,Beta-glucoside kinase,DLKHCADP_00645,FKLDPHGP_00204
+xerD,xerD,Tyrosine recombinase XerD,DLKHCADP_00727,FKLDPHGP_00358
+gtaB,gtaB,UTP--glucose-1-phosphate uridylyltransferase,DLKHCADP_00553,FKLDPHGP_00177
+oppC,oppC,Oligopeptide transport system permease protein OppC,DLKHCADP_00418,FKLDPHGP_00250
+glsA2,glsA2,Glutaminase 2,DLKHCADP_01900,FKLDPHGP_00105
+rihC,rihC,Non-specific ribonucleoside hydrolase RihC,DLKHCADP_00933,FKLDPHGP_00157
+rbsKrbiA,rbsK/rbiA,Bifunctional ribokinase/ribose-5-phosphate isomerase A,DLKHCADP_00931,FKLDPHGP_00155
+group_414,,hypothetical protein,DLKHCADP_00552,FKLDPHGP_00176
+ldh_1,ldh_1,L-lactate dehydrogenase,DLKHCADP_00856,FKLDPHGP_00322
+rihB,rihB,Pyrimidine-specific ribonucleoside hydrolase RihB,DLKHCADP_00745,FKLDPHGP_00343
+rnz,rnz,Ribonuclease Z,DLKHCADP_00749,FKLDPHGP_00347
+ribCF,ribCF,Bifunctional riboflavin kinase/FMN adenylyltransferase,DLKHCADP_00459,FKLDPHGP_00291
+fmt,fmt,Methionyl-tRNA formyltransferase,DLKHCADP_00676,FKLDPHGP_00234
+prmA,prmA,Ribosomal protein L11 methyltransferase,DLKHCADP_00834,FKLDPHGP_00328
+thyA,thyA,Thymidylate synthase,DLKHCADP_00534,FKLDPHGP_00304
+pfkA,pfkA,ATP-dependent 6-phosphofructokinase,DLKHCADP_00724,FKLDPHGP_00355
+btuD,btuD,Vitamin B12 import ATP-binding protein BtuD,DLKHCADP_00555,FKLDPHGP_00179
+oppB,oppB,Oligopeptide transport system permease protein OppB,DLKHCADP_00417,FKLDPHGP_00249
+oppF,oppF,Oligopeptide transport ATP-binding protein OppF,DLKHCADP_00416,FKLDPHGP_00248
+ccpA_3,ccpA_3,Catabolite control protein A,DLKHCADP_01942,FKLDPHGP_00118
+plsX,plsX,Phosphate acyltransferase,DLKHCADP_00413,FKLDPHGP_00245
+oppD,oppD,Oligopeptide transport ATP-binding protein OppD,DLKHCADP_00415,FKLDPHGP_00247
+ansA,ansA,L-asparaginase 1,DLKHCADP_00830,FKLDPHGP_00324
+yfiC,yfiC,tRNA1(Val) (adenine(37)-N6)-methyltransferase,DLKHCADP_00442,FKLDPHGP_00274
+tsf,tsf,Elongation factor Ts,DLKHCADP_00444,FKLDPHGP_00276
+metN,metN,Methionine import ATP-binding protein MetN,DLKHCADP_00852,FKLDPHGP_00318
+hrcA,hrcA,Heat-inducible transcription repressor HrcA,DLKHCADP_00462,FKLDPHGP_00294
+ysdC,ysdC,Putative aminopeptidase YsdC,DLKHCADP_01949,FKLDPHGP_00111
+group_408,,hypothetical protein,DLKHCADP_01904,FKLDPHGP_00101
+ypdF,ypdF,Aminopeptidase YpdF,DLKHCADP_00662,FKLDPHGP_00220
+group_407,,hypothetical protein,DLKHCADP_00636,FKLDPHGP_00196
+dnaJ,dnaJ,Chaperone protein DnaJ,DLKHCADP_00465,FKLDPHGP_00297
+group_405,,hypothetical protein,DLKHCADP_00649,FKLDPHGP_00207
+rps1,rps1,Small ribosomal subunit protein bS1,DLKHCADP_00735,FKLDPHGP_00366
+nusA,nusA,Transcription termination/antitermination protein NusA,DLKHCADP_00453,FKLDPHGP_00285
+niaP,niaP,Niacin transporter NiaP,DLKHCADP_01939,FKLDPHGP_00121
+yfmL,yfmL,putative ATP-dependent RNA helicase YfmL,DLKHCADP_00545,FKLDPHGP_00168
+rasP,rasP,Regulator of sigma-W protease RasP,DLKHCADP_00449,FKLDPHGP_00281
+ypiA,ypiA,TPR repeat-containing protein YpiA,DLKHCADP_00738,FKLDPHGP_00369
+sasA_1,sasA_1,Adaptive-response sensory-kinase SasA,DLKHCADP_00561,FKLDPHGP_00185
+eno2_1,eno2_1,Enolase 2,DLKHCADP_00845,FKLDPHGP_00311
+hisS,hisS,Histidine--tRNA ligase,DLKHCADP_00838,FKLDPHGP_00332
+obg,obg,GTPase Obg,DLKHCADP_00747,FKLDPHGP_00345
+der,der,GTPase Der,DLKHCADP_00736,FKLDPHGP_00367
+steT,steT,Serine/threonine exchanger SteT,DLKHCADP_00543,FKLDPHGP_00166
+rsmB,rsmB,Ribosomal RNA small subunit methyltransferase B,DLKHCADP_00677,FKLDPHGP_00235
+pepE_3,pepE_3,Aminopeptidase E,DLKHCADP_00644,FKLDPHGP_00203
+group_398,,hypothetical protein,DLKHCADP_00657,FKLDPHGP_00215
+pyrP,pyrP,Uracil permease,DLKHCADP_01917,FKLDPHGP_00088
+celB,celB,PTS system cellobiose-specific EIIC component,DLKHCADP_00546,FKLDPHGP_00169
+group_397,,hypothetical protein,DLKHCADP_00536,FKLDPHGP_00306
+ftsY,ftsY,Signal recognition particle receptor FtsY,DLKHCADP_00424,FKLDPHGP_00255
+group_396,,putative transporter,DLKHCADP_00742,FKLDPHGP_00340
+group_394,,hypothetical protein,DLKHCADP_00558,FKLDPHGP_00182
+xseA,xseA,Exodeoxyribonuclease 7 large subunit,DLKHCADP_00667,FKLDPHGP_00225
+group_393,,NADH:fumarate oxidoreductase,DLKHCADP_00855,FKLDPHGP_00321
+group_392,,hypothetical protein,DLKHCADP_00857,FKLDPHGP_00323
+group_391,,hypothetical protein,DLKHCADP_00541,FKLDPHGP_00164
+group_390,,hypothetical protein,DLKHCADP_01937;DLKHCADP_01938,FKLDPHGP_00122
+yidA_3~~~yidA_1,yidA_3;yidA_1,Sugar phosphatase YidA,DLKHCADP_01589,FKLDPHGP_00085
+cfa,;cfa,hypothetical protein;Cyclopropane-fatty-acyl-phospholipid synthase,DLKHCADP_00440,FKLDPHGP_00272;FKLDPHGP_00271
+group_389,,hypothetical protein,DLKHCADP_00559,FKLDPHGP_00183
+fumC,fumC,Fumarate hydratase class II,DLKHCADP_00854,FKLDPHGP_00320
+yflS,yflS,Putative malate transporter YflS,DLKHCADP_01901,FKLDPHGP_00104
+gatC_6,gatC_6,PTS system galactitol-specific EIIC component,DLKHCADP_01910,FKLDPHGP_00095
+pepDA_1,pepDA_1,Dipeptidase A,DLKHCADP_00425,FKLDPHGP_00256
+lacG_2,lacG_2,6-phospho-beta-galactosidase,DLKHCADP_01905,FKLDPHGP_00100
+ffh,ffh,Signal recognition particle protein,DLKHCADP_00427,FKLDPHGP_00258
+group_387,,hypothetical protein,DLKHCADP_00557,FKLDPHGP_00181
+group_386,,hypothetical protein,DLKHCADP_01928,FKLDPHGP_00131
+mdtP_1,mdtP_1,Multidrug transporter protein MdtP,DLKHCADP_00640,FKLDPHGP_00199
+cls_1,cls_1,Cardiolipin synthase,DLKHCADP_00533,FKLDPHGP_00303
+dtpT,dtpT,Di-/tripeptide transporter,DLKHCADP_01940,FKLDPHGP_00120
+mltF_1,mltF_1,Membrane-bound lytic murein transglycosylase F,DLKHCADP_00945,FKLDPHGP_00143
+vmlR,vmlR,Ribosome protection protein VmlR,DLKHCADP_00460,FKLDPHGP_00292
+yjeM,yjeM,Inner membrane transporter YjeM,DLKHCADP_00532,FKLDPHGP_00302
+group_385,,hypothetical protein,DLKHCADP_00940,FKLDPHGP_00138;FKLDPHGP_00137
+group_384,,hypothetical protein,DLKHCADP_00928,FKLDPHGP_00152
+egtUBC,egtUBC,putative ergothioneine transporter EgtUBC,DLKHCADP_00556,FKLDPHGP_00180
+mnaA,mnaA,UDP-N-acetylglucosamine 2-epimerase,DLKHCADP_00548,FKLDPHGP_00172
+pnbA,;pnbA,hypothetical protein;4-nitrobenzoate reductase,DLKHCADP_00638;DLKHCADP_00637,FKLDPHGP_00197
+cpdB,cpdB,2'3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase,DLKHCADP_00753,FKLDPHGP_00351
+sbnD_2~~~sbnD_1,sbnD_2;sbnD_1,Staphyloferrin B transporter,DLKHCADP_01898,FKLDPHGP_00107
+rppH,;rppH,hypothetical protein;RNA pyrophosphohydrolase,DLKHCADP_00433,FKLDPHGP_00264
+ybiT,ybiT,putative ATP-binding protein YbiT,DLKHCADP_00847,FKLDPHGP_00313
+group_383,,hypothetical protein,DLKHCADP_00949,FKLDPHGP_00147
+aes,;aes,hypothetical protein;Acetyl esterase,DLKHCADP_00647;DLKHCADP_00648,FKLDPHGP_00206
+treA,treA,Trehalose-6-phosphate hydrolase,DLKHCADP_01927,FKLDPHGP_00132
+oppA_2,;oppA_2,hypothetical protein;Oligopeptide-binding protein OppA,DLKHCADP_00420;DLKHCADP_00419,FKLDPHGP_00251
+group_382,,putative protein,DLKHCADP_00685,FKLDPHGP_00243
+malL_2,malL_2,Oligo-16-glucosidase,DLKHCADP_01943,FKLDPHGP_00117
+recN,recN,DNA repair protein RecN,DLKHCADP_00671,FKLDPHGP_00229
+group_381,,hypothetical protein,DLKHCADP_00832,FKLDPHGP_00326
+lacE_2,lacE_2,PTS system lactose-specific EIICB component,DLKHCADP_01906,FKLDPHGP_00099
+proS,proS,Proline--tRNA ligase,DLKHCADP_00450,FKLDPHGP_00282
+group_380,,putative ABC transporter ATP-binding protein,DLKHCADP_01935,FKLDPHGP_00124
+oppA_4,oppA_4,Oligopeptide-binding protein OppA,DLKHCADP_00642,FKLDPHGP_00201
+oppA_3,oppA_3,Oligopeptide-binding protein OppA,DLKHCADP_00421,FKLDPHGP_00252
+group_379,,hypothetical protein,DLKHCADP_00650,FKLDPHGP_00208
+yheI_2,yheI_2,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI,DLKHCADP_00438,FKLDPHGP_00269
+group_378,,putative ABC transporter ATP-binding protein,DLKHCADP_01934,FKLDPHGP_00125
+pyk,pyk,Pyruvate kinase,DLKHCADP_00725,FKLDPHGP_00356
+group_377,,hypothetical protein,DLKHCADP_00564,FKLDPHGP_00188
+group_376,,hypothetical protein,DLKHCADP_01902,FKLDPHGP_00103
+group_375,,hypothetical protein,DLKHCADP_00944,FKLDPHGP_00142
+yheH,yheH,putative multidrug resistance ABC transporter ATP-binding/permease protein YheH,DLKHCADP_00439,FKLDPHGP_00270
+uvrC,uvrC,UvrABC system protein C,DLKHCADP_00746,FKLDPHGP_00344
+glmS,glmS,Glutamine--fructose-6-phosphate aminotransferase [isomerizing],DLKHCADP_00633,FKLDPHGP_00193
+lepA_2,lepA_2,Elongation factor 4,DLKHCADP_00466,FKLDPHGP_00298
+group_374,,hypothetical protein,DLKHCADP_00656,FKLDPHGP_00214
+aspS,aspS,Aspartate--tRNA ligase,DLKHCADP_00839,FKLDPHGP_00333
+dnaK,dnaK,Chaperone protein DnaK,DLKHCADP_00464,FKLDPHGP_00296
+oatA,oatA,Peptidoglycan O-acetyltransferase OatA,DLKHCADP_00748,FKLDPHGP_00346
+group_369,,hypothetical protein,DLKHCADP_01925,FKLDPHGP_00134
+prkC,prkC,Serine/threonine-protein kinase PrkC,DLKHCADP_00679,FKLDPHGP_00237
+group_362,,hypothetical protein,DLKHCADP_01941,FKLDPHGP_00119
+recG,recG,ATP-dependent DNA helicase RecG,DLKHCADP_00412,FKLDPHGP_00244
+group_358,,hypothetical protein,DLKHCADP_00941,FKLDPHGP_00139
+group_356,,putative tautomerase.1,DLKHCADP_00655,FKLDPHGP_00213
+group_355,,hypothetical protein,0_refound_0,FKLDPHGP_00171
+rpmB,rpmB,Large ribosomal subunit protein bL28,DLKHCADP_00683,FKLDPHGP_00241
+relA,relA,GTP pyrophosphokinase,DLKHCADP_00836,FKLDPHGP_00330
+kdpB,kdpB,Potassium-transporting ATPase ATP-binding subunit,DLKHCADP_00537,FKLDPHGP_00307
+recJ,recJ,Single-stranded-DNA-specific exonuclease RecJ,DLKHCADP_00468,FKLDPHGP_00300
+rpmF,rpmF,Large ribosomal subunit protein bL32,DLKHCADP_00752,FKLDPHGP_00350
+group_348,,hypothetical protein,DLKHCADP_01948,FKLDPHGP_00112
+priA,priA,Replication restart protein PriA,DLKHCADP_00675,FKLDPHGP_00233
+pepX,pepX,Xaa-Pro dipeptidyl-peptidase,DLKHCADP_00562,FKLDPHGP_00186
+group_347,,hypothetical protein,DLKHCADP_00754,FKLDPHGP_00352
+xpkA,xpkA,Xylulose-5-phosphate phosphoketolase,DLKHCADP_00937,FKLDPHGP_00161
+ctpE,ctpE,Calcium-transporting ATPase CtpE,DLKHCADP_00831,FKLDPHGP_00325
+group_343,,hypothetical protein,DLKHCADP_00723,FKLDPHGP_00354
+group_341,,hypothetical protein,DLKHCADP_01897,FKLDPHGP_00108
+pepN,pepN,Aminopeptidase N,DLKHCADP_00565,FKLDPHGP_00189
+lepA_1,lepA_1,Elongation factor 4,DLKHCADP_00456,FKLDPHGP_00288
+rpoZ,rpoZ,DNA-directed RNA polymerase subunit omega,DLKHCADP_00674,FKLDPHGP_00232
+pacL,pacL,Calcium-transporting ATPase,DLKHCADP_00943,FKLDPHGP_00141
+group_333,,hypothetical protein,DLKHCADP_00437,FKLDPHGP_00268
+dnaE,dnaE,DNA polymerase III subunit alpha,DLKHCADP_00722,FKLDPHGP_00353
+smc_4,smc_4,Chromosome partition protein Smc,DLKHCADP_00423,FKLDPHGP_00254
+polC_1,polC_1,DNA polymerase III PolC-type,DLKHCADP_00451,FKLDPHGP_00283
+group_329,,hypothetical protein,DLKHCADP_01616,FKLDPHGP_01552
+group_328,,hypothetical protein,DLKHCADP_01654,FKLDPHGP_01587
+nfr1,nfr1,NADH-dependent flavin reductase subunit 1,DLKHCADP_01649,FKLDPHGP_01592
+hflX,hflX,GTPase HflX,DLKHCADP_01627,FKLDPHGP_01540
+nfr2,nfr2,NADH-dependent flavin reductase subunit 2,DLKHCADP_01650,FKLDPHGP_01591
+smtB,smtB,HTH-type transcriptional repressor SmtB,DLKHCADP_01603,FKLDPHGP_01565
+licT_4,licT_4,Transcription antiterminator LicT,DLKHCADP_01643,FKLDPHGP_01598
+guaA_3,guaA_3,GMP synthase [glutamine-hydrolyzing],DLKHCADP_01470,FKLDPHGP_01617
+uup_8,uup_8,ATP-binding protein Uup,DLKHCADP_01471,FKLDPHGP_01618
+group_327,,Macro domain-containing protein,DLKHCADP_01472,FKLDPHGP_01619
+group_326,,hypothetical protein,DLKHCADP_01623,FKLDPHGP_01545
+licC_2,licC_2,Lichenan permease IIC component,DLKHCADP_00407,FKLDPHGP_01520
+ybbH_2,ybbH_2,putative HTH-type transcriptional regulator YbbH,DLKHCADP_01629,FKLDPHGP_01612
+yxdM,yxdM,ABC transporter permease protein YxdM,DLKHCADP_01197,FKLDPHGP_01537
+cobC~~~pspB_2,cobC;pspB_2,Adenosylcobalamin/alpha-ribazole phosphatase;Putative phosphoserine phosphatase 2,DLKHCADP_01638,FKLDPHGP_01603
+pspB~~~pspB_1,pspB;pspB_1,Putative phosphoserine phosphatase 2,DLKHCADP_01639,FKLDPHGP_01602
+efp_1,efp_1,Elongation factor P,DLKHCADP_00410,FKLDPHGP_01517
+gpmA_3~~~gpmA_5,gpmA_3;gpmA_5,23-bisphosphoglycerate-dependent phosphoglycerate mutase,DLKHCADP_01198,FKLDPHGP_01536
+menH_2,menH_2,2-succinyl-6-hydroxy-24-cyclohexadiene-1-carboxylate synthase,DLKHCADP_01637,FKLDPHGP_01604
+group_323,,hypothetical protein,DLKHCADP_01640,FKLDPHGP_01601
+group_322,,hypothetical protein,DLKHCADP_01199,FKLDPHGP_01535
+group_321,,Calcium-transporting ATPase 1,DLKHCADP_00399,FKLDPHGP_01528;FKLDPHGP_01527
+group_320,,hypothetical protein,DLKHCADP_01636,FKLDPHGP_01605
+group_319,,hypothetical protein,DLKHCADP_01632,FKLDPHGP_01609
+group_318,,hypothetical protein,DLKHCADP_01448,FKLDPHGP_01678
+tcyP,tcyP,L-cystine uptake protein TcyP,DLKHCADP_00397,FKLDPHGP_01679
+glcA,glcA,Glycolate permease GlcA,DLKHCADP_01607,FKLDPHGP_01561
+yhaP,yhaP,putative protein YhaP,DLKHCADP_01596,FKLDPHGP_01572
+group_316,,putative ABC transporter permease,DLKHCADP_01641,FKLDPHGP_01600
+group_315,,hypothetical protein,DLKHCADP_01631,FKLDPHGP_01610
+group_313,,hypothetical protein,DLKHCADP_01608,FKLDPHGP_01560
+group_312,,hypothetical protein,DLKHCADP_01625,FKLDPHGP_01542
+group_311,,putative ABC transporter ATP-binding protein,DLKHCADP_01663;DLKHCADP_01662,FKLDPHGP_01579
+group_310,,hypothetical protein,DLKHCADP_01200,FKLDPHGP_01534
+group_309,,hypothetical protein,DLKHCADP_01474,FKLDPHGP_01615
+ybiV_3,ybiV_3,Sugar phosphatase YbiV,DLKHCADP_01602,FKLDPHGP_01566
+gmk_2,gmk_2,Guanylate kinase,DLKHCADP_01624,FKLDPHGP_01544
+group_308,,hypothetical protein,DLKHCADP_01618,FKLDPHGP_01550
+yaaA,yaaA,DNA-binding and peroxide stress resistance protein YaaA,DLKHCADP_01635,FKLDPHGP_01606
+group_307,,hypothetical protein,DLKHCADP_01633,FKLDPHGP_01608
+group_306,,hypothetical protein,DLKHCADP_01447,FKLDPHGP_01677
+spo0J,spo0J,Stage 0 sporulation protein J,DLKHCADP_01658,FKLDPHGP_01583
+noc,noc,Nucleoid occlusion protein,DLKHCADP_01656,FKLDPHGP_01585
+nrdF1,nrdF1,Ribonucleoside-diphosphate reductase subunit beta nrdF1,DLKHCADP_01619,FKLDPHGP_01549
+metE,;metE,hypothetical protein;5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase,DLKHCADP_00396,FKLDPHGP_01680
+mupG~~~mupG_2,mupG;mupG_2,6-phospho-N-acetylmuramidase,DLKHCADP_01651,FKLDPHGP_01590
+coaA,coaA,Pantothenate kinase,DLKHCADP_00409,FKLDPHGP_01518
+group_305,,hypothetical protein,DLKHCADP_01622,FKLDPHGP_01546
+znuB,znuB,High-affinity zinc uptake system membrane protein ZnuB,DLKHCADP_01606,FKLDPHGP_01562
+group_304,,hypothetical protein,DLKHCADP_01604,FKLDPHGP_01564
+group_303,,hypothetical protein,DLKHCADP_00404,FKLDPHGP_01523
+ybbH_1,ybbH_1,putative HTH-type transcriptional regulator YbbH,DLKHCADP_01204,FKLDPHGP_01530
+yicI,;yicI,hypothetical protein;Alpha-xylosidase,DLKHCADP_01597,FKLDPHGP_01571
+group_302,,hypothetical protein,DLKHCADP_01648,FKLDPHGP_01593
+hrtA~~~lolD,hrtA;lolD,Putative hemin import ATP-binding protein HrtA;Lipoprotein-releasing system ATP-binding protein LolD,DLKHCADP_01642,FKLDPHGP_01599
+group_301,,hypothetical protein,DLKHCADP_01630,FKLDPHGP_01611
+group_300,,hypothetical protein,DLKHCADP_01628,FKLDPHGP_01613
+aroD,aroD,3-dehydroquinate dehydratase,DLKHCADP_01473,FKLDPHGP_01614
+rsmG,rsmG,Ribosomal RNA small subunit methyltransferase G,DLKHCADP_01655,FKLDPHGP_01586
+group_299,,hypothetical protein,DLKHCADP_01621,FKLDPHGP_01547
+ptpB_2,ptpB_2,Triple specificity protein phosphatase PtpB,DLKHCADP_01652,FKLDPHGP_01589
+mazF,mazF,Endoribonuclease toxin MazF,DLKHCADP_01617,FKLDPHGP_01551
+group_298,,hypothetical protein,DLKHCADP_01661,FKLDPHGP_01580
+group_297,,hypothetical protein,DLKHCADP_01659,FKLDPHGP_01582
+group_296,,hypothetical protein,DLKHCADP_01611,FKLDPHGP_01557
+pepF~~~pepF1,pepF;pepF1,Oligopeptidase PepF;Oligoendopeptidase F plasmid,DLKHCADP_01609,FKLDPHGP_01559
+group_295,,hypothetical protein,DLKHCADP_01626,FKLDPHGP_01541
+group_294,,hypothetical protein,DLKHCADP_00408,FKLDPHGP_01519
+ycaM_2,ycaM_2,Inner membrane transporter YcaM,DLKHCADP_01211,FKLDPHGP_01539
+pepD,pepD,Dipeptidase,DLKHCADP_01646,FKLDPHGP_01595
+tagK_3,tagK_3,D-tagatose-1-phosphate kinase,DLKHCADP_01599,FKLDPHGP_01569
+group_293,,hypothetical protein,DLKHCADP_01612,FKLDPHGP_01556
+scrB_3~~~scrB_2,scrB_3;scrB_2,Sucrose-6-phosphate hydrolase,DLKHCADP_00914,FKLDPHGP_01621
+group_292,,hypothetical protein,DLKHCADP_01601,FKLDPHGP_01567
+exoA_2,exoA_2,Exodeoxyribonuclease,DLKHCADP_01201,FKLDPHGP_01533
+group_291,,hypothetical protein,DLKHCADP_00401,FKLDPHGP_01525
+group_290,,hypothetical protein,DLKHCADP_01634,FKLDPHGP_01607
+bglH_5,bglH_5,Aryl-phospho-beta-D-glucosidase BglH,DLKHCADP_01645,FKLDPHGP_01596
+apbE,apbE,FAD:protein FMN transferase,DLKHCADP_01653,FKLDPHGP_01588
+group_289,,hypothetical protein,DLKHCADP_00406,FKLDPHGP_01521
+znuC,znuC,Zinc import ATP-binding protein ZnuC,DLKHCADP_01605,FKLDPHGP_01563
+mscL,mscL,Large-conductance mechanosensitive channel,DLKHCADP_01446,FKLDPHGP_01676
+yheS,yheS,putative ATP-binding protein YheS,DLKHCADP_01613,FKLDPHGP_01555
+murE,murE,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase,DLKHCADP_01667,FKLDPHGP_01575
+group_288,,hypothetical protein,DLKHCADP_00405,FKLDPHGP_01522
+vanR,vanR,Regulatory protein VanR,DLKHCADP_01665,FKLDPHGP_01577
+nanE,nanE,Putative N-acetylmannosamine-6-phosphate 2-epimerase,DLKHCADP_01203,FKLDPHGP_01531
+ccpA_2,ccpA_2,Catabolite control protein A,DLKHCADP_00915,FKLDPHGP_01622
+group_284,,putative ABC transporter ATP-binding protein,DLKHCADP_01664,FKLDPHGP_01578
+bglF_3,bglF_3,PTS system beta-glucoside-specific EIIBCA component,DLKHCADP_01644,FKLDPHGP_01597
+group_282,,hypothetical protein,0_refound_6_pseudo,FKLDPHGP_01543
+scrA_2,scrA_2,PTS system sucrose-specific EIIBCA component,DLKHCADP_00913,FKLDPHGP_01620
+btuD_2,;btuD_2,Multidrug efflux system ATP-binding protein;Vitamin B12 import ATP-binding protein BtuD,DLKHCADP_01595,FKLDPHGP_01573
+fruA,fruA,PTS system fructose-specific EIIABC component,DLKHCADP_01600,FKLDPHGP_01568
+bceA,bceA,Bacitracin export ATP-binding protein BceA,DLKHCADP_01212,FKLDPHGP_01538
+group_280,,Aspartate racemase,DLKHCADP_01668,FKLDPHGP_01574
+ptsG,ptsG,PTS system glucose-specific EIICBA component,DLKHCADP_01202,FKLDPHGP_01532
+ychF,ychF,Ribosome-binding ATPase YchF,DLKHCADP_01660,FKLDPHGP_01581
+group_279,,hypothetical protein,DLKHCADP_00400,FKLDPHGP_01526
+glcR_2,glcR_2,HTH-type transcriptional repressor GlcR,DLKHCADP_01598,FKLDPHGP_01570
+nrdI_2,nrdI_2,Protein NrdI,DLKHCADP_01620,FKLDPHGP_01548
+tagU,tagU,Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU,DLKHCADP_01610,FKLDPHGP_01558
+helD,helD,DNA helicase IV,DLKHCADP_00402,FKLDPHGP_01524
+yjjB,yjjB,succinate transporter subunit YjjB,DLKHCADP_01615,FKLDPHGP_01553
+soj,soj,Sporulation initiation inhibitor protein Soj,DLKHCADP_01657,FKLDPHGP_01584
+luxS,luxS,S-ribosylhomocysteine lyase,DLKHCADP_00395,FKLDPHGP_01681
+rcsC,rcsC,Sensor histidine kinase RcsC,DLKHCADP_01666,FKLDPHGP_01576
+group_277,,hypothetical protein,DLKHCADP_01614,FKLDPHGP_01554
+sbnD_1,sbnD_1,Staphyloferrin B transporter,DLKHCADP_01475,FKLDPHGP_01616
+group_273,,hypothetical protein,DLKHCADP_01647,FKLDPHGP_01594
+rplF,rplF,Large ribosomal subunit protein uL6,DLKHCADP_01881,FKLDPHGP_01046
+group_272,,hypothetical protein,DLKHCADP_00295,FKLDPHGP_01128
+group_271,,hypothetical protein,DLKHCADP_01834,FKLDPHGP_01071
+rplE,rplE,Large ribosomal subunit protein uL5,DLKHCADP_01878,FKLDPHGP_01043
+group_270,,hypothetical protein,DLKHCADP_01854,FKLDPHGP_01091
+rhaS_1,rhaS_1,HTH-type transcriptional activator RhaS,DLKHCADP_00303,FKLDPHGP_01136
+rpsQ,rpsQ,Small ribosomal subunit protein uS17,DLKHCADP_01875,FKLDPHGP_01040
+dut,dut,Deoxyuridine 5'-triphosphate nucleotidohydrolase,DLKHCADP_01839,FKLDPHGP_01076
+rplB,rplB,Large ribosomal subunit protein uL2,DLKHCADP_01869,FKLDPHGP_01034
+nusG,nusG,Transcription termination/antitermination protein NusG,DLKHCADP_00312,FKLDPHGP_01095
+purA,purA,Adenylosuccinate synthetase,DLKHCADP_00297,FKLDPHGP_01130
+secY,secY,Protein translocase subunit SecY,DLKHCADP_01886,FKLDPHGP_01051
+group_269,,hypothetical protein,DLKHCADP_01849,FKLDPHGP_01086
+purB,purB,Adenylosuccinate lyase,DLKHCADP_00298,FKLDPHGP_01131
+rimI_1,rimI_1,[Ribosomal protein bS18]-alanine N-acetyltransferase,DLKHCADP_00337,FKLDPHGP_01120
+ecfA1,ecfA1,Energy-coupling factor transporter ATP-binding protein EcfA1,DLKHCADP_01894,FKLDPHGP_01059
+groES,groES,Co-chaperonin GroES,DLKHCADP_01181,FKLDPHGP_01147
+yvdD,yvdD,LOG family protein YvdD,DLKHCADP_01178,FKLDPHGP_01144
+rpsS,rpsS,Small ribosomal subunit protein uS19,DLKHCADP_01870,FKLDPHGP_01035
+group_268,,hypothetical protein,DLKHCADP_00294,FKLDPHGP_01127
+rplJ,rplJ,Large ribosomal subunit protein uL10,DLKHCADP_00318,FKLDPHGP_01101
+rplW,rplW,Large ribosomal subunit protein uL23,DLKHCADP_01868,FKLDPHGP_01033
+rsmI,rsmI,Ribosomal RNA small subunit methyltransferase I,DLKHCADP_00333,FKLDPHGP_01116
+group_267,,hypothetical protein,DLKHCADP_00331,FKLDPHGP_01114
+pepC,pepC,Aminopeptidase C,DLKHCADP_01838,FKLDPHGP_01075
+yajL,yajL,Protein/nucleic acid deglycase 3,DLKHCADP_01830,FKLDPHGP_01067
+group_266,,hypothetical protein,DLKHCADP_00300,FKLDPHGP_01133
+licT_5,licT_5,Transcription antiterminator LicT,DLKHCADP_01845,FKLDPHGP_01082
+qorB,qorB,Quinone oxidoreductase 2,DLKHCADP_01829,FKLDPHGP_01066
+rpsJ,rpsJ,Small ribosomal subunit protein uS10,DLKHCADP_01865,FKLDPHGP_01030
+group_265,,hypothetical protein,DLKHCADP_00301,FKLDPHGP_01134
+recR,recR,Recombination protein RecR,DLKHCADP_00327,FKLDPHGP_01110
+clcA_1,clcA_1,H(+)/Cl(-) exchange transporter ClcA,DLKHCADP_00293,FKLDPHGP_01126
+group_264,,hypothetical protein,DLKHCADP_00320,FKLDPHGP_01103
+radA,radA,DNA repair protein RadA,DLKHCADP_01840,FKLDPHGP_01077
+czrA,czrA,HTH-type transcriptional repressor CzrA,DLKHCADP_01832,FKLDPHGP_01069
+czcD,czcD,Cadmium cobalt and zinc/H(+)-K(+) antiporter,DLKHCADP_01833,FKLDPHGP_01070
+darA,darA,Cyclic di-AMP receptor A,DLKHCADP_00330,FKLDPHGP_01113
+rsmC,rsmC,Ribosomal RNA small subunit methyltransferase C,DLKHCADP_00322,FKLDPHGP_01105
+group_263,,hypothetical protein,DLKHCADP_00291,FKLDPHGP_01124
+rplD,rplD,Large ribosomal subunit protein uL4,DLKHCADP_01867,FKLDPHGP_01032
+ybaB,ybaB,Nucleoid-associated protein YbaB,DLKHCADP_00326,FKLDPHGP_01109
+group_262,,hypothetical protein,DLKHCADP_00292,FKLDPHGP_01125
+cysS,cysS,Cysteine--tRNA ligase,DLKHCADP_01842,FKLDPHGP_01079
+lacG_1,lacG_1,6-phospho-beta-galactosidase,DLKHCADP_01848,FKLDPHGP_01085
+rplC,rplC,Large ribosomal subunit protein uL3,DLKHCADP_01866,FKLDPHGP_01031
+smc_3,smc_3,Chromosome partition protein Smc,DLKHCADP_00290,FKLDPHGP_01123
+yabA,yabA,Replication initiation control protein YabA,DLKHCADP_00332,FKLDPHGP_01115
+rpsM,rpsM,Small ribosomal subunit protein uS13,DLKHCADP_01890,FKLDPHGP_01055
+rplV,rplV,Large ribosomal subunit protein uL22,DLKHCADP_01871,FKLDPHGP_01036
+tmk,tmk,Thymidylate kinase,DLKHCADP_00329,FKLDPHGP_01112
+rplR,rplR,Large ribosomal subunit protein uL18,DLKHCADP_01882,FKLDPHGP_01047
+lacF_2,lacF_2,PTS system lactose-specific EIIA component,DLKHCADP_01846,FKLDPHGP_01083
+rex,rex,Redox-sensing transcriptional repressor Rex,DLKHCADP_01177,FKLDPHGP_01143
+tcyL,tcyL,L-cystine transport system permease protein TcyL,DLKHCADP_00315,FKLDPHGP_01098
+tcyN,tcyN,L-cystine import ATP-binding protein TcyN,DLKHCADP_00316,FKLDPHGP_01099
+rplL,rplL,Large ribosomal subunit protein bL12,DLKHCADP_00319,FKLDPHGP_01102
+group_261,,hypothetical protein,DLKHCADP_00309,FKLDPHGP_01140
+smc_2,smc_2,Chromosome partition protein Smc,DLKHCADP_00289,FKLDPHGP_01122
+gltX,gltX,Glutamate--tRNA ligase,DLKHCADP_01841,FKLDPHGP_01078
+rplN,rplN,Large ribosomal subunit protein uL14,DLKHCADP_01876,FKLDPHGP_01041
+xylB,xylB,Xylulose kinase,DLKHCADP_01851,FKLDPHGP_01088
+scrB_2~~~scrB_1,scrB_2;scrB_1,Sucrose-6-phosphate hydrolase,DLKHCADP_00308;DLKHCADP_00307,FKLDPHGP_01139
+adk,adk,Adenylate kinase,DLKHCADP_01887,FKLDPHGP_01052
+group_260,,hypothetical protein,DLKHCADP_01837,FKLDPHGP_01074
+rpoA,rpoA,DNA-directed RNA polymerase subunit alpha,DLKHCADP_01892,FKLDPHGP_01057
+lysS,lysS,Lysine--tRNA ligase,DLKHCADP_01580,FKLDPHGP_01020
+rplQ,rplQ,Large ribosomal subunit protein bL17,DLKHCADP_01893,FKLDPHGP_01058
+rpsC,rpsC,Small ribosomal subunit protein uS3,DLKHCADP_01872,FKLDPHGP_01037
+rpsK,rpsK,Small ribosomal subunit protein uS11,DLKHCADP_01891,FKLDPHGP_01056
+group_259,,hypothetical protein,DLKHCADP_01861,FKLDPHGP_01026
+gpmA_5,gpmA_5,23-bisphosphoglycerate-dependent phosphoglycerate mutase,DLKHCADP_01836,FKLDPHGP_01073
+group_258,,Beta-glucosidase BoGH3B;hypothetical protein;Beta-xylosidase,DLKHCADP_00305;DLKHCADP_00304,FKLDPHGP_01137
+rpsI,rpsI,Small ribosomal subunit protein uS9,DLKHCADP_01827,FKLDPHGP_01064
+rpsH,rpsH,Small ribosomal subunit protein uS8,DLKHCADP_01880,FKLDPHGP_01045
+gpmA_4,gpmA_4,23-bisphosphoglycerate-dependent phosphoglycerate mutase,DLKHCADP_01831,FKLDPHGP_01068
+lacE_1,lacE_1,PTS system lactose-specific EIICB component,DLKHCADP_01847,FKLDPHGP_01084
+rpsL,rpsL,Small ribosomal subunit protein uS12,DLKHCADP_01862,FKLDPHGP_01027
+dxs,dxs,1-deoxy-D-xylulose-5-phosphate synthase,DLKHCADP_01853,FKLDPHGP_01090
+rplA,rplA,Large ribosomal subunit protein uL1,DLKHCADP_00314,FKLDPHGP_01097
+guaC,guaC,GMP reductase,DLKHCADP_00296,FKLDPHGP_01129
+dusB,dusB,tRNA-dihydrouridine synthase B,DLKHCADP_01579,FKLDPHGP_01019
+dnaX,dnaX,DNA polymerase III subunit tau,DLKHCADP_00325,FKLDPHGP_01108
+rplK,rplK,Large ribosomal subunit protein uL11,DLKHCADP_00313,FKLDPHGP_01096
+hepT,hepT,Heptaprenyl diphosphate synthase component 2,DLKHCADP_01855,FKLDPHGP_01092
+rpmJ,rpmJ,Large ribosomal subunit protein bL36,DLKHCADP_01889,FKLDPHGP_01054
+rplP,rplP,Large ribosomal subunit protein uL16,DLKHCADP_01873,FKLDPHGP_01038
+tsaB,tsaB,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,DLKHCADP_00336,FKLDPHGP_01119
+rplO,rplO,Large ribosomal subunit protein uL15,DLKHCADP_01885,FKLDPHGP_01050
+group_257,,hypothetical protein,DLKHCADP_01828,FKLDPHGP_01065
+ettA,ettA,Energy-dependent translational throttle protein EttA,DLKHCADP_01176,FKLDPHGP_01142
+tsaD,tsaD,tRNA N6-adenosine threonylcarbamoyltransferase,DLKHCADP_00338,FKLDPHGP_01121
+mrnC,mrnC,Mini-ribonuclease 3,DLKHCADP_01843,FKLDPHGP_01080
+rplM,rplM,Large ribosomal subunit protein uL13,DLKHCADP_01826,FKLDPHGP_01063
+rpmG3,rpmG3,Large ribosomal subunit protein bL33C,DLKHCADP_00310,FKLDPHGP_01093
+group_256,,hypothetical protein,DLKHCADP_00334,FKLDPHGP_01117
+scrA_1,scrA_1,PTS system sucrose-specific EIIBCA component,DLKHCADP_00306,FKLDPHGP_01138
+idi,idi,Isopentenyl-diphosphate Delta-isomerase,DLKHCADP_00299,FKLDPHGP_01132
+secE,secE,Protein translocase subunit SecE,DLKHCADP_00311,FKLDPHGP_01094
+tadA_1,tadA_1,tRNA-specific adenosine deaminase,DLKHCADP_00324,FKLDPHGP_01107
+group_255,,Putative TrmH family tRNA/rRNA methyltransferase,DLKHCADP_01844,FKLDPHGP_01081
+rpmD,rpmD,Large ribosomal subunit protein uL30,DLKHCADP_01884,FKLDPHGP_01049
+fusA,fusA,elongation factor G FusA,DLKHCADP_01864,FKLDPHGP_01029
+group_254,,hypothetical protein,DLKHCADP_00323,FKLDPHGP_01106
+rpsZ,rpsZ,Small ribosomal subunit protein uS14,DLKHCADP_01879,FKLDPHGP_01044
+group_253,,putative HTH-type transcriptional regulator,DLKHCADP_01179,FKLDPHGP_01145
+group_252,,hypothetical protein,DLKHCADP_01835,FKLDPHGP_01072
+group_251,,hypothetical protein,DLKHCADP_01180,FKLDPHGP_01146
+group_250,,hypothetical protein,DLKHCADP_01175,FKLDPHGP_01141
+rpsG,rpsG,Small ribosomal subunit protein uS7,DLKHCADP_01863,FKLDPHGP_01028
+rpmC,rpmC,Large ribosomal subunit protein uL29,DLKHCADP_01874,FKLDPHGP_01039
+garK,garK,Glycerate 2-kinase,DLKHCADP_01852,FKLDPHGP_01089
+clpC,clpC,Negative regulator of genetic competence ClpC/MecB,DLKHCADP_01858,FKLDPHGP_01023
+artJ,artJ,ABC transporter arginine-binding protein 1,DLKHCADP_00317,FKLDPHGP_01100
+group_249,,hypothetical protein,DLKHCADP_01850,FKLDPHGP_01087
+truA,truA,tRNA pseudouridine synthase A,DLKHCADP_01825,FKLDPHGP_01062
+infA,infA,Translation initiation factor IF-1,DLKHCADP_01888,FKLDPHGP_01053
+ecfT_2,ecfT_2,Energy-coupling factor transporter transmembrane protein EcfT,DLKHCADP_01824,FKLDPHGP_01061
+group_248,,hypothetical protein,DLKHCADP_00321,FKLDPHGP_01104
+uctC,uctC,Acetyl-CoA:oxalate CoA-transferase,DLKHCADP_00302,FKLDPHGP_01135
+folT,folT,Folate transporter FolT,DLKHCADP_00335,FKLDPHGP_01118
+rpoB,rpoB,DNA-directed RNA polymerase subunit beta RpoB,DLKHCADP_01859,FKLDPHGP_01024
+rpoC,rpoC,DNA-directed RNA polymerase subunit beta RpoC,DLKHCADP_01860,FKLDPHGP_01025
+group_247,,hypothetical protein,DLKHCADP_00328,FKLDPHGP_01111
+rplX,rplX,Large ribosomal subunit protein uL24,DLKHCADP_01877,FKLDPHGP_01042
+rpsE,rpsE,Small ribosomal subunit protein uS5,DLKHCADP_01883,FKLDPHGP_01048
+mutL,mutL,DNA mismatch repair protein MutL,DLKHCADP_00276,FKLDPHGP_01686
+ruvA,ruvA,Holliday junction branch migration complex subunit RuvA,DLKHCADP_00277,FKLDPHGP_01687
+mutS,mutS,DNA mismatch repair protein MutS,DLKHCADP_00275,FKLDPHGP_01685
+dinB_1,dinB_1,DNA polymerase IV,DLKHCADP_00281,FKLDPHGP_01691
+group_246,,hypothetical protein,DLKHCADP_00287,FKLDPHGP_01697
+zwf,zwf,Glucose-6-phosphate 1-dehydrogenase,DLKHCADP_00280,FKLDPHGP_01690
+alaS,alaS,Alanine--tRNA ligase,DLKHCADP_00284,FKLDPHGP_01694
+yrrK,yrrK,Putative pre-16S rRNA nuclease,DLKHCADP_00286,FKLDPHGP_01696
+group_245,,hypothetical protein,DLKHCADP_00285,FKLDPHGP_01695
+ruvB,ruvB,Holliday junction branch migration complex subunit RuvB,DLKHCADP_00278,FKLDPHGP_01688
+nrnA,nrnA,putative bifunctional oligoribonuclease and PAP phosphatase NrnA,DLKHCADP_00282,FKLDPHGP_01692
+uup_3,uup_3,ATP-binding protein Uup,DLKHCADP_00274,FKLDPHGP_01684
+group_244,,hypothetical protein,DLKHCADP_00288,FKLDPHGP_01698
+cshB,cshB,DEAD-box ATP-dependent RNA helicase CshB,DLKHCADP_00283,FKLDPHGP_01693
+group_243,,hypothetical protein,DLKHCADP_00279,FKLDPHGP_01689
+yumC,yumC,Ferredoxin--NADP reductase 2,DLKHCADP_00272,FKLDPHGP_01720
+group_242,,hypothetical protein,DLKHCADP_00270,FKLDPHGP_01718
+group_241,,hypothetical protein,DLKHCADP_00265,FKLDPHGP_01713
+yslB,yslB,putative protein YslB,DLKHCADP_00254,FKLDPHGP_01701
+group_240,,hypothetical protein,DLKHCADP_00266,FKLDPHGP_01714
+yugI,yugI,General stress protein 13,DLKHCADP_00273,FKLDPHGP_01721
+pepQ,pepQ,Xaa-Pro dipeptidase,DLKHCADP_00261,FKLDPHGP_01708
+group_239,,hypothetical protein,DLKHCADP_00268,FKLDPHGP_01716
+pepV_1,pepV_1,Beta-Ala-Xaa dipeptidase,DLKHCADP_00264,FKLDPHGP_01712
+rdgB,rdgB,dITP/XTP pyrophosphatase,DLKHCADP_00256,FKLDPHGP_01703
+ykuT,ykuT,putative MscS family protein YkuT,DLKHCADP_00258,FKLDPHGP_01705
+mutSB,mutSB,Putative endonuclease MutS2,DLKHCADP_00252,FKLDPHGP_01699
+group_238,,hypothetical protein,DLKHCADP_00260,FKLDPHGP_01707
+ccpA_1,ccpA_1,Catabolite control protein A,DLKHCADP_00262,FKLDPHGP_01709
+yutF,yutF,5'-nucleotidase YutF,DLKHCADP_00269,FKLDPHGP_01717
+group_237,ackA_1,Acetate kinase,DLKHCADP_00257,FKLDPHGP_01704
+group_236,,hypothetical protein,DLKHCADP_00259,FKLDPHGP_01706
+mtgA_2,mtgA_2,Biosynthetic peptidoglycan transglycosylase,DLKHCADP_00263,FKLDPHGP_01711
+dedA,dedA,DedA family protein,DLKHCADP_00271,FKLDPHGP_01719
+murI,murI,Glutamate racemase,DLKHCADP_00255,FKLDPHGP_01702
+group_235,,hypothetical protein,DLKHCADP_00267,FKLDPHGP_01715
+trxA,trxA,Thioredoxin,DLKHCADP_00253,FKLDPHGP_01700
+group_234,,hypothetical protein,DLKHCADP_00225,FKLDPHGP_00978
+tagK_1,tagK_1,D-tagatose-1-phosphate kinase,DLKHCADP_00197,FKLDPHGP_00903
+rpmE2,rpmE2,Large ribosomal subunit protein bL31B,DLKHCADP_01373,FKLDPHGP_01003
+group_233,,hypothetical protein,DLKHCADP_00223,FKLDPHGP_00976
+rpsN2,rpsN2,Small ribosomal subunit protein uS14A,DLKHCADP_00352,FKLDPHGP_00910
+rpoE,rpoE,putative DNA-directed RNA polymerase subunit delta,DLKHCADP_00214,FKLDPHGP_00967
+group_232,,hypothetical protein,DLKHCADP_00375,FKLDPHGP_00932
+tyrS,tyrS,Tyrosine--tRNA ligase,DLKHCADP_00343,FKLDPHGP_00920
+group_231,,hypothetical protein,DLKHCADP_00355,FKLDPHGP_00907
+murA1,murA1,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,DLKHCADP_00216,FKLDPHGP_00969
+group_230,,hypothetical protein,DLKHCADP_01424,FKLDPHGP_00990
+group_229,,hypothetical protein,DLKHCADP_00221,FKLDPHGP_00974
+purR,purR,Purine biosynthesis transcriptional repressor PurR,DLKHCADP_00240,FKLDPHGP_00952
+tilS,tilS,tRNA(Ile)-lysidine synthase,DLKHCADP_01241,FKLDPHGP_01015
+pth,pth,Peptidyl-tRNA hydrolase,DLKHCADP_01246,FKLDPHGP_01010
+pepE_1,pepE_1,Aminopeptidase E,DLKHCADP_00339,FKLDPHGP_00924
+group_228,,hypothetical protein,DLKHCADP_00230,FKLDPHGP_00983
+rnmV,rnmV,Ribonuclease M5,DLKHCADP_00237,FKLDPHGP_00949
+pucK,pucK,Uric acid permease PucK,DLKHCADP_00217,FKLDPHGP_00970
+pepE_2,pepE_2,Aminopeptidase E,DLKHCADP_00341,FKLDPHGP_00922
+xpt,xpt,Xanthine phosphoribosyltransferase,DLKHCADP_00218,FKLDPHGP_00971
+ganQ,ganQ,Galactooligosaccharides transport system permease protein GanQ,DLKHCADP_00251,FKLDPHGP_00963
+azoR,azoR,FMN dependent NADH:quinone oxidoreductase,DLKHCADP_00226,FKLDPHGP_00979
+bglK_1,bglK_1,Beta-glucoside kinase,DLKHCADP_00367,FKLDPHGP_00939
+gmuC,gmuC,PTS system oligo-beta-mannoside-specific EIIC component,DLKHCADP_00377,FKLDPHGP_00930
+group_227,,hypothetical protein,DLKHCADP_00229,FKLDPHGP_00982
+group_226,,hypothetical protein,DLKHCADP_00361,FKLDPHGP_00945
+ganP,ganP,Galactooligosaccharides transport system permease protein GanP,DLKHCADP_00250,FKLDPHGP_00962
+glcU_2,glcU_2,Glucose uptake protein GlcU,DLKHCADP_00348,FKLDPHGP_00914
+group_225,,hypothetical protein,DLKHCADP_01566,FKLDPHGP_00882
+group_224,,hypothetical protein,DLKHCADP_00212,FKLDPHGP_00965
+murF,murF,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,DLKHCADP_01374,FKLDPHGP_01004
+bglH_1,bglH_1,Aryl-phospho-beta-D-glucosidase BglH,DLKHCADP_00368,FKLDPHGP_00938
+ptcB,ptcB,PTS system galactose-specific EIIB component,DLKHCADP_00370,FKLDPHGP_00936
+group_223,,hypothetical protein,DLKHCADP_00222,FKLDPHGP_00975
+glmU,glmU,Bifunctional protein GlmU,DLKHCADP_00241,FKLDPHGP_00953
+ptcA,ptcA,PTS system cellobiose-specific EIIA component,DLKHCADP_00371,FKLDPHGP_00935
+group_222,,hypothetical protein,DLKHCADP_00364,FKLDPHGP_00942
+rsmA,rsmA,Ribosomal RNA small subunit methyltransferase A,DLKHCADP_00238,FKLDPHGP_00950
+plsY_1,plsY_1,Glycerol-3-phosphate acyltransferase,DLKHCADP_00345,FKLDPHGP_00918
+group_221,,hypothetical protein,DLKHCADP_01382,FKLDPHGP_01000
+licC_1,licC_1,Lichenan permease IIC component,DLKHCADP_00369,FKLDPHGP_00937
+group_220,,hypothetical protein,DLKHCADP_00194,FKLDPHGP_00885
+bglA_2,bglA_2,Aryl-phospho-beta-D-glucosidase BglA,DLKHCADP_00379,FKLDPHGP_00928
+group_219,,hypothetical protein,DLKHCADP_01240,FKLDPHGP_01014
+cshA,cshA,ATP-dependent RNA helicase CshA,DLKHCADP_01375,FKLDPHGP_01005
+acpS,acpS,Holo-[acyl-carrier-protein] synthase,DLKHCADP_01376,FKLDPHGP_01006
+group_218,,hypothetical protein,DLKHCADP_00195,FKLDPHGP_00884
+pepDA_4~~~pepDA_3~~~pepDA_2,pepDA_4;pepDA_3;pepDA_2,Dipeptidase A,DLKHCADP_01417;DLKHCADP_01418,FKLDPHGP_00996
+tagK_2,tagK_2,D-tagatose-1-phosphate kinase,DLKHCADP_00210,FKLDPHGP_00890
+frc_1~~~frc_2~~~frc,frc_1;frc_2;frc,Formyl-CoA:oxalate CoA-transferase,DLKHCADP_01421;DLKHCADP_01420,FKLDPHGP_00987
+yedJ,yedJ,putative protein YedJ,DLKHCADP_00340,FKLDPHGP_00923
+eno_2~~~eno_3,eno_2;eno_3,Enolase,DLKHCADP_01412;DLKHCADP_01413,FKLDPHGP_00992
+aimA,aimA,Glutamate/serine transporter AimA,DLKHCADP_01372,FKLDPHGP_01002
+bglH_2~~~bglA_1~~~bglH_1,bglH_2;bglA_1;bglH_1,Aryl-phospho-beta-D-glucosidase BglH;6-phospho-beta-glucosidase BglA,DLKHCADP_00374;DLKHCADP_00373,FKLDPHGP_00933
+yfdH,yfdH,Prophage bactoprenol glucosyl transferase,DLKHCADP_00350,FKLDPHGP_00912
+group_217,,hypothetical protein,DLKHCADP_00382,FKLDPHGP_00925
+guaA_1,guaA_1,GMP synthase [glutamine-hydrolyzing],DLKHCADP_00220,FKLDPHGP_00973
+group_216,,hypothetical protein,DLKHCADP_00366,FKLDPHGP_00940
+yvdM,yvdM,Beta-phosphoglucomutase,DLKHCADP_00247,FKLDPHGP_00959
+cytR,cytR,HTH-type transcriptional repressor CytR,DLKHCADP_00243,FKLDPHGP_00955
+metG_1~~~metG,metG_1;metG,Methionine--tRNA ligase,DLKHCADP_00235,FKLDPHGP_00947
+dexB,dexB,Glucan 16-alpha-glucosidase,DLKHCADP_00211,FKLDPHGP_00964
+pyrG,pyrG,CTP synthase,DLKHCADP_00215,FKLDPHGP_00968
+lacX_2~~~lacX_1,lacX_2;lacX_1;,Protein LacX plasmid;hypothetical protein,DLKHCADP_00347,FKLDPHGP_00915;FKLDPHGP_00916
+iolU,iolU,scyllo-inositol 2-dehydrogenase (NADP(+)) IolU,DLKHCADP_00357,FKLDPHGP_00905
+malL_1,malL_1,Oligo-16-glucosidase,DLKHCADP_00244,FKLDPHGP_00956
+pckA,pckA,Phosphoenolpyruvate carboxykinase (ATP),DLKHCADP_00206,FKLDPHGP_00894
+kefC,kefC,Glutathione-regulated potassium-efflux system protein KefC,DLKHCADP_00358,FKLDPHGP_00904
+group_214,,hypothetical protein,DLKHCADP_01244,FKLDPHGP_01008
+ldh_2,ldh_2,L-lactate dehydrogenase,DLKHCADP_01245,FKLDPHGP_01009
+prs_1,prs_1,Ribose-phosphate pyrophosphokinase,DLKHCADP_00242,FKLDPHGP_00954
+group_213,,hypothetical protein,DLKHCADP_00224,FKLDPHGP_00977
+group_212,,hypothetical protein,DLKHCADP_00207,FKLDPHGP_00893
+bbmA,bbmA,Intracellular maltogenic amylase,DLKHCADP_00245,FKLDPHGP_00957
+gpmA_1,gpmA_1,23-bisphosphoglycerate-dependent phosphoglycerate mutase,DLKHCADP_00353,FKLDPHGP_00909
+mgtB_2,mgtB_2,Magnesium-transporting ATPase P-type 1,DLKHCADP_00360,FKLDPHGP_00946
+group_211,,hypothetical protein,DLKHCADP_00378,FKLDPHGP_00929
+oxc,oxc,Oxalyl-CoA decarboxylase,DLKHCADP_01422,FKLDPHGP_00988
+yydK,yydK,putative HTH-type transcriptional regulator YydK,DLKHCADP_00376,FKLDPHGP_00931
+group_210,,hypothetical protein,DLKHCADP_00231,FKLDPHGP_00984
+group_209,,hypothetical protein,DLKHCADP_00227,FKLDPHGP_00980
+lacD,lacD,Tagatose 16-diphosphate aldolase,DLKHCADP_00192,FKLDPHGP_00887
+group_208,,hypothetical protein,DLKHCADP_00198,FKLDPHGP_00902
+group_207,,hypothetical protein,DLKHCADP_00203,FKLDPHGP_00897
+glyA_1~~~glyA,glyA_1;glyA,Serine hydroxymethyltransferase,DLKHCADP_01379,FKLDPHGP_00997
+group_206,,hypothetical protein,DLKHCADP_00354,FKLDPHGP_00908
+group_205,,hypothetical protein,DLKHCADP_00213,FKLDPHGP_00966
+group_204,,hypothetical protein,DLKHCADP_01565,FKLDPHGP_00881
+group_203,,hypothetical protein,DLKHCADP_00349,FKLDPHGP_00913
+group_202,,hypothetical protein,DLKHCADP_01414,FKLDPHGP_00993
+group_201,,hypothetical protein,DLKHCADP_00199,FKLDPHGP_00901
+group_200,,hypothetical protein,DLKHCADP_01381,FKLDPHGP_00999
+trpS2,trpS2,Tryptophan--tRNA ligase 2,DLKHCADP_00363,FKLDPHGP_00943
+group_199,,hypothetical protein,DLKHCADP_00351,FKLDPHGP_00911
+gmuR_1,gmuR_1,HTH-type transcriptional regulator GmuR,DLKHCADP_00372,FKLDPHGP_00934
+group_198,,hypothetical protein,DLKHCADP_00202,FKLDPHGP_00898
+group_197,,hypothetical protein,DLKHCADP_00209,FKLDPHGP_00891
+group_196,,hypothetical protein,DLKHCADP_01416,FKLDPHGP_00995
+pepO_2,pepO_2,Neutral endopeptidase,DLKHCADP_00208,FKLDPHGP_00892
+kup_1,kup_1,Low affinity potassium transport system protein Kup,DLKHCADP_00204,FKLDPHGP_00896
+group_195,,Acid shock protein,DLKHCADP_00380,FKLDPHGP_00927
+kup_2,kup_2,Low affinity potassium transport system protein Kup,DLKHCADP_00205,FKLDPHGP_00895
+group_194,,hypothetical protein,DLKHCADP_01415,FKLDPHGP_00994
+msmX,msmX,Oligosaccharides import ATP-binding protein MsmX,DLKHCADP_00248,FKLDPHGP_00960
+ftsH,ftsH,ATP-dependent zinc metalloprotease FtsH,DLKHCADP_01242,FKLDPHGP_01016
+glvR,glvR,HTH-type transcriptional regulator GlvR,DLKHCADP_00190,FKLDPHGP_00889
+nrdD,nrdD,Anaerobic ribonucleoside-triphosphate reductase,DLKHCADP_01564,FKLDPHGP_00880
+brpA,brpA,Biofilm regulatory protein A,DLKHCADP_00346,FKLDPHGP_00917
+greA_1,greA_1,Transcription elongation factor GreA,DLKHCADP_00381,FKLDPHGP_00926
+agaA_2,agaA_2,Alpha-galactosidase AgaA,DLKHCADP_01380,FKLDPHGP_00998
+group_192,,hypothetical protein,DLKHCADP_00228,FKLDPHGP_00981
+malP,malP,Maltose phosphorylase,DLKHCADP_00246,FKLDPHGP_00958
+thiQ,thiQ,Thiamine import ATP-binding protein ThiQ,DLKHCADP_01383,FKLDPHGP_01001
+dtd3,dtd3,D-aminoacyl-tRNA deacylase,DLKHCADP_00236,FKLDPHGP_00948
+alr,alr,Alanine racemase,DLKHCADP_01377,FKLDPHGP_01007
+group_191,,hypothetical protein,DLKHCADP_00219,FKLDPHGP_00972
+group_190,,hypothetical protein,DLKHCADP_00356,FKLDPHGP_00906
+eno_1,eno_1,Enolase,DLKHCADP_01411,FKLDPHGP_00991
+group_189,,hypothetical protein,DLKHCADP_00201,FKLDPHGP_00899
+tadA_2,tadA_2,tRNA-specific adenosine deaminase,DLKHCADP_00362,FKLDPHGP_00944
+group_188,,hypothetical protein,DLKHCADP_01243,FKLDPHGP_01017
+group_187,,hypothetical protein,DLKHCADP_01423,FKLDPHGP_00989
+smc_1,smc_1,Chromosome partition protein Smc,DLKHCADP_00191,FKLDPHGP_00888
+group_186,,hypothetical protein,DLKHCADP_00344,FKLDPHGP_00919
+group_185,,hypothetical protein,DLKHCADP_00233,FKLDPHGP_00986
+group_184,,hypothetical protein,DLKHCADP_01567,FKLDPHGP_00883
+mfd,mfd,Transcription-repair-coupling factor,DLKHCADP_01247,FKLDPHGP_01011
+ogt,ogt,Methylated-DNA--protein-cysteine methyltransferase constitutive,DLKHCADP_00232,FKLDPHGP_00985
+ganS,ganS,Galactooligosaccharide-binding protein,DLKHCADP_00249,FKLDPHGP_00961
+veg,veg,Protein Veg,DLKHCADP_00239,FKLDPHGP_00951
+group_182,,hypothetical protein,DLKHCADP_00193,FKLDPHGP_00886
+group_181,,hypothetical protein,DLKHCADP_00200,FKLDPHGP_00900
+rqcP,rqcP,RQC P-site tRNA stabilizing factor,DLKHCADP_01248,FKLDPHGP_01012
+group_180,,hypothetical protein,DLKHCADP_00174,FKLDPHGP_00403
+rpsT,rpsT,Small ribosomal subunit protein bS20,DLKHCADP_00019,FKLDPHGP_00645
+group_178,,hypothetical protein,DLKHCADP_00109,FKLDPHGP_00543
+group_177,,hypothetical protein,DLKHCADP_00883,FKLDPHGP_00445
+rpsO,rpsO,Small ribosomal subunit protein uS15,DLKHCADP_00018,FKLDPHGP_00644
+group_174,,hypothetical protein,DLKHCADP_00175,FKLDPHGP_00404
+ribA,ribA,GTP cyclohydrolase-2,DLKHCADP_00886,FKLDPHGP_00448
+group_172,,hypothetical protein,DLKHCADP_01193,FKLDPHGP_00666
+group_171,,hypothetical protein,DLKHCADP_00773,FKLDPHGP_00703
+group_170,,hypothetical protein,DLKHCADP_00108,FKLDPHGP_00544
+group_169,,Putative membrane protein insertion efficiency factor,DLKHCADP_00769,FKLDPHGP_00707
+group_168,,hypothetical protein,DLKHCADP_00155,FKLDPHGP_00426
+comGC,comGC,Competence protein ComGC,DLKHCADP_01771,FKLDPHGP_00748
+group_167,,hypothetical protein,DLKHCADP_00960,FKLDPHGP_00672
+group_166,,hypothetical protein,DLKHCADP_00890,FKLDPHGP_00451
+group_165,,hypothetical protein,DLKHCADP_00126,FKLDPHGP_00527
+group_163,,hypothetical protein,DLKHCADP_00164,FKLDPHGP_00435
+ykwC_2,ykwC_2,putative oxidoreductase YkwC,DLKHCADP_00859,FKLDPHGP_00459
+group_162,,hypothetical protein,DLKHCADP_00891,FKLDPHGP_00452
+group_161,,hypothetical protein,DLKHCADP_00123,FKLDPHGP_00530
+group_160,,hypothetical protein,DLKHCADP_00114,FKLDPHGP_00538
+group_159,,hypothetical protein,DLKHCADP_00032,FKLDPHGP_00572
+group_158,,hypothetical protein,DLKHCADP_01196,FKLDPHGP_00663
+group_157,,hypothetical protein,DLKHCADP_00972,FKLDPHGP_00684
+group_156,,hypothetical protein,DLKHCADP_00122,FKLDPHGP_00531
+group_155,,hypothetical protein,DLKHCADP_00026,FKLDPHGP_00652
+group_154,,hypothetical protein,DLKHCADP_00070,FKLDPHGP_00492
+group_152,,hypothetical protein,DLKHCADP_00127,FKLDPHGP_00526
+fluC2,fluC2,Fluoride-specific ion channel FluC 2,DLKHCADP_01761,FKLDPHGP_00758
+ftsL,ftsL,Cell division protein FtsL,DLKHCADP_00951,FKLDPHGP_00681
+ytrA,ytrA,HTH-type transcriptional repressor YtrA,DLKHCADP_00041,FKLDPHGP_00581
+group_151,,hypothetical protein,DLKHCADP_00861,FKLDPHGP_00461
+ribH,ribH,67-dimethyl-8-ribityllumazine synthase,DLKHCADP_00885,FKLDPHGP_00447
+group_150,,hypothetical protein,DLKHCADP_00154,FKLDPHGP_00425
+group_149,,FMN-binding protein,DLKHCADP_00889,FKLDPHGP_00450
+fluC1,fluC1,Fluoride-specific ion channel FluC 1,DLKHCADP_01760,FKLDPHGP_00759
+group_148,,hypothetical protein,DLKHCADP_00882,FKLDPHGP_00444
+group_147,,hypothetical protein,DLKHCADP_00781,FKLDPHGP_00736
+rbsD,rbsD,D-ribose pyranase,DLKHCADP_00086,FKLDPHGP_00515
+group_146,,hypothetical protein,DLKHCADP_00172,FKLDPHGP_00401
+group_145,,hypothetical protein,DLKHCADP_00077,FKLDPHGP_00485
+group_144,,hypothetical protein,DLKHCADP_00182,FKLDPHGP_00409
+group_143,,hypothetical protein,DLKHCADP_01772,FKLDPHGP_00747
+group_142,,hypothetical protein,DLKHCADP_00005,FKLDPHGP_00604
+mraZ,mraZ,Transcriptional regulator MraZ,DLKHCADP_00973,FKLDPHGP_00683
+msrB,msrB,Peptide methionine sulfoxide reductase MsrB,DLKHCADP_00060,FKLDPHGP_00599
+sepF,sepF,Cell division protein SepF,DLKHCADP_00959,FKLDPHGP_00673
+group_141,,putative HTH-type transcriptional regulator,DLKHCADP_00183,FKLDPHGP_00410
+gpsB_1,gpsB_1,Cell cycle protein GpsB,DLKHCADP_00066,FKLDPHGP_00496
+group_139,,hypothetical protein,DLKHCADP_00789,FKLDPHGP_00728
+atpC,atpC,ATP synthase epsilon chain,DLKHCADP_00765,FKLDPHGP_00711
+yqeY,yqeY,putative protein YqeY,DLKHCADP_00054,FKLDPHGP_00593
+group_136,,hypothetical protein,DLKHCADP_00085,FKLDPHGP_00516
+group_134,,hypothetical protein,DLKHCADP_00860,FKLDPHGP_00460
+group_133,,hypothetical protein,DLKHCADP_00170,FKLDPHGP_00399
+group_132,,hypothetical protein,DLKHCADP_00775,FKLDPHGP_00701
+lspA,lspA,Lipoprotein signal peptidase,DLKHCADP_00072,FKLDPHGP_00490
+yfkJ,yfkJ,Low molecular weight protein-tyrosine-phosphatase YfkJ,DLKHCADP_00011,FKLDPHGP_00637
+group_130,,hypothetical protein,DLKHCADP_00778,FKLDPHGP_00739
+group_129,,Putative universal stress protein,DLKHCADP_00772,FKLDPHGP_00704
+group_128,,hypothetical protein,DLKHCADP_00158,FKLDPHGP_00429
+group_127,,hypothetical protein,DLKHCADP_00119,FKLDPHGP_00533
+bltD,bltD,Spermine/spermidine N(1)-acetyltransferase,DLKHCADP_00083,FKLDPHGP_00518
+group_126,,hypothetical protein,DLKHCADP_00862,FKLDPHGP_00462
+group_125,,hypothetical protein,DLKHCADP_00098,FKLDPHGP_00503
+atpF,atpF,ATP synthase subunit b,DLKHCADP_00760,FKLDPHGP_00716
+coaD,coaD,Phosphopantetheine adenylyltransferase,DLKHCADP_00024,FKLDPHGP_00650
+group_124,,hypothetical protein,DLKHCADP_01767,FKLDPHGP_00752
+group_123,,hypothetical protein,DLKHCADP_00010,FKLDPHGP_00636
+group_122,,hypothetical protein,DLKHCADP_01774,FKLDPHGP_00745
+group_121,,hypothetical protein,DLKHCADP_00896,FKLDPHGP_00457
+group_120,,hypothetical protein,DLKHCADP_00181,FKLDPHGP_00408
+hslV,hslV,ATP-dependent protease subunit HslV,DLKHCADP_00980,FKLDPHGP_00393
+ybeY,ybeY,Endoribonuclease YbeY,DLKHCADP_00052,FKLDPHGP_00591
+group_119,,hypothetical protein,DLKHCADP_00009,FKLDPHGP_00635
+group_118,,hypothetical protein,DLKHCADP_00970,FKLDPHGP_00686
+group_117,,hypothetical protein,DLKHCADP_00082,FKLDPHGP_00519
+pyrR_2,pyrR_2,Bifunctional protein pyrR,DLKHCADP_00138,FKLDPHGP_00560
+pyrR_1,pyrR_1,Bifunctional protein pyrR,DLKHCADP_00133,FKLDPHGP_00565
+group_116,,hypothetical protein,DLKHCADP_00112,FKLDPHGP_00540
+atpH,atpH,ATP synthase subunit delta,DLKHCADP_00761,FKLDPHGP_00715
+rsmD,rsmD,Ribosomal RNA small subunit methyltransferase D,DLKHCADP_00025,FKLDPHGP_00651
+group_115,,hypothetical protein,DLKHCADP_00894,FKLDPHGP_00455
+def_1,def_1,Peptide deformylase,DLKHCADP_00029,FKLDPHGP_00655
+msrA,msrA,Peptide methionine sulfoxide reductase MsrA,DLKHCADP_00058,FKLDPHGP_00597
+nudF,nudF,ADP-ribose pyrophosphatase,DLKHCADP_01192,FKLDPHGP_00667
+patB,patB,Cystathionine beta-lyase PatB,DLKHCADP_00779,FKLDPHGP_00738
+group_114,,hypothetical protein,DLKHCADP_00065,FKLDPHGP_00497
+spsB_1,spsB_1,Signal peptidase IB,DLKHCADP_00036,FKLDPHGP_00576
+group_113,,hypothetical protein,DLKHCADP_00877,FKLDPHGP_00440
+group_112,,hypothetical protein,DLKHCADP_00988,FKLDPHGP_00380
+ykwC_1,ykwC_1,putative oxidoreductase YkwC,DLKHCADP_00858,FKLDPHGP_00458
+engB,engB,putative GTP-binding protein EngB,DLKHCADP_00012,FKLDPHGP_00638
+group_110,,Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase,DLKHCADP_01560,FKLDPHGP_00479
+tdk,tdk,Thymidine kinase,DLKHCADP_00794,FKLDPHGP_00723
+group_109,,D-ribitol-5-phosphate phosphatase,DLKHCADP_00147,FKLDPHGP_00419
+group_108,,hypothetical protein,DLKHCADP_00786,FKLDPHGP_00732
+group_107,,Gamma-resorcylate decarboxylase,DLKHCADP_00867,FKLDPHGP_00466
+group_106,,hypothetical protein,DLKHCADP_00967,FKLDPHGP_00689
+rpsD,rpsD,Small ribosomal subunit protein uS4,DLKHCADP_00776,FKLDPHGP_00700
+maa,maa,Maltose O-acetyltransferase,DLKHCADP_00873,FKLDPHGP_00472
+aadR,aadR,Transcriptional activatory protein AadR,DLKHCADP_00895,FKLDPHGP_00456
+upp,upp,Uracil phosphoribosyltransferase,DLKHCADP_00757,FKLDPHGP_00719
+recU,recU,Holliday junction resolvase RecU,DLKHCADP_00064,FKLDPHGP_00498
+nth_1,nth_1,Endonuclease III,DLKHCADP_00062,FKLDPHGP_00500
+pyrE,pyrE,Orotate phosphoribosyltransferase,DLKHCADP_00130,FKLDPHGP_00568
+group_105,,hypothetical protein,DLKHCADP_01184,FKLDPHGP_00660
+claer,cla-er,CLA biosynthesis enone reductase,DLKHCADP_00106,FKLDPHGP_00546
+dnaD,dnaD,Replicative helicase loading/DNA remodeling protein DnaD,DLKHCADP_00061,FKLDPHGP_00501
+group_104,,hypothetical protein,DLKHCADP_00879,FKLDPHGP_00442
+nth_2,nth_2,Endonuclease III,DLKHCADP_00872,FKLDPHGP_00471
+gpmA_2,gpmA_2,23-bisphosphoglycerate-dependent phosphoglycerate mutase,DLKHCADP_01183,FKLDPHGP_00661
+plsY_2,plsY_2,Glycerol-3-phosphate acyltransferase,DLKHCADP_00874,FKLDPHGP_00473
+group_102,,hypothetical protein,DLKHCADP_00991,FKLDPHGP_00383
+group_101,,hypothetical protein,DLKHCADP_00141,FKLDPHGP_00557
+group_100,,Phosphorylated carbohydrates phosphatase,DLKHCADP_00966,FKLDPHGP_00690
+group_99,,Potassium channel,DLKHCADP_00184,FKLDPHGP_00411
+trmK,trmK,tRNA (adenine(22)-N(1))-methyltransferase,DLKHCADP_00045,FKLDPHGP_00584
+group_98,,hypothetical protein,DLKHCADP_00022,FKLDPHGP_00648
+group_97,,hypothetical protein,DLKHCADP_00987,FKLDPHGP_00379
+group_96,,hypothetical protein,DLKHCADP_01561,FKLDPHGP_00480
+rluB_2,rluB_2,Ribosomal large subunit pseudouridine synthase B,DLKHCADP_01466,FKLDPHGP_00695
+mtnN,mtnN,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,DLKHCADP_01194,FKLDPHGP_00665
+group_95,,hypothetical protein,DLKHCADP_01763,FKLDPHGP_00756
+pyrF,pyrF,Orotidine 5'-phosphate decarboxylase,DLKHCADP_00131,FKLDPHGP_00567
+scaC,scaC,Manganese import ATP-binding protein ScaC,DLKHCADP_00040,FKLDPHGP_00580
+resD,resD,Transcriptional regulatory protein ResD,DLKHCADP_00782,FKLDPHGP_00735
+group_94,,putative ABC transporter ATP-binding protein,DLKHCADP_00142,FKLDPHGP_00556
+ybhL_1,ybhL_1,Inner membrane protein YbhL,DLKHCADP_00868,FKLDPHGP_00467
+atpB,atpB,ATP synthase subunit a,DLKHCADP_00758,FKLDPHGP_00718
+group_93,,hypothetical protein,DLKHCADP_00128,FKLDPHGP_00525
+group_91,,hypothetical protein,DLKHCADP_00111,FKLDPHGP_00541
+group_90,,hypothetical protein,DLKHCADP_00035,FKLDPHGP_00575
+group_89,,putative transcriptional regulatory protein,DLKHCADP_01768,FKLDPHGP_00751
+rnhB,rnhB,Ribonuclease HII,DLKHCADP_00975,FKLDPHGP_00388
+recO,recO,DNA repair protein RecO,DLKHCADP_00050,FKLDPHGP_00589
+fetB,fetB,putative iron export permease protein FetB,DLKHCADP_00180,FKLDPHGP_00407
+group_87,,hypothetical protein,DLKHCADP_00059,FKLDPHGP_00598
+rutD,rutD,Putative carbamate hydrolase RutD,DLKHCADP_01764,FKLDPHGP_00755
+lmrA,lmrA,Multidrug resistance ABC transporter ATP-binding and permease protein,DLKHCADP_00166,FKLDPHGP_00437
+potC,potC,Spermidine/putrescine transport system permease protein PotC,DLKHCADP_01754,FKLDPHGP_00765
+rqcP2,rqcP2,Ribosome-associated protein quality control protein P2,DLKHCADP_00961,FKLDPHGP_00671
+group_86,,GTP cyclohydrolase 1 type 2,DLKHCADP_00044,FKLDPHGP_00583
+group_85,,hypothetical protein,DLKHCADP_00125,FKLDPHGP_00528
+group_84,,hypothetical protein,DLKHCADP_00115,FKLDPHGP_00537
+potH,potH,Putrescine transport system permease protein PotH,DLKHCADP_01753,FKLDPHGP_00766
+yidA_4,yidA_4,Sugar phosphatase YidA,DLKHCADP_01759,FKLDPHGP_00760
+group_81,,hypothetical protein,DLKHCADP_00117,FKLDPHGP_00535
+yokD,yokD,SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD,DLKHCADP_00088,FKLDPHGP_00513
+group_80,,hypothetical protein,DLKHCADP_00039,FKLDPHGP_00579
+group_79,,Aldo-keto reductase/MSMEI_2346,DLKHCADP_00167,FKLDPHGP_00438
+group_78,,Putative phosphatase,DLKHCADP_00030,FKLDPHGP_00570
+group_77,,hypothetical protein,DLKHCADP_00038,FKLDPHGP_00578
+rbgA,rbgA,Ribosome biogenesis GTPase A,DLKHCADP_00974,FKLDPHGP_00387
+prmC,prmC,Release factor glutamine methyltransferase,DLKHCADP_00755,FKLDPHGP_00721
+yqfL,yqfL,Putative pyruvate phosphate dikinase regulatory protein,DLKHCADP_00056,FKLDPHGP_00595
+dprA,dprA,DNA processing protein DprA,DLKHCADP_00976,FKLDPHGP_00389
+group_76,,hypothetical protein,DLKHCADP_00186,FKLDPHGP_00413
+cdaA,cdaA,Cyclic di-AMP synthase CdaA,DLKHCADP_01756,FKLDPHGP_00763
+mreC,mreC,Cell shape-determining protein MreC,DLKHCADP_00969,FKLDPHGP_00687
+divIB,divIB,Cell division protein DivIB,DLKHCADP_00956,FKLDPHGP_00676
+group_73,,DegV domain-containing protein,DLKHCADP_00992,FKLDPHGP_00384
+group_72,,hypothetical protein,DLKHCADP_00016,FKLDPHGP_00642
+thrB,thrB,Homoserine kinase,DLKHCADP_00103,FKLDPHGP_00549
+group_71,,Aldo-keto reductase/MSMEI_2347,DLKHCADP_00871,FKLDPHGP_00470
+qmcA,qmcA,Protein QmcA,DLKHCADP_00116,FKLDPHGP_00536
+group_70,,hypothetical protein,DLKHCADP_00057,FKLDPHGP_00596
+lacX_2,lacX_2,Protein LacX plasmid,DLKHCADP_00982,FKLDPHGP_00395
+degV_2,degV_2,Protein DegV,DLKHCADP_00078,FKLDPHGP_00484
+group_69,,hypothetical protein,DLKHCADP_00989,FKLDPHGP_00381
+glcU_1,glcU_1,putative glucose uptake protein GlcU,DLKHCADP_00087,FKLDPHGP_00514
+benM,benM,HTH-type transcriptional regulator BenM,DLKHCADP_00080,FKLDPHGP_00482
+group_68,,hypothetical protein,DLKHCADP_01765,FKLDPHGP_00754
+murB,murB,UDP-N-acetylenolpyruvoylglucosamine reductase,DLKHCADP_01751,FKLDPHGP_00768
+gltC,gltC,Transcriptional dual regulator GltC,DLKHCADP_00104,FKLDPHGP_00548
+era,era,GTPase Era,DLKHCADP_00051,FKLDPHGP_00590
+rluD_1,rluD_1,Ribosomal large subunit pseudouridine synthase D,DLKHCADP_00073,FKLDPHGP_00489
+galK_1,galK_1,Galactokinase,DLKHCADP_00094,FKLDPHGP_00507
+glyQ,glyQ,Glycine--tRNA ligase alpha subunit,DLKHCADP_00049,FKLDPHGP_00588
+htpX_1,htpX_1,Protease HtpX,DLKHCADP_00003,FKLDPHGP_00602
+xerC_3,xerC_3,Tyrosine recombinase XerC,DLKHCADP_00979,FKLDPHGP_00392
+pyrDB,pyrDB,Dihydroorotate dehydrogenase B (NAD(+)) catalytic subunit,DLKHCADP_00132,FKLDPHGP_00566
+degV_1,degV_1,Protein DegV,DLKHCADP_00069,FKLDPHGP_00493
+ppaC,ppaC,putative manganese-dependent inorganic pyrophosphatase,DLKHCADP_01563,FKLDPHGP_00477
+ytlR,ytlR,Putative lipid kinase YtlR,DLKHCADP_01186,FKLDPHGP_00658
+rsmH,rsmH,Ribosomal RNA small subunit methyltransferase H,DLKHCADP_00950,FKLDPHGP_00682
+hdfR,hdfR,HTH-type transcriptional regulator HdfR,DLKHCADP_01562,FKLDPHGP_00476
+atpG,atpG,ATP synthase gamma chain,DLKHCADP_00763,FKLDPHGP_00713
+mraY,mraY,Phospho-N-acetylmuramoyl-pentapeptide-transferase,DLKHCADP_00953,FKLDPHGP_00679
+group_65,,PhoH-like protein,DLKHCADP_00053,FKLDPHGP_00592
+gmuF,gmuF,putative mannose-6-phosphate isomerase GmuF,DLKHCADP_00780,FKLDPHGP_00737
+group_64,,hypothetical protein,DLKHCADP_00093,FKLDPHGP_00508
+cdaR,cdaR,CdaA regulatory protein CdaR,DLKHCADP_01757,FKLDPHGP_00762
+comGA,comGA,Competence protein ComGA,DLKHCADP_01769,FKLDPHGP_00750
+cbh,cbh,Bile salt hydrolase/transferase,DLKHCADP_00162,FKLDPHGP_00433
+group_62,,hypothetical protein,DLKHCADP_00034,FKLDPHGP_00574
+mbl,mbl,Cell shape-determining protein Mbl,DLKHCADP_00767,FKLDPHGP_00709
+holA,holA,DNA polymerase III subunit delta,DLKHCADP_00020,FKLDPHGP_00646
+ywlC,ywlC,Threonylcarbamoyl-AMP synthase,DLKHCADP_00756,FKLDPHGP_00720
+pyrB,pyrB,Aspartate carbamoyltransferase catalytic subunit,DLKHCADP_00134,FKLDPHGP_00564
+group_61,,hypothetical protein,DLKHCADP_01775,FKLDPHGP_00744
+group_60,,hypothetical protein,DLKHCADP_01770,FKLDPHGP_00749
+mreB,mreB,Cell shape-determining protein MreB,DLKHCADP_00968,FKLDPHGP_00688
+ylbL,ylbL,putative protein YlbL,DLKHCADP_00023,FKLDPHGP_00649
+amiE,amiE,N-acetylmuramyl-L-alanine amidase,DLKHCADP_00792,FKLDPHGP_00725
+fni,fni,Isopentenyl-diphosphate delta-isomerase,DLKHCADP_00091,FKLDPHGP_00510
+group_58,,hypothetical protein,DLKHCADP_00031,FKLDPHGP_00571
+pyrAA_1,pyrAA_1,Carbamoyl phosphate synthase pyrimidine-specific small chain,DLKHCADP_00074,FKLDPHGP_00488
+asd,asd,Aspartate-semialdehyde dehydrogenase,DLKHCADP_00100,FKLDPHGP_00552
+xerS,xerS,Tyrosine recombinase XerS,DLKHCADP_00081,FKLDPHGP_00481
+potD,potD,Spermidine/putrescine-binding periplasmic protein,DLKHCADP_01755,FKLDPHGP_00764
+group_57,,Phosphomevalonate kinase,DLKHCADP_00092,FKLDPHGP_00509
+group_56,,hypothetical protein,DLKHCADP_00079,FKLDPHGP_00483
+pyrAA_2,pyrAA_2,Carbamoyl phosphate synthase pyrimidine-specific small chain,DLKHCADP_00136,FKLDPHGP_00562
+potA,potA,Spermidine/putrescine import ATP-binding protein PotA,DLKHCADP_01752,FKLDPHGP_00767
+group_55,,hypothetical protein,DLKHCADP_01467,FKLDPHGP_00694
+murG,murG,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,DLKHCADP_00955,FKLDPHGP_00677
+sigA,sigA,RNA polymerase sigma factor SigA,DLKHCADP_00046,FKLDPHGP_00585
+ypsC,ypsC,Putative RNA methyltransferase YpsC,DLKHCADP_00067,FKLDPHGP_00495
+mnmA,mnmA,tRNA-specific 2-thiouridylase MnmA,DLKHCADP_01182,FKLDPHGP_00662
+iscS_2,iscS_2,Cysteine desulfurase IscS,DLKHCADP_01469,FKLDPHGP_00697
+iscS_1,iscS_1,Cysteine desulfurase IscS,DLKHCADP_01195,FKLDPHGP_00664
+frsA,frsA,Esterase FrsA,DLKHCADP_00878,FKLDPHGP_00441
+dgoD,dgoD,D-galactonate dehydratase,DLKHCADP_00156,FKLDPHGP_00427
+ftsW,ftsW,putative peptidoglycan glycosyltransferase FtsW,DLKHCADP_00027,FKLDPHGP_00653
+dapX,dapX,putative N-acetyl-LL-diaminopimelate aminotransferase,DLKHCADP_00001,FKLDPHGP_00600
+tuf,tuf,Elongation factor Tu,DLKHCADP_00015,FKLDPHGP_00641
+cca,cca,CCA-adding enzyme,DLKHCADP_00990,FKLDPHGP_00382
+rodA,rodA,Peptidoglycan glycosyltransferase RodA,DLKHCADP_00771,FKLDPHGP_00705
+ackA_1,ackA_1,Acetate kinase,DLKHCADP_01776,FKLDPHGP_00743
+coaBC,coaBC,Coenzyme A biosynthesis bifunctional protein CoaBC,DLKHCADP_01766,FKLDPHGP_00753
+group_53,,hypothetical protein,DLKHCADP_01762,FKLDPHGP_00757
+thiI,thiI,putative tRNA sulfurtransferase,DLKHCADP_01465,FKLDPHGP_00696
+hom,hom,Homoserine dehydrogenase,DLKHCADP_00102,FKLDPHGP_00550
+cpdA,cpdA,3'5'-cyclic adenosine monophosphate phosphodiesterase CpdA,DLKHCADP_00068,FKLDPHGP_00494
+fpgS,fpgS,Folylpolyglutamate synthase,DLKHCADP_00965,FKLDPHGP_00691
+clpX,clpX,ATP-dependent Clp protease ATP-binding subunit ClpX,DLKHCADP_00013,FKLDPHGP_00639
+group_52,,hypothetical protein,DLKHCADP_00008,FKLDPHGP_00634
+pyrC,pyrC,Dihydroorotase,DLKHCADP_00135,FKLDPHGP_00563
+rarA_2,rarA_2,Replication-associated recombination protein A,DLKHCADP_00865,FKLDPHGP_00464
+rarA_1,rarA_1,Replication-associated recombination protein A,DLKHCADP_00774,FKLDPHGP_00702
+asnS,asnS,Asparagine--tRNA ligase,DLKHCADP_00099,FKLDPHGP_00502
+trmFO,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO,DLKHCADP_00978,FKLDPHGP_00391
+pgi,pgi,Glucose-6-phosphate isomerase,DLKHCADP_00787,FKLDPHGP_00731
+tig,tig,Trigger factor,DLKHCADP_00014,FKLDPHGP_00640
+murT,murT,Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT,DLKHCADP_00793,FKLDPHGP_00724
+glmM,glmM,Phosphoglucosamine mutase,DLKHCADP_01758,FKLDPHGP_00761
+group_51,,hypothetical protein,DLKHCADP_00984,FKLDPHGP_00397
+yclM,yclM,Aspartokinase 3,DLKHCADP_00145,FKLDPHGP_00553
+npr,npr,NADH peroxidase,DLKHCADP_00884,FKLDPHGP_00446
+group_50,,hypothetical protein,DLKHCADP_00187;DLKHCADP_00188,FKLDPHGP_00414
+ftsA,ftsA,Cell division protein FtsA,DLKHCADP_00957,FKLDPHGP_00675
+ftsZ,ftsZ,Cell division protein FtsZ,DLKHCADP_00958,FKLDPHGP_00674
+strL,;strL,hypothetical protein;dTDP-4-dehydrorhamnose reductase,DLKHCADP_00007,FKLDPHGP_00606
+group_49,,hypothetical protein,DLKHCADP_00176;DLKHCADP_00177,FKLDPHGP_00405
+group_48,,hypothetical protein,DLKHCADP_00173,FKLDPHGP_00402
+brnQ_1,brnQ_1,Branched-chain amino acid permease BrnQ,DLKHCADP_00150,FKLDPHGP_00422
+murD,murD,UDP-N-acetylmuramoylalanine--D-glutamate ligase,DLKHCADP_00954,FKLDPHGP_00678
+group_47,,hypothetical protein,DLKHCADP_00148,FKLDPHGP_00420
+clpY,clpY,ATP-dependent protease ATPase subunit ClpY,DLKHCADP_00981,FKLDPHGP_00394
+rsmF,rsmF,Ribosomal RNA small subunit methyltransferase F,DLKHCADP_00033,FKLDPHGP_00573
+fetA,fetA,putative iron export ATP-binding protein FetA,DLKHCADP_00179,FKLDPHGP_00406
+group_46,,hypothetical protein,DLKHCADP_00983,FKLDPHGP_00396
+group_45,,hypothetical protein,DLKHCADP_00149,FKLDPHGP_00421
+atpD,atpD,ATP synthase subunit beta,DLKHCADP_00764,FKLDPHGP_00712
+ctpA,ctpA,Carboxy-terminal processing protease CtpA,DLKHCADP_00994,FKLDPHGP_00386
+group_44,,hypothetical protein,DLKHCADP_00189,FKLDPHGP_00415
+thrC,thrC,Threonine synthase,DLKHCADP_00101,FKLDPHGP_00551
+group_43,,hypothetical protein,DLKHCADP_00146,FKLDPHGP_00417;FKLDPHGP_00418
+atpA,atpA,ATP synthase subunit alpha,DLKHCADP_00762,FKLDPHGP_00714
+siwR,;siwR,hypothetical protein;Stress-involved WYL domain-containing regulator,DLKHCADP_00887;DLKHCADP_00888,FKLDPHGP_00449
+uup_2~~~uup_3,;uup_2;uup_3,hypothetical protein;ATP-binding protein Uup,DLKHCADP_00121;DLKHCADP_00120,FKLDPHGP_00532
+pepT_1~~~pepT_2,pepT_1;pepT_2,Peptidase T,DLKHCADP_00042;DLKHCADP_00043,FKLDPHGP_00582
+group_41,,hypothetical protein,DLKHCADP_00880;DLKHCADP_00881,FKLDPHGP_00443
+mdtD~~~hsrA~~~mdtP_4,mdtD;hsrA;mdtP_4,Putative multidrug resistance protein MdtD;putative transport protein HsrA;Multidrug transporter protein MdtP,DLKHCADP_00788,FKLDPHGP_00729;FKLDPHGP_00730
+group_40,,hypothetical protein,DLKHCADP_00171,FKLDPHGP_00400
+deoD,deoD,Purine nucleoside phosphorylase DeoD-type,DLKHCADP_00084,FKLDPHGP_00517
+group_39,,hypothetical protein,DLKHCADP_00863;DLKHCADP_00864,FKLDPHGP_00463
+group_38,,hypothetical protein,DLKHCADP_00971,FKLDPHGP_00685
+uup_1,uup_1,ATP-binding protein Uup,DLKHCADP_00089,FKLDPHGP_00512
+phoR~~~sasA_2,;phoR;sasA_2,hypothetical protein;Alkaline phosphatase synthesis sensor protein PhoR;Adaptive-response sensory-kinase SasA,DLKHCADP_00783;DLKHCADP_00784,FKLDPHGP_00734
+yheI_1,yheI_1,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI,DLKHCADP_00160,FKLDPHGP_00431
+comA,comA,Transport/processing ATP-binding protein ComA,DLKHCADP_00090,FKLDPHGP_00511
+group_37,,hypothetical protein,DLKHCADP_00129,FKLDPHGP_00524
+group_35,,Putative multidrug export ATP-binding/permease protein,DLKHCADP_00159,FKLDPHGP_00430
+group_34,,putative ABC transporter ATP-binding protein,DLKHCADP_00118,FKLDPHGP_00534
+gpsB_2,gpsB_2,Cell cycle adapter protein GpsB,DLKHCADP_00962,FKLDPHGP_00670
+yajO,yajO,1-deoxyxylulose-5-phosphate synthase YajO,DLKHCADP_00870,FKLDPHGP_00469
+rnj1,rnj1,Ribonuclease J 1,DLKHCADP_01187,FKLDPHGP_00657
+fhs1,fhs1,Formate--tetrahydrofolate ligase 1,DLKHCADP_00071,FKLDPHGP_00491
+rqcH,rqcH,Rqc2 RqcH,DLKHCADP_00076,FKLDPHGP_00486
+group_33,,hypothetical protein,DLKHCADP_00151,FKLDPHGP_00423
+ezrA,ezrA,Septation ring formation regulator EzrA,DLKHCADP_01468,FKLDPHGP_00698
+group_32,,hypothetical protein,DLKHCADP_00985,FKLDPHGP_00377
+rnj2,rnj2,Ribonuclease J 2,DLKHCADP_00017,FKLDPHGP_00643
+rutB,;rutB,hypothetical protein;Ureidoacrylate amidohydrolase RutB,DLKHCADP_00139,FKLDPHGP_00559
+recQ,recQ,ATP-dependent DNA helicase RecQ,DLKHCADP_01559,FKLDPHGP_00478
+thi4,thi4,Thiamine thiazole synthase,DLKHCADP_00105,FKLDPHGP_00547
+group_31,,hypothetical protein,DLKHCADP_00986,FKLDPHGP_00378
+dnaG,dnaG,DNA primase,DLKHCADP_00047,FKLDPHGP_00586
+group_30,,hypothetical protein,DLKHCADP_00004,FKLDPHGP_00603
+bipA,bipA,Large ribosomal subunit assembly factor BipA,DLKHCADP_00028,FKLDPHGP_00654
+group_28,,hypothetical protein,DLKHCADP_00185,FKLDPHGP_00412
+group_27,,hypothetical protein,DLKHCADP_01773,FKLDPHGP_00746
+group_26,,hypothetical protein,DLKHCADP_00168,FKLDPHGP_00439
+cadA,cadA,Cadmium-transporting ATPase,DLKHCADP_00892,FKLDPHGP_00453
+group_25,,hypothetical protein,DLKHCADP_00869,FKLDPHGP_00468
+pepO_1,pepO_1,Neutral endopeptidase,DLKHCADP_00144,FKLDPHGP_00554
+parE,parE,DNA topoisomerase IV subunit B ParE,DLKHCADP_00875,FKLDPHGP_00474
+group_24,,hypothetical protein,DLKHCADP_00157,FKLDPHGP_00428
+group_22,,hypothetical protein,DLKHCADP_00124,FKLDPHGP_00529
+rpsU,rpsU,Small ribosomal subunit protein bS21,DLKHCADP_00055,FKLDPHGP_00594
+galE_2,galE_2,UDP-glucose 4-epimerase,DLKHCADP_01792,1_refound_9_pseudo
+glyS,glyS,Glycine--tRNA ligase beta subunit,DLKHCADP_00048,FKLDPHGP_00587
+topA,topA,DNA topoisomerase 1,DLKHCADP_00977,FKLDPHGP_00390
+pbpB,pbpB,Penicillin-binding protein 2B,DLKHCADP_00952,FKLDPHGP_00680
+ltaS2,ltaS2,Lipoteichoic acid synthase 2,DLKHCADP_00785,FKLDPHGP_00733
+group_21,,hypothetical protein,DLKHCADP_00777,FKLDPHGP_00699
+group_20,,hypothetical protein,DLKHCADP_00768,FKLDPHGP_00708
+group_19,,hypothetical protein,DLKHCADP_00037,FKLDPHGP_00577
+group_17,,hypothetical protein,DLKHCADP_00110,FKLDPHGP_00542
+group_16,,hypothetical protein,DLKHCADP_00021,FKLDPHGP_00647
+group_15,,hypothetical protein,DLKHCADP_00006,FKLDPHGP_00605
+group_14,,hypothetical protein,DLKHCADP_00002,FKLDPHGP_00601
+mtgA_1,mtgA_1,Biosynthetic peptidoglycan transglycosylase,DLKHCADP_00063,FKLDPHGP_00499
+recD2,recD2,ATP-dependent RecD2 DNA helicase,DLKHCADP_01185,FKLDPHGP_00659
+group_13,,hypothetical protein,DLKHCADP_00107,FKLDPHGP_00545
+parC,parC,DNA topoisomerase IV subunit A ParC,DLKHCADP_00876,FKLDPHGP_00475
+group_11,,hypothetical protein,DLKHCADP_00143,FKLDPHGP_00555
+cspA,cspA,Cold shock-like protein CspA,DLKHCADP_01191,FKLDPHGP_00668
+group_9,,hypothetical protein,DLKHCADP_00113,FKLDPHGP_00539
+yoaB,yoaB,Calcium-transporting ATPase 1,DLKHCADP_00963,FKLDPHGP_00693
+valS,valS,Valine--tRNA ligase,DLKHCADP_00964,FKLDPHGP_00692
+atpE,atpE,ATP synthase subunit c,DLKHCADP_00759,FKLDPHGP_00717
+mgtB_1,mgtB_1,Magnesium-transporting ATPase P-type 1,DLKHCADP_00165,FKLDPHGP_00436
+ppc,ppc,Phosphoenolpyruvate carboxylase,DLKHCADP_00140,FKLDPHGP_00558
+ileS,ileS,isoleucine--tRNA ligase IleS,DLKHCADP_01190,FKLDPHGP_00669
+dinG_1,dinG_1,3'-5' exonuclease DinG,DLKHCADP_00097,FKLDPHGP_00504
+uidA,uidA,Beta-glucuronidase,DLKHCADP_00163,FKLDPHGP_00434
+rpoY,rpoY,DNA-directed RNA polymerase subunit epsilon,DLKHCADP_01188,FKLDPHGP_00656
+group_7,,hypothetical protein,DLKHCADP_00993,FKLDPHGP_00385
+group_6,,hypothetical protein,DLKHCADP_00770,FKLDPHGP_00706
+carB_1,carB_1,Carbamoyl phosphate synthase large chain,DLKHCADP_00075,FKLDPHGP_00487
+carB_2,carB_2,Carbamoyl phosphate synthase large chain,DLKHCADP_00137,FKLDPHGP_00561
+copZ,copZ,Copper chaperone CopZ,DLKHCADP_00893,FKLDPHGP_00454
+group_4,,hypothetical protein,DLKHCADP_00866,FKLDPHGP_00465
+addB,addB,ATP-dependent helicase/deoxyribonuclease subunit B,DLKHCADP_00095,FKLDPHGP_00506
+addA,addA,ATP-dependent helicase/nuclease subunit A,DLKHCADP_00096,FKLDPHGP_00505
+group_3,,hypothetical protein,DLKHCADP_00766,FKLDPHGP_00710
+group_2,,hypothetical protein,DLKHCADP_00178,1_refound_7_pseudo
+group_1,,(R)-mandelonitrile lyase,DLKHCADP_00161,FKLDPHGP_00432
+group_0,,hypothetical protein,DLKHCADP_00153,FKLDPHGP_00424
+group_822,,hypothetical protein,,FKLDPHGP_00371
+polA_1,polA_1,DNA polymerase I,DLKHCADP_01392,
+rplT_1,rplT_1,Large ribosomal subunit protein bL20,DLKHCADP_01391,
+licT_3,licT_3,Transcription antiterminator LicT,DLKHCADP_01304,
+group_777,,hypothetical protein,DLKHCADP_01307,
+bglH_4,bglH_4,Aryl-phospho-beta-D-glucosidase BglH,DLKHCADP_01301,
+group_772,,hypothetical protein,,FKLDPHGP_01157
+group_769,,hypothetical protein,DLKHCADP_01311,
+group_768,,hypothetical protein,DLKHCADP_01308,
+group_766,,hypothetical protein,DLKHCADP_01310,
+licT_2,licT_2,Transcription antiterminator LicT,DLKHCADP_01303,
+group_763,,hypothetical protein,DLKHCADP_01313,
+group_762,,hypothetical protein,DLKHCADP_01309,
+bglF_2,bglF_2,PTS system beta-glucoside-specific EIIBCA component,DLKHCADP_01302,
+xerC_4,xerC_4,Tyrosine recombinase XerC,DLKHCADP_01306,
+group_759,,hypothetical protein,,FKLDPHGP_01182
+group_757,,hypothetical protein,DLKHCADP_01305,
+group_756,,hypothetical protein,DLKHCADP_01312,
+group_749,,hypothetical protein,,FKLDPHGP_01672
+group_734,,hypothetical protein,DLKHCADP_01341,
+group_733,,hypothetical protein,DLKHCADP_01324,
+group_732,,hypothetical protein,DLKHCADP_01345,
+group_731,,hypothetical protein,DLKHCADP_01333,
+group_730,,hypothetical protein,DLKHCADP_01321,
+group_729,,hypothetical protein,DLKHCADP_01348,
+group_726,,hypothetical protein,DLKHCADP_01337,
+group_724,,hypothetical protein,DLKHCADP_01354,
+ywqA,ywqA,Putative ATP-dependent helicase/translocase YwqA,DLKHCADP_01338,
+group_722,,hypothetical protein,DLKHCADP_01351,
+group_720,,hypothetical protein,DLKHCADP_01353,
+group_719,,hypothetical protein,DLKHCADP_01342,
+group_718,,hypothetical protein,DLKHCADP_01318,
+group_715,,hypothetical protein,DLKHCADP_01319,
+group_714,,hypothetical protein,DLKHCADP_01349,
+group_712,,hypothetical protein,DLKHCADP_01335,
+group_710,,hypothetical protein,DLKHCADP_01355,
+clpP_2,clpP_2,ATP-dependent Clp protease proteolytic subunit,DLKHCADP_01346,
+group_708,,hypothetical protein,DLKHCADP_01344,
+group_706,,hypothetical protein,DLKHCADP_01350,
+group_704,,hypothetical protein,DLKHCADP_01320,
+mod,mod,Type III restriction-modification enzyme StyLTI Mod subunit,DLKHCADP_01323,
+group_703,,hypothetical protein,DLKHCADP_01331,
+group_702,,hypothetical protein,DLKHCADP_01334,
+group_701,,hypothetical protein,DLKHCADP_01325,
+group_699,,hypothetical protein,DLKHCADP_01336,
+group_698,,hypothetical protein,DLKHCADP_01339,
+group_697,,hypothetical protein,DLKHCADP_01330,
+group_696,,hypothetical protein,DLKHCADP_01332,
+group_695,,hypothetical protein,DLKHCADP_01343,
+group_691,,hypothetical protein,DLKHCADP_01347,
+res,res,Type III restriction-modification enzyme EcoP15I Res subunit,DLKHCADP_01322,
+group_689,,hypothetical protein,DLKHCADP_01340,
+group_688,,hypothetical protein,DLKHCADP_01326,
+group_687,,hypothetical protein,DLKHCADP_01327,
+group_686,,hypothetical protein,DLKHCADP_01329,
+group_683,,hypothetical protein,DLKHCADP_01356,
+group_682,,hypothetical protein,DLKHCADP_01352,
+group_679,,hypothetical protein,DLKHCADP_01328,
+group_678,,hypothetical protein,DLKHCADP_01048,
+group_673,,hypothetical protein,,FKLDPHGP_01386
+manZ_4,manZ_4,PTS system mannose-specific EIID component,DLKHCADP_01069,
+group_658,,hypothetical protein,DLKHCADP_01034,
+sorA_2,sorA_2,PTS system sorbose-specific EIIC component,DLKHCADP_01068,
+group_656,,hypothetical protein,DLKHCADP_01036,
+murK_1,murK_1,N-acetylmuramic acid/N-acetylglucosamine kinase,,FKLDPHGP_01392
+licC_3,licC_3,Lichenan permease IIC component,,FKLDPHGP_01391
+sorA_3,sorA_3,PTS system sorbose-specific EIIA component,DLKHCADP_01076,
+group_641,yfeW,Putative D-alanyl-D-alanine carboxypeptidase,,FKLDPHGP_01390
+yfeW,yfeW,Putative D-alanyl-D-alanine carboxypeptidase,DLKHCADP_01071,
+nagZ,nagZ,Beta-hexosaminidase,DLKHCADP_01067,
+mupG_1,mupG_1,6-phospho-N-acetylmuramidase,,FKLDPHGP_01393
+sorB_1,sorB_1,PTS system sorbose-specific EIIB component,DLKHCADP_01070,
+group_635,,hypothetical protein,,FKLDPHGP_01394
+manZ_5,manZ_5,PTS system mannose-specific EIID component,DLKHCADP_01077,
+agaC_2,agaC_2,N-acetylgalactosamine permease IIC component 1,DLKHCADP_01078,
+group_633,,hypothetical protein,DLKHCADP_01079,
+group_549,,hypothetical protein,DLKHCADP_00488,
+group_546,,hypothetical protein,DLKHCADP_00593,
+group_545,,hypothetical protein,DLKHCADP_00503,
+group_544,,hypothetical protein,DLKHCADP_00497,
+group_543,,hypothetical protein,DLKHCADP_00631,
+group_542,,hypothetical protein,DLKHCADP_00578,
+group_541,,hypothetical protein,DLKHCADP_01923,
+group_540,,hypothetical protein,DLKHCADP_00628,
+group_539,,hypothetical protein,DLKHCADP_00581,
+group_538,,hypothetical protein,DLKHCADP_00576,
+group_536,,hypothetical protein,DLKHCADP_00598,
+group_534,,hypothetical protein,DLKHCADP_00502,
+group_533,,hypothetical protein,DLKHCADP_00478,
+group_531,,hypothetical protein,DLKHCADP_00588,
+group_530,,hypothetical protein,DLKHCADP_00496,
+group_529,,hypothetical protein,DLKHCADP_00590,
+group_528,,hypothetical protein,DLKHCADP_00493,
+group_525,,hypothetical protein,DLKHCADP_00501,
+group_521,,hypothetical protein,DLKHCADP_00580,
+group_519,,hypothetical protein,DLKHCADP_00490,
+group_518,,hypothetical protein,,FKLDPHGP_00187
+group_516,,hypothetical protein,DLKHCADP_00584,
+group_515,,hypothetical protein,DLKHCADP_00575,
+group_514,,hypothetical protein,DLKHCADP_00620,
+xre,xre,HTH-type transcriptional regulator Xre,DLKHCADP_00573,
+group_513,,hypothetical protein,DLKHCADP_00475,
+pemK,pemK,Endoribonuclease PemK,DLKHCADP_00632,
+group_509,,hypothetical protein,DLKHCADP_00515,
+group_507,,hypothetical protein,DLKHCADP_00610,
+group_506,,hypothetical protein,DLKHCADP_00504,
+group_504,,hypothetical protein,DLKHCADP_01924,
+group_503,,hypothetical protein,DLKHCADP_01919,
+group_502,,hypothetical protein,DLKHCADP_00621,
+group_501,,hypothetical protein,DLKHCADP_00517,
+group_498,,hypothetical protein,DLKHCADP_00514,
+group_497,,hypothetical protein,DLKHCADP_00473,
+group_496,,hypothetical protein,DLKHCADP_00609,
+group_495,,hypothetical protein,DLKHCADP_00526,
+group_494,,hypothetical protein,DLKHCADP_00629,
+group_493,,hypothetical protein,,FKLDPHGP_00086
+group_491,,hypothetical protein,DLKHCADP_00474,
+group_490,,hypothetical protein,DLKHCADP_00612,
+group_489,,hypothetical protein,DLKHCADP_00476,
+group_487,,hypothetical protein,DLKHCADP_00627,
+group_486,,hypothetical protein,DLKHCADP_00616,
+group_483,,hypothetical protein,DLKHCADP_00611,
+group_482,rhaS_1,HTH-type transcriptional activator RhaS,,FKLDPHGP_00087
+group_480,,hypothetical protein,DLKHCADP_00528,
+group_475,,hypothetical protein,DLKHCADP_00482,
+group_474,,hypothetical protein,DLKHCADP_01920,
+group_473,,hypothetical protein,DLKHCADP_00572,
+group_472,,hypothetical protein,DLKHCADP_00524,
+group_471,,hypothetical protein,DLKHCADP_00591,
+xkdM,xkdM,Phage-like element PBSX protein XkdM,DLKHCADP_00615,
+group_470,,hypothetical protein,DLKHCADP_00508,
+group_469,,hypothetical protein,DLKHCADP_00506,
+group_468,,hypothetical protein,DLKHCADP_00487,
+group_467,,hypothetical protein,DLKHCADP_00516,
+group_465,,hypothetical protein,DLKHCADP_00505,
+group_463,,hypothetical protein,DLKHCADP_00625,
+group_461,,hypothetical protein,DLKHCADP_00507,
+group_460,,hypothetical protein,DLKHCADP_00471,
+group_458,,hypothetical protein,DLKHCADP_00596,
+group_457,,hypothetical protein,DLKHCADP_00603,
+group_456,,hypothetical protein,DLKHCADP_00607,
+group_455,,hypothetical protein,DLKHCADP_00519,
+group_452,,hypothetical protein,DLKHCADP_00623,
+group_450,,hypothetical protein,DLKHCADP_00492,
+group_447,,hypothetical protein,DLKHCADP_00585,
+group_446,,hypothetical protein,DLKHCADP_00600,
+group_444,,hypothetical protein,DLKHCADP_00571,
+group_440,,hypothetical protein,DLKHCADP_00518,
+group_439,,hypothetical protein,DLKHCADP_00602,
+group_437,,hypothetical protein,DLKHCADP_00618,
+clpP_1,clpP_1,ATP-dependent Clp protease proteolytic subunit,DLKHCADP_00512,
+group_432,,hypothetical protein,DLKHCADP_00477,
+group_431,,hypothetical protein,DLKHCADP_00521,
+group_429,,hypothetical protein,DLKHCADP_00586,
+group_428,,hypothetical protein,DLKHCADP_00491,
+group_426,,hypothetical protein,DLKHCADP_00582,
+group_421,,hypothetical protein,DLKHCADP_00494,
+group_413,,hypothetical protein,DLKHCADP_00529,
+group_412,,hypothetical protein,DLKHCADP_00630,
+group_411,,hypothetical protein,DLKHCADP_00583,
+group_410,,hypothetical protein,DLKHCADP_00608,
+group_409,,hypothetical protein,DLKHCADP_00619,
+xerC_2,xerC_2,Tyrosine recombinase XerC,DLKHCADP_00569,
+group_406,,hypothetical protein,DLKHCADP_00622,
+xerC_1,xerC_1,Tyrosine recombinase XerC,DLKHCADP_00470,
+group_404,,hypothetical protein,DLKHCADP_00513,
+group_403,,hypothetical protein,DLKHCADP_00606,
+group_402,,hypothetical protein,DLKHCADP_00511,
+group_401,,hypothetical protein,DLKHCADP_00604,
+group_400,,hypothetical protein,DLKHCADP_00489,
+group_399,,hypothetical protein,DLKHCADP_00495,
+bglH_6,bglH_6,Aryl-phospho-beta-D-glucosidase BglH,DLKHCADP_01922,
+group_395,,hypothetical protein,DLKHCADP_00614,
+group_388,,hypothetical protein,DLKHCADP_00605,
+group_373,,hypothetical protein,DLKHCADP_00530,
+group_372,,hypothetical protein,DLKHCADP_00509,
+group_371,,hypothetical protein,DLKHCADP_00577,
+group_370,,hypothetical protein,DLKHCADP_00570,
+bglF_4,bglF_4,PTS system beta-glucoside-specific EIIBCA component,DLKHCADP_01921,
+group_368,,hypothetical protein,DLKHCADP_00579,
+group_367,,hypothetical protein,DLKHCADP_00486,
+group_366,,hypothetical protein,DLKHCADP_00510,
+group_365,,hypothetical protein,DLKHCADP_00589,
+group_364,,hypothetical protein,DLKHCADP_00481,
+group_363,,hypothetical protein,DLKHCADP_00480,
+group_361,,hypothetical protein,DLKHCADP_00483,
+group_360,,hypothetical protein,DLKHCADP_00595,
+group_359,,hypothetical protein,DLKHCADP_00479,
+group_357,,hypothetical protein,DLKHCADP_00624,
+group_354,,hypothetical protein,DLKHCADP_00531,
+group_353,,hypothetical protein,DLKHCADP_00484,
+group_352,,hypothetical protein,DLKHCADP_00472,
+group_351,,hypothetical protein,DLKHCADP_00563,
+group_350,,hypothetical protein,DLKHCADP_00499,
+group_349,,hypothetical protein,DLKHCADP_00626,
+group_346,,hypothetical protein,DLKHCADP_00601,
+group_345,,hypothetical protein,DLKHCADP_00527,
+group_344,,hypothetical protein,DLKHCADP_00498,
+group_342,,hypothetical protein,DLKHCADP_01918,
+group_340,,hypothetical protein,DLKHCADP_00587,
+group_339,,hypothetical protein,DLKHCADP_00525,
+group_338,,hypothetical protein,DLKHCADP_00485,
+group_337,,hypothetical protein,DLKHCADP_00522,
+group_336,,hypothetical protein,DLKHCADP_00594,
+group_335,,hypothetical protein,DLKHCADP_00592,
+group_334,,hypothetical protein,DLKHCADP_00523,
+group_332,,hypothetical protein,DLKHCADP_00574,
+group_331,,hypothetical protein,DLKHCADP_00617,
+group_330,,hypothetical protein,DLKHCADP_00500,
+smc_5,smc_5,Chromosome partition protein Smc,DLKHCADP_00520,
+agaC_1,agaC_1,N-acetylgalactosamine permease IIC component 1,DLKHCADP_00918,
+rpoN,rpoN,RNA polymerase sigma-54 factor,DLKHCADP_00922,
+group_325,,hypothetical protein,DLKHCADP_01207,
+group_324,,hypothetical protein,DLKHCADP_01445,
+manZ_3,manZ_3,PTS system mannose-specific EIID component,DLKHCADP_00917,
+group_317,,hypothetical protein,,FKLDPHGP_01675
+group_314,,hypothetical protein,DLKHCADP_00398,
+group_287,,hypothetical protein,DLKHCADP_00920,
+group_286,,hypothetical protein,DLKHCADP_01205,
+group_285,,hypothetical protein,,FKLDPHGP_01529
+group_283,,hypothetical protein,DLKHCADP_01210,
+group_281,,hypothetical protein,DLKHCADP_01209,
+yidA_2,yidA_2,Sugar phosphatase YidA,DLKHCADP_01449,
+group_278,,hypothetical protein,DLKHCADP_01206,
+natA,natA,ABC transporter ATP-binding protein NatA,DLKHCADP_01208,
+norR,norR,Anaerobic nitric oxide reductase transcription regulator NorR,DLKHCADP_00921,
+chbG,chbG,Chitooligosaccharide deacetylase,DLKHCADP_00916,
+group_276,,putative phosphotransferase enzyme IIB component,DLKHCADP_00919,
+group_275,,hypothetical protein,DLKHCADP_00912,
+group_274,,hypothetical protein,DLKHCADP_00403,
+pglK,pglK,Protein glycosylation K,,FKLDPHGP_01710
+glyA_2,glyA_2,Serine hydroxymethyltransferase,DLKHCADP_01419,
+group_215,,hypothetical protein,DLKHCADP_00196,
+metG_2,metG_2,Methionine--tRNA ligase,DLKHCADP_00359,
+group_193,,IS256 family transposase IS1201,DLKHCADP_00234,
+group_183,,hypothetical protein,DLKHCADP_01378,
+group_179,,hypothetical protein,DLKHCADP_01779,
+group_176,,hypothetical protein,DLKHCADP_01783,
+group_175,,hypothetical protein,,FKLDPHGP_00520
+group_173,,hypothetical protein,,FKLDPHGP_00612
+group_164,,hypothetical protein,,FKLDPHGP_00521
+group_153,,hypothetical protein,,FKLDPHGP_00624
+levG,levG,Levansucrase,,FKLDPHGP_00740
+group_140,,hypothetical protein,DLKHCADP_00169,
+group_138,,hypothetical protein,DLKHCADP_01785,
+group_137,,hypothetical protein,,FKLDPHGP_00625
+group_135,,hypothetical protein,DLKHCADP_01778,
+group_131,,hypothetical protein,,FKLDPHGP_00631
+group_111,,hypothetical protein,DLKHCADP_01788,
+rfbC,rfbC,dTDP-4-dehydrorhamnose 35-epimerase,,FKLDPHGP_00607
+rfbP,rfbP,Undecaprenyl-phosphate galactose phosphotransferase,,FKLDPHGP_00626
+group_103,,hypothetical protein,,FKLDPHGP_00633
+group_92,,hypothetical protein,,FKLDPHGP_00623
+group_88,,hypothetical protein,DLKHCADP_00152,
+ywqE,ywqE,Tyrosine-protein phosphatase YwqE,,FKLDPHGP_00627
+ywqD,ywqD,Tyrosine-protein kinase YwqD,,FKLDPHGP_00628
+ptpB_1,ptpB_1,Triple specificity protein phosphatase PtpB,,FKLDPHGP_00523
+group_83,,hypothetical protein,DLKHCADP_01782,
+group_82,,hypothetical protein,,FKLDPHGP_00522
+group_75,,hypothetical protein,,FKLDPHGP_00621
+group_74,,hypothetical protein,,FKLDPHGP_00632
+inuGB_1,inuGB_1,Inulosucrase,DLKHCADP_01790,
+cap8A,cap8A,Capsular polysaccharide type 8 biosynthesis protein cap8A,,FKLDPHGP_00629
+rmlA,rmlA,Glucose-1-phosphate thymidylyltransferase,,FKLDPHGP_00608
+group_67,,hypothetical protein,,FKLDPHGP_00622
+group_66,,hypothetical protein,,FKLDPHGP_00611
+group_63,,ISL3 family transposase ISLjo2,,FKLDPHGP_00613
+tagU_1,tagU_1,Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU,,FKLDPHGP_00630
+wecH,wecH,O-acetyltransferase WecH,,FKLDPHGP_00614
+group_59,,hypothetical protein,,FKLDPHGP_00618
+mshA_1,mshA_1,D-inositol-3-phosphate glycosyltransferase,,FKLDPHGP_00620
+gtf3,gtf3,Glucosyltransferase 3,,FKLDPHGP_00619
+rffG,rffG,dTDP-glucose 46-dehydratase 2,,FKLDPHGP_00609
+glf,glf,UDP-galactopyranose mutase,,FKLDPHGP_00616
+xerC_6,xerC_6,Tyrosine recombinase XerC,DLKHCADP_01789,
+group_54,,hypothetical protein,,FKLDPHGP_00617
+bioC,bioC,Malonyl-[acyl-carrier protein] O-methyltransferase,,FKLDPHGP_00610
+rfbX_1,rfbX_1,Putative O-antigen transporter,,FKLDPHGP_00615
+inuGB_2,inuGB_2,Inulosucrase,DLKHCADP_01791,
+group_42,,hypothetical protein,DLKHCADP_01781,
+group_36,,hypothetical protein,,FKLDPHGP_00569
+group_29,,hypothetical protein,,FKLDPHGP_00398
+inuGB,inuGB,Inulosucrase,,FKLDPHGP_00741
+group_23,,hypothetical protein,DLKHCADP_01786,
+group_18,,hypothetical protein,DLKHCADP_01780,
+group_12,,hypothetical protein,DLKHCADP_01787,
+group_10,,hypothetical protein,DLKHCADP_01189,
+group_8,,hypothetical protein,DLKHCADP_01784,
+group_5,,hypothetical protein,,FKLDPHGP_00376

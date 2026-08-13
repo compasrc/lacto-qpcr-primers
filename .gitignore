@@ -17,3 +17,14 @@ __pycache__/
 .DS_Store
 logs/
 *.log
+
+# Panaroo bulk outputs (large, regenerable)
+results/panaroo/
+results/panaroo_per_species/*/combined_*
+results/panaroo_per_species/*/*.gml
+results/panaroo_per_species/*/gene_data.csv
+results/panaroo_per_species/*/pan_genome_reference.fa
+results/panaroo_per_species/*/*.clstr
+results/panaroo_per_species/*/*_cdhit_out.txt
+results/specificity/*hits.tsv
+work/blastdb/

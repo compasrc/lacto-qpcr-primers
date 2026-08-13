@@ -1,0 +1,2046 @@
+Gene,Non-unique Gene name,Annotation,Lactobacillus_paragasseri__UMB0056__GCA_002884735.1,Lactobacillus_paragasseri__UMB5640__GCA_030216965.1,Lactobacillus_paragasseri__UMB6357__GCA_030216895.1
+group_893,,hypothetical protein,CHONFCMC_01843,KGGMHOKE_00791,JPPLDLFD_01136
+cpoA,cpoA,Alpha-galactosylglucosyldiacylglycerol synthase,CHONFCMC_01842,KGGMHOKE_00792,JPPLDLFD_01135
+ltaS1,ltaS1,Lipoteichoic acid synthase 1,CHONFCMC_01844,KGGMHOKE_00790,JPPLDLFD_01137
+group_892,,hypothetical protein,CHONFCMC_01829,KGGMHOKE_00805,JPPLDLFD_01122
+group_891,,Alpha-monoglucosyldiacylglycerol synthase,CHONFCMC_01841,KGGMHOKE_00793,JPPLDLFD_01134
+group_890,,hypothetical protein,CHONFCMC_01796,KGGMHOKE_00122,JPPLDLFD_00212
+gabD1,gabD1,Succinate-semialdehyde dehydrogenase [NADP(+)] 1,CHONFCMC_01806,KGGMHOKE_00133,JPPLDLFD_00202
+group_888,,hypothetical protein,CHONFCMC_01800,KGGMHOKE_00126,JPPLDLFD_00208
+luxS,luxS,S-ribosylhomocysteine lyase,CHONFCMC_01770,KGGMHOKE_00090,JPPLDLFD_00242
+group_886,,hypothetical protein,CHONFCMC_01753,KGGMHOKE_00365,JPPLDLFD_00627
+yoaB_1,;yoaB_1,Calcium-transporting ATPase 1,CHONFCMC_01748;CHONFCMC_01747,KGGMHOKE_00370;KGGMHOKE_00371,JPPLDLFD_00632
+dinG_2,dinG_2,3'-5' exonuclease DinG,CHONFCMC_01784,KGGMHOKE_00111,JPPLDLFD_00223
+group_883,,hypothetical protein,CHONFCMC_01805,KGGMHOKE_00131;KGGMHOKE_00132,JPPLDLFD_00203
+group_881,,hypothetical protein,CHONFCMC_01773,KGGMHOKE_00093,JPPLDLFD_00239
+bceA,bceA,Bacitracin export ATP-binding protein BceA,CHONFCMC_01738,KGGMHOKE_00354,JPPLDLFD_00643
+pepDA_3,pepDA_3,Dipeptidase A,CHONFCMC_01788,KGGMHOKE_00115,JPPLDLFD_00219
+tcyP,tcyP,L-cystine uptake protein TcyP,CHONFCMC_01772,KGGMHOKE_00092,JPPLDLFD_00240
+group_879,ycaM_4,Inner membrane transporter YcaM,CHONFCMC_01737,KGGMHOKE_00353,JPPLDLFD_00644
+pepT_1~~~pepT_2,pepT_1;pepT_2,Peptidase T,CHONFCMC_01780,KGGMHOKE_00107,JPPLDLFD_00227
+paiA,paiA,Spermidine/spermine N(1)-acetyltransferase,CHONFCMC_01797,KGGMHOKE_00123,JPPLDLFD_00211
+bglH_4,bglH_4,Aryl-phospho-beta-D-glucosidase BglH,CHONFCMC_01763,KGGMHOKE_00084,JPPLDLFD_01040
+exoA_2,exoA_2,Exodeoxyribonuclease,CHONFCMC_01743,KGGMHOKE_00375,JPPLDLFD_00638
+group_877,,hypothetical protein,CHONFCMC_01778,KGGMHOKE_00097,JPPLDLFD_00229
+group_875,,hypothetical protein,CHONFCMC_01742,KGGMHOKE_00376,JPPLDLFD_00639
+group_874,,hypothetical protein,CHONFCMC_01807,KGGMHOKE_00134,JPPLDLFD_00201;JPPLDLFD_00200
+group_873,,hypothetical protein,CHONFCMC_01808,KGGMHOKE_00135,JPPLDLFD_00199
+group_872,,hypothetical protein,CHONFCMC_01810,KGGMHOKE_00137,JPPLDLFD_00197
+group_871,,Putative phosphatase,CHONFCMC_01803,KGGMHOKE_00129,JPPLDLFD_00205
+sugC,sugC,Trehalose import ATP-binding protein SugC,CHONFCMC_01789,KGGMHOKE_00116,JPPLDLFD_00218
+group_869,,Protein ADP-ribosyltransferase,CHONFCMC_01783,KGGMHOKE_00110,JPPLDLFD_00224
+group_868,,hypothetical protein,CHONFCMC_01801,KGGMHOKE_00127,JPPLDLFD_00207
+group_866,ybbH_2,putative HTH-type transcriptional regulator YbbH,CHONFCMC_01746,KGGMHOKE_00372,JPPLDLFD_00635
+efp_2,efp_2,Elongation factor P,CHONFCMC_01759,KGGMHOKE_00359,JPPLDLFD_00621
+group_865,,hypothetical protein,CHONFCMC_01757,KGGMHOKE_00361,JPPLDLFD_00623
+dkgB,dkgB,25-diketo-D-gluconic acid reductase B,CHONFCMC_01786,KGGMHOKE_00113,JPPLDLFD_00221
+group_864,,hypothetical protein,CHONFCMC_01785,KGGMHOKE_00112,JPPLDLFD_00222
+licT_4~~~licT_1,licT_4;licT_1,Transcription antiterminator LicT,CHONFCMC_01761,KGGMHOKE_00082,JPPLDLFD_01042
+oppA_3~~~oppA_4,oppA_3;oppA_4,Oligopeptide-binding protein OppA,CHONFCMC_01766,KGGMHOKE_00087,JPPLDLFD_01035
+araQ,araQ,Arabinooligosaccharides transport system permease protein AraQ,CHONFCMC_01791,KGGMHOKE_00118,JPPLDLFD_00216
+group_863,,hypothetical protein,CHONFCMC_01774,KGGMHOKE_00094,JPPLDLFD_00232
+group_862,,hypothetical protein,CHONFCMC_01765,KGGMHOKE_00086,JPPLDLFD_01036;JPPLDLFD_01037;JPPLDLFD_01038
+group_861,,hypothetical protein,CHONFCMC_01809,KGGMHOKE_00136,JPPLDLFD_00198
+yxdM,yxdM,ABC transporter permease protein YxdM,CHONFCMC_01739,KGGMHOKE_00355,JPPLDLFD_00642
+mscL,mscL,Large-conductance mechanosensitive channel,CHONFCMC_01775,KGGMHOKE_00095,JPPLDLFD_00231
+group_859,,hypothetical protein,CHONFCMC_01795,KGGMHOKE_00121,JPPLDLFD_00213
+group_858,,hypothetical protein,CHONFCMC_01787,KGGMHOKE_00114,JPPLDLFD_00220
+group_857,,hypothetical protein,0_refound_1,KGGMHOKE_00366,2_refound_9
+coaA,coaA,Pantothenate kinase,CHONFCMC_01758,KGGMHOKE_00360,JPPLDLFD_00622
+bglF_4,bglF_4,PTS system beta-glucoside-specific EIIBCA component,CHONFCMC_01762,KGGMHOKE_00083,JPPLDLFD_01041
+group_856,,hypothetical protein,CHONFCMC_01782,KGGMHOKE_00109,JPPLDLFD_00225
+ptsG,ptsG,PTS system glucose-specific EIICBA component,CHONFCMC_01744,KGGMHOKE_00374,JPPLDLFD_00637
+bca,;bca,hypothetical protein;C protein alpha-antigen,CHONFCMC_01760,KGGMHOKE_00080;KGGMHOKE_00358;KGGMHOKE_00081;KGGMHOKE_00356;KGGMHOKE_00357,JPPLDLFD_01043
+group_855,,hypothetical protein,CHONFCMC_01768,KGGMHOKE_00089,JPPLDLFD_01032
+group_854,,hypothetical protein,CHONFCMC_01750,KGGMHOKE_00368,JPPLDLFD_00630
+lacF_3,lacF_3,Lactose transport system permease protein LacF,CHONFCMC_01790,KGGMHOKE_00117,JPPLDLFD_00217
+helD,helD,DNA helicase IV,CHONFCMC_01751,KGGMHOKE_00367,JPPLDLFD_00629
+gpmA_5,gpmA_5,23-bisphosphoglycerate-dependent phosphoglycerate mutase,CHONFCMC_01740,KGGMHOKE_00378,JPPLDLFD_00641
+group_852,,hypothetical protein,CHONFCMC_01741,KGGMHOKE_00377,JPPLDLFD_00640
+group_851,,hypothetical protein,CHONFCMC_01749,KGGMHOKE_00369,JPPLDLFD_00631
+group_850,,hypothetical protein,CHONFCMC_01777;CHONFCMC_01776,KGGMHOKE_00096,JPPLDLFD_00230
+group_849,,hypothetical protein,CHONFCMC_01755,KGGMHOKE_00363,JPPLDLFD_00625
+group_848,,hypothetical protein,CHONFCMC_01804,KGGMHOKE_00130,JPPLDLFD_00204
+group_847,,hypothetical protein,CHONFCMC_01802,KGGMHOKE_00128,JPPLDLFD_00206
+uvrA_3,uvrA_3,UvrABC system protein A,CHONFCMC_01767,KGGMHOKE_00088,JPPLDLFD_01033
+rnj,rnj,Ribonuclease J,CHONFCMC_01792,KGGMHOKE_00119,JPPLDLFD_00215
+group_846,,Acetyltransferase,CHONFCMC_01798,KGGMHOKE_00124,JPPLDLFD_00210
+serS,serS,Serine--tRNA ligase,CHONFCMC_01811,KGGMHOKE_00138,JPPLDLFD_00196
+group_845,,hypothetical protein,CHONFCMC_01754,KGGMHOKE_00364,JPPLDLFD_00626
+group_844,,hypothetical protein,CHONFCMC_01793;CHONFCMC_01794,KGGMHOKE_00120,JPPLDLFD_00214
+licC_4,licC_4,Lichenan permease IIC component,CHONFCMC_01756,KGGMHOKE_00362,JPPLDLFD_00624
+group_843,,hypothetical protein,CHONFCMC_01781,KGGMHOKE_00108,JPPLDLFD_00226
+nanE,nanE,Putative N-acetylmannosamine-6-phosphate 2-epimerase,CHONFCMC_01745,KGGMHOKE_00373,JPPLDLFD_00636
+metE,metE;,5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase;hypothetical protein,CHONFCMC_01771,KGGMHOKE_00091,JPPLDLFD_00241
+murK,murK,N-acetylmuramic acid/N-acetylglucosamine kinase,CHONFCMC_01799,KGGMHOKE_00125,JPPLDLFD_00209
+yicL_2~~~yicL_1,yicL_2;yicL_1,putative inner membrane transporter YicL,CHONFCMC_01764,KGGMHOKE_00085,JPPLDLFD_01039
+nrdF1,nrdF1,Ribonucleoside-diphosphate reductase subunit beta nrdF1,CHONFCMC_01728,KGGMHOKE_00339,JPPLDLFD_01444
+group_840,,hypothetical protein,CHONFCMC_01717,KGGMHOKE_00328,JPPLDLFD_01455
+mazF,mazF,Endoribonuclease toxin MazF,CHONFCMC_01726,KGGMHOKE_00337,JPPLDLFD_01446
+tagU_2,tagU_2,Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU,CHONFCMC_01719,KGGMHOKE_00330,JPPLDLFD_01453
+group_839,,hypothetical protein,CHONFCMC_01732,KGGMHOKE_00343,JPPLDLFD_01440
+group_838,,hypothetical protein,CHONFCMC_01731,KGGMHOKE_00342,JPPLDLFD_01441
+pepF,pepF,Oligopeptidase PepF,CHONFCMC_01718,KGGMHOKE_00329,JPPLDLFD_01454
+yjjB,yjjB,succinate transporter subunit YjjB,CHONFCMC_01724,KGGMHOKE_00335,JPPLDLFD_01448
+group_837,,hypothetical protein,CHONFCMC_01723,KGGMHOKE_00334,JPPLDLFD_01449
+yheS,yheS,putative ATP-binding protein YheS,CHONFCMC_01722,KGGMHOKE_00333,JPPLDLFD_01450
+group_836,,hypothetical protein,CHONFCMC_01725,KGGMHOKE_00336,JPPLDLFD_01447
+hflX,hflX,GTPase HflX,CHONFCMC_01736,KGGMHOKE_00348,JPPLDLFD_01435
+nrdI,nrdI,Protein NrdI,CHONFCMC_01729,KGGMHOKE_00340,JPPLDLFD_01443
+group_835,,hypothetical protein,CHONFCMC_01727,KGGMHOKE_00338,JPPLDLFD_01445
+gmk_2,gmk_2,Guanylate kinase,CHONFCMC_01733,KGGMHOKE_00344,JPPLDLFD_01439
+group_834,,hypothetical protein,CHONFCMC_01734,KGGMHOKE_00346,JPPLDLFD_01437
+group_833,,hypothetical protein,CHONFCMC_01720,KGGMHOKE_00331,JPPLDLFD_01452
+group_832,,hypothetical protein,CHONFCMC_01730,KGGMHOKE_00341,JPPLDLFD_01442
+group_831,,hypothetical protein,0_refound_0_pseudo,KGGMHOKE_00345,JPPLDLFD_01438
+group_830,,hypothetical protein,CHONFCMC_01735,KGGMHOKE_00347,JPPLDLFD_01436
+group_829,,hypothetical protein,CHONFCMC_01721,KGGMHOKE_00332,JPPLDLFD_01451
+group_827,,Macro domain-containing protein,CHONFCMC_01656,KGGMHOKE_01763,JPPLDLFD_01515
+apbE,apbE,FAD:protein FMN transferase,CHONFCMC_01688,KGGMHOKE_01732,JPPLDLFD_01484
+group_826,,hypothetical protein,CHONFCMC_01696,KGGMHOKE_01724,JPPLDLFD_01476
+group_824,,hypothetical protein,CHONFCMC_01709,KGGMHOKE_01711,JPPLDLFD_01462
+manZ_5,manZ_5,PTS system mannose-specific EIID component,CHONFCMC_01633,KGGMHOKE_01787,JPPLDLFD_01539
+group_823,,hypothetical protein,CHONFCMC_01682,KGGMHOKE_01738,JPPLDLFD_01490
+rsmG,rsmG,Ribosomal RNA small subunit methyltransferase G,CHONFCMC_01690,KGGMHOKE_01730,JPPLDLFD_01482
+group_821,,Putative glutamine amidotransferase,CHONFCMC_01637,KGGMHOKE_01783,JPPLDLFD_01534
+thrP_2,thrP_2,Threonine/serine transporter ThrP,CHONFCMC_01636,KGGMHOKE_01784,JPPLDLFD_01535
+bcaP_2,bcaP_2,Branched-chain amino acid permease BcaP,CHONFCMC_01642,KGGMHOKE_01778,JPPLDLFD_01529
+group_820,,putative transporter,CHONFCMC_01638,KGGMHOKE_01782,JPPLDLFD_01533
+group_817,,Aspartate racemase,CHONFCMC_01702,KGGMHOKE_01718,JPPLDLFD_01470
+menH_2,menH_2,2-succinyl-6-hydroxy-24-cyclohexadiene-1-carboxylate synthase,CHONFCMC_01671,KGGMHOKE_01748,JPPLDLFD_01500
+thrP_3~~~thrP_2~~~thrP_1,thrP_3;thrP_2;thrP_1,Threonine/serine transporter ThrP,CHONFCMC_01635,KGGMHOKE_01785,JPPLDLFD_01537;JPPLDLFD_01536
+smtB,smtB,HTH-type transcriptional repressor SmtB,CHONFCMC_01711,KGGMHOKE_01709,JPPLDLFD_01460
+ccpA_3,ccpA_3,Catabolite control protein A,CHONFCMC_01653,KGGMHOKE_01767,JPPLDLFD_01525
+glcR_2,glcR_2,HTH-type transcriptional repressor GlcR,CHONFCMC_01706,KGGMHOKE_01714,JPPLDLFD_01465
+yaaA,yaaA,DNA-binding and peroxide stress resistance protein YaaA,CHONFCMC_01669,KGGMHOKE_01750,JPPLDLFD_01502
+scrB_2,scrB_2,Sucrose-6-phosphate hydrolase,CHONFCMC_01654,KGGMHOKE_01766,JPPLDLFD_01524
+manX_2,manX_2,PTS system mannose-specific EIIAB component,CHONFCMC_01631,KGGMHOKE_01789,JPPLDLFD_01541
+group_815,,hypothetical protein,CHONFCMC_01664,KGGMHOKE_01755,JPPLDLFD_01507
+bglH_3,bglH_3,Aryl-phospho-beta-D-glucosidase BglH,CHONFCMC_01680,KGGMHOKE_01740,JPPLDLFD_01492
+pepD,pepD,Dipeptidase,CHONFCMC_01681,KGGMHOKE_01739,JPPLDLFD_01491
+group_814,,hypothetical protein,CHONFCMC_01674;CHONFCMC_01675,KGGMHOKE_01745,JPPLDLFD_01497
+asnA,asnA,Aspartate--ammonia ligase,CHONFCMC_01640,KGGMHOKE_01780,JPPLDLFD_01531
+glcA,glcA,Glycolate permease GlcA,CHONFCMC_01715,KGGMHOKE_01705,JPPLDLFD_01456
+soj,soj,Sporulation initiation inhibitor protein Soj,CHONFCMC_01692,KGGMHOKE_01728,JPPLDLFD_01480
+ptpB_1,ptpB_1,Triple specificity protein phosphatase PtpB,CHONFCMC_01645,KGGMHOKE_01775,JPPLDLFD_01526
+group_813,,hypothetical protein,CHONFCMC_01689,KGGMHOKE_01731,JPPLDLFD_01483
+yicI,yicI;,Alpha-xylosidase;hypothetical protein,CHONFCMC_01705,KGGMHOKE_01715,JPPLDLFD_01467;JPPLDLFD_01466
+nfr1,nfr1,NADH-dependent flavin reductase subunit 1,CHONFCMC_01684,KGGMHOKE_01736,JPPLDLFD_01488
+ybiV,ybiV,Sugar phosphatase YbiV,CHONFCMC_01710,KGGMHOKE_01710,JPPLDLFD_01461
+murE,murE,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase,CHONFCMC_01701,KGGMHOKE_01719,JPPLDLFD_01471
+mupG,mupG,6-phospho-N-acetylmuramidase,CHONFCMC_01686,KGGMHOKE_01734,JPPLDLFD_01486
+znuB,znuB,High-affinity zinc uptake system membrane protein ZnuB,CHONFCMC_01714,KGGMHOKE_01706,JPPLDLFD_01457
+group_812,,putative ABC transporter permease,CHONFCMC_01676,KGGMHOKE_01744,JPPLDLFD_01496
+uup_9,uup_9,ATP-binding protein Uup,CHONFCMC_01657,KGGMHOKE_01762,JPPLDLFD_01514
+nfr2,nfr2,NADH-dependent flavin reductase subunit 2,CHONFCMC_01685,KGGMHOKE_01735,JPPLDLFD_01487
+ptpB_2,ptpB_2,Triple specificity protein phosphatase PtpB,CHONFCMC_01687,KGGMHOKE_01733,JPPLDLFD_01485
+sorA_2,sorA_2,PTS system sorbose-specific EIIC component,CHONFCMC_01632,KGGMHOKE_01788,JPPLDLFD_01540
+ychF,ychF,Ribosome-binding ATPase YchF,CHONFCMC_01695,KGGMHOKE_01725,JPPLDLFD_01477
+thiD,thiD,Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,CHONFCMC_01644,KGGMHOKE_01776,JPPLDLFD_01527
+group_810,,putative ABC transporter ATP-binding protein,CHONFCMC_01697,KGGMHOKE_01723,JPPLDLFD_01475
+group_809,,hypothetical protein,CHONFCMC_01665,KGGMHOKE_01754,JPPLDLFD_01506
+rcsC,rcsC,Sensor histidine kinase RcsC,CHONFCMC_01700,KGGMHOKE_01720,JPPLDLFD_01472
+pspB,pspB,Putative phosphoserine phosphatase 2,CHONFCMC_01673,KGGMHOKE_01746,JPPLDLFD_01498
+group_808,,putative ABC transporter ATP-binding protein,CHONFCMC_01698,KGGMHOKE_01722,JPPLDLFD_01474
+group_807,,hypothetical protein,CHONFCMC_01668,KGGMHOKE_01751,JPPLDLFD_01503
+group_806,,hypothetical protein,CHONFCMC_01670,KGGMHOKE_01749,JPPLDLFD_01501
+group_805,bglF_3,PTS system beta-glucoside-specific EIIBCA component,CHONFCMC_01679,KGGMHOKE_01741,JPPLDLFD_01493
+group_804,,hypothetical protein,CHONFCMC_01634,KGGMHOKE_01786,JPPLDLFD_01538
+scrA_3,scrA_3,PTS system sucrose-specific EIIBCA component,CHONFCMC_01655,KGGMHOKE_01765,JPPLDLFD_01523
+group_803,,hypothetical protein,CHONFCMC_01683,KGGMHOKE_01737,JPPLDLFD_01489
+group_802,licT_3,Transcription antiterminator LicT,CHONFCMC_01678,KGGMHOKE_01742,JPPLDLFD_01494
+fruA,fruA,PTS system fructose-specific EIIABC component,CHONFCMC_01708,KGGMHOKE_01712,JPPLDLFD_01463
+cobC,cobC,Adenosylcobalamin/alpha-ribazole phosphatase,CHONFCMC_01672,KGGMHOKE_01747,JPPLDLFD_01499
+ybbH_1,ybbH_1,putative HTH-type transcriptional regulator YbbH,CHONFCMC_01663,KGGMHOKE_01756,JPPLDLFD_01508
+sbnD_2,sbnD_2,Staphyloferrin B transporter,CHONFCMC_01659,KGGMHOKE_01760,JPPLDLFD_01512
+yhaP,yhaP,putative protein YhaP,CHONFCMC_01704,KGGMHOKE_01716,JPPLDLFD_01468
+group_800,,hypothetical protein,CHONFCMC_01662,KGGMHOKE_01757,JPPLDLFD_01509
+group_799,,hypothetical protein,CHONFCMC_01660,KGGMHOKE_01759,JPPLDLFD_01511
+spo0J,spo0J,Stage 0 sporulation protein J,CHONFCMC_01693,KGGMHOKE_01727,JPPLDLFD_01479
+noc,noc,Nucleoid occlusion protein,CHONFCMC_01691,KGGMHOKE_01729,JPPLDLFD_01481
+znuC,znuC,Zinc import ATP-binding protein ZnuC,CHONFCMC_01713,KGGMHOKE_01707,JPPLDLFD_01458
+aroD,aroD,3-dehydroquinate dehydratase,CHONFCMC_01661,KGGMHOKE_01758,JPPLDLFD_01510
+yicL_1,yicL_1,putative inner membrane transporter YicL,CHONFCMC_01641,KGGMHOKE_01779,JPPLDLFD_01530
+group_796,btuD_2,Vitamin B12 import ATP-binding protein BtuD,CHONFCMC_01703,KGGMHOKE_01717,JPPLDLFD_01469
+group_795,,hypothetical protein,CHONFCMC_01712,KGGMHOKE_01708,JPPLDLFD_01459
+group_794,,hypothetical protein,CHONFCMC_01666,KGGMHOKE_01753,JPPLDLFD_01505
+group_793,,hypothetical protein,CHONFCMC_01694,KGGMHOKE_01726,JPPLDLFD_01478
+hrtA,hrtA,Putative hemin import ATP-binding protein HrtA,CHONFCMC_01677,KGGMHOKE_01743,JPPLDLFD_01495
+guaA_2,guaA_2,GMP synthase [glutamine-hydrolyzing],CHONFCMC_01658,KGGMHOKE_01761,JPPLDLFD_01513
+gatD,gatD,Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD,CHONFCMC_01643,KGGMHOKE_01777,JPPLDLFD_01528
+tagK_3,tagK_3,D-tagatose-1-phosphate kinase,CHONFCMC_01707,KGGMHOKE_01713,JPPLDLFD_01464
+vanR,vanR,Regulatory protein VanR,CHONFCMC_01699,KGGMHOKE_01721,JPPLDLFD_01473
+group_792,,hypothetical protein,CHONFCMC_01667,KGGMHOKE_01752,JPPLDLFD_01504
+group_790,,hypothetical protein,CHONFCMC_01639,KGGMHOKE_01781,JPPLDLFD_01532
+group_789,,hypothetical protein,CHONFCMC_01615,KGGMHOKE_01107,JPPLDLFD_00703
+dinB_2,dinB_2,DNA polymerase IV,CHONFCMC_01599,KGGMHOKE_01123,JPPLDLFD_00687
+ruvA,ruvA,Holliday junction branch migration complex subunit RuvA,CHONFCMC_01595,KGGMHOKE_01127,JPPLDLFD_00683
+dedA,dedA,DedA family protein,CHONFCMC_01627,KGGMHOKE_01095,JPPLDLFD_01084
+mutSB,mutSB,Putative endonuclease MutS2,CHONFCMC_01607,KGGMHOKE_01115,JPPLDLFD_00695
+pglK,pglK,Protein glycosylation K,CHONFCMC_01618,KGGMHOKE_01104,JPPLDLFD_00706
+group_788,,hypothetical protein,CHONFCMC_01623,KGGMHOKE_01099,JPPLDLFD_01088
+ruvB,ruvB,Holliday junction branch migration complex subunit RuvB,CHONFCMC_01596,KGGMHOKE_01126,JPPLDLFD_00684
+yutF,yutF,5'-nucleotidase YutF,CHONFCMC_01625,KGGMHOKE_01097,JPPLDLFD_01086
+group_787,,hypothetical protein,CHONFCMC_01606,KGGMHOKE_01116,JPPLDLFD_00694
+mutS,mutS,DNA mismatch repair protein MutS,CHONFCMC_01593,KGGMHOKE_01129,JPPLDLFD_00681
+group_786,,hypothetical protein,CHONFCMC_01624,KGGMHOKE_01098,JPPLDLFD_01087
+alaS,alaS,Alanine--tRNA ligase,CHONFCMC_01602,KGGMHOKE_01120,JPPLDLFD_00690
+group_784,,hypothetical protein,CHONFCMC_01614,KGGMHOKE_01108,JPPLDLFD_00702
+mutL,mutL,DNA mismatch repair protein MutL,CHONFCMC_01594,KGGMHOKE_01128,JPPLDLFD_00682
+group_783,,hypothetical protein,CHONFCMC_01603,KGGMHOKE_01119,JPPLDLFD_00691
+yrrK,yrrK,Putative pre-16S rRNA nuclease,CHONFCMC_01604,KGGMHOKE_01118,JPPLDLFD_00692
+yugI,yugI,General stress protein 13,CHONFCMC_01629,KGGMHOKE_01093,JPPLDLFD_01082
+yumC,yumC,Ferredoxin--NADP reductase 2,CHONFCMC_01628,KGGMHOKE_01094,JPPLDLFD_01083
+group_782,,hypothetical protein,CHONFCMC_01626,KGGMHOKE_01096,JPPLDLFD_01085
+trxA,trxA,Thioredoxin,CHONFCMC_01608,KGGMHOKE_01114,JPPLDLFD_00696
+mtgA_2,mtgA_2,Biosynthetic peptidoglycan transglycosylase,CHONFCMC_01619,KGGMHOKE_01103,JPPLDLFD_01092
+ykuT,ykuT,putative MscS family protein YkuT,CHONFCMC_01613,KGGMHOKE_01109,JPPLDLFD_00701
+ackA_2,ackA_2,Acetate kinase,CHONFCMC_01612,KGGMHOKE_01110,JPPLDLFD_00700
+cshB,cshB,DEAD-box ATP-dependent RNA helicase CshB,CHONFCMC_01601,KGGMHOKE_01121,JPPLDLFD_00689
+group_781,,hypothetical protein,CHONFCMC_01605,KGGMHOKE_01117,JPPLDLFD_00693
+group_780,,hypothetical protein,CHONFCMC_01597,KGGMHOKE_01125,JPPLDLFD_00685
+pepV_2,pepV_2,Beta-Ala-Xaa dipeptidase,CHONFCMC_01620,KGGMHOKE_01102,JPPLDLFD_01091
+ccpA_2~~~ccpA_1,ccpA_2;ccpA_1,Catabolite control protein A,CHONFCMC_01617,KGGMHOKE_01105,JPPLDLFD_00705
+rdgB,rdgB,dITP/XTP pyrophosphatase,CHONFCMC_01611,KGGMHOKE_01111,JPPLDLFD_00699
+nrnA,nrnA,putative bifunctional oligoribonuclease and PAP phosphatase NrnA,CHONFCMC_01600,KGGMHOKE_01122,JPPLDLFD_00688
+murI,murI,Glutamate racemase,CHONFCMC_01610,KGGMHOKE_01112,JPPLDLFD_00698
+uup_8~~~msbA_1,;uup_8;msbA_1,hypothetical protein;ATP-binding protein Uup;ATP-dependent lipid A-core flippase,CHONFCMC_01592,KGGMHOKE_01130,JPPLDLFD_00679;JPPLDLFD_00680
+group_779,,hypothetical protein,CHONFCMC_01622,KGGMHOKE_01100,JPPLDLFD_01089
+zwf,zwf,Glucose-6-phosphate 1-dehydrogenase,CHONFCMC_01598,KGGMHOKE_01124,JPPLDLFD_00686
+group_777,,hypothetical protein,CHONFCMC_01621,KGGMHOKE_01101,JPPLDLFD_01090
+yslB,yslB,putative protein YslB,CHONFCMC_01609,KGGMHOKE_01113,JPPLDLFD_00697
+pepQ,pepQ,Xaa-Pro dipeptidase,CHONFCMC_01616,KGGMHOKE_01106,JPPLDLFD_00704
+tadA_2,tadA_2,tRNA-specific adenosine deaminase,CHONFCMC_01553,KGGMHOKE_01171,JPPLDLFD_00815
+rex,rex,Redox-sensing transcriptional repressor Rex,CHONFCMC_01584,KGGMHOKE_01139,JPPLDLFD_00874
+tcyL,tcyL,L-cystine transport system permease protein TcyL,CHONFCMC_01544,KGGMHOKE_01181,JPPLDLFD_00806
+groES,groES,Co-chaperonin GroES,CHONFCMC_01588,KGGMHOKE_01134,JPPLDLFD_00878
+group_776,,hypothetical protein,CHONFCMC_01590,KGGMHOKE_01132,JPPLDLFD_00880
+ettA,;ettA,hypothetical protein;Energy-dependent translational throttle protein EttA,CHONFCMC_01583,KGGMHOKE_01140,JPPLDLFD_00872;JPPLDLFD_00873
+group_773,,putative HTH-type transcriptional regulator,CHONFCMC_01586,KGGMHOKE_01137,JPPLDLFD_00876
+guaC_2~~~guaC_1~~~guaC,guaC_2;guaC_1;guaC,GMP reductase,CHONFCMC_01572,KGGMHOKE_01151;KGGMHOKE_01152,JPPLDLFD_01284
+group_772,,hypothetical protein,CHONFCMC_01570,KGGMHOKE_01154,JPPLDLFD_00832
+dxs,dxs,1-deoxy-D-xylulose-5-phosphate synthase,CHONFCMC_01534,KGGMHOKE_01189,JPPLDLFD_00798
+group_771,,hypothetical protein,CHONFCMC_01557,KGGMHOKE_01167,JPPLDLFD_00819
+group_770,,hypothetical protein,CHONFCMC_01535,KGGMHOKE_01188,JPPLDLFD_00799
+garK~~~glxK,garK;glxK,Glycerate 2-kinase;Glycerate 3-kinase,CHONFCMC_01533,KGGMHOKE_01190,JPPLDLFD_00797
+secE,secE,Protein translocase subunit SecE,CHONFCMC_01540,KGGMHOKE_01185,JPPLDLFD_00802
+yabA,yabA,Replication initiation control protein YabA,CHONFCMC_01561,KGGMHOKE_01163,JPPLDLFD_00823
+group_766,,hypothetical protein,CHONFCMC_01552,KGGMHOKE_01172,JPPLDLFD_00814
+dnaX,dnaX,DNA polymerase III subunit tau,CHONFCMC_01554,KGGMHOKE_01170,JPPLDLFD_00816
+hepT,hepT,Heptaprenyl diphosphate synthase component 2,CHONFCMC_01536,KGGMHOKE_01187,JPPLDLFD_00800
+artM_2~~~potA_2,artM_2;potA_2,Arginine transport ATP-binding protein ArtM;Spermidine/putrescine import ATP-binding protein PotA,CHONFCMC_01545,KGGMHOKE_01180;KGGMHOKE_01179,JPPLDLFD_00807
+rplJ,rplJ,Large ribosomal subunit protein uL10,CHONFCMC_01547,KGGMHOKE_01177,JPPLDLFD_00809
+group_765,,hypothetical protein,CHONFCMC_01576,KGGMHOKE_01145,JPPLDLFD_00867
+group_764,,hypothetical protein,CHONFCMC_01549,KGGMHOKE_01175,JPPLDLFD_00811
+recR,recR,Recombination protein RecR,CHONFCMC_01556,KGGMHOKE_01168,JPPLDLFD_00818
+clcA_2,clcA_2,H(+)/Cl(-) exchange transporter ClcA,CHONFCMC_01569,KGGMHOKE_01155,JPPLDLFD_00831
+rplK,rplK,Large ribosomal subunit protein uL11,CHONFCMC_01542,KGGMHOKE_01183,JPPLDLFD_00804
+tsaB,tsaB,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,CHONFCMC_01565,KGGMHOKE_01159,JPPLDLFD_00827
+group_763,,hypothetical protein,CHONFCMC_01577,KGGMHOKE_01144,JPPLDLFD_00868
+rplL,rplL,Large ribosomal subunit protein bL12,CHONFCMC_01548,KGGMHOKE_01176,JPPLDLFD_00810
+rsmC,rsmC,Ribosomal RNA small subunit methyltransferase C,CHONFCMC_01551,KGGMHOKE_01173,JPPLDLFD_00813
+tsaD,tsaD,tRNA N6-adenosine threonylcarbamoyltransferase,CHONFCMC_01567,KGGMHOKE_01157,JPPLDLFD_00829
+purA,purA,Adenylosuccinate synthetase,CHONFCMC_01573,KGGMHOKE_01150,JPPLDLFD_01285
+nusG,nusG,Transcription termination/antitermination protein NusG,CHONFCMC_01541,KGGMHOKE_01184,JPPLDLFD_00803
+purB,purB,Adenylosuccinate lyase,CHONFCMC_01574,KGGMHOKE_01149,JPPLDLFD_01286
+rpmG3,rpmG3,Large ribosomal subunit protein bL33C,CHONFCMC_01539,KGGMHOKE_01186,JPPLDLFD_00801
+group_761,,hypothetical protein,CHONFCMC_01563,KGGMHOKE_01161,JPPLDLFD_00825
+rimI_2,rimI_2,[Ribosomal protein bS18]-alanine N-acetyltransferase,CHONFCMC_01566,KGGMHOKE_01158,JPPLDLFD_00828
+groEL,groEL,Chaperonin GroEL,CHONFCMC_01589,KGGMHOKE_01133,JPPLDLFD_00879
+darA,darA,Cyclic di-AMP receptor A,CHONFCMC_01559,KGGMHOKE_01165,JPPLDLFD_00821
+yvdD,yvdD,LOG family protein YvdD,CHONFCMC_01585,KGGMHOKE_01138,JPPLDLFD_00875
+nudC,nudC,NAD-capped RNA hydrolase NudC,CHONFCMC_01575,KGGMHOKE_01146,JPPLDLFD_00866
+group_758,,hypothetical protein,CHONFCMC_01568,KGGMHOKE_01156,JPPLDLFD_00830
+rsmI,rsmI,Ribosomal RNA small subunit methyltransferase I,CHONFCMC_01562,KGGMHOKE_01162,JPPLDLFD_00824
+group_757,,hypothetical protein,CHONFCMC_01560,KGGMHOKE_01164,JPPLDLFD_00822
+group_756,,Nucleoid-associated protein,CHONFCMC_01555,KGGMHOKE_01169,JPPLDLFD_00817
+artJ,artJ,ABC transporter arginine-binding protein 1,CHONFCMC_01546,KGGMHOKE_01178,JPPLDLFD_00808
+tmk,tmk,Thymidylate kinase,CHONFCMC_01558,KGGMHOKE_01166,JPPLDLFD_00820
+rplA,rplA,Large ribosomal subunit protein uL1,CHONFCMC_01543,KGGMHOKE_01182,JPPLDLFD_00805
+folT,folT,Folate transporter FolT,CHONFCMC_01564,KGGMHOKE_01160,JPPLDLFD_00826
+group_755,,hypothetical protein,CHONFCMC_01550,KGGMHOKE_01174,JPPLDLFD_00812
+uctC,uctC,Acetyl-CoA:oxalate CoA-transferase,CHONFCMC_01578,KGGMHOKE_01143,JPPLDLFD_00869
+group_754,,hypothetical protein,CHONFCMC_01587,KGGMHOKE_01136,JPPLDLFD_00877
+group_752,,hypothetical protein,CHONFCMC_01417,KGGMHOKE_01310,JPPLDLFD_01720
+tagK_1,tagK_1,D-tagatose-1-phosphate kinase,CHONFCMC_01329,KGGMHOKE_01692,JPPLDLFD_01847
+group_751,,hypothetical protein,CHONFCMC_01274,KGGMHOKE_01911,JPPLDLFD_00586
+pepC,pepC,Aminopeptidase C,CHONFCMC_01519,KGGMHOKE_01207,JPPLDLFD_01819
+cycA_2,cycA_2,D-serine/D-alanine/glycine transporter,CHONFCMC_01283,KGGMHOKE_01903,JPPLDLFD_01892
+walR,walR,Transcriptional regulatory protein WalR,CHONFCMC_01240,KGGMHOKE_01943,JPPLDLFD_00618
+group_750,gmuC_1,PTS system oligo-beta-mannoside-specific EIIC component,CHONFCMC_01372,KGGMHOKE_01647,JPPLDLFD_01677
+ykoD_2,ykoD_2,Putative HMP/thiamine import ATP-binding protein YkoD,CHONFCMC_01248,KGGMHOKE_01935,JPPLDLFD_00610
+rplX,rplX,Large ribosomal subunit protein uL24,CHONFCMC_01484,KGGMHOKE_01243,JPPLDLFD_01786
+greA_2,greA_2,Transcription elongation factor GreA,CHONFCMC_01368,KGGMHOKE_01651,JPPLDLFD_01673
+frc,frc,Formyl-CoA:oxalate CoA-transferase,CHONFCMC_01431,KGGMHOKE_01298,JPPLDLFD_01732
+ganP,ganP,Galactooligosaccharides transport system permease protein GanP,CHONFCMC_01406,KGGMHOKE_01320,JPPLDLFD_01710
+phnD2_2,phnD2_2,putative ABC transporter phosphonate/phosphite binding protein PhnD2,CHONFCMC_01310,KGGMHOKE_01876,JPPLDLFD_01865
+veg,veg,Protein Veg,CHONFCMC_01395,KGGMHOKE_01624,JPPLDLFD_01699
+group_748,,hypothetical protein,CHONFCMC_01341,KGGMHOKE_01679,JPPLDLFD_01836
+group_747,,hypothetical protein,CHONFCMC_01409,KGGMHOKE_01317,JPPLDLFD_01713
+yfdH,yfdH,Prophage bactoprenol glucosyl transferase,CHONFCMC_01354,KGGMHOKE_01665,JPPLDLFD_01658
+group_746,,hypothetical protein,CHONFCMC_01355,KGGMHOKE_01664,JPPLDLFD_01659
+group_745,,hypothetical protein,CHONFCMC_01320,KGGMHOKE_01702,JPPLDLFD_01855
+cobB,cobB,NAD-dependent protein deacetylase,CHONFCMC_01269,KGGMHOKE_01915,JPPLDLFD_00590
+group_744,,hypothetical protein,CHONFCMC_01518,KGGMHOKE_01208,JPPLDLFD_01818
+rqcP,rqcP,RQC P-site tRNA stabilizing factor,CHONFCMC_01454,KGGMHOKE_01273,JPPLDLFD_01756
+murF,murF,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,CHONFCMC_01446,KGGMHOKE_01281,JPPLDLFD_01748
+rpoA,rpoA,DNA-directed RNA polymerase subunit alpha,CHONFCMC_01499,KGGMHOKE_01228,JPPLDLFD_01801
+rpsG,rpsG,Small ribosomal subunit protein uS7,CHONFCMC_01470,KGGMHOKE_01257,JPPLDLFD_01772
+group_743,,hypothetical protein,CHONFCMC_01422,KGGMHOKE_01306,JPPLDLFD_01725
+cytR_2,cytR_2,HTH-type transcriptional repressor CytR,CHONFCMC_01399,KGGMHOKE_01327,JPPLDLFD_01703
+ntd,ntd,Nucleoside deoxyribosyltransferase,CHONFCMC_01304,KGGMHOKE_01882,JPPLDLFD_01871
+nagR_3,nagR_3,HTH-type transcriptional repressor NagR,CHONFCMC_01294,KGGMHOKE_01892,JPPLDLFD_01881
+group_742,,hypothetical protein,CHONFCMC_01288,KGGMHOKE_01898,JPPLDLFD_01887
+group_741,,hypothetical protein,CHONFCMC_01270,KGGMHOKE_01914,JPPLDLFD_00589
+rpmE2,rpmE2,Large ribosomal subunit protein bL31B,CHONFCMC_01445,KGGMHOKE_01282,JPPLDLFD_01747
+rlmH,rlmH,Ribosomal RNA large subunit methyltransferase H,CHONFCMC_01246,KGGMHOKE_01937,JPPLDLFD_00612
+radA,radA,DNA repair protein RadA,CHONFCMC_01521,KGGMHOKE_01205,JPPLDLFD_01821
+gmuR_3,gmuR_3,HTH-type transcriptional regulator GmuR,CHONFCMC_01375,KGGMHOKE_01643,JPPLDLFD_01681
+group_740,,hypothetical protein,CHONFCMC_01306,KGGMHOKE_01880,JPPLDLFD_01869
+group_739,,hypothetical protein,CHONFCMC_01314,KGGMHOKE_01872,JPPLDLFD_01861
+group_738,,hypothetical protein,CHONFCMC_01515,KGGMHOKE_01211,JPPLDLFD_01815
+rpsN2,rpsN2,Small ribosomal subunit protein uS14A,CHONFCMC_01352,KGGMHOKE_01667,JPPLDLFD_01656
+glmU,glmU,Bifunctional protein GlmU,CHONFCMC_01397,KGGMHOKE_01622,JPPLDLFD_01701
+group_736,,hypothetical protein,CHONFCMC_01426;CHONFCMC_01425,KGGMHOKE_01303,JPPLDLFD_01726
+tadA_1,tadA_1,tRNA-specific adenosine deaminase,CHONFCMC_01387,KGGMHOKE_01631,JPPLDLFD_01692
+levE,levE,PTS system fructose-specific EIIB component,CHONFCMC_01297,KGGMHOKE_01889,JPPLDLFD_01878
+cls_2,cls_2,Cardiolipin synthase,CHONFCMC_01271,KGGMHOKE_01913,JPPLDLFD_00588
+gmuC_2~~~licC_3~~~gmuC_3~~~licC_4,gmuC_2;;licC_3;gmuC_3;licC_4,PTS system oligo-beta-mannoside-specific EIIC component;hypothetical protein;Lichenan permease IIC component,CHONFCMC_01379;CHONFCMC_01380,KGGMHOKE_01638;KGGMHOKE_01639,JPPLDLFD_01685
+group_735,,hypothetical protein,CHONFCMC_01315,KGGMHOKE_01871,JPPLDLFD_01860
+rpsQ,rpsQ,Small ribosomal subunit protein uS17,CHONFCMC_01482,KGGMHOKE_01245,JPPLDLFD_01784
+cysS,cysS,Cysteine--tRNA ligase,CHONFCMC_01523,KGGMHOKE_01203,JPPLDLFD_01823
+group_734,,Putative universal stress protein,CHONFCMC_01308,KGGMHOKE_01878,JPPLDLFD_01867
+pepDA_2,pepDA_2,Dipeptidase A,CHONFCMC_01438,KGGMHOKE_01289,JPPLDLFD_01740
+group_733,,hypothetical protein,CHONFCMC_01436,KGGMHOKE_01291,JPPLDLFD_01738
+ypuA,ypuA,putative protein YpuA,CHONFCMC_01276,KGGMHOKE_01909,JPPLDLFD_00584
+ldh_2,ldh_2,L-lactate dehydrogenase,CHONFCMC_01451,KGGMHOKE_01276,JPPLDLFD_01753
+prs_2,prs_2,Ribose-phosphate pyrophosphokinase,CHONFCMC_01398,KGGMHOKE_01621,JPPLDLFD_01702
+lacG_2,lacG_2,6-phospho-beta-galactosidase,CHONFCMC_01529,KGGMHOKE_01197,JPPLDLFD_01829
+group_732,,hypothetical protein,CHONFCMC_01339,KGGMHOKE_01681;KGGMHOKE_01682,JPPLDLFD_01838
+group_731,,Putative TrmH family tRNA/rRNA methyltransferase,CHONFCMC_01525,KGGMHOKE_01201,JPPLDLFD_01825
+group_730,bglA_2,Aryl-phospho-beta-D-glucosidase BglA,CHONFCMC_01370,KGGMHOKE_01649,JPPLDLFD_01675
+group_729,,hypothetical protein,CHONFCMC_01430,KGGMHOKE_01299,JPPLDLFD_01731
+ybiR,;ybiR,hypothetical protein;Inner membrane protein YbiR,CHONFCMC_01253;CHONFCMC_01254,KGGMHOKE_01930,JPPLDLFD_00605
+prs_1,prs_1,Ribose-phosphate pyrophosphokinase,CHONFCMC_01280,KGGMHOKE_01905,JPPLDLFD_00580
+rnhA,rnhA,Ribonuclease H,CHONFCMC_01275,KGGMHOKE_01910,JPPLDLFD_00585
+group_728,,hypothetical protein,CHONFCMC_01441,KGGMHOKE_01286,JPPLDLFD_01743
+cshA,cshA,ATP-dependent RNA helicase CshA,CHONFCMC_01447,KGGMHOKE_01280,JPPLDLFD_01749
+glvR,glvR,HTH-type transcriptional regulator GlvR,CHONFCMC_01328,KGGMHOKE_01693,JPPLDLFD_01848
+glnQ_2,glnQ_2,Glutamine transport ATP-binding protein GlnQ,CHONFCMC_01263,KGGMHOKE_01921,JPPLDLFD_00596
+lacD,lacD,Tagatose 16-diphosphate aldolase,CHONFCMC_01326,KGGMHOKE_01695,JPPLDLFD_01850
+group_727,,hypothetical protein,CHONFCMC_01291,KGGMHOKE_01895,JPPLDLFD_01884
+rpsE,rpsE,Small ribosomal subunit protein uS5,CHONFCMC_01490,KGGMHOKE_01237,JPPLDLFD_01792
+mgtB,;mgtB,hypothetical protein;Magnesium-transporting ATPase P-type 1,CHONFCMC_01390;CHONFCMC_01389,KGGMHOKE_01629,JPPLDLFD_01694
+group_726,,hypothetical protein,CHONFCMC_01322,KGGMHOKE_01700,JPPLDLFD_01853
+thiQ,thiQ,Thiamine import ATP-binding protein ThiQ,CHONFCMC_01443,KGGMHOKE_01284,JPPLDLFD_01745
+group_724,,hypothetical protein,CHONFCMC_01360,KGGMHOKE_01659,JPPLDLFD_01665;JPPLDLFD_01664
+gltX,gltX,Glutamate--tRNA ligase,CHONFCMC_01522,KGGMHOKE_01204,JPPLDLFD_01822
+rpsS,rpsS,Small ribosomal subunit protein uS19,CHONFCMC_01477,KGGMHOKE_01250,JPPLDLFD_01779
+dusB,dusB,tRNA-dihydrouridine synthase B,CHONFCMC_01461,KGGMHOKE_01266,JPPLDLFD_01763
+rplF,rplF,Large ribosomal subunit protein uL6,CHONFCMC_01488,KGGMHOKE_01239,JPPLDLFD_01790
+adaB,adaB,Methylated-DNA--protein-cysteine methyltransferase inducible,CHONFCMC_01268,KGGMHOKE_01916,JPPLDLFD_00591
+group_723,,hypothetical protein,CHONFCMC_01516,KGGMHOKE_01210,JPPLDLFD_01816
+dtd3,dtd3,D-aminoacyl-tRNA deacylase,CHONFCMC_01392,KGGMHOKE_01627,JPPLDLFD_01696
+bglH_1~~~bglH_3,bglH_1;bglH_3,Aryl-phospho-beta-D-glucosidase BglH,CHONFCMC_01374,KGGMHOKE_01644,JPPLDLFD_01680
+group_722,,hypothetical protein,CHONFCMC_01286,KGGMHOKE_01900,JPPLDLFD_01889
+rplW,rplW,Large ribosomal subunit protein uL23,CHONFCMC_01475,KGGMHOKE_01252,JPPLDLFD_01777
+group_720,,hypothetical protein,CHONFCMC_01262,KGGMHOKE_01922,JPPLDLFD_00597
+lysS,lysS,Lysine--tRNA ligase,CHONFCMC_01462,KGGMHOKE_01265,JPPLDLFD_01764
+rplE,rplE,Large ribosomal subunit protein uL5,CHONFCMC_01485,KGGMHOKE_01242,JPPLDLFD_01787
+trpS2,trpS2,Tryptophan--tRNA ligase 2,CHONFCMC_01386,KGGMHOKE_01632,JPPLDLFD_01691
+group_719,,hypothetical protein,CHONFCMC_01347,KGGMHOKE_01672,JPPLDLFD_01650
+alx,alx,Putative membrane-bound redox modulator Alx,CHONFCMC_01267,KGGMHOKE_01917,JPPLDLFD_00592
+guaA_1,guaA_1,GMP synthase [glutamine-hydrolyzing],CHONFCMC_01418,KGGMHOKE_01309,JPPLDLFD_01721
+rpoE,rpoE,putative DNA-directed RNA polymerase subunit delta,CHONFCMC_01411,KGGMHOKE_01315,JPPLDLFD_01715
+glnQ_3,glnQ_3,Glutamine transport ATP-binding protein GlnQ,CHONFCMC_01311,KGGMHOKE_01875,JPPLDLFD_01864
+rhaS_3~~~rhaS_4,rhaS_3;rhaS_4,HTH-type transcriptional activator RhaS,CHONFCMC_01250,KGGMHOKE_01933,JPPLDLFD_00608
+group_718,,hypothetical protein,CHONFCMC_01289,KGGMHOKE_01897,JPPLDLFD_01886
+rpsJ,rpsJ,Small ribosomal subunit protein uS10,CHONFCMC_01472,KGGMHOKE_01255,JPPLDLFD_01774
+truA,truA,tRNA pseudouridine synthase A,CHONFCMC_01504,KGGMHOKE_01223,JPPLDLFD_01806
+ogt_2~~~ogt,ogt_2;ogt,Methylated-DNA--protein-cysteine methyltransferase,CHONFCMC_01429,KGGMHOKE_01300,JPPLDLFD_01730
+group_717,,hypothetical protein,CHONFCMC_01427,KGGMHOKE_01302,JPPLDLFD_01727
+group_716,,hypothetical protein,CHONFCMC_01309,KGGMHOKE_01877,JPPLDLFD_01866
+dut,dut,Deoxyuridine 5'-triphosphate nucleotidohydrolase,CHONFCMC_01520,KGGMHOKE_01206,JPPLDLFD_01820
+ecfT_2,ecfT_2,Energy-coupling factor transporter transmembrane protein EcfT,CHONFCMC_01503,KGGMHOKE_01224,JPPLDLFD_01805
+walJ,walJ,Exodeoxyribonuclease WalJ,CHONFCMC_01244,KGGMHOKE_01939,JPPLDLFD_00614
+aimA,aimA,Glutamate/serine transporter AimA,CHONFCMC_01444,KGGMHOKE_01283,JPPLDLFD_01746
+group_715,,hypothetical protein,CHONFCMC_01530,KGGMHOKE_01196,JPPLDLFD_01830
+pth,pth,Peptidyl-tRNA hydrolase,CHONFCMC_01452,KGGMHOKE_01275,JPPLDLFD_01754
+group_714,,hypothetical protein,CHONFCMC_01303,KGGMHOKE_01883,JPPLDLFD_01872
+mltF_2,mltF_2,Membrane-bound lytic murein transglycosylase F,CHONFCMC_01264,KGGMHOKE_01920,JPPLDLFD_00595
+dexB,dexB,Glucan 16-alpha-glucosidase,CHONFCMC_01408,KGGMHOKE_01318,JPPLDLFD_01712
+pyrG,pyrG,CTP synthase,CHONFCMC_01412,KGGMHOKE_01314,JPPLDLFD_01716
+lemA,lemA,Protein LemA,CHONFCMC_01252,KGGMHOKE_01931,JPPLDLFD_00606
+ykoE,ykoE,Putative HMP/thiamine permease protein YkoE,CHONFCMC_01249,KGGMHOKE_01934,JPPLDLFD_00609
+phnE,phnE,Phosphate-import permease protein PhnE,CHONFCMC_01312,KGGMHOKE_01874,JPPLDLFD_01863
+iphP,iphP,Tyrosine-protein phosphatase,CHONFCMC_01307,KGGMHOKE_01879,JPPLDLFD_01868
+czrA,czrA,HTH-type transcriptional repressor CzrA,CHONFCMC_01513,KGGMHOKE_01213,JPPLDLFD_01813
+malL_3,malL_3,Oligo-16-glucosidase,CHONFCMC_01400,KGGMHOKE_01326,JPPLDLFD_01704
+ptcB,ptcB,PTS system galactose-specific EIIB component,CHONFCMC_01378,KGGMHOKE_01640,JPPLDLFD_01684
+ddlA,ddlA,D-alanine--D-alanine ligase A,CHONFCMC_01287,KGGMHOKE_01899,JPPLDLFD_01888
+group_711,,hypothetical protein,CHONFCMC_01305,KGGMHOKE_01881,JPPLDLFD_01870
+pckA,pckA,Phosphoenolpyruvate carboxykinase (ATP),CHONFCMC_01335,KGGMHOKE_01686,JPPLDLFD_01842
+group_710,,Endoglucanase,CHONFCMC_01260,KGGMHOKE_01924,JPPLDLFD_00599
+ptcA,ptcA,PTS system cellobiose-specific EIIA component,CHONFCMC_01376,KGGMHOKE_01642,JPPLDLFD_01682
+rnmV,rnmV,Ribonuclease M5,CHONFCMC_01393,KGGMHOKE_01626,JPPLDLFD_01697
+group_709,,hypothetical protein,CHONFCMC_01313,KGGMHOKE_01873,JPPLDLFD_01862
+msmX,msmX,Oligosaccharides import ATP-binding protein MsmX,CHONFCMC_01404,KGGMHOKE_01322,JPPLDLFD_01708
+tagK_2,tagK_2,D-tagatose-1-phosphate kinase,CHONFCMC_01344,KGGMHOKE_01675,JPPLDLFD_01833
+lacE_2,lacE_2,PTS system lactose-specific EIICB component,CHONFCMC_01528,KGGMHOKE_01198,JPPLDLFD_01828
+group_708,,hypothetical protein,CHONFCMC_01437,KGGMHOKE_01290,JPPLDLFD_01739
+group_706,,hypothetical protein,CHONFCMC_01333,KGGMHOKE_01687,JPPLDLFD_01843
+group_705,,hypothetical protein,CHONFCMC_01290,KGGMHOKE_01896,JPPLDLFD_01885
+bbmA,bbmA,Intracellular maltogenic amylase,CHONFCMC_01401,KGGMHOKE_01325,JPPLDLFD_01705
+brpA,brpA,Biofilm regulatory protein A,CHONFCMC_01358,KGGMHOKE_01661,JPPLDLFD_01662
+manZ_4,manZ_4,PTS system mannose-specific EIID component,CHONFCMC_01299,KGGMHOKE_01887,JPPLDLFD_01876
+group_703,,hypothetical protein,CHONFCMC_01292,KGGMHOKE_01894,JPPLDLFD_01883
+gpmA_4,gpmA_4,23-bisphosphoglycerate-dependent phosphoglycerate mutase,CHONFCMC_01517,KGGMHOKE_01209,JPPLDLFD_01817
+iolU,iolU,scyllo-inositol 2-dehydrogenase (NADP(+)) IolU,CHONFCMC_01346,KGGMHOKE_01673,JPPLDLFD_01649
+yycI,yycI,Two-component system WalR/WalK regulatory protein YycI,CHONFCMC_01243,KGGMHOKE_01940,JPPLDLFD_00615
+xpt,xpt,Xanthine phosphoribosyltransferase,CHONFCMC_01416,KGGMHOKE_01311,JPPLDLFD_01719
+alr,alr,Alanine racemase,CHONFCMC_01449,KGGMHOKE_01278,JPPLDLFD_01751
+group_702,,hypothetical protein,CHONFCMC_01348,KGGMHOKE_01671,JPPLDLFD_01651
+yajL,yajL,Protein/nucleic acid deglycase 3,CHONFCMC_01511,KGGMHOKE_01215,JPPLDLFD_01811
+rpsM,rpsM,Small ribosomal subunit protein uS13,CHONFCMC_01497,KGGMHOKE_01230,JPPLDLFD_01799
+group_701,,hypothetical protein,CHONFCMC_01388,KGGMHOKE_01630,JPPLDLFD_01693
+epsH,epsH,Putative glycosyltransferase EpsH,CHONFCMC_01277,KGGMHOKE_01908,JPPLDLFD_00583
+rplV,rplV,Large ribosomal subunit protein uL22,CHONFCMC_01478,KGGMHOKE_01249,JPPLDLFD_01780
+group_700,,hypothetical protein,CHONFCMC_01321,KGGMHOKE_01701,JPPLDLFD_01854
+group_699,,hypothetical protein,CHONFCMC_01456,KGGMHOKE_01271,JPPLDLFD_01758
+kefC,kefC,Glutathione-regulated potassium-efflux system protein KefC,CHONFCMC_01345,KGGMHOKE_01674,JPPLDLFD_01648
+rplB,rplB,Large ribosomal subunit protein uL2,CHONFCMC_01476,KGGMHOKE_01251,JPPLDLFD_01778
+purR_2,purR_2,Purine biosynthesis transcriptional repressor PurR,CHONFCMC_01396,KGGMHOKE_01623,JPPLDLFD_01700
+walK,walK,Sensor histidine kinase WalK,CHONFCMC_01241,KGGMHOKE_01942,JPPLDLFD_00617
+lacF_2,lacF_2,PTS system lactose-specific EIIA component,CHONFCMC_01527,KGGMHOKE_01199,JPPLDLFD_01827
+rplR,rplR,Large ribosomal subunit protein uL18,CHONFCMC_01489,KGGMHOKE_01238,JPPLDLFD_01791
+agaA_1,agaA_1,N-acetylgalactosamine-6-phosphate deacetylase,CHONFCMC_01296,KGGMHOKE_01890,JPPLDLFD_01879
+acpS,acpS,Holo-[acyl-carrier-protein] synthase,CHONFCMC_01448,KGGMHOKE_01279,JPPLDLFD_01750
+group_698,,hypothetical protein,CHONFCMC_01385,KGGMHOKE_01633,JPPLDLFD_01690
+group_697,,hypothetical protein,CHONFCMC_01285,KGGMHOKE_01901,JPPLDLFD_01890
+group_696,,hypothetical protein,CHONFCMC_01342,KGGMHOKE_01678,JPPLDLFD_01835
+agaS,agaS,D-galactosamine-6-phosphate deaminase AgaS,CHONFCMC_01295,KGGMHOKE_01891,JPPLDLFD_01880
+group_695,,hypothetical protein,CHONFCMC_01279,KGGMHOKE_01906,JPPLDLFD_00581
+group_694,,hypothetical protein,CHONFCMC_01266,KGGMHOKE_01918,JPPLDLFD_00593
+rplN,rplN,Large ribosomal subunit protein uL14,CHONFCMC_01483,KGGMHOKE_01244,JPPLDLFD_01785
+rplD,rplD,Large ribosomal subunit protein uL4,CHONFCMC_01474,KGGMHOKE_01253,JPPLDLFD_01776
+group_692,,hypothetical protein,CHONFCMC_01330,KGGMHOKE_01691,JPPLDLFD_01846
+group_691,,hypothetical protein,CHONFCMC_01367,KGGMHOKE_01652,JPPLDLFD_01672
+plsY_2,plsY_2,Glycerol-3-phosphate acyltransferase,CHONFCMC_01359,KGGMHOKE_01660,JPPLDLFD_01663
+group_690,,hypothetical protein,CHONFCMC_01433,KGGMHOKE_01295,JPPLDLFD_01735
+pepO_3,pepO_3,Neutral endopeptidase,CHONFCMC_01332,KGGMHOKE_01690,JPPLDLFD_01844
+asnB,asnB,Asparagine synthetase [glutamine-hydrolyzing] 1,CHONFCMC_01316,KGGMHOKE_01870,JPPLDLFD_01859
+rpmJ,rpmJ,Large ribosomal subunit protein bL36,CHONFCMC_01496,KGGMHOKE_01231,JPPLDLFD_01798
+ecfA1,ecfA1,Energy-coupling factor transporter ATP-binding protein EcfA1,CHONFCMC_01501,KGGMHOKE_01226,JPPLDLFD_01803
+group_688,,hypothetical protein,CHONFCMC_01421,KGGMHOKE_01307,JPPLDLFD_01724
+ftsL_2,ftsL_2,Cell division protein FtsL,CHONFCMC_01455,KGGMHOKE_01272,JPPLDLFD_01757
+metG,metG,Methionine--tRNA ligase,CHONFCMC_01391,KGGMHOKE_01628,JPPLDLFD_01695
+kup_2,kup_2,Low affinity potassium transport system protein Kup,CHONFCMC_01337,KGGMHOKE_01684,JPPLDLFD_01840
+group_687,,hypothetical protein,CHONFCMC_01334,1_refound_5,2_refound_7
+group_686,,Putative 3-methyladenine DNA glycosylase,CHONFCMC_01265,KGGMHOKE_01919,JPPLDLFD_00594
+bglH_4~~~bglH_2,bglH_4;bglH_2,Aryl-phospho-beta-D-glucosidase BglH,CHONFCMC_01381,KGGMHOKE_01637,JPPLDLFD_01686
+group_685,,hypothetical protein,CHONFCMC_01435,KGGMHOKE_01292,JPPLDLFD_01737
+rplQ,rplQ,Large ribosomal subunit protein bL17,CHONFCMC_01500,KGGMHOKE_01227,JPPLDLFD_01802
+rplC,rplC,Large ribosomal subunit protein uL3,CHONFCMC_01473,KGGMHOKE_01254,JPPLDLFD_01775
+group_684,,hypothetical protein,CHONFCMC_01365,KGGMHOKE_01654,JPPLDLFD_01670
+group_683,,hypothetical protein,CHONFCMC_01256,KGGMHOKE_01928,JPPLDLFD_00603
+kup_1,kup_1,Low affinity potassium transport system protein Kup,CHONFCMC_01336,KGGMHOKE_01685,JPPLDLFD_01841
+rpsK,rpsK,Small ribosomal subunit protein uS11,CHONFCMC_01498,KGGMHOKE_01229,JPPLDLFD_01800
+group_682,,hypothetical protein,CHONFCMC_01318,KGGMHOKE_01704,JPPLDLFD_01857
+group_681,,hypothetical protein,CHONFCMC_01302,KGGMHOKE_01884,JPPLDLFD_01873
+group_680,,hypothetical protein,CHONFCMC_01258,KGGMHOKE_01926,JPPLDLFD_00601
+group_679,,hypothetical protein,CHONFCMC_01420,KGGMHOKE_01308,JPPLDLFD_01723
+ganQ,ganQ,Galactooligosaccharides transport system permease protein GanQ,CHONFCMC_01407,KGGMHOKE_01319,JPPLDLFD_01711
+fusA,fusA,elongation factor G FusA,CHONFCMC_01471,KGGMHOKE_01256,JPPLDLFD_01773
+xylB,xylB,Xylulose kinase,CHONFCMC_01532,KGGMHOKE_01194,JPPLDLFD_01832
+ftsH,ftsH,ATP-dependent zinc metalloprotease FtsH,CHONFCMC_01458,KGGMHOKE_01269,JPPLDLFD_01760
+rpsI,rpsI,Small ribosomal subunit protein uS9,CHONFCMC_01506,KGGMHOKE_01221,JPPLDLFD_01808
+ganS,ganS,Galactooligosaccharide-binding protein,CHONFCMC_01405,KGGMHOKE_01321,JPPLDLFD_01709
+group_678,,hypothetical protein,CHONFCMC_01377,KGGMHOKE_01641,JPPLDLFD_01683
+mdtH,mdtH,Multidrug resistance protein MdtH,CHONFCMC_01325,KGGMHOKE_01696,JPPLDLFD_01851
+group_677,,hypothetical protein,CHONFCMC_01257,KGGMHOKE_01927,JPPLDLFD_00602
+rpsH,rpsH,Small ribosomal subunit protein uS8,CHONFCMC_01487,KGGMHOKE_01240,JPPLDLFD_01789
+htrA,htrA,Serine protease Do-like HtrA,CHONFCMC_01245,KGGMHOKE_01938,JPPLDLFD_00613
+nrdD,nrdD,Anaerobic ribonucleoside-triphosphate reductase,CHONFCMC_01319,KGGMHOKE_01703,JPPLDLFD_01856
+group_676,,hypothetical protein,CHONFCMC_01300,KGGMHOKE_01886,JPPLDLFD_01875
+yfbR,yfbR,5'-deoxynucleotidase YfbR,CHONFCMC_01261,KGGMHOKE_01923,JPPLDLFD_00598
+licT_2,licT_2,Transcription antiterminator LicT,CHONFCMC_01526,KGGMHOKE_01200,JPPLDLFD_01826
+glcU_2,glcU_2,Glucose uptake protein GlcU,CHONFCMC_01356,KGGMHOKE_01663,JPPLDLFD_01660
+qorB,qorB,Quinone oxidoreductase 2,CHONFCMC_01510,KGGMHOKE_01216,JPPLDLFD_01810
+ecfA2,ecfA2,Energy-coupling factor transporter ATP-binding protein EcfA2,CHONFCMC_01502,KGGMHOKE_01225,JPPLDLFD_01804
+malP,malP,Maltose phosphorylase,CHONFCMC_01402,KGGMHOKE_01324,JPPLDLFD_01706
+rpsL,rpsL,Small ribosomal subunit protein uS12,CHONFCMC_01469,KGGMHOKE_01258,JPPLDLFD_01771
+group_675,,hypothetical protein,CHONFCMC_01383,KGGMHOKE_01635,JPPLDLFD_01688
+group_673,,hypothetical protein,CHONFCMC_01255,KGGMHOKE_01929,JPPLDLFD_00604
+glyA,glyA,Serine hydroxymethyltransferase,CHONFCMC_01439,KGGMHOKE_01288,JPPLDLFD_01741
+hslO,hslO,33 kDa chaperonin,CHONFCMC_01460,KGGMHOKE_01267,JPPLDLFD_01762
+adk,adk,Adenylate kinase,CHONFCMC_01494,KGGMHOKE_01233,JPPLDLFD_01796
+rpmD,rpmD,Large ribosomal subunit protein uL30,CHONFCMC_01491,KGGMHOKE_01236,JPPLDLFD_01793
+yedJ,yedJ,putative protein YedJ,CHONFCMC_01364,KGGMHOKE_01655,JPPLDLFD_01669
+group_671,,hypothetical protein,CHONFCMC_01247,KGGMHOKE_01936,JPPLDLFD_00611
+lacX_2,lacX_2,Protein LacX plasmid,CHONFCMC_01357,KGGMHOKE_01662,JPPLDLFD_01661
+clpC,clpC,Negative regulator of genetic competence ClpC/MecB,CHONFCMC_01465,KGGMHOKE_01262,JPPLDLFD_01767
+group_669,,hypothetical protein,CHONFCMC_01338,KGGMHOKE_01683,JPPLDLFD_01839
+group_668,,hypothetical protein,CHONFCMC_01343,KGGMHOKE_01677;KGGMHOKE_01676,JPPLDLFD_01834
+czcD,czcD,Cadmium cobalt and zinc/H(+)-K(+) antiporter,CHONFCMC_01514,KGGMHOKE_01212,JPPLDLFD_01814
+rpsZ,rpsZ,Small ribosomal subunit protein uS14,CHONFCMC_01486,KGGMHOKE_01241,JPPLDLFD_01788
+slmA,slmA,Nucleoid occlusion factor SlmA,CHONFCMC_01284,KGGMHOKE_01902,JPPLDLFD_01891
+tyrS,tyrS,Tyrosine--tRNA ligase,CHONFCMC_01361,KGGMHOKE_01658,JPPLDLFD_01666
+murA1,murA1,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,CHONFCMC_01413,KGGMHOKE_01313,JPPLDLFD_01717
+group_667,,hypothetical protein,CHONFCMC_01410,KGGMHOKE_01316,JPPLDLFD_01714
+group_666,,hypothetical protein,CHONFCMC_01349,KGGMHOKE_01670,JPPLDLFD_01652
+yvdM_2,yvdM_2,Beta-phosphoglucomutase,CHONFCMC_01403,KGGMHOKE_01323,JPPLDLFD_01707
+group_665,,hypothetical protein,0_refound_4_pseudo,1_refound_6_pseudo,JPPLDLFD_01728
+bioH,bioH,Pimeloyl-[acyl-carrier protein] methyl ester esterase,CHONFCMC_01278,KGGMHOKE_01907,JPPLDLFD_00582
+rsmA,rsmA,Ribosomal RNA small subunit methyltransferase A,CHONFCMC_01394,KGGMHOKE_01625,JPPLDLFD_01698
+htpX,htpX,Protease HtpX,CHONFCMC_01251,KGGMHOKE_01932,JPPLDLFD_00607
+group_664,,hypothetical protein,CHONFCMC_01459,KGGMHOKE_01268,JPPLDLFD_01761
+group_663,,hypothetical protein,CHONFCMC_01273;CHONFCMC_01272,KGGMHOKE_01912,JPPLDLFD_00587
+rpmC,rpmC,Large ribosomal subunit protein uL29,CHONFCMC_01481,KGGMHOKE_01246,JPPLDLFD_01783
+rpsC,rpsC,Small ribosomal subunit protein uS3,CHONFCMC_01479,KGGMHOKE_01248,JPPLDLFD_01781
+secY_2,secY_2,Protein translocase subunit SecY,CHONFCMC_01493,KGGMHOKE_01234,JPPLDLFD_01795
+rplP,rplP,Large ribosomal subunit protein uL16,CHONFCMC_01480,KGGMHOKE_01247,JPPLDLFD_01782
+tilS,tilS,tRNA(Ile)-lysidine synthase,CHONFCMC_01457,KGGMHOKE_01270,JPPLDLFD_01759
+group_661,,hypothetical protein,CHONFCMC_01353,KGGMHOKE_01666,JPPLDLFD_01657
+group_660,,hypothetical protein,CHONFCMC_01301,KGGMHOKE_01885,JPPLDLFD_01874
+group_659,,hypothetical protein,CHONFCMC_01442,KGGMHOKE_01285,JPPLDLFD_01744
+group_658,,hypothetical protein,CHONFCMC_01293,KGGMHOKE_01893,JPPLDLFD_01882
+rplO,rplO,Large ribosomal subunit protein uL15,CHONFCMC_01492,KGGMHOKE_01235,JPPLDLFD_01794
+group_656,,hypothetical protein,CHONFCMC_01468,KGGMHOKE_01259,JPPLDLFD_01770
+mfd,mfd,Transcription-repair-coupling factor,CHONFCMC_01453,KGGMHOKE_01274,JPPLDLFD_01755
+group_655,,hypothetical protein,CHONFCMC_01434,KGGMHOKE_01294,JPPLDLFD_01736
+oxc_2~~~oxc_1~~~oxc,oxc_2;oxc_1;oxc,Oxalyl-CoA decarboxylase,CHONFCMC_01432,KGGMHOKE_01297;KGGMHOKE_01296,JPPLDLFD_01733;JPPLDLFD_01734
+group_654,,hypothetical protein,CHONFCMC_01340,KGGMHOKE_01680,JPPLDLFD_01837
+group_653,,hypothetical protein,CHONFCMC_01259,KGGMHOKE_01925,JPPLDLFD_00600
+group_652,,hypothetical protein,CHONFCMC_01450,KGGMHOKE_01277,JPPLDLFD_01752
+group_651,,hypothetical protein,CHONFCMC_01324,KGGMHOKE_01697,JPPLDLFD_01852
+rpoB,rpoB,DNA-directed RNA polymerase subunit beta RpoB,CHONFCMC_01466,KGGMHOKE_01261,JPPLDLFD_01768
+pepE_3,pepE_3,Aminopeptidase E,CHONFCMC_01366,KGGMHOKE_01653,JPPLDLFD_01671
+agaA_1~~~agaA_2,agaA_1;agaA_2,Alpha-galactosidase AgaA,CHONFCMC_01440,KGGMHOKE_01287,JPPLDLFD_01742
+rpoC,rpoC,DNA-directed RNA polymerase subunit beta RpoC,CHONFCMC_01467,KGGMHOKE_01260,JPPLDLFD_01769
+mrnC,mrnC,Mini-ribonuclease 3,CHONFCMC_01524,KGGMHOKE_01202,JPPLDLFD_01824
+rplM,rplM,Large ribosomal subunit protein uL13,CHONFCMC_01505,KGGMHOKE_01222,JPPLDLFD_01807
+pepE_2~~~pepE_3,pepE_2;pepE_3,Aminopeptidase E,CHONFCMC_01363,KGGMHOKE_01656,JPPLDLFD_01668
+menA_2,menA_2,14-dihydroxy-2-naphthoate octaprenyltransferase,CHONFCMC_01428,KGGMHOKE_01301,JPPLDLFD_01729
+group_650,,hypothetical protein,CHONFCMC_01531,KGGMHOKE_01195,JPPLDLFD_01831
+gpmA_3,gpmA_3,23-bisphosphoglycerate-dependent phosphoglycerate mutase,CHONFCMC_01512,KGGMHOKE_01214,JPPLDLFD_01812
+group_649,,hypothetical protein,CHONFCMC_01298,KGGMHOKE_01888,JPPLDLFD_01877
+infA,infA,Translation initiation factor IF-1,CHONFCMC_01495,KGGMHOKE_01232,JPPLDLFD_01797
+pucK,pucK,Uric acid permease PucK,CHONFCMC_01415,KGGMHOKE_01312,JPPLDLFD_01718
+bglK~~~bglK_1,bglK;bglK_1,Beta-glucoside kinase,CHONFCMC_01382,KGGMHOKE_01636,JPPLDLFD_01687
+group_648,,Acid shock protein,CHONFCMC_01369,KGGMHOKE_01650,JPPLDLFD_01674
+group_647,,hypothetical protein,CHONFCMC_01242,KGGMHOKE_01941,JPPLDLFD_00616
+gpmA_2,gpmA_2,23-bisphosphoglycerate-dependent phosphoglycerate mutase,CHONFCMC_01350,KGGMHOKE_01669,JPPLDLFD_01653
+group_646,,D-aspartate ligase,CHONFCMC_01317,KGGMHOKE_01869,JPPLDLFD_01858
+group_645,,hypothetical protein,CHONFCMC_01371,KGGMHOKE_01648,JPPLDLFD_01676
+yydK,yydK,putative HTH-type transcriptional regulator YydK,CHONFCMC_01373,KGGMHOKE_01646,JPPLDLFD_01678
+sapB,sapB,Protein SapB,CHONFCMC_01194,KGGMHOKE_01860,JPPLDLFD_00046
+group_644,,hypothetical protein,CHONFCMC_01206,KGGMHOKE_00229,JPPLDLFD_00033
+rplI,rplI,Large ribosomal subunit protein bL9,CHONFCMC_01189,KGGMHOKE_01855,JPPLDLFD_00051
+group_643,,hypothetical protein,CHONFCMC_01232,KGGMHOKE_00200,JPPLDLFD_00007
+group_642,,hypothetical protein,CHONFCMC_01208,KGGMHOKE_00223,JPPLDLFD_00030
+yfnB,yfnB,Putative HAD-hydrolase YfnB,CHONFCMC_01204,KGGMHOKE_00231,JPPLDLFD_00035
+menA_1,menA_1,14-dihydroxy-2-naphthoate octaprenyltransferase,CHONFCMC_01116,KGGMHOKE_00323,JPPLDLFD_01605
+pbpX_2,pbpX_2,Putative penicillin-binding protein PbpX,CHONFCMC_01085,KGGMHOKE_00240,JPPLDLFD_01639
+rpsR,rpsR,Small ribosomal subunit protein bS18,CHONFCMC_01186,KGGMHOKE_01852,JPPLDLFD_00054
+group_641,,hypothetical protein,CHONFCMC_01154,KGGMHOKE_01819,JPPLDLFD_01559
+group_640,,hypothetical protein,CHONFCMC_01083,KGGMHOKE_00238,JPPLDLFD_01641
+group_638,,hypothetical protein,CHONFCMC_01231,KGGMHOKE_00201,JPPLDLFD_00009
+group_637,,hypothetical protein,CHONFCMC_01117,KGGMHOKE_00322,JPPLDLFD_01604
+dltC,dltC,D-alanyl carrier protein,CHONFCMC_01087,KGGMHOKE_00242,JPPLDLFD_01637
+phnD2_1,phnD2_1,putative ABC transporter phosphonate/phosphite binding protein PhnD2,CHONFCMC_01121,KGGMHOKE_00318,JPPLDLFD_01600
+menG,menG,Demethylmenaquinone methyltransferase,CHONFCMC_01227,KGGMHOKE_00205,JPPLDLFD_00013
+brnQ_3,brnQ_3,Branched-chain amino acid permease BrnQ,CHONFCMC_01226,KGGMHOKE_00206,JPPLDLFD_00014
+dnaA,dnaA,Chromosomal replication initiator protein DnaA,CHONFCMC_01178,KGGMHOKE_01844,JPPLDLFD_00062
+dnaB_2,dnaB_2,Replicative DNA helicase DnaB,CHONFCMC_01190,KGGMHOKE_01856,JPPLDLFD_00050
+nagB,nagB,Glucosamine-6-phosphate deaminase,CHONFCMC_01135,KGGMHOKE_01793,JPPLDLFD_01585
+group_636,,hypothetical protein,CHONFCMC_01235,KGGMHOKE_00197,JPPLDLFD_00004
+gspA,gspA,General stress protein A,CHONFCMC_01234,KGGMHOKE_00198,JPPLDLFD_00005
+bsh,bsh,Conjugated bile acid hydrolase,CHONFCMC_01230,KGGMHOKE_00202,JPPLDLFD_00010
+ykfB,ykfB,L-Ala-D/L-Glu epimerase,CHONFCMC_01129,KGGMHOKE_00310,JPPLDLFD_01592
+mnmE,mnmE,tRNA modification GTPase MnmE,CHONFCMC_01174,KGGMHOKE_01840,JPPLDLFD_00066
+gnd,gnd,6-phosphogluconate dehydrogenase decarboxylating,CHONFCMC_01171,KGGMHOKE_01837,JPPLDLFD_00069
+darB,darB,Cyclic di-AMP receptor B,CHONFCMC_01095,KGGMHOKE_00253,JPPLDLFD_01626
+appC,appC,Cytochrome bd-II ubiquinol oxidase subunit 1,CHONFCMC_01112,KGGMHOKE_00327,JPPLDLFD_01609
+group_634,,hypothetical protein,CHONFCMC_01130,KGGMHOKE_00309,JPPLDLFD_01590;JPPLDLFD_01591
+group_633,,hypothetical protein,CHONFCMC_01210,KGGMHOKE_00221,JPPLDLFD_00028
+bcaP_1,bcaP_1,Branched-chain amino acid permease BcaP,CHONFCMC_01079,KGGMHOKE_00234,JPPLDLFD_01645
+group_632,,hypothetical protein,CHONFCMC_01119,KGGMHOKE_00320,JPPLDLFD_01602
+yagU,yagU,Inner membrane protein YagU,CHONFCMC_01108,KGGMHOKE_00266,JPPLDLFD_01613
+group_631,,hypothetical protein,CHONFCMC_01198,KGGMHOKE_01864,JPPLDLFD_00042
+gatC_4,gatC_4,PTS system galactitol-specific EIIC component,CHONFCMC_01107,KGGMHOKE_00265,JPPLDLFD_01614
+ssb,ssb,Single-stranded DNA-binding protein,CHONFCMC_01185,KGGMHOKE_01851,JPPLDLFD_00055
+group_628,,hypothetical protein,CHONFCMC_01168,KGGMHOKE_01834,JPPLDLFD_00072
+yfcA,yfcA,putative membrane transporter protein YfcA,CHONFCMC_01132,KGGMHOKE_00307,JPPLDLFD_01588
+ycaM_4,ycaM_4,Inner membrane transporter YcaM,CHONFCMC_01158,KGGMHOKE_01823,JPPLDLFD_01557
+group_627,,hypothetical protein,CHONFCMC_01091,KGGMHOKE_00246,JPPLDLFD_01633
+dltA,dltA,D-alanine--D-alanyl carrier protein ligase,CHONFCMC_01089,KGGMHOKE_00244,JPPLDLFD_01635
+ppaX,ppaX,Pyrophosphatase PpaX,CHONFCMC_01196,KGGMHOKE_01862,JPPLDLFD_00044
+group_626,,D-lactate dehydrogenase,CHONFCMC_01219,KGGMHOKE_00212,JPPLDLFD_00019
+clcA_1,clcA_1,H(+)/Cl(-) exchange transporter ClcA,CHONFCMC_01170,KGGMHOKE_01836,JPPLDLFD_00070
+rpsF,rpsF,Small ribosomal subunit protein bS6,CHONFCMC_01184,KGGMHOKE_01850,JPPLDLFD_00056
+group_624,,hypothetical protein,CHONFCMC_01237,KGGMHOKE_00195,JPPLDLFD_00002
+cydB,cydB,Cytochrome bd-I ubiquinol oxidase subunit 2,CHONFCMC_01113,KGGMHOKE_00326,JPPLDLFD_01608
+group_623,,hypothetical protein,CHONFCMC_01143,KGGMHOKE_01807,JPPLDLFD_01566
+uup_6,uup_6,ATP-binding protein Uup,CHONFCMC_01099,KGGMHOKE_00257,JPPLDLFD_01622
+group_620,,hypothetical protein,CHONFCMC_01215,KGGMHOKE_00216,JPPLDLFD_00023
+rutB,rutB,Ureidoacrylate amidohydrolase RutB,CHONFCMC_01169,KGGMHOKE_01835,JPPLDLFD_00071
+group_619,,hypothetical protein,CHONFCMC_01220,KGGMHOKE_00211,JPPLDLFD_00018
+group_617,,hypothetical protein,CHONFCMC_01214,KGGMHOKE_00217,JPPLDLFD_00024
+bmpA,bmpA,ABC transporter nucleoside-binding protein BmpA,CHONFCMC_01122,KGGMHOKE_00317,JPPLDLFD_01599
+group_616,,hypothetical protein,CHONFCMC_01218,KGGMHOKE_00213,JPPLDLFD_00020
+group_615,,hypothetical protein,CHONFCMC_01180,KGGMHOKE_01846,JPPLDLFD_00060
+group_614,,hypothetical protein,CHONFCMC_01166,KGGMHOKE_01831,JPPLDLFD_01549
+smoB,smoB,6-dehydroglucose reductase,CHONFCMC_01199,KGGMHOKE_01865,JPPLDLFD_00041
+group_612,,hypothetical protein,CHONFCMC_01161,KGGMHOKE_01826,JPPLDLFD_01554
+gatC_4~~~gatC_3,gatC_4;gatC_3,PTS system galactitol-specific EIIC component,CHONFCMC_01106,KGGMHOKE_00264,JPPLDLFD_01615
+cydC,cydC,Glutathione/L-cysteine transport system ATP-binding/permease protein CydC,CHONFCMC_01115,KGGMHOKE_00324,JPPLDLFD_01606
+benM~~~argP,benM;argP,HTH-type transcriptional regulator BenM;HTH-type transcriptional regulator ArgP,CHONFCMC_01224,KGGMHOKE_00208,JPPLDLFD_00016
+crp,crp,cAMP-activated global transcriptional regulator CRP,CHONFCMC_01165,KGGMHOKE_01830,JPPLDLFD_01550
+group_611,,hypothetical protein,CHONFCMC_01110,KGGMHOKE_00268,JPPLDLFD_01611
+group_609,,hypothetical protein,CHONFCMC_01236,KGGMHOKE_00196,JPPLDLFD_00003
+group_607,,hypothetical protein,CHONFCMC_01192,KGGMHOKE_01858,JPPLDLFD_00048
+group_606,,hypothetical protein,CHONFCMC_01187,KGGMHOKE_01853,JPPLDLFD_00053
+recF,recF,DNA replication and repair protein RecF,CHONFCMC_01181,KGGMHOKE_01847,JPPLDLFD_00059
+dnaN,dnaN,Beta sliding clamp,CHONFCMC_01179,KGGMHOKE_01845,JPPLDLFD_00061
+exoA_1,exoA_1,Exodeoxyribonuclease,CHONFCMC_01211,KGGMHOKE_00220,JPPLDLFD_00027
+group_605,,hypothetical protein,CHONFCMC_01151,KGGMHOKE_01816,JPPLDLFD_01562
+pox5,pox5,Pyruvate oxidase,CHONFCMC_01172,KGGMHOKE_01838,JPPLDLFD_00068
+group_602,,hypothetical protein,CHONFCMC_01150,KGGMHOKE_01815;KGGMHOKE_01814,JPPLDLFD_01563
+cydD,cydD,Glutathione/L-cysteine transport system ATP-binding/permease protein CydD,CHONFCMC_01114,KGGMHOKE_00325,JPPLDLFD_01607
+copY,copY,Transcriptional repressor CopY,CHONFCMC_01152,KGGMHOKE_01817,JPPLDLFD_01561
+group_601,,hypothetical protein,CHONFCMC_01092,KGGMHOKE_00247,JPPLDLFD_01632
+guaB,guaB,Inosine-5'-monophosphate dehydrogenase,CHONFCMC_01217,KGGMHOKE_00214,JPPLDLFD_00021
+urdA,urdA,Urocanate reductase,CHONFCMC_01225,KGGMHOKE_00207,JPPLDLFD_00015
+group_600,,hypothetical protein,CHONFCMC_01229,KGGMHOKE_00203,JPPLDLFD_00011
+group_599,,hypothetical protein,CHONFCMC_01163,KGGMHOKE_01828,JPPLDLFD_01552
+def_2,def_2,Peptide deformylase,CHONFCMC_01145,KGGMHOKE_01809,JPPLDLFD_01564
+napA,napA,Na(+)/H(+) antiporter,CHONFCMC_01097,KGGMHOKE_00255,JPPLDLFD_01624
+zosA,zosA,Zinc-transporting ATPase,CHONFCMC_01096,KGGMHOKE_00254,JPPLDLFD_01625
+group_598,,DegV domain-containing protein,CHONFCMC_01205,KGGMHOKE_00230,JPPLDLFD_00034
+yeaE,yeaE,Methylglyoxal reductase YeaE,CHONFCMC_01134,KGGMHOKE_01792,JPPLDLFD_01586
+mnmG,mnmG,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG,CHONFCMC_01173,KGGMHOKE_01839,JPPLDLFD_00067
+rnpA,rnpA,Ribonuclease P protein component,CHONFCMC_01176,KGGMHOKE_01842,JPPLDLFD_00064
+copA,copA,Copper-exporting P-type ATPase,CHONFCMC_01155,KGGMHOKE_01820,JPPLDLFD_01558
+group_596,,hypothetical protein,CHONFCMC_01153,KGGMHOKE_01818,JPPLDLFD_01560
+gyrB,gyrB,DNA gyrase subunit B,CHONFCMC_01182,KGGMHOKE_01848,JPPLDLFD_00058
+group_594,,hypothetical protein,CHONFCMC_01193,KGGMHOKE_01859,JPPLDLFD_00047
+gdpP,gdpP,Cyclic-di-AMP phosphodiesterase GdpP,CHONFCMC_01188,KGGMHOKE_01854,JPPLDLFD_00052
+group_593,,hypothetical protein,CHONFCMC_01203,KGGMHOKE_00232;KGGMHOKE_00233,JPPLDLFD_00036
+group_592,,hypothetical protein,CHONFCMC_01167,KGGMHOKE_01833,JPPLDLFD_01547;JPPLDLFD_00073
+rpmH,rpmH,Large ribosomal subunit protein bL34,CHONFCMC_01177,KGGMHOKE_01843,JPPLDLFD_00063
+group_591,,hypothetical protein,CHONFCMC_01084,KGGMHOKE_00239,JPPLDLFD_01640
+gadC_2~~~gadC_1~~~gadC,gadC_2;gadC_1;gadC,Glutamate/gamma-aminobutyrate antiporter,CHONFCMC_01223,KGGMHOKE_00210;KGGMHOKE_00209,JPPLDLFD_00017
+ygcS,ygcS,Inner membrane metabolite transport protein YgcS,CHONFCMC_01162,KGGMHOKE_01827,JPPLDLFD_01553
+mutS2,mutS2,Endonuclease MutS2,CHONFCMC_01164,KGGMHOKE_01829,JPPLDLFD_01551
+odcI,odcI,Inducible ornithine decarboxylase,CHONFCMC_01159,KGGMHOKE_01824,JPPLDLFD_01556
+clpE_2,clpE_2,ATP-dependent Clp protease ATP-binding subunit ClpE,CHONFCMC_01080,KGGMHOKE_00235,JPPLDLFD_01644
+pbuG_3,pbuG_3,Guanine/hypoxanthine permease PbuG,CHONFCMC_01144,KGGMHOKE_01808,JPPLDLFD_01565
+group_589,,hypothetical protein,CHONFCMC_01233,KGGMHOKE_00199,JPPLDLFD_00006
+group_588,,hypothetical protein,CHONFCMC_01100,KGGMHOKE_00258,JPPLDLFD_01621
+group_586,,hypothetical protein,CHONFCMC_01090,KGGMHOKE_00245,JPPLDLFD_01634
+dltB,dltB,Teichoic acid D-alanyltransferase,CHONFCMC_01088,KGGMHOKE_00243,JPPLDLFD_01636
+group_585,,hypothetical protein,CHONFCMC_01209,KGGMHOKE_00222,JPPLDLFD_00029
+group_584,,hypothetical protein,CHONFCMC_01202,KGGMHOKE_01868,JPPLDLFD_00037
+group_581,,hypothetical protein,CHONFCMC_01094,KGGMHOKE_00252,JPPLDLFD_01627
+group_580,,Deoxyadenosine kinase,CHONFCMC_01136,KGGMHOKE_01794,JPPLDLFD_01584
+mroQ,mroQ,Membrane-embedded CAAX protease MroQ,CHONFCMC_01109,KGGMHOKE_00267,JPPLDLFD_01612
+pcp,pcp,Pyrrolidone-carboxylate peptidase,CHONFCMC_01103,KGGMHOKE_00261,JPPLDLFD_01618
+eis,eis,N-acetyltransferase Eis,CHONFCMC_01201,KGGMHOKE_01867,JPPLDLFD_00039
+uup_7,uup_7,ATP-binding protein Uup,CHONFCMC_01111,KGGMHOKE_00269,JPPLDLFD_01610
+yidC2,yidC2,Membrane protein insertase YidC 2,CHONFCMC_01175,KGGMHOKE_01841,JPPLDLFD_00065
+group_578,,L-lactate oxidase,CHONFCMC_01138,KGGMHOKE_01802,JPPLDLFD_01571
+group_577,,hypothetical protein,CHONFCMC_01098,KGGMHOKE_00256,JPPLDLFD_01623
+gyrA,gyrA,DNA gyrase subunit A GyrA,CHONFCMC_01183,KGGMHOKE_01849,JPPLDLFD_00057
+group_574,,hypothetical protein,CHONFCMC_01102,KGGMHOKE_00260,JPPLDLFD_01619
+group_573,,hypothetical protein,CHONFCMC_01133,KGGMHOKE_01791,JPPLDLFD_01587
+gmuE,gmuE,Putative fructokinase,CHONFCMC_01191,KGGMHOKE_01857,JPPLDLFD_00049
+fpaP_1,fpaP_1,Proline iminopeptidase,CHONFCMC_01123,KGGMHOKE_00316,JPPLDLFD_01598
+group_572,,hypothetical protein,CHONFCMC_01160,KGGMHOKE_01825,JPPLDLFD_01555
+group_571,,hypothetical protein,CHONFCMC_01213,KGGMHOKE_00218,JPPLDLFD_00025
+group_570,,hypothetical protein,CHONFCMC_01197,KGGMHOKE_01863,JPPLDLFD_00043
+tetM,tetM,Tetracycline resistance protein TetM from transposon TnFO1;Tetracycline resistance protein TetM from transposon Tn916,CHONFCMC_01207,KGGMHOKE_00224,JPPLDLFD_00031
+murQ,murQ,N-acetylmuramic acid 6-phosphate etherase,CHONFCMC_01131,KGGMHOKE_00308,JPPLDLFD_01589
+uvrB_2,uvrB_2,UvrABC system protein B,CHONFCMC_01212,KGGMHOKE_00219,JPPLDLFD_00026
+group_569,,hypothetical protein,CHONFCMC_01120,KGGMHOKE_00319,JPPLDLFD_01601
+group_567,,Deoxyguanosine kinase,CHONFCMC_01137,KGGMHOKE_01795,JPPLDLFD_01583
+group_566,,hypothetical protein,CHONFCMC_01105,KGGMHOKE_00263,JPPLDLFD_01616
+dltD,dltD,Protein DltD,CHONFCMC_01086,KGGMHOKE_00241,JPPLDLFD_01638
+group_565,,hypothetical protein,CHONFCMC_01093,KGGMHOKE_00248,JPPLDLFD_01631
+group_564,,hypothetical protein,CHONFCMC_01118,KGGMHOKE_00321,JPPLDLFD_01603
+pbuG_2,pbuG_2,Guanine/hypoxanthine permease PbuG,CHONFCMC_01142,KGGMHOKE_01806,JPPLDLFD_01567
+pbuG_1,pbuG_1,Guanine/hypoxanthine permease PbuG,CHONFCMC_01139,KGGMHOKE_01803,JPPLDLFD_01570
+fpaP_2,fpaP_2,Proline iminopeptidase,CHONFCMC_01228,KGGMHOKE_00204,JPPLDLFD_00012
+group_563,,hypothetical protein,CHONFCMC_01141,KGGMHOKE_01805,JPPLDLFD_01568
+group_562,,hypothetical protein,CHONFCMC_01140,KGGMHOKE_01804,JPPLDLFD_01569
+group_561,,hypothetical protein,CHONFCMC_01081,KGGMHOKE_00236,JPPLDLFD_01643
+group_560,,hypothetical protein,CHONFCMC_01082,KGGMHOKE_00237,JPPLDLFD_01642
+garB,garB,Glutathione amide reductase,CHONFCMC_01216,KGGMHOKE_00215,JPPLDLFD_00022
+group_558,,hypothetical protein,CHONFCMC_01104,KGGMHOKE_00262,JPPLDLFD_01617
+group_557,,hypothetical protein,CHONFCMC_01069,KGGMHOKE_00775,JPPLDLFD_01080
+dbpA,dbpA,ATP-dependent RNA helicase DbpA,CHONFCMC_01068,KGGMHOKE_00776,JPPLDLFD_01081
+group_556,,hypothetical protein,CHONFCMC_01071,KGGMHOKE_00773,JPPLDLFD_01078
+group_555,,hypothetical protein,CHONFCMC_01072,KGGMHOKE_00772,JPPLDLFD_01077
+adhE_2~~~adhE_1~~~adhE,adhE_2;adhE_1;adhE,Aldehyde-alcohol dehydrogenase,CHONFCMC_01073,KGGMHOKE_00771,JPPLDLFD_01075;JPPLDLFD_01076
+group_554,,hypothetical protein;ISL3 family transposase ISLjo2,CHONFCMC_01075,KGGMHOKE_00769,JPPLDLFD_01073
+group_553,,ISL3 family transposase ISLjo2,CHONFCMC_01076,KGGMHOKE_00768,JPPLDLFD_01072
+group_552,,hypothetical protein,CHONFCMC_01070,KGGMHOKE_00774,JPPLDLFD_01079
+cycA_1,cycA_1,D-serine/D-alanine/glycine transporter,CHONFCMC_01074,KGGMHOKE_00770,JPPLDLFD_01074
+pncB2,pncB2,Nicotinate phosphoribosyltransferase pncB2,CHONFCMC_01042,KGGMHOKE_00163,JPPLDLFD_00373
+group_551,,hypothetical protein,CHONFCMC_01035,KGGMHOKE_00170,JPPLDLFD_00366
+group_550,,hypothetical protein,CHONFCMC_01062,KGGMHOKE_00143,JPPLDLFD_00393
+group_549,,hypothetical protein,CHONFCMC_01048,KGGMHOKE_00157,JPPLDLFD_00379
+group_548,,Protein SprT-like protein,CHONFCMC_01034,KGGMHOKE_00171,JPPLDLFD_00365
+psiE,psiE,Protein PsiE,CHONFCMC_01061,KGGMHOKE_00144,JPPLDLFD_00392
+pcrA,pcrA,ATP-dependent DNA helicase PcrA,CHONFCMC_01030,KGGMHOKE_00175,JPPLDLFD_00361
+secA_2,secA_2,Protein translocase subunit SecA,CHONFCMC_01016,KGGMHOKE_00188,JPPLDLFD_01010
+uup_5,;uup_5,putative ABC transporter ATP-binding/permease protein;ATP-binding protein Uup,CHONFCMC_01039,KGGMHOKE_00166,JPPLDLFD_00370
+yerH,yerH,putative lipoprotein YerH,CHONFCMC_01028,KGGMHOKE_00177,JPPLDLFD_00359
+group_547,,hypothetical protein,CHONFCMC_01013,KGGMHOKE_00192,JPPLDLFD_01006
+nadE,nadE,NH(3)-dependent NAD(+) synthetase,CHONFCMC_01041,KGGMHOKE_00164,JPPLDLFD_00372
+asp2,asp2,Accessory Sec system protein Asp2,CHONFCMC_01018,KGGMHOKE_00186,JPPLDLFD_01012
+secY_1,secY_1,Protein translocase subunit SecY,CHONFCMC_01021,KGGMHOKE_00184,JPPLDLFD_01014
+gatC_2,gatC_2,Glutamyl-tRNA(Gln) amidotransferase subunit C,CHONFCMC_01027,KGGMHOKE_00178,JPPLDLFD_00358
+group_546,,hypothetical protein,CHONFCMC_01060,KGGMHOKE_00145,JPPLDLFD_00391
+group_545,,hypothetical protein,CHONFCMC_01059,KGGMHOKE_00146,JPPLDLFD_00390
+murR,murR,HTH-type transcriptional regulator MurR,CHONFCMC_01053,KGGMHOKE_00152,JPPLDLFD_00384
+group_544,,Calcium-transporting ATPase 1,CHONFCMC_01040,KGGMHOKE_00165,JPPLDLFD_00371
+group_543,,hypothetical protein,CHONFCMC_01023,KGGMHOKE_00182,JPPLDLFD_00354
+tagA,tagA,N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase,CHONFCMC_01045,KGGMHOKE_00160,JPPLDLFD_00376
+panT,panT,Pantothenate transporter PanT,CHONFCMC_01032,KGGMHOKE_00173,JPPLDLFD_00363
+rpiA_2,rpiA_2,Ribose-5-phosphate isomerase A,CHONFCMC_01054,KGGMHOKE_00151,JPPLDLFD_00385
+gtfB_3~~~gtfB_2,gtfB_3;gtfB_2,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB,CHONFCMC_01014,KGGMHOKE_00191,JPPLDLFD_01007;JPPLDLFD_01008
+group_542,,hypothetical protein,CHONFCMC_01058,KGGMHOKE_00147,JPPLDLFD_00389
+asp1,asp1;,Accessory Sec system protein Asp1;hypothetical protein,CHONFCMC_01020;CHONFCMC_01019,KGGMHOKE_00185,JPPLDLFD_01013
+group_541,,hypothetical protein,CHONFCMC_01043,KGGMHOKE_00162,JPPLDLFD_00374
+group_540,,hypothetical protein;Sulfurtransferase,CHONFCMC_01049,KGGMHOKE_00156,JPPLDLFD_00380
+group_539,,hypothetical protein,CHONFCMC_01063,KGGMHOKE_00142,JPPLDLFD_00394
+group_538,,hypothetical protein,CHONFCMC_01056,KGGMHOKE_00149,JPPLDLFD_00387
+group_537,,L-2-hydroxyisocaproate dehydrogenase,CHONFCMC_01052,KGGMHOKE_00153,JPPLDLFD_00383
+ligA,ligA,DNA ligase,CHONFCMC_01029,KGGMHOKE_00176,JPPLDLFD_00360
+nagR_2,nagR_2,HTH-type transcriptional repressor NagR,CHONFCMC_01047,KGGMHOKE_00158,JPPLDLFD_00378
+group_536,,hypothetical protein,CHONFCMC_01031,KGGMHOKE_00174,JPPLDLFD_00362
+dagK,dagK,Diacylglycerol kinase,CHONFCMC_01024,KGGMHOKE_00181,JPPLDLFD_00355
+group_535,,hypothetical protein,CHONFCMC_01012;CHONFCMC_01011,KGGMHOKE_00194;KGGMHOKE_00193,JPPLDLFD_01005
+gatB,gatB,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B,CHONFCMC_01025,KGGMHOKE_00180,JPPLDLFD_00356
+group_534,,hypothetical protein,CHONFCMC_01038,KGGMHOKE_00167,JPPLDLFD_00369
+tarD,tarD,Glycerol-3-phosphate cytidylyltransferase,CHONFCMC_01046,KGGMHOKE_00159,JPPLDLFD_00377
+rfbX,rfbX,Putative O-antigen transporter,CHONFCMC_01036,KGGMHOKE_00169,JPPLDLFD_00367
+group_533,,hypothetical protein,CHONFCMC_01017,KGGMHOKE_00187,JPPLDLFD_01011
+group_532,,Aldo-keto reductase/MSMEI_2347,CHONFCMC_01065,KGGMHOKE_00140,JPPLDLFD_00396
+gatA,gatA,Glutamyl-tRNA(Gln) amidotransferase subunit A,CHONFCMC_01026,KGGMHOKE_00179,JPPLDLFD_00357
+gtfA_2~~~gtfA_1~~~gtfA,gtfA_2;gtfA_1;gtfA,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit,CHONFCMC_01015,KGGMHOKE_00190;KGGMHOKE_00189,JPPLDLFD_01009
+bshA,bshA,N-acetyl-alpha-D-glucosaminyl L-malate synthase,CHONFCMC_01044,KGGMHOKE_00161,JPPLDLFD_00375
+iolG,iolG,Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase,CHONFCMC_01055,KGGMHOKE_00150,JPPLDLFD_00386
+tagF,tagF,Teichoic acid poly(glycerol phosphate) polymerase,CHONFCMC_01037,KGGMHOKE_00168,JPPLDLFD_00368
+yidA_3,yidA_3,Sugar phosphatase YidA,CHONFCMC_01022,KGGMHOKE_00183,JPPLDLFD_00353
+rclA,rclA,putative pyridine nucleotide-disulfide oxidoreductase RclA,CHONFCMC_01066,KGGMHOKE_00139,JPPLDLFD_00397
+glnA,glnA,Glutamine synthetase,CHONFCMC_00911,KGGMHOKE_01465,JPPLDLFD_01201
+dnaB_1,dnaB_1,Replicative helicase loading/DNA remodeling protein DnaB,CHONFCMC_00944,KGGMHOKE_01432,JPPLDLFD_01238
+group_531,,hypothetical protein,CHONFCMC_00915,KGGMHOKE_01461,JPPLDLFD_01205
+group_529,,putative RNA methyltransferase,CHONFCMC_00993,KGGMHOKE_01346,JPPLDLFD_00749
+group_528,,hypothetical protein,CHONFCMC_00899,KGGMHOKE_01477,JPPLDLFD_01189
+rluD_2,;rluD_2,hypothetical protein;Ribosomal large subunit pseudouridine synthase D,CHONFCMC_00987,KGGMHOKE_01400,JPPLDLFD_01268
+nrdR,nrdR,Transcriptional repressor NrdR,CHONFCMC_00945,KGGMHOKE_01431,JPPLDLFD_01239
+ybhL_2,ybhL_2,Inner membrane protein YbhL,CHONFCMC_01001,KGGMHOKE_01338,JPPLDLFD_00757
+trxB,trxB,Thioredoxin reductase,CHONFCMC_00857,KGGMHOKE_01519,JPPLDLFD_01147
+menH_1,menH_1,2-succinyl-6-hydroxy-24-cyclohexadiene-1-carboxylate synthase,CHONFCMC_00907,KGGMHOKE_01469,JPPLDLFD_01197
+nhaC,nhaC,Na(+)/H(+) antiporter NhaC,CHONFCMC_00996,KGGMHOKE_01343,JPPLDLFD_00752
+rlmCD,rlmCD,23S rRNA (uracil-C(5))-methyltransferase RlmCD,CHONFCMC_00903,KGGMHOKE_01473,JPPLDLFD_01193
+greA_1,greA_1,Transcription elongation factor GreA,CHONFCMC_00921,KGGMHOKE_01455,JPPLDLFD_01211
+group_526,,N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase,CHONFCMC_00967,KGGMHOKE_01419,JPPLDLFD_01249
+arlR,arlR,Response regulator ArlR,CHONFCMC_00930,KGGMHOKE_01446,JPPLDLFD_01220
+fabG,fabG,3-oxoacyl-[acyl-carrier-protein] reductase FabG,CHONFCMC_00873,KGGMHOKE_01503,JPPLDLFD_01163
+hprK,hprK,HPr kinase/phosphorylase,CHONFCMC_00860,KGGMHOKE_01516,JPPLDLFD_01150
+hit,hit,Protein hit,CHONFCMC_00978,KGGMHOKE_01409,JPPLDLFD_01259
+ptsH,ptsH,Phosphocarrier protein HPr,CHONFCMC_00893,KGGMHOKE_01483,JPPLDLFD_01183
+group_523,,hypothetical protein,CHONFCMC_00900,KGGMHOKE_01476,JPPLDLFD_01190
+yhaM,yhaM,3'-5' exoribonuclease YhaM,CHONFCMC_00982,KGGMHOKE_01405,JPPLDLFD_01263
+group_522,,hypothetical protein,CHONFCMC_00979,KGGMHOKE_01408,JPPLDLFD_01260
+yccX,yccX,Acylphosphatase,CHONFCMC_00927,KGGMHOKE_01449,JPPLDLFD_01217
+yidC,yidC,Membrane protein insertase YidC,CHONFCMC_00928,KGGMHOKE_01448,JPPLDLFD_01218
+group_520,,hypothetical protein,CHONFCMC_00991,KGGMHOKE_01396,JPPLDLFD_01272
+group_519,,hypothetical protein,CHONFCMC_00861,KGGMHOKE_01515,JPPLDLFD_01151
+group_517,,hypothetical protein,CHONFCMC_00896,KGGMHOKE_01480,JPPLDLFD_01186
+infC,infC,Translation initiation factor IF-3,CHONFCMC_00941,KGGMHOKE_01435,JPPLDLFD_01231
+group_514,,hypothetical protein,CHONFCMC_00937,KGGMHOKE_01439,JPPLDLFD_01227
+group_512,,hypothetical protein,CHONFCMC_01004,KGGMHOKE_01335,JPPLDLFD_00761
+prfB,prfB,Peptide chain release factor 2,CHONFCMC_00862,KGGMHOKE_01514,JPPLDLFD_01152
+rlmP,rlmP,23S rRNA (guanosine(2553)-2'-O)-methyltransferase RlmP,CHONFCMC_00926,KGGMHOKE_01450,JPPLDLFD_01216
+add,add,Adenosine deaminase,CHONFCMC_00938,KGGMHOKE_01438,JPPLDLFD_01228
+gtf3,gtf3,N-acetylglucosaminyltransferase,CHONFCMC_01006,KGGMHOKE_01333,JPPLDLFD_00763
+group_510,,hypothetical protein,CHONFCMC_00872,KGGMHOKE_01504,JPPLDLFD_01162
+yvqK,yvqK,Corrinoid adenosyltransferase,CHONFCMC_01005,KGGMHOKE_01334,JPPLDLFD_00762
+sasA_3,sasA_3,Adaptive-response sensory-kinase SasA,CHONFCMC_00929,KGGMHOKE_01447,JPPLDLFD_01219
+gpsA,gpsA,Glycerol-3-phosphate dehydrogenase [NAD(P)+],CHONFCMC_00858,KGGMHOKE_01518,JPPLDLFD_01148
+pgl,pgl,6-phosphogluconolactonase,CHONFCMC_00881,KGGMHOKE_01495,JPPLDLFD_01171
+prfC,prfC,Peptide chain release factor 3,CHONFCMC_00897,KGGMHOKE_01479,JPPLDLFD_01187
+hpf,hpf,Ribosome hibernation promotion factor,CHONFCMC_00864,KGGMHOKE_01512,JPPLDLFD_01154
+galE_1~~~galE,galE_1;galE,UDP-glucose 4-epimerase,CHONFCMC_00856,KGGMHOKE_01089,JPPLDLFD_01146
+pheS,pheS,Phenylalanine--tRNA ligase alpha subunit,CHONFCMC_00924,KGGMHOKE_01452,JPPLDLFD_01214
+group_505,,hypothetical protein,CHONFCMC_00908,KGGMHOKE_01468,JPPLDLFD_01198
+pepV_2~~~pepV_1,pepV_2;pepV_1,Beta-Ala-Xaa dipeptidase,CHONFCMC_00968,KGGMHOKE_01418,JPPLDLFD_01250
+group_502,,hypothetical protein,CHONFCMC_00998,KGGMHOKE_01341,JPPLDLFD_00754
+rny,rny,Ribonuclease Y,CHONFCMC_00869,KGGMHOKE_01507,JPPLDLFD_01159
+ytpP,ytpP,Thioredoxin-like protein YtpP,CHONFCMC_00971,KGGMHOKE_01415,JPPLDLFD_01253
+group_501,,hypothetical protein,CHONFCMC_00931,KGGMHOKE_01445,JPPLDLFD_01221
+yqgN,yqgN,putative protein YqgN,CHONFCMC_00917,KGGMHOKE_01459,JPPLDLFD_01207
+ybjI~~~ybjI_2,ybjI;ybjI_2,5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI,CHONFCMC_00909,KGGMHOKE_01467,JPPLDLFD_01199
+cspR,cspR,Putative tRNA (cytidine(34)-2'-O)-methyltransferase,CHONFCMC_00878,KGGMHOKE_01498,JPPLDLFD_01168
+nadK,nadK,NAD kinase,CHONFCMC_00885,KGGMHOKE_01491,JPPLDLFD_01175
+comFC,comFC,Competence protein ComFC,CHONFCMC_00865,KGGMHOKE_01511,JPPLDLFD_01155
+mltG,mltG,Endolytic murein transglycosylase,CHONFCMC_00922,KGGMHOKE_01454,JPPLDLFD_01212
+recA,recA,Protein RecA,CHONFCMC_00870,KGGMHOKE_01506,JPPLDLFD_01160
+group_498,,hypothetical protein,CHONFCMC_00966,KGGMHOKE_01420,JPPLDLFD_01248
+pbpX_1,pbpX_1,Putative penicillin-binding protein PbpX,CHONFCMC_00992,KGGMHOKE_01387,JPPLDLFD_00748
+pgsA,pgsA,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,CHONFCMC_00871,KGGMHOKE_01505,JPPLDLFD_01161
+recX,recX,Regulatory protein RecX,CHONFCMC_00902,KGGMHOKE_01474,JPPLDLFD_01192
+ykoD_1,ykoD_1,Putative HMP/thiamine import ATP-binding protein YkoD,CHONFCMC_00999,KGGMHOKE_01340,JPPLDLFD_00755
+yqeH,yqeH,putative protein YqeH,CHONFCMC_00936,KGGMHOKE_01440,JPPLDLFD_01226
+ptsI,ptsI,Phosphoenolpyruvate-protein phosphotransferase,CHONFCMC_00892,KGGMHOKE_01484,JPPLDLFD_01182
+sph,sph,Oleate hydratase,CHONFCMC_00883,KGGMHOKE_01493,JPPLDLFD_01173
+ecfT_1,ecfT_1,Energy-coupling factor transporter transmembrane protein EcfT,CHONFCMC_01000,KGGMHOKE_01339,JPPLDLFD_00756
+rsfS,rsfS,Ribosomal silencing factor RsfS,CHONFCMC_00933,KGGMHOKE_01443,JPPLDLFD_01223
+group_494,,hypothetical protein,CHONFCMC_00980,KGGMHOKE_01407,JPPLDLFD_01261
+group_492,,hypothetical protein,CHONFCMC_00985,KGGMHOKE_01402,JPPLDLFD_01266
+mutM,mutM,Formamidopyrimidine-DNA glycosylase,CHONFCMC_00947,KGGMHOKE_01429,JPPLDLFD_01241
+group_491,,Nucleoside triphosphate/diphosphate phosphatase,CHONFCMC_00901,KGGMHOKE_01475,JPPLDLFD_01191
+tagO,tagO,putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase,CHONFCMC_00868,KGGMHOKE_01508,JPPLDLFD_01158
+coaE,coaE,Dephospho-CoA kinase,CHONFCMC_00946,KGGMHOKE_01430,JPPLDLFD_01240
+group_489,,Bis(5'-nucleosyl)-tetraphosphatase symmetrical,CHONFCMC_00934,KGGMHOKE_01442,JPPLDLFD_01224
+rplT,rplT,Large ribosomal subunit protein bL20,CHONFCMC_00939,KGGMHOKE_01437,JPPLDLFD_01229
+yodB,yodB,HTH-type transcriptional regulator YodB,CHONFCMC_00925,KGGMHOKE_01451,JPPLDLFD_01215
+lgt,lgt,Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase,CHONFCMC_00859,KGGMHOKE_01517,JPPLDLFD_01149
+tmcAL,tmcAL,tRNA(Met) cytidine acetate ligase,CHONFCMC_00932,KGGMHOKE_01444,JPPLDLFD_01222
+spxH,spxH,ClpXP adapter protein SpxH,CHONFCMC_00888,KGGMHOKE_01488,JPPLDLFD_01178
+mvaS,mvaS,Hydroxymethylglutaryl-CoA synthase,CHONFCMC_00904,KGGMHOKE_01472,JPPLDLFD_01194
+thlA,thlA,Acetyl-CoA acetyltransferase,CHONFCMC_00906,KGGMHOKE_01470,JPPLDLFD_01196
+yfcJ,yfcJ,putative MFS-type transporter YfcJ,CHONFCMC_00910,KGGMHOKE_01466,JPPLDLFD_01200
+group_486,,(R)-S-adenosyl-L-methionine hydrolase,CHONFCMC_00997,KGGMHOKE_01342,JPPLDLFD_00753
+thrS,thrS,Threonine--tRNA ligase,CHONFCMC_00942,KGGMHOKE_01434,JPPLDLFD_01236
+group_483,,hypothetical protein,CHONFCMC_00972,KGGMHOKE_01414,JPPLDLFD_01254
+group_482,,Putative transport protein,CHONFCMC_00879,KGGMHOKE_01497,JPPLDLFD_01169
+group_480,,hypothetical protein,CHONFCMC_00887,KGGMHOKE_01489,JPPLDLFD_01177
+group_477,,hypothetical protein,CHONFCMC_00880,KGGMHOKE_01496,JPPLDLFD_01170
+nadD,nadD,Nicotinate-nucleotide adenylyltransferase,CHONFCMC_00935,KGGMHOKE_01441,JPPLDLFD_01225
+yjbM,yjbM,GTP pyrophosphokinase YjbM,CHONFCMC_00886,KGGMHOKE_01490,JPPLDLFD_01176
+group_475,,hypothetical protein,CHONFCMC_01003,KGGMHOKE_01336,JPPLDLFD_00760
+pbp2a,pbp2a,Penicillin-binding protein 2a,CHONFCMC_00986,KGGMHOKE_01401,JPPLDLFD_01267
+group_472,,hypothetical protein,CHONFCMC_00976,KGGMHOKE_01411,JPPLDLFD_01257
+pbpA,pbpA,Penicillin-binding protein 2A,CHONFCMC_00919,KGGMHOKE_01457,JPPLDLFD_01209
+group_469,,hypothetical protein,CHONFCMC_00875,KGGMHOKE_01501,JPPLDLFD_01165
+rpmGA,rpmGA,Large ribosomal subunit protein bL33A,CHONFCMC_00918,KGGMHOKE_01458,JPPLDLFD_01208
+clpE_1,clpE_1,ATP-dependent Clp protease ATP-binding subunit ClpE,CHONFCMC_00895,KGGMHOKE_01481,JPPLDLFD_01185
+glyE_2,glyE_2,Glycosyltransferase GlyE,CHONFCMC_01010,KGGMHOKE_01329,JPPLDLFD_00767
+group_466,,hypothetical protein,CHONFCMC_00990,KGGMHOKE_01397,JPPLDLFD_01271
+cutC,cutC,PF03932 family protein CutC,CHONFCMC_00964,KGGMHOKE_01422,JPPLDLFD_01246
+glpE,glpE,Thiosulfate sulfurtransferase GlpE,CHONFCMC_00914,KGGMHOKE_01462,JPPLDLFD_01204
+yhaO,yhaO,putative metallophosphoesterase YhaO,CHONFCMC_00984,KGGMHOKE_01403,JPPLDLFD_01265
+spx,spx,Global transcriptional regulator Spx,CHONFCMC_00891,KGGMHOKE_01485,JPPLDLFD_01181
+rtpR,rtpR,Adenosylcobalamin-dependent ribonucleoside-triphosphate reductase,CHONFCMC_01002,KGGMHOKE_01337,JPPLDLFD_00759
+pheT_2,pheT_2,Phenylalanine--tRNA ligase beta subunit,CHONFCMC_00970,KGGMHOKE_01416,JPPLDLFD_01252
+corC,corC,Magnesium and cobalt efflux protein CorC,CHONFCMC_00898,KGGMHOKE_01478,JPPLDLFD_01188
+group_462,,hypothetical protein,CHONFCMC_00973;CHONFCMC_00974,KGGMHOKE_01413,JPPLDLFD_01255
+nagR_1~~~nagR_2,nagR_1;nagR_2,HTH-type transcriptional repressor NagR,CHONFCMC_00969,KGGMHOKE_01417,JPPLDLFD_01251
+group_461,,hypothetical protein,CHONFCMC_00913,KGGMHOKE_01463,JPPLDLFD_01203
+mvaA,mvaA,3-hydroxy-3-methylglutaryl-coenzyme A reductase,CHONFCMC_00905,KGGMHOKE_01471,JPPLDLFD_01195
+group_460,,hypothetical protein,CHONFCMC_00874,KGGMHOKE_01502,JPPLDLFD_01164
+glyE_1,glyE_1,Glycosyltransferase GlyE,CHONFCMC_01009,KGGMHOKE_01330,JPPLDLFD_00766
+secA_1,secA_1,Protein translocase subunit SecA,CHONFCMC_00863,KGGMHOKE_01513,JPPLDLFD_01153
+trmB,trmB,tRNA (guanine-N(7)-)-methyltransferase,CHONFCMC_00975,KGGMHOKE_01412,JPPLDLFD_01256
+group_455,,hypothetical protein,CHONFCMC_00894,KGGMHOKE_01482,JPPLDLFD_01184
+mecA,mecA,Adapter protein MecA 1,CHONFCMC_00890,KGGMHOKE_01486,JPPLDLFD_01180
+pheT_1,pheT_1,Phenylalanine--tRNA ligase beta subunit,CHONFCMC_00923,KGGMHOKE_01453,JPPLDLFD_01213
+spoIIIE,spoIIIE,DNA translocase SpoIIIE,CHONFCMC_00876,KGGMHOKE_01500,JPPLDLFD_01166
+group_454,,hypothetical protein,CHONFCMC_00983,KGGMHOKE_01404,JPPLDLFD_01264
+group_450,,hypothetical protein,CHONFCMC_00889,KGGMHOKE_01487,JPPLDLFD_01179
+comFA,comFA,Competence protein ComFA,CHONFCMC_00866,KGGMHOKE_01510,JPPLDLFD_01156
+group_449,,hypothetical protein,CHONFCMC_00920,KGGMHOKE_01456,JPPLDLFD_01210
+group_448,,hypothetical protein,CHONFCMC_00882,KGGMHOKE_01494,JPPLDLFD_01172
+polA,polA,DNA polymerase I,CHONFCMC_00948,KGGMHOKE_01428,JPPLDLFD_01242
+yigZ,yigZ,IMPACT family member YigZ,CHONFCMC_00867,KGGMHOKE_01509,JPPLDLFD_01157
+rpmI,rpmI,Large ribosomal subunit protein bL35,CHONFCMC_00940,KGGMHOKE_01436,JPPLDLFD_01230
+group_446,,hypothetical protein,CHONFCMC_00877,KGGMHOKE_01499,JPPLDLFD_01167
+glyG,glyG,Glycosyltransferase GlyG,CHONFCMC_01007,KGGMHOKE_01332,JPPLDLFD_00764
+prsA,prsA,Foldase protein PrsA,CHONFCMC_00981,KGGMHOKE_01406,JPPLDLFD_01262
+dnaI,dnaI,Replicative helicase loader DnaI,CHONFCMC_00943,KGGMHOKE_01433,JPPLDLFD_01237
+group_442,,hypothetical protein,CHONFCMC_00884,KGGMHOKE_01492,JPPLDLFD_01174
+ecsA,ecsA,ABC-type transporter ATP-binding protein EcsA,CHONFCMC_00977,KGGMHOKE_01410,JPPLDLFD_01258
+gtfB_1~~~gtfB_2,gtfB_1;gtfB_2,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB,CHONFCMC_01008,KGGMHOKE_01331,JPPLDLFD_00765
+licC_1,licC_1,Lichenan permease IIC component,CHONFCMC_00965,KGGMHOKE_01421,JPPLDLFD_01247
+murC,murC,UDP-N-acetylmuramate--L-alanine ligase,CHONFCMC_00963,KGGMHOKE_01423,JPPLDLFD_01245
+group_438,,hypothetical protein,CHONFCMC_00994,KGGMHOKE_01345,JPPLDLFD_00750
+gluP,gluP,Rhomboid protease GluP,CHONFCMC_00916,KGGMHOKE_01460,JPPLDLFD_01206
+dinB_1,dinB_1,DNA polymerase IV,CHONFCMC_00989,KGGMHOKE_01398,JPPLDLFD_01270
+bcrA_1~~~bcrA_2~~~bcrA,bcrA_1;bcrA_2;bcrA,Bacitracin transport ATP-binding protein BcrA,CHONFCMC_00995,KGGMHOKE_01344,JPPLDLFD_00751
+miaA,miaA,tRNA dimethylallyltransferase,CHONFCMC_00912,KGGMHOKE_01464,JPPLDLFD_01202
+group_434,,hypothetical protein,CHONFCMC_00244,KGGMHOKE_00430,JPPLDLFD_00448
+smpB,smpB,SsrA-binding protein,CHONFCMC_00834,KGGMHOKE_00291,JPPLDLFD_00419
+group_432,,hypothetical protein,CHONFCMC_00626,KGGMHOKE_00851,JPPLDLFD_00969
+group_430,,hypothetical protein,CHONFCMC_00759,KGGMHOKE_01021,JPPLDLFD_01356
+lspA,lspA,Lipoprotein signal peptidase,CHONFCMC_00516,KGGMHOKE_00696,JPPLDLFD_00152
+dps,dps,DNA protection during starvation protein,CHONFCMC_00127,KGGMHOKE_00043,JPPLDLFD_00716
+prmC,prmC,Release factor glutamine methyltransferase,CHONFCMC_00779,KGGMHOKE_01041,JPPLDLFD_01336
+tsaE,tsaE,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE,CHONFCMC_00826,KGGMHOKE_00299,JPPLDLFD_00411
+yfkJ,yfkJ,Low molecular weight protein-tyrosine-phosphatase YfkJ,CHONFCMC_00694,KGGMHOKE_00955,JPPLDLFD_01420
+rimP,rimP,Ribosome maturation factor RimP,CHONFCMC_00318,KGGMHOKE_00505,JPPLDLFD_00524
+group_428,,Putative universal stress protein,CHONFCMC_00762,KGGMHOKE_01024,JPPLDLFD_01353
+bltD,bltD,Spermine/spermidine N(1)-acetyltransferase,CHONFCMC_00478,KGGMHOKE_00657,JPPLDLFD_00191
+group_424,,hypothetical protein,CHONFCMC_00045,KGGMHOKE_01566,JPPLDLFD_00129
+atpF,atpF,ATP synthase subunit b,CHONFCMC_00774,KGGMHOKE_01036,JPPLDLFD_01341
+coaD,coaD,Phosphopantetheine adenylyltransferase,CHONFCMC_00707,KGGMHOKE_00968,JPPLDLFD_01407
+group_423,,hypothetical protein,CHONFCMC_00362,KGGMHOKE_00549,JPPLDLFD_00257
+dfrA,dfrA,Dihydrofolate reductase,CHONFCMC_00339,KGGMHOKE_00526,JPPLDLFD_00567
+group_420,,hypothetical protein,CHONFCMC_00147,KGGMHOKE_00075,JPPLDLFD_01029
+group_419,,hypothetical protein,CHONFCMC_00830,KGGMHOKE_00295,JPPLDLFD_00415
+group_418,,hypothetical protein,CHONFCMC_00808,KGGMHOKE_01073,JPPLDLFD_01307
+group_417,,hypothetical protein,CHONFCMC_00693,KGGMHOKE_00954,JPPLDLFD_01421
+rimM,rimM,Ribosome maturation factor RimM,CHONFCMC_00295,KGGMHOKE_00482,JPPLDLFD_00501
+hslV,hslV,ATP-dependent protease subunit HslV,CHONFCMC_00632,KGGMHOKE_00857,JPPLDLFD_00963
+ybeY,ybeY,Endoribonuclease YbeY,CHONFCMC_00378,KGGMHOKE_00565,JPPLDLFD_00273
+apt,apt,Adenine phosphoribosyltransferase,CHONFCMC_00335,KGGMHOKE_00522,JPPLDLFD_00563
+group_415,,hypothetical protein,CHONFCMC_00692,KGGMHOKE_00953,JPPLDLFD_01422
+polC_2,polC_2,DNA polymerase III PolC-type,CHONFCMC_00825,KGGMHOKE_00300,JPPLDLFD_00410
+group_413,,hypothetical protein,CHONFCMC_00743,KGGMHOKE_01006,JPPLDLFD_01371
+pyrR_2,pyrR_2,Bifunctional protein pyrR,CHONFCMC_00409,KGGMHOKE_00598,JPPLDLFD_00670
+group_411,,hypothetical protein,CHONFCMC_00848,KGGMHOKE_00277,JPPLDLFD_00433
+pyrR_1,pyrR_1,Bifunctional protein pyrR,CHONFCMC_00404,KGGMHOKE_00593,JPPLDLFD_00665
+pncA,pncA,Nicotinamidase,CHONFCMC_00410,KGGMHOKE_00599,JPPLDLFD_00671
+atpH_1,atpH_1,ATP synthase subunit delta,CHONFCMC_00773,KGGMHOKE_01035,JPPLDLFD_01342
+rsmD,rsmD,Ribosomal RNA small subunit methyltransferase D,CHONFCMC_00708,KGGMHOKE_00969,JPPLDLFD_01406
+def_1,def_1,Peptide deformylase,CHONFCMC_00712,KGGMHOKE_00973,JPPLDLFD_01402
+frr,frr,Ribosome-recycling factor,CHONFCMC_00312,KGGMHOKE_00499,JPPLDLFD_00518
+group_408,,hypothetical protein,CHONFCMC_00247,KGGMHOKE_00433,JPPLDLFD_00451
+nudF,nudF,ADP-ribose pyrophosphatase,CHONFCMC_00724,KGGMHOKE_00986,JPPLDLFD_01390
+group_405,,hypothetical protein,CHONFCMC_00831,KGGMHOKE_00294,JPPLDLFD_00416
+group_404,,hypothetical protein,CHONFCMC_00509,KGGMHOKE_00689,JPPLDLFD_00159
+efp_1,efp_1,Elongation factor P,CHONFCMC_00256,KGGMHOKE_00442,JPPLDLFD_00461
+hpt_2,hpt_2,Hypoxanthine-guanine phosphoribosyltransferase,CHONFCMC_00140,KGGMHOKE_00068,JPPLDLFD_01140
+lacB,lacB,Galactose-6-phosphate isomerase subunit LacB,CHONFCMC_00043,KGGMHOKE_01564,JPPLDLFD_00131
+grpE,grpE,Protein GrpE,CHONFCMC_00329,KGGMHOKE_00516,JPPLDLFD_00557
+engB,engB,putative GTP-binding protein EngB,CHONFCMC_00695,KGGMHOKE_00956,JPPLDLFD_01419
+group_402,,hypothetical protein,CHONFCMC_00344,KGGMHOKE_00531,JPPLDLFD_00572
+clpP,clpP,ATP-dependent Clp protease proteolytic subunit,CHONFCMC_00844,KGGMHOKE_00281,JPPLDLFD_00429
+group_401,,hypothetical protein,CHONFCMC_00230,KGGMHOKE_00416,JPPLDLFD_01050
+scpB,scpB,Segregation and condensation protein B,CHONFCMC_00664,KGGMHOKE_00890,JPPLDLFD_00929
+ribU,ribU,Riboflavin transporter RibU,CHONFCMC_00661,KGGMHOKE_00887,JPPLDLFD_00932
+tdk,tdk,Thymidine kinase,CHONFCMC_00781,KGGMHOKE_01043,JPPLDLFD_01334
+group_400,,hypothetical protein,CHONFCMC_00789,KGGMHOKE_01051,JPPLDLFD_01326
+rpsD,rpsD,Small ribosomal subunit protein uS4,CHONFCMC_00758,KGGMHOKE_01020,JPPLDLFD_01357
+group_399,,hypothetical protein,CHONFCMC_00746,KGGMHOKE_01009,JPPLDLFD_01368
+uptA,uptA,Undecaprenyl phosphate transporter A,CHONFCMC_00682,KGGMHOKE_00908,JPPLDLFD_00911
+ywaC,ywaC,GTP pyrophosphokinase YwaC,CHONFCMC_00157,KGGMHOKE_00405,JPPLDLFD_01019
+maa,maa,Maltose O-acetyltransferase,CHONFCMC_00534,KGGMHOKE_00714,JPPLDLFD_01066
+plsC,plsC,1-acyl-sn-glycerol-3-phosphate acyltransferase,CHONFCMC_00307,KGGMHOKE_00494,JPPLDLFD_00513
+gmk_1,gmk_1,Guanylate kinase,CHONFCMC_00266,KGGMHOKE_00452,JPPLDLFD_00471
+group_397,,hypothetical protein,CHONFCMC_00061,KGGMHOKE_01589,JPPLDLFD_00113
+group_396,,hypothetical protein,CHONFCMC_00599,KGGMHOKE_00762,JPPLDLFD_00985
+lexA,lexA,LexA repressor,CHONFCMC_00301,KGGMHOKE_00488,JPPLDLFD_00507
+group_395,,hypothetical protein,CHONFCMC_00327,KGGMHOKE_00514,JPPLDLFD_00533
+upp,upp,Uracil phosphoribosyltransferase,CHONFCMC_00777,KGGMHOKE_01039,JPPLDLFD_01338
+recU,recU,Holliday junction resolvase RecU,CHONFCMC_00508,KGGMHOKE_00688,JPPLDLFD_00160
+nth_1,nth_1,Endonuclease III,CHONFCMC_00506,KGGMHOKE_00686,JPPLDLFD_00162
+udk,udk,Uridine kinase,CHONFCMC_00102,KGGMHOKE_00015,JPPLDLFD_00078
+pyrE,pyrE,Orotate phosphoribosyltransferase,CHONFCMC_00401,KGGMHOKE_00590,JPPLDLFD_00662
+glnM,glnM,putative glutamine ABC transporter permease protein GlnM,CHONFCMC_00095,KGGMHOKE_00008,JPPLDLFD_00085
+group_394,,hypothetical protein,CHONFCMC_00683,KGGMHOKE_00909,JPPLDLFD_00910
+spsB_1,spsB_1,Signal peptidase IB,CHONFCMC_00298,KGGMHOKE_00485,JPPLDLFD_00504
+group_391,,hypothetical protein,CHONFCMC_00717,KGGMHOKE_00979,JPPLDLFD_01397
+dnaD,dnaD,Replicative helicase loading/DNA remodeling protein DnaD,CHONFCMC_00505,KGGMHOKE_00685,JPPLDLFD_00163
+tmung,tmung,Type-4 uracil-DNA glycosylase,CHONFCMC_00300,KGGMHOKE_00487,JPPLDLFD_00506
+rpe,rpe,Ribulose-phosphate 3-epimerase,CHONFCMC_00274,KGGMHOKE_00460,JPPLDLFD_00479
+glnP,glnP,putative glutamine ABC transporter permease protein GlnP,CHONFCMC_00096,KGGMHOKE_00009,JPPLDLFD_00084
+group_389,,hypothetical protein,CHONFCMC_00546,KGGMHOKE_00726,JPPLDLFD_00836
+cnbA,cnbA,Chloronitrobenzene nitroreductase,CHONFCMC_00137,KGGMHOKE_00065,JPPLDLFD_00707
+gpmA_1,gpmA_1,23-bisphosphoglycerate-dependent phosphoglycerate mutase,CHONFCMC_00718,KGGMHOKE_00980,JPPLDLFD_01396
+plsY_1,plsY_1,Glycerol-3-phosphate acyltransferase,CHONFCMC_00533,KGGMHOKE_00713,JPPLDLFD_01067
+cmk,cmk,Cytidylate kinase,CHONFCMC_00660,KGGMHOKE_00886,JPPLDLFD_00933
+group_387,,hypothetical protein,CHONFCMC_00642,KGGMHOKE_00867,JPPLDLFD_00952
+tcrA,tcrA,Transcriptional regulatory protein TcrA,CHONFCMC_00158,KGGMHOKE_00406,JPPLDLFD_01018
+group_386,,Phosphorylated carbohydrates phosphatase,CHONFCMC_00747,KGGMHOKE_01010,JPPLDLFD_01367
+rnc,rnc,Ribonuclease 3,CHONFCMC_00288,KGGMHOKE_00475,JPPLDLFD_00494
+group_384,,hypothetical protein,CHONFCMC_00044,KGGMHOKE_01565,JPPLDLFD_00130
+phoU,phoU,Phosphate-specific transport system accessory protein PhoU,CHONFCMC_00125,KGGMHOKE_00041,JPPLDLFD_00718
+group_383,,hypothetical protein,CHONFCMC_00705,KGGMHOKE_00966,JPPLDLFD_01409
+strA,strA,Sortase A,CHONFCMC_00333,KGGMHOKE_00520,JPPLDLFD_00561
+ung,ung,Uracil-DNA glycosylase,CHONFCMC_00828,KGGMHOKE_00297,JPPLDLFD_00413
+group_382,,hypothetical protein,CHONFCMC_00164,KGGMHOKE_00412,JPPLDLFD_01054
+rpiA_1,rpiA_1,Ribose-5-phosphate isomerase A,CHONFCMC_00130,KGGMHOKE_00059,JPPLDLFD_00713
+rsuA,rsuA,Ribosomal small subunit pseudouridine synthase A,CHONFCMC_00753,KGGMHOKE_01015,JPPLDLFD_01362
+mtnN,mtnN,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,CHONFCMC_00722,KGGMHOKE_00984,JPPLDLFD_01392
+metP,metP,Methionine import system permease protein MetP,CHONFCMC_00354,KGGMHOKE_00541,JPPLDLFD_00249
+group_381,,hypothetical protein,CHONFCMC_00812,KGGMHOKE_01077,JPPLDLFD_01303
+pyrF,pyrF,Orotidine 5'-phosphate decarboxylase,CHONFCMC_00402,KGGMHOKE_00591,JPPLDLFD_00663
+group_380,,Multidrug efflux system ATP-binding protein,CHONFCMC_00389,KGGMHOKE_00576,JPPLDLFD_00650
+resD,resD,Transcriptional regulatory protein ResD,CHONFCMC_00792,KGGMHOKE_01054,JPPLDLFD_01323
+group_379,,hypothetical protein,CHONFCMC_00142,KGGMHOKE_00070,JPPLDLFD_01142
+atpB,atpB,ATP synthase subunit a,CHONFCMC_00776,KGGMHOKE_01038,JPPLDLFD_01339
+rluB,rluB,Ribosomal large subunit pseudouridine synthase B,CHONFCMC_00663,KGGMHOKE_00889,JPPLDLFD_00930
+uppS,uppS,Ditranspolycis-undecaprenyl-diphosphate synthase ((2E6E)-farnesyl-diphosphate specific),CHONFCMC_00313,KGGMHOKE_00500,JPPLDLFD_00519
+trmD,trmD,tRNA (guanine-N(1)-)-methyltransferase,CHONFCMC_00296,KGGMHOKE_00483,JPPLDLFD_00502
+pyrH,pyrH,Uridylate kinase,CHONFCMC_00311,KGGMHOKE_00498,JPPLDLFD_00517
+treR,treR,HTH-type transcriptional regulator TreR,CHONFCMC_00099,KGGMHOKE_00012,JPPLDLFD_00081
+gmuR_1,gmuR_1,HTH-type transcriptional regulator GmuR,CHONFCMC_00132,KGGMHOKE_00061,JPPLDLFD_00711
+group_378,,putative transcriptional regulatory protein,CHONFCMC_00807,KGGMHOKE_01072,JPPLDLFD_01308
+uup_5~~~potA_1~~~potA_2,uup_5;potA_1;potA_2,ATP-binding protein Uup;Spermidine/putrescine import ATP-binding protein PotA,CHONFCMC_00823,KGGMHOKE_00302;KGGMHOKE_01088,JPPLDLFD_00408
+group_376,artM_1,Arginine transport ATP-binding protein ArtM,CHONFCMC_00118,KGGMHOKE_00034,JPPLDLFD_00725
+group_375,,hypothetical protein,CHONFCMC_00662,KGGMHOKE_00888,JPPLDLFD_00931
+scpA,scpA,Segregation and condensation protein A,CHONFCMC_00665,KGGMHOKE_00891,JPPLDLFD_00928
+glnQ_1,glnQ_1,Glutamine transport ATP-binding protein GlnQ,CHONFCMC_00093,KGGMHOKE_00006,JPPLDLFD_00087
+rnhB,rnhB,Ribonuclease HII,CHONFCMC_00637,KGGMHOKE_00862,JPPLDLFD_00958
+recO,recO,DNA repair protein RecO,CHONFCMC_00380,KGGMHOKE_00567,JPPLDLFD_00275
+prpC,prpC,Protein phosphatase PrpC,CHONFCMC_00271,KGGMHOKE_00457,JPPLDLFD_00476
+tpiA,tpiA,Triosephosphate isomerase,CHONFCMC_00838,KGGMHOKE_00287,JPPLDLFD_00423
+lacX_1,lacX_1,Protein LacX plasmid,CHONFCMC_00630,KGGMHOKE_00855,JPPLDLFD_00965
+pstB3_2,pstB3_2,Phosphate import ATP-binding protein PstB 3,CHONFCMC_00124,KGGMHOKE_00040,JPPLDLFD_00719
+lacR_1,lacR_1,Lactose phosphotransferase system repressor,CHONFCMC_00041,KGGMHOKE_01562,JPPLDLFD_00133
+ydjP,ydjP,AB hydrolase superfamily protein YdjP,CHONFCMC_00811,KGGMHOKE_01076,JPPLDLFD_01304
+rpsB,rpsB,Small ribosomal subunit protein uS2,CHONFCMC_00309,KGGMHOKE_00496,JPPLDLFD_00515
+potI,potI,Putrescine transport system permease protein PotI,CHONFCMC_00066,KGGMHOKE_01597,JPPLDLFD_00108
+ybjI_1,ybjI_1,5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI,CHONFCMC_00036,KGGMHOKE_01557,JPPLDLFD_00137
+gpsB_2,gpsB_2,Cell cycle adapter protein GpsB,CHONFCMC_00727,KGGMHOKE_00989,JPPLDLFD_01387
+group_367,,hypothetical protein,CHONFCMC_00314,KGGMHOKE_00501,JPPLDLFD_00520
+group_366,,putative oxidoreductase,CHONFCMC_00676,KGGMHOKE_00902,JPPLDLFD_00917
+group_364,,hypothetical protein,CHONFCMC_00101,KGGMHOKE_00014,JPPLDLFD_00079
+potC,potC,Spermidine/putrescine transport system permease protein PotC,CHONFCMC_00821,KGGMHOKE_01086,JPPLDLFD_00406
+rqcP2,rqcP2,Ribosome-associated protein quality control protein P2,CHONFCMC_00728,KGGMHOKE_00990,JPPLDLFD_01386
+group_363,,hypothetical protein,CHONFCMC_00106,KGGMHOKE_00019,JPPLDLFD_00740
+pstB3_1,pstB3_1,Phosphate import ATP-binding protein PstB 3,CHONFCMC_00123,KGGMHOKE_00039,JPPLDLFD_00720
+group_362,,hypothetical protein,CHONFCMC_00685,KGGMHOKE_00911,JPPLDLFD_00908
+potH,potH,Putrescine transport system permease protein PotH,CHONFCMC_00822,KGGMHOKE_01087,JPPLDLFD_00407
+tlyA,tlyA,16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA,CHONFCMC_00263,KGGMHOKE_00449,JPPLDLFD_00468
+vmlR_2,;vmlR_2,hypothetical protein;Ribosome protection protein VmlR,CHONFCMC_00617,KGGMHOKE_00841,JPPLDLFD_00972
+yafP,yafP,putative N-acetyltransferase YafP,CHONFCMC_00472,KGGMHOKE_00651,JPPLDLFD_01274
+group_358,,hypothetical protein,CHONFCMC_00467,KGGMHOKE_00646,JPPLDLFD_01279
+group_357,,hypothetical protein,CHONFCMC_00390,KGGMHOKE_00577,JPPLDLFD_00651
+yokD,yokD,SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD,CHONFCMC_00493,KGGMHOKE_00672,JPPLDLFD_00176
+group_355,,hypothetical protein,CHONFCMC_00415,KGGMHOKE_00604;KGGMHOKE_00603,JPPLDLFD_00676
+group_353,,hypothetical protein,CHONFCMC_00471,KGGMHOKE_00650,JPPLDLFD_01275
+glnH_1,glnH_1,ABC transporter glutamine-binding protein GlnH,CHONFCMC_00092,KGGMHOKE_00005,JPPLDLFD_00088
+group_351,,putative ABC transporter ATP-binding protein,CHONFCMC_00414,KGGMHOKE_00602,JPPLDLFD_00675
+group_350,,Gamma-resorcylate decarboxylase;hypothetical protein,CHONFCMC_00544,KGGMHOKE_00724,JPPLDLFD_00833
+group_349,,hypothetical protein,CHONFCMC_00412,KGGMHOKE_00601,JPPLDLFD_00674
+map,map,Methionine aminopeptidase 1,CHONFCMC_00149,KGGMHOKE_00077,JPPLDLFD_01027
+glnH_2,glnH_2,ABC transporter glutamine-binding protein GlnH,CHONFCMC_00094,KGGMHOKE_00007,JPPLDLFD_00086
+bglR~~~uidA_2~~~uidA_1,bglR;uidA_2;uidA_1,Beta-glucuronidase,CHONFCMC_00582,KGGMHOKE_00744,JPPLDLFD_00864;JPPLDLFD_01004;JPPLDLFD_01003
+group_345,,hypothetical protein,CHONFCMC_00481;CHONFCMC_00480,KGGMHOKE_00659,JPPLDLFD_00188;JPPLDLFD_00189
+group_344,,hypothetical protein,CHONFCMC_00548,KGGMHOKE_00729,JPPLDLFD_00839
+group_343,,hypothetical protein,CHONFCMC_00067,KGGMHOKE_01598,JPPLDLFD_00107
+msbA_2~~~uup_4~~~msbA_3,msbA_2;uup_4;msbA_3,ATP-dependent lipid A-core flippase;ATP-binding protein Uup,CHONFCMC_00592,KGGMHOKE_00755,JPPLDLFD_00993
+group_340,,hypothetical protein,CHONFCMC_00614,KGGMHOKE_00838,JPPLDLFD_00973;JPPLDLFD_00974
+cbh_2,cbh_2,Bile salt hydrolase/transferase,CHONFCMC_00583,KGGMHOKE_00745,JPPLDLFD_01002
+rppH,;rppH,Nudix hydrolase;hypothetical protein;RNA pyrophosphohydrolase,CHONFCMC_00488,KGGMHOKE_00665,JPPLDLFD_00183;JPPLDLFD_00184
+group_337,,hypothetical protein,CHONFCMC_00463,KGGMHOKE_00642,JPPLDLFD_01283
+group_336,,hypothetical protein,CHONFCMC_00391,KGGMHOKE_00578,JPPLDLFD_00652
+drrA1,drrA1,Daunorubicin resistance ATP-binding protein DrrA1,CHONFCMC_00590,KGGMHOKE_00753,JPPLDLFD_00995
+group_334,,hypothetical protein,CHONFCMC_00588,KGGMHOKE_00751,JPPLDLFD_00997
+ampR~~~hdfR_3~~~gltC,ampR;hdfR_3;gltC;,HTH-type transcriptional activator AmpR;HTH-type transcriptional regulator HdfR;Transcriptional dual regulator GltC;hypothetical protein,CHONFCMC_00623,KGGMHOKE_00849;KGGMHOKE_00848,JPPLDLFD_00971
+rbgA,rbgA,Ribosome biogenesis GTPase A,CHONFCMC_00638,KGGMHOKE_00863,JPPLDLFD_00957
+group_332,,hypothetical protein,CHONFCMC_00251,KGGMHOKE_00437,JPPLDLFD_00456
+glcR_1,glcR_1,HTH-type transcriptional repressor GlcR,CHONFCMC_00134,KGGMHOKE_00063,JPPLDLFD_00709
+group_329,,hypothetical protein,CHONFCMC_00371,KGGMHOKE_00558,JPPLDLFD_00266
+yqfL,yqfL,Putative pyruvate phosphate dikinase regulatory protein,CHONFCMC_00374,KGGMHOKE_00561,JPPLDLFD_00269
+yheI_2,yheI_2,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI,CHONFCMC_00591,KGGMHOKE_00754,JPPLDLFD_00994
+group_328,,hypothetical protein,CHONFCMC_00689,KGGMHOKE_00950,JPPLDLFD_01425
+dprA,dprA,DNA processing protein DprA,CHONFCMC_00636,KGGMHOKE_00861,JPPLDLFD_00959
+lacA_1~~~ganA,lacA_1;ganA,Beta-galactosidase GalA;Beta-galactosidase GanA,CHONFCMC_00078,KGGMHOKE_01611,JPPLDLFD_00096;JPPLDLFD_00095
+group_327,,hypothetical protein,CHONFCMC_00469,KGGMHOKE_00648,JPPLDLFD_01276;JPPLDLFD_01277
+fetA_2,fetA_2,putative iron export ATP-binding protein FetA,CHONFCMC_00613,KGGMHOKE_00837,JPPLDLFD_00975
+msrB,msrB,Peptide methionine sulfoxide reductase MsrB,CHONFCMC_00370,KGGMHOKE_00557,JPPLDLFD_00265
+group_326,,hypothetical protein,CHONFCMC_00580;CHONFCMC_00581,KGGMHOKE_00743,JPPLDLFD_00863;JPPLDLFD_00862
+group_324,,hypothetical protein,CHONFCMC_00487,KGGMHOKE_00664,JPPLDLFD_00185
+cdaA,cdaA,Cyclic di-AMP synthase CdaA,CHONFCMC_00819,KGGMHOKE_01084,JPPLDLFD_00404
+brnQ_3~~~brnQ_2~~~brnQ_1,brnQ_3;brnQ_2;brnQ_1,Branched-chain amino acid permease BrnQ,CHONFCMC_00584,KGGMHOKE_00747;KGGMHOKE_00746,JPPLDLFD_01001
+catM,catM,HTH-type transcriptional regulator CatM,CHONFCMC_00342,KGGMHOKE_00529,JPPLDLFD_00570
+folD,folD,Bifunctional protein FolD protein,CHONFCMC_00259,KGGMHOKE_00445,JPPLDLFD_00464
+group_322,,hypothetical protein,CHONFCMC_00587,KGGMHOKE_00750,JPPLDLFD_00998
+group_321,,(R)-mandelonitrile lyase,CHONFCMC_00585,KGGMHOKE_00748,JPPLDLFD_01000
+mreC,mreC,Cell shape-determining protein MreC,CHONFCMC_00744,KGGMHOKE_01007,JPPLDLFD_01370
+group_319,,hypothetical protein,CHONFCMC_00474,KGGMHOKE_00653,JPPLDLFD_01298
+group_318,,hypothetical protein,CHONFCMC_00350,KGGMHOKE_00537,JPPLDLFD_00245
+group_316,,hypothetical protein,CHONFCMC_00609,KGGMHOKE_00833,JPPLDLFD_00980
+divIB,divIB,Cell division protein DivIB,CHONFCMC_00733,KGGMHOKE_00995,JPPLDLFD_01381
+deoD,deoD,Purine nucleoside phosphorylase DeoD-type,CHONFCMC_00489,KGGMHOKE_00667,JPPLDLFD_00182
+group_315,,hypothetical protein,CHONFCMC_00464,KGGMHOKE_00643,JPPLDLFD_01282
+group_314,,Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase,CHONFCMC_00527,KGGMHOKE_00707,JPPLDLFD_00141
+metQ,metQ,putative D-methionine-binding lipoprotein MetQ,CHONFCMC_00352,KGGMHOKE_00539,JPPLDLFD_00247
+group_313,,hypothetical protein,CHONFCMC_00542,KGGMHOKE_00722,JPPLDLFD_01058
+group_312,,hypothetical protein,CHONFCMC_00699,KGGMHOKE_00960,JPPLDLFD_01415
+ybhL_2~~~ybhL_1,ybhL_2;ybhL_1,Inner membrane protein YbhL,CHONFCMC_00543,KGGMHOKE_00723,JPPLDLFD_01057
+dgoD,dgoD,D-galactonate dehydratase,CHONFCMC_00593,KGGMHOKE_00756,JPPLDLFD_00991
+glcT~~~licT_5~~~licT_1,glcT;licT_5;licT_1,PtsGHI operon antiterminator;Transcription antiterminator LicT,CHONFCMC_00049,KGGMHOKE_01570,JPPLDLFD_00125
+gmuF,gmuF,putative mannose-6-phosphate isomerase GmuF,CHONFCMC_00794,KGGMHOKE_01056,JPPLDLFD_01321
+ywpJ,ywpJ,Phosphatase YwpJ,CHONFCMC_00829,KGGMHOKE_00296,JPPLDLFD_00414
+group_311,,hypothetical protein,CHONFCMC_00589,KGGMHOKE_00752,JPPLDLFD_00996
+group_309,,hypothetical protein,CHONFCMC_00624;CHONFCMC_00625,KGGMHOKE_00850,JPPLDLFD_00970
+group_307,,hypothetical protein,CHONFCMC_00479,KGGMHOKE_00658,JPPLDLFD_00190
+ydaF,ydaF,Putative ribosomal N-acetyltransferase YdaF,CHONFCMC_00477,KGGMHOKE_00656,JPPLDLFD_00192
+thrB_1,thrB_1,Homoserine kinase,CHONFCMC_00428,KGGMHOKE_00617,JPPLDLFD_01099
+prmA,prmA,Ribosomal protein L11 methyltransferase,CHONFCMC_00363,KGGMHOKE_00550,JPPLDLFD_00258
+group_306,,hypothetical protein,CHONFCMC_00262,KGGMHOKE_00448,JPPLDLFD_00467
+group_305,,D-ribitol-5-phosphate phosphatase,CHONFCMC_00600,KGGMHOKE_00763,JPPLDLFD_00984
+pstS1,pstS1,Phosphate-binding protein PstS 1,CHONFCMC_00120,KGGMHOKE_00036,JPPLDLFD_00723
+yvcJ,yvcJ,Nucleotide-binding protein YvcJ,CHONFCMC_00847,KGGMHOKE_00278,JPPLDLFD_00432
+group_304,,hypothetical protein,CHONFCMC_00813,KGGMHOKE_01078,JPPLDLFD_01302
+group_303,,hypothetical protein,CHONFCMC_00547,KGGMHOKE_00727,JPPLDLFD_00837
+group_302,,Aldo-keto reductase/MSMEI_2347,CHONFCMC_00536,KGGMHOKE_00716,JPPLDLFD_01064
+treA,treA,Trehalose-6-phosphate hydrolase,CHONFCMC_00098,KGGMHOKE_00011,JPPLDLFD_00082
+qmcA,qmcA,Protein QmcA,CHONFCMC_00466,KGGMHOKE_00645,JPPLDLFD_01280
+group_301,,hypothetical protein,CHONFCMC_00133,KGGMHOKE_00062,JPPLDLFD_00710
+rihC,rihC,Non-specific ribonucleoside hydrolase RihC,CHONFCMC_00131,KGGMHOKE_00060,JPPLDLFD_00712
+group_300,,hypothetical protein,CHONFCMC_00373,KGGMHOKE_00560,JPPLDLFD_00268
+rhaS_1,rhaS_1,HTH-type transcriptional activator RhaS,CHONFCMC_00240,KGGMHOKE_00426,JPPLDLFD_00444
+group_299,,hypothetical protein,CHONFCMC_00105,KGGMHOKE_00018,JPPLDLFD_00741;JPPLDLFD_00074;JPPLDLFD_00075
+group_298,,hypothetical protein,CHONFCMC_00686,KGGMHOKE_00912,JPPLDLFD_00907
+uup_4,uup_4;,ATP-binding protein Uup;putative ABC transporter ATP-binding protein,CHONFCMC_00468,KGGMHOKE_00647,JPPLDLFD_01278
+group_296,,hypothetical protein,CHONFCMC_00629,KGGMHOKE_00854,JPPLDLFD_00966
+group_294,,hypothetical protein,CHONFCMC_00351,KGGMHOKE_00538,JPPLDLFD_00246
+group_293,,hypothetical protein,CHONFCMC_00119,KGGMHOKE_00035,JPPLDLFD_00724
+group_292,,hypothetical protein,CHONFCMC_00053,KGGMHOKE_01575,JPPLDLFD_00121
+yajO,;yajO,hypothetical protein;1-deoxyxylulose-5-phosphate synthase YajO,CHONFCMC_00537,KGGMHOKE_00717,JPPLDLFD_01063
+nth_2,nth_2,Endonuclease III,CHONFCMC_00535,KGGMHOKE_00715,JPPLDLFD_01065
+msrA~~~msrA2,msrA;msrA2,Peptide methionine sulfoxide reductase MsrA;Peptide methionine sulfoxide reductase MsrA 2,CHONFCMC_00372,KGGMHOKE_00559,JPPLDLFD_00267
+degV_2,degV_2,Protein DegV,CHONFCMC_00522,KGGMHOKE_00702,JPPLDLFD_00146
+patB,patB;,Cystathionine beta-lyase PatB;hypothetical protein,CHONFCMC_00795,KGGMHOKE_01057,JPPLDLFD_01320
+group_291,,hypothetical protein,CHONFCMC_00645,KGGMHOKE_00870,JPPLDLFD_00949
+group_289,,hypothetical protein,CHONFCMC_00644,KGGMHOKE_00869,JPPLDLFD_00950
+hdfR_1,hdfR_1,HTH-type transcriptional regulator HdfR,CHONFCMC_00524,KGGMHOKE_00704,JPPLDLFD_00144
+glcU_1,glcU_1,putative glucose uptake protein GlcU,CHONFCMC_00492,KGGMHOKE_00670,JPPLDLFD_00178
+pstA,pstA,Phosphate transport system permease protein PstA,CHONFCMC_00122,KGGMHOKE_00038,JPPLDLFD_00721
+group_288,,hypothetical protein,CHONFCMC_00810,KGGMHOKE_01075,JPPLDLFD_01305
+cvfB,cvfB,Conserved virulence factor B,CHONFCMC_00668,KGGMHOKE_00894,JPPLDLFD_00925
+group_286,,hypothetical protein,CHONFCMC_00394,KGGMHOKE_00581,JPPLDLFD_00655
+truB,truB,tRNA pseudouridine synthase B,CHONFCMC_00324,KGGMHOKE_00511,JPPLDLFD_00530
+rsgA,rsgA,Small ribosomal subunit biogenesis GTPase RsgA,CHONFCMC_00273,KGGMHOKE_00459,JPPLDLFD_00478
+group_285,,hypothetical protein,CHONFCMC_00688,KGGMHOKE_00949,JPPLDLFD_01426
+group_284,,hypothetical protein,CHONFCMC_00358,KGGMHOKE_00545,JPPLDLFD_00253
+comA_2~~~comA_4,comA_2;comA_4,Transport/processing ATP-binding protein ComA,CHONFCMC_00495,KGGMHOKE_00675,JPPLDLFD_00173
+group_282,,hypothetical protein,CHONFCMC_00073,KGGMHOKE_01604,JPPLDLFD_00101
+trmK,trmK,tRNA (adenine(22)-N(1))-methyltransferase,CHONFCMC_00385,KGGMHOKE_00572,JPPLDLFD_00284
+pnbA,pnbA,4-nitrobenzoate reductase,CHONFCMC_00232,KGGMHOKE_00418,JPPLDLFD_01048
+aes,aes,Acetyl esterase,CHONFCMC_00241,KGGMHOKE_00427,JPPLDLFD_00445
+murB,murB,UDP-N-acetylenolpyruvoylglucosamine reductase,CHONFCMC_00824,KGGMHOKE_00301,JPPLDLFD_00409
+nanK,nanK,N-acetylmannosamine kinase,CHONFCMC_00239,KGGMHOKE_00425,JPPLDLFD_00443
+uup_6~~~comA_3~~~uup_2,uup_6;comA_3;uup_2,ATP-binding protein Uup;Transport/processing ATP-binding protein ComA,CHONFCMC_00494,KGGMHOKE_00674,JPPLDLFD_00174
+xerD,xerD,Tyrosine recombinase XerD,CHONFCMC_00667,KGGMHOKE_00893,JPPLDLFD_00926
+group_279,,GTP cyclohydrolase 1 type 2,CHONFCMC_00386,KGGMHOKE_00573,JPPLDLFD_00285
+group_278,,hypothetical protein,CHONFCMC_00655,KGGMHOKE_00881,JPPLDLFD_00938
+era,era,GTPase Era,CHONFCMC_00379,KGGMHOKE_00566,JPPLDLFD_00274
+group_277,,hypothetical protein,CHONFCMC_00690,KGGMHOKE_00951,JPPLDLFD_01424
+gtaB,gtaB,UTP--glucose-1-phosphate uridylyltransferase,CHONFCMC_00151,KGGMHOKE_00079,JPPLDLFD_01025
+rluD_1,rluD_1,Ribosomal large subunit pseudouridine synthase D,CHONFCMC_00517,KGGMHOKE_00697,JPPLDLFD_00151
+oppC,oppC,Oligopeptide transport system permease protein OppC,CHONFCMC_00285,KGGMHOKE_00471,JPPLDLFD_00490
+pepO_2~~~pepO_1,pepO_2;pepO_1,Neutral endopeptidase,CHONFCMC_00423,KGGMHOKE_00612,JPPLDLFD_01104
+glyQ,glyQ,Glycine--tRNA ligase alpha subunit,CHONFCMC_00381,KGGMHOKE_00568,JPPLDLFD_00276
+group_274,,hypothetical protein,CHONFCMC_00596,KGGMHOKE_00759,JPPLDLFD_00988
+group_273,,hypothetical protein,CHONFCMC_00138,KGGMHOKE_00066,JPPLDLFD_01138
+glsA2,glsA2,Glutaminase 2,CHONFCMC_00056,KGGMHOKE_01578,JPPLDLFD_00118
+group_271,xerC_2,Tyrosine recombinase XerC,CHONFCMC_00633,KGGMHOKE_00858,JPPLDLFD_00962
+group_270,,hypothetical protein,CHONFCMC_00233,KGGMHOKE_00419,JPPLDLFD_01047
+degV_1,degV_1,Protein DegV,CHONFCMC_00513,KGGMHOKE_00693,JPPLDLFD_00155
+group_269,,hypothetical protein,CHONFCMC_00427,KGGMHOKE_00616,JPPLDLFD_01100
+asd,asd,Aspartate-semialdehyde dehydrogenase,CHONFCMC_00425,KGGMHOKE_00614,JPPLDLFD_01102
+pyrDB,pyrDB,Dihydroorotate dehydrogenase B (NAD(+)) catalytic subunit,CHONFCMC_00403,KGGMHOKE_00592,JPPLDLFD_00664
+group_268,,hypothetical protein,CHONFCMC_00150,KGGMHOKE_00078,JPPLDLFD_01026
+rbsKrbiA,rbsK/rbiA,Bifunctional ribokinase/ribose-5-phosphate isomerase A,CHONFCMC_00129,KGGMHOKE_00058,JPPLDLFD_00714
+group_267,,hypothetical protein,CHONFCMC_00068,KGGMHOKE_01599,JPPLDLFD_00106
+ytlR_1~~~ytlR_2~~~ytlR,ytlR_1;ytlR_2;ytlR,Putative lipid kinase YtlR,CHONFCMC_00715,KGGMHOKE_00977;KGGMHOKE_00976,JPPLDLFD_01399
+fetB~~~fetB_2~~~fetB_1,fetB;fetB_2;fetB_1,putative iron export permease protein FetB,CHONFCMC_00612,KGGMHOKE_00836,JPPLDLFD_00977;JPPLDLFD_00976
+aldC,aldC,Alpha-acetolactate decarboxylase,CHONFCMC_00610,KGGMHOKE_00834,JPPLDLFD_00979
+group_266,,hypothetical protein,CHONFCMC_00062,KGGMHOKE_01590,JPPLDLFD_00112
+rihB,rihB,Pyrimidine-specific ribonucleoside hydrolase RihB,CHONFCMC_00681,KGGMHOKE_00907,JPPLDLFD_00912
+group_265,,hypothetical protein,CHONFCMC_00235,KGGMHOKE_00421,JPPLDLFD_01045
+ldh_1,ldh_1,L-lactate dehydrogenase,CHONFCMC_00357,KGGMHOKE_00544,JPPLDLFD_00252
+dapX,dapX,putative N-acetyl-LL-diaminopimelate aminotransferase,CHONFCMC_00369,KGGMHOKE_00556,JPPLDLFD_00264
+group_264,,hypothetical protein,CHONFCMC_00108,KGGMHOKE_00021,JPPLDLFD_00738
+rnz,rnz,Ribonuclease Z,CHONFCMC_00677,KGGMHOKE_00903,JPPLDLFD_00916
+group_263,,hypothetical protein,CHONFCMC_00114,KGGMHOKE_00030,JPPLDLFD_00730
+group_262,,hypothetical protein,CHONFCMC_00503,KGGMHOKE_00683,JPPLDLFD_00165
+galK_2~~~galK_1,galK_2;galK_1,Galactokinase,CHONFCMC_00499,KGGMHOKE_00679,JPPLDLFD_00169
+ppaC,ppaC,putative manganese-dependent inorganic pyrophosphatase,CHONFCMC_00529,KGGMHOKE_00709,JPPLDLFD_00139
+ribCF,ribCF,Bifunctional riboflavin kinase/FMN adenylyltransferase,CHONFCMC_00325,KGGMHOKE_00512,JPPLDLFD_00531
+whiA,whiA,putative cell division protein WhiA,CHONFCMC_00845,KGGMHOKE_00280,JPPLDLFD_00430
+mrr,mrr,Type IV methyl-directed restriction enzyme EcoKMrr,CHONFCMC_00647,KGGMHOKE_00872,JPPLDLFD_00948
+fmt,fmt,Methionyl-tRNA formyltransferase,CHONFCMC_00269,KGGMHOKE_00455,JPPLDLFD_00474
+rsmH,rsmH,Ribosomal RNA small subunit methyltransferase H,CHONFCMC_00739,KGGMHOKE_01002,JPPLDLFD_01375
+group_256,,hypothetical protein,CHONFCMC_00586,KGGMHOKE_00749,JPPLDLFD_00999
+levG_2~~~levG_1~~~levG,levG_2;levG_1;levG,Levansucrase,CHONFCMC_00797,KGGMHOKE_01060;KGGMHOKE_01059,JPPLDLFD_01318;JPPLDLFD_01319
+arcD~~~aaxC_2~~~aaxC_1~~~aaxC,arcD;aaxC_2;aaxC_1;aaxC,Arginine/ornithine antiporter;Arginine/agmatine antiporter,CHONFCMC_00076,KGGMHOKE_01609;KGGMHOKE_01607;KGGMHOKE_01608,JPPLDLFD_00098
+atpG,atpG,ATP synthase gamma chain,CHONFCMC_00771,KGGMHOKE_01033,JPPLDLFD_01344
+pyrB,pyrB,Aspartate carbamoyltransferase catalytic subunit,CHONFCMC_00405,KGGMHOKE_00594,JPPLDLFD_00666
+thyA,thyA,Thymidylate synthase,CHONFCMC_00338,KGGMHOKE_00525,JPPLDLFD_00566
+mraY,mraY,Phospho-N-acetylmuramoyl-pentapeptide-transferase,CHONFCMC_00736,KGGMHOKE_00999,JPPLDLFD_01378
+pfkA,pfkA,ATP-dependent 6-phosphofructokinase,CHONFCMC_00670,KGGMHOKE_00896,JPPLDLFD_00923
+group_254,,hypothetical protein,CHONFCMC_00607,KGGMHOKE_00831,JPPLDLFD_00982
+group_253,,PhoH-like protein,CHONFCMC_00377,KGGMHOKE_00564,JPPLDLFD_00272
+btuD_1,btuD_1,Vitamin B12 import ATP-binding protein BtuD,CHONFCMC_00154,KGGMHOKE_00402,JPPLDLFD_01023
+rhaS_1~~~rhaR_1,rhaS_1;rhaR_1,HTH-type transcriptional activator RhaS;HTH-type transcriptional activator RhaR,CHONFCMC_00038,KGGMHOKE_01559,JPPLDLFD_00135
+rbsD_2~~~rbsD_1~~~rbsD,rbsD_2;rbsD_1;rbsD,D-ribose pyranase,CHONFCMC_00491,KGGMHOKE_00669,JPPLDLFD_00180;JPPLDLFD_00179
+oppB,oppB,Oligopeptide transport system permease protein OppB,CHONFCMC_00284,KGGMHOKE_00470,JPPLDLFD_00489
+thrB_2,thrB_2,Homoserine kinase,CHONFCMC_00498,KGGMHOKE_00678,JPPLDLFD_00170
+cynR~~~hdfR_2,;cynR;hdfR_2,hypothetical protein;HTH-type transcriptional regulator CynR;HTH-type transcriptional regulator HdfR,CHONFCMC_00530,KGGMHOKE_00710,JPPLDLFD_01070;JPPLDLFD_01071
+oppF,oppF,Oligopeptide transport ATP-binding protein OppF,CHONFCMC_00283,KGGMHOKE_00469,JPPLDLFD_00488
+mltF_2~~~artQ~~~mltF_1,mltF_2;artQ;mltF_1,Membrane-bound lytic murein transglycosylase F;Arginine transport system permease protein ArtQ,CHONFCMC_00117,KGGMHOKE_00033,JPPLDLFD_00727;JPPLDLFD_00726
+group_251,,hypothetical protein,CHONFCMC_00250,KGGMHOKE_00436,JPPLDLFD_00455;JPPLDLFD_00454
+spsB_2,spsB_2,Signal peptidase IB,CHONFCMC_00393,KGGMHOKE_00580,JPPLDLFD_00654
+pta,pta,Phosphate acetyltransferase,CHONFCMC_00827,KGGMHOKE_00298,JPPLDLFD_00412
+group_249,,DegV domain-containing protein,CHONFCMC_00641,KGGMHOKE_00866,JPPLDLFD_00954;JPPLDLFD_00953
+group_248,,hypothetical protein,CHONFCMC_00395,KGGMHOKE_00582,JPPLDLFD_00656
+lacE_2~~~lacE_3~~~lacE_1,lacE_2;lacE_3;lacE_1,PTS system lactose-specific EIICB component,CHONFCMC_00051,KGGMHOKE_01572;KGGMHOKE_01573,JPPLDLFD_00123
+group_247,,hypothetical protein,CHONFCMC_00473,KGGMHOKE_00652,JPPLDLFD_01297
+cbh_1,cbh_1,Bile salt hydrolase/transferase,CHONFCMC_00348,KGGMHOKE_00535,JPPLDLFD_00576
+galM,galM,Aldose 1-epimerase,CHONFCMC_00852,KGGMHOKE_00273,JPPLDLFD_00437
+mbl,mbl,Cell shape-determining protein Mbl,CHONFCMC_00767,KGGMHOKE_01029,JPPLDLFD_01348
+holA,holA,DNA polymerase III subunit delta,CHONFCMC_00703,KGGMHOKE_00964,JPPLDLFD_01411
+group_245,,hypothetical protein,CHONFCMC_00088,KGGMHOKE_00001,JPPLDLFD_00092
+group_244,,hypothetical protein,CHONFCMC_00245,KGGMHOKE_00431,JPPLDLFD_00449
+rimI_1,;rimI_1,hypothetical protein;[Ribosomal protein bS18]-alanine N-acetyltransferase,CHONFCMC_00833,KGGMHOKE_00292,JPPLDLFD_00418
+ywlC,ywlC,Threonylcarbamoyl-AMP synthase,CHONFCMC_00778,KGGMHOKE_01040,JPPLDLFD_01337
+group_243,,hypothetical protein,CHONFCMC_00627,KGGMHOKE_00852,JPPLDLFD_00968
+group_241,,hypothetical protein,CHONFCMC_00121,KGGMHOKE_00037,JPPLDLFD_00722
+lacR_2,lacR_2,HTH-type transcriptional regulator LacR,CHONFCMC_00855,KGGMHOKE_00270,JPPLDLFD_00440
+pdxK,pdxK,Pyridoxine/pyridoxal/pyridoxamine kinase,CHONFCMC_00246,KGGMHOKE_00432,JPPLDLFD_00450
+group_240,,hypothetical protein,CHONFCMC_00832,KGGMHOKE_00293,JPPLDLFD_00417
+group_239,,hypothetical protein,CHONFCMC_00805,KGGMHOKE_01069,JPPLDLFD_01310
+group_238,,hypothetical protein,CHONFCMC_00801,KGGMHOKE_01064,JPPLDLFD_01314
+mreB,mreB,Cell shape-determining protein MreB,CHONFCMC_00745,KGGMHOKE_01008,JPPLDLFD_01369
+group_237,,hypothetical protein,CHONFCMC_00601,KGGMHOKE_00764,JPPLDLFD_00983
+plsX,plsX,Phosphate acyltransferase,CHONFCMC_00280,KGGMHOKE_00466,JPPLDLFD_00485
+group_236,,hypothetical protein,CHONFCMC_00628,KGGMHOKE_00853,JPPLDLFD_00967
+thiN,thiN,Thiamine pyrophosphokinase,CHONFCMC_00275,KGGMHOKE_00461,JPPLDLFD_00480
+group_234,,hypothetical protein,CHONFCMC_00097,KGGMHOKE_00010,JPPLDLFD_00083
+ylbL,ylbL,putative protein YlbL,CHONFCMC_00706,KGGMHOKE_00967,JPPLDLFD_01408
+oppD,oppD,Oligopeptide transport ATP-binding protein OppD,CHONFCMC_00282,KGGMHOKE_00468,JPPLDLFD_00487
+oppA_3~~~oppA_5,oppA_3;oppA_5,Oligopeptide-binding protein OppA,CHONFCMC_00287,KGGMHOKE_00474,JPPLDLFD_00493
+group_233,,putative HTH-type transcriptional regulator,CHONFCMC_00608,KGGMHOKE_00832,JPPLDLFD_00981
+group_232,,hypothetical protein,CHONFCMC_00723,KGGMHOKE_00985,JPPLDLFD_01391
+comGA,;comGA,hypothetical protein;Competence protein ComGA,CHONFCMC_00806,KGGMHOKE_01070;KGGMHOKE_01071,JPPLDLFD_01309
+gap,gap,Glyceraldehyde-3-phosphate dehydrogenase,CHONFCMC_00840,KGGMHOKE_00285,JPPLDLFD_00425
+ansA,ansA,L-asparaginase 1,CHONFCMC_00359,KGGMHOKE_00546,JPPLDLFD_00254
+group_231,,hypothetical protein,CHONFCMC_00490,KGGMHOKE_00668,JPPLDLFD_00181
+amiE,amiE,N-acetylmuramyl-L-alanine amidase,CHONFCMC_00783,KGGMHOKE_01045,JPPLDLFD_01332
+yidA_1,yidA_1,Sugar phosphatase YidA,CHONFCMC_00037,KGGMHOKE_01558,JPPLDLFD_00136
+fni,fni,Isopentenyl-diphosphate delta-isomerase,CHONFCMC_00496,KGGMHOKE_00676,JPPLDLFD_00172
+tsf,tsf,Elongation factor Ts,CHONFCMC_00310,KGGMHOKE_00497,JPPLDLFD_00516
+group_230,,hypothetical protein,CHONFCMC_00398,KGGMHOKE_00585,JPPLDLFD_00659
+yfiC,yfiC,tRNA1(Val) (adenine(37)-N6)-methyltransferase,CHONFCMC_00308,KGGMHOKE_00495,JPPLDLFD_00514
+cdaR,cdaR;,CdaA regulatory protein CdaR;hypothetical protein,CHONFCMC_00818,KGGMHOKE_01083,JPPLDLFD_00402;JPPLDLFD_00403
+group_229,,hypothetical protein,CHONFCMC_00349,KGGMHOKE_00536,JPPLDLFD_00244
+murG_1~~~murG_2~~~murG,murG_1;murG_2;murG,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,CHONFCMC_00734,KGGMHOKE_00997;KGGMHOKE_00996,JPPLDLFD_01380
+cggR,cggR,Central glycolytic genes regulator,CHONFCMC_00841,KGGMHOKE_00284,JPPLDLFD_00426
+group_228,,hypothetical protein,CHONFCMC_00465,KGGMHOKE_00644,JPPLDLFD_01281
+group_226,,Putative gluconeogenesis factor,CHONFCMC_00846,KGGMHOKE_00279,JPPLDLFD_00431
+group_225,,hypothetical protein,CHONFCMC_00153;CHONFCMC_00152,KGGMHOKE_00401,JPPLDLFD_01024
+oppA_2~~~oppA_3,oppA_2;oppA_3;,Oligopeptide-binding protein OppA;hypothetical protein,CHONFCMC_00286,KGGMHOKE_00472,JPPLDLFD_00491
+potA_1,potA_1,Spermidine/putrescine import ATP-binding protein PotA,CHONFCMC_00065,KGGMHOKE_01596,JPPLDLFD_00109
+recQ,recQ,ATP-dependent DNA helicase RecQ,CHONFCMC_00528,KGGMHOKE_00708,JPPLDLFD_00140
+metN,metN,Methionine import ATP-binding protein MetN,CHONFCMC_00353,KGGMHOKE_00540,JPPLDLFD_00248
+spuD,spuD,Putrescine-binding periplasmic protein SpuD,CHONFCMC_00064,KGGMHOKE_01595,JPPLDLFD_00110
+group_222,,hypothetical protein,CHONFCMC_00802,KGGMHOKE_01065,JPPLDLFD_01313
+pyrAA_2,pyrAA_2,Carbamoyl phosphate synthase pyrimidine-specific small chain,CHONFCMC_00518,KGGMHOKE_00698,JPPLDLFD_00150
+hrcA,hrcA,Heat-inducible transcription repressor HrcA,CHONFCMC_00328,KGGMHOKE_00515,JPPLDLFD_00556
+group_219,,hypothetical protein,CHONFCMC_00526,KGGMHOKE_00706,JPPLDLFD_00142
+yoaB~~~yoaB_2,;yoaB;yoaB_2,Calcium-transporting ATPase;Calcium-transporting ATPase 1,CHONFCMC_00751;CHONFCMC_00750,KGGMHOKE_01013,JPPLDLFD_01364
+xerS,xerS,Tyrosine recombinase XerS,CHONFCMC_00525,KGGMHOKE_00705,JPPLDLFD_00143
+group_218,,hypothetical protein,CHONFCMC_00541,KGGMHOKE_00721,JPPLDLFD_01059
+group_217,,hypothetical protein,CHONFCMC_00539,KGGMHOKE_00719,JPPLDLFD_01061
+potD,potD,Spermidine/putrescine-binding periplasmic protein,CHONFCMC_00820,KGGMHOKE_01085,JPPLDLFD_00405
+group_216,,Phosphomevalonate kinase,CHONFCMC_00497,KGGMHOKE_00677,JPPLDLFD_00171
+group_215,,hypothetical protein,CHONFCMC_00243,KGGMHOKE_00429,JPPLDLFD_00447
+uup_3~~~uup_7,uup_3;uup_7,ATP-binding protein Uup,CHONFCMC_00538,KGGMHOKE_00718,JPPLDLFD_01062
+ysdC,ysdC,Putative aminopeptidase YsdC,CHONFCMC_00074,KGGMHOKE_01605,JPPLDLFD_00100
+prfA,prfA,Peptide chain release factor 1,CHONFCMC_00780,KGGMHOKE_01042,JPPLDLFD_01335
+pyrAA_1,pyrAA_1,Carbamoyl phosphate synthase pyrimidine-specific small chain,CHONFCMC_00407,KGGMHOKE_00596,JPPLDLFD_00668
+group_214,,hypothetical protein,CHONFCMC_00761,KGGMHOKE_01023,JPPLDLFD_01354
+group_213,,hypothetical protein,CHONFCMC_00523,KGGMHOKE_00703,JPPLDLFD_00145
+yidA_3~~~yidA_2,yidA_3;yidA_2,Sugar phosphatase YidA,CHONFCMC_00816,KGGMHOKE_01081,JPPLDLFD_00400
+group_212,,hypothetical protein,CHONFCMC_00598,KGGMHOKE_00761,JPPLDLFD_00986
+group_211,,hypothetical protein,CHONFCMC_00752,KGGMHOKE_01014,JPPLDLFD_01363
+rpsO,rpsO,Small ribosomal subunit protein uS15,CHONFCMC_00701,KGGMHOKE_00962,JPPLDLFD_01413
+group_210,,Putative phosphatase,CHONFCMC_00399,KGGMHOKE_00586,JPPLDLFD_00660
+ypdF,ypdF,Aminopeptidase YpdF,CHONFCMC_00255,KGGMHOKE_00441,JPPLDLFD_00460
+group_209,,hypothetical protein,CHONFCMC_00346,KGGMHOKE_00533,JPPLDLFD_00574
+group_207,,hypothetical protein,CHONFCMC_00540,KGGMHOKE_00720,JPPLDLFD_01060
+sigA,sigA,RNA polymerase sigma factor SigA,CHONFCMC_00384,KGGMHOKE_00571,JPPLDLFD_00279
+ypsC,ypsC,Putative RNA methyltransferase YpsC,CHONFCMC_00511,KGGMHOKE_00691,JPPLDLFD_00157
+mnmA,mnmA,tRNA-specific 2-thiouridylase MnmA,CHONFCMC_00719,KGGMHOKE_00981,JPPLDLFD_01395
+group_203,,hypothetical protein,CHONFCMC_00231,KGGMHOKE_00417,JPPLDLFD_01049
+group_202,,Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase,CHONFCMC_00163,KGGMHOKE_00411,JPPLDLFD_01055
+group_201,,hypothetical protein,CHONFCMC_00161,KGGMHOKE_00409,JPPLDLFD_01015
+group_199,,hypothetical protein,CHONFCMC_00116,KGGMHOKE_00032,JPPLDLFD_00728
+ftsY,ftsY,Signal recognition particle receptor FtsY,CHONFCMC_00290,KGGMHOKE_00477,JPPLDLFD_00496
+mnaA,mnaA,UDP-N-acetylglucosamine 2-epimerase,CHONFCMC_00146,KGGMHOKE_00074,JPPLDLFD_01030
+iscS_2,iscS_2,Cysteine desulfurase IscS,CHONFCMC_00755,KGGMHOKE_01017,JPPLDLFD_01360
+iscS_1,iscS_1,Cysteine desulfurase IscS,CHONFCMC_00721,KGGMHOKE_00983,JPPLDLFD_01393
+dnaJ,dnaJ,Chaperone protein DnaJ,CHONFCMC_00331,KGGMHOKE_00518,JPPLDLFD_00559
+galK_2,galK_2,Galactokinase,CHONFCMC_00854,KGGMHOKE_00271,JPPLDLFD_00439
+cfa,cfa,Cyclopropane-fatty-acyl-phospholipid synthase,CHONFCMC_00306,KGGMHOKE_00493,JPPLDLFD_00512
+group_172,,hypothetical protein,CHONFCMC_00249,KGGMHOKE_00435,JPPLDLFD_00453
+ftsW,ftsW,putative peptidoglycan glycosyltransferase FtsW,CHONFCMC_00710,KGGMHOKE_00971,JPPLDLFD_01404
+group_170,,hypothetical protein,CHONFCMC_00242,KGGMHOKE_00428,JPPLDLFD_00446
+group_168,,hypothetical protein,CHONFCMC_00742,KGGMHOKE_01005,JPPLDLFD_01372
+tuf,tuf,Elongation factor Tu,CHONFCMC_00698,KGGMHOKE_00959,JPPLDLFD_01416
+rodA,rodA,Peptidoglycan glycosyltransferase RodA,CHONFCMC_00763,KGGMHOKE_01025,JPPLDLFD_01352
+cca,cca,CCA-adding enzyme,CHONFCMC_00643,KGGMHOKE_00868,JPPLDLFD_00951
+ackA_1,ackA_1,Acetate kinase,CHONFCMC_00800,KGGMHOKE_01063,JPPLDLFD_01315
+rps1,rps1,Small ribosomal subunit protein bS1,CHONFCMC_00659,KGGMHOKE_00885,JPPLDLFD_00934
+undec1A,undec1A,Cysteine/Cysteine sulfinic acid decarboxylase,CHONFCMC_00809,KGGMHOKE_01074,JPPLDLFD_01306
+pgk,pgk,Phosphoglycerate kinase,CHONFCMC_00839,KGGMHOKE_00286,JPPLDLFD_00424
+sbnD_1,sbnD_1,Staphyloferrin B transporter,CHONFCMC_00070,KGGMHOKE_01601,JPPLDLFD_00104
+group_164,,hypothetical protein,CHONFCMC_00104,KGGMHOKE_00017,JPPLDLFD_00076
+thiI,thiI,putative tRNA sulfurtransferase,CHONFCMC_00754,KGGMHOKE_01016,JPPLDLFD_01361
+nusA,nusA,Transcription termination/antitermination protein NusA,CHONFCMC_00319,KGGMHOKE_00506,JPPLDLFD_00525
+cpdA,cpdA,3'5'-cyclic adenosine monophosphate phosphodiesterase CpdA,CHONFCMC_00512,KGGMHOKE_00692,JPPLDLFD_00156
+rpsU,rpsU,Small ribosomal subunit protein bS21,CHONFCMC_00375,KGGMHOKE_00562,JPPLDLFD_00270
+niaP,niaP,Niacin transporter NiaP,CHONFCMC_00087,KGGMHOKE_01620,JPPLDLFD_00093
+group_154,,putative tautomerase.1,CHONFCMC_00248,KGGMHOKE_00434,JPPLDLFD_00452
+yfmL,yfmL,putative ATP-dependent RNA helicase YfmL,CHONFCMC_00143,KGGMHOKE_00071,JPPLDLFD_01143
+pepT_1,pepT_1,Peptidase T,CHONFCMC_00387,KGGMHOKE_00574,JPPLDLFD_00286
+rasP,rasP,Regulator of sigma-W protease RasP,CHONFCMC_00315,KGGMHOKE_00502,JPPLDLFD_00521
+group_152,,hypothetical protein,CHONFCMC_00766,KGGMHOKE_01028,JPPLDLFD_01349
+fpgS,fpgS,Folylpolyglutamate synthase,CHONFCMC_00748,KGGMHOKE_01011,JPPLDLFD_01366
+ypiA,ypiA,TPR repeat-containing protein YpiA,CHONFCMC_00656,KGGMHOKE_00882,JPPLDLFD_00937
+group_151,,hypothetical protein,CHONFCMC_00757,KGGMHOKE_01019,JPPLDLFD_01358
+clpX,clpX,ATP-dependent Clp protease ATP-binding subunit ClpX,CHONFCMC_00696,KGGMHOKE_00957,JPPLDLFD_01418
+group_150,,hypothetical protein,CHONFCMC_00392,KGGMHOKE_00579,JPPLDLFD_00653
+rpmB,rpmB,Large ribosomal subunit protein bL28,CHONFCMC_00276,KGGMHOKE_00462,JPPLDLFD_00481
+group_149,,hypothetical protein,0_refound_2_pseudo,KGGMHOKE_01066,2_refound_10_pseudo
+group_148,,hypothetical protein,CHONFCMC_00691,KGGMHOKE_00952,JPPLDLFD_01423
+rpmF,rpmF,Large ribosomal subunit protein bL32,CHONFCMC_00674,KGGMHOKE_00900,JPPLDLFD_00919
+sasA_1,sasA_1,Adaptive-response sensory-kinase SasA,CHONFCMC_00159,KGGMHOKE_00407,JPPLDLFD_01017
+obg,obg,GTPase Obg,CHONFCMC_00679,KGGMHOKE_00905,JPPLDLFD_00914
+pyrC,pyrC,Dihydroorotase,CHONFCMC_00406,KGGMHOKE_00595,JPPLDLFD_00667
+rarA_1,rarA_1,Replication-associated recombination protein A,CHONFCMC_00545,KGGMHOKE_00725,JPPLDLFD_00835
+hisS,hisS,Histidine--tRNA ligase,CHONFCMC_00367,KGGMHOKE_00554,JPPLDLFD_00262
+eno2_1,eno2_1,Enolase 2,CHONFCMC_00345,KGGMHOKE_00532,JPPLDLFD_00573
+psd_2,psd_2,Phosphatidylserine decarboxylase proenzyme,CHONFCMC_00077,KGGMHOKE_01610,JPPLDLFD_00097
+psd_1,psd_1,Phosphatidylserine decarboxylase proenzyme,CHONFCMC_00075,KGGMHOKE_01606,JPPLDLFD_00099
+group_140,,hypothetical protein,CHONFCMC_00672,KGGMHOKE_00898,JPPLDLFD_00921
+eno2_2,eno2_2,Enolase 2,CHONFCMC_00837,KGGMHOKE_00288,JPPLDLFD_00422
+group_138,,hypothetical protein,CHONFCMC_00798,KGGMHOKE_01061,JPPLDLFD_01317
+rarA_2,rarA_2,Replication-associated recombination protein A,CHONFCMC_00760,KGGMHOKE_01022,JPPLDLFD_01355
+asnS,asnS,Asparagine--tRNA ligase,CHONFCMC_00504,KGGMHOKE_00684,JPPLDLFD_00164
+der,der,GTPase Der,CHONFCMC_00658,KGGMHOKE_00884,JPPLDLFD_00935
+cspA,cspA,Cold shock-like protein CspA,CHONFCMC_00725,KGGMHOKE_00987,JPPLDLFD_01389
+group_137,,Oleate hydratase,CHONFCMC_00034,KGGMHOKE_01555,JPPLDLFD_01292
+group_135,,hypothetical protein,CHONFCMC_00071,KGGMHOKE_01602,JPPLDLFD_00103
+steT,steT,Serine/threonine exchanger SteT,CHONFCMC_00141,KGGMHOKE_00069,JPPLDLFD_01141
+atpH_2,atpH_2,ATP synthase subunit c,CHONFCMC_00775,KGGMHOKE_01037,JPPLDLFD_01340
+trmFO,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO,CHONFCMC_00634,KGGMHOKE_00859,JPPLDLFD_00961
+rsmB,rsmB,Ribosomal RNA small subunit methyltransferase B,CHONFCMC_00270,KGGMHOKE_00456,JPPLDLFD_00475
+rpoZ,rpoZ,DNA-directed RNA polymerase subunit omega,CHONFCMC_00267,KGGMHOKE_00453,JPPLDLFD_00472
+pepE_1,pepE_1,Aminopeptidase E,CHONFCMC_00238,KGGMHOKE_00424,JPPLDLFD_00442
+group_131,,hypothetical protein,CHONFCMC_00303,KGGMHOKE_00490,JPPLDLFD_00509
+group_129,,hypothetical protein,CHONFCMC_00764,KGGMHOKE_01026,JPPLDLFD_01351
+celB,celB,PTS system cellobiose-specific EIIC component,CHONFCMC_00144,KGGMHOKE_00072,JPPLDLFD_01144
+pyrP,pyrP,Uracil permease,CHONFCMC_00040,KGGMHOKE_01561,JPPLDLFD_00134
+rpoY,rpoY,DNA-directed RNA polymerase subunit epsilon,CHONFCMC_00713,KGGMHOKE_00974,JPPLDLFD_01401
+group_128,,hypothetical protein,CHONFCMC_00640,KGGMHOKE_00865,JPPLDLFD_00955
+pgi,pgi,Glucose-6-phosphate isomerase,CHONFCMC_00788,KGGMHOKE_01050,JPPLDLFD_01327
+group_126,,hypothetical protein,CHONFCMC_00340,KGGMHOKE_00527,JPPLDLFD_00568
+secG,secG,putative protein-export membrane protein SecG,CHONFCMC_00836,KGGMHOKE_00289,JPPLDLFD_00421
+group_124,,hypothetical protein,CHONFCMC_00768,KGGMHOKE_01030,JPPLDLFD_01347
+tig,tig,Trigger factor,CHONFCMC_00697,KGGMHOKE_00958,JPPLDLFD_01417
+murT,murT,Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT,CHONFCMC_00782,KGGMHOKE_01044,JPPLDLFD_01333
+group_121,,putative transporter,CHONFCMC_00684,KGGMHOKE_00910,JPPLDLFD_00909
+glmM,glmM,Phosphoglucosamine mutase,CHONFCMC_00817,KGGMHOKE_01082,JPPLDLFD_00401
+yclM,yclM,Aspartokinase 3,CHONFCMC_00424,KGGMHOKE_00613,JPPLDLFD_01103
+npr,npr,NADH peroxidase,CHONFCMC_00568,KGGMHOKE_00732,JPPLDLFD_00859
+acpP,acpP,Acyl carrier protein,CHONFCMC_00281,KGGMHOKE_00467,JPPLDLFD_00486
+xseB,xseB,Exodeoxyribonuclease 7 small subunit,CHONFCMC_00261,KGGMHOKE_00447,JPPLDLFD_00466
+group_118,,hypothetical protein,CHONFCMC_00103,KGGMHOKE_00016,JPPLDLFD_00077
+ftsA,ftsA,Cell division protein FtsA,CHONFCMC_00732,KGGMHOKE_00994,JPPLDLFD_01382
+group_116,,hypothetical protein,CHONFCMC_00302,KGGMHOKE_00489,JPPLDLFD_00508
+xseA,xseA,Exodeoxyribonuclease 7 large subunit,CHONFCMC_00260,KGGMHOKE_00446,JPPLDLFD_00465
+group_115,,hypothetical protein,CHONFCMC_00048,KGGMHOKE_01569,JPPLDLFD_00126
+ftsZ,ftsZ,Cell division protein FtsZ,CHONFCMC_00731,KGGMHOKE_00993,JPPLDLFD_01383
+group_114,,NADH:fumarate oxidoreductase,CHONFCMC_00356,KGGMHOKE_00543,JPPLDLFD_00251
+brnQ_2,brnQ_2,Branched-chain amino acid permease BrnQ,CHONFCMC_00597,KGGMHOKE_00760,JPPLDLFD_00987
+group_111,,hypothetical protein,CHONFCMC_00139,KGGMHOKE_00067,JPPLDLFD_01139
+hsrA,hsrA,putative transport protein HsrA,CHONFCMC_00787,KGGMHOKE_01049,JPPLDLFD_01328
+murD,murD,UDP-N-acetylmuramoylalanine--D-glutamate ligase,CHONFCMC_00735,KGGMHOKE_00998,JPPLDLFD_01379
+rpsT,rpsT,Small ribosomal subunit protein bS20,CHONFCMC_00702,KGGMHOKE_00963,JPPLDLFD_01412
+rsmF,rsmF,Ribosomal RNA small subunit methyltransferase F,CHONFCMC_00396,KGGMHOKE_00583,JPPLDLFD_00657
+clpY,clpY,ATP-dependent protease ATPase subunit ClpY,CHONFCMC_00631,KGGMHOKE_00856,JPPLDLFD_00964
+yflS,yflS,Putative malate transporter YflS,CHONFCMC_00055,KGGMHOKE_01577,JPPLDLFD_00119
+gatC_1,gatC_1,PTS system galactitol-specific EIIC component,CHONFCMC_00047,KGGMHOKE_01568,JPPLDLFD_00127
+pepDA_1,pepDA_1,Dipeptidase A,CHONFCMC_00291,KGGMHOKE_00478,JPPLDLFD_00497
+fumC,fumC,Fumarate hydratase class II,CHONFCMC_00355,KGGMHOKE_00542,JPPLDLFD_00250
+lacG_1,lacG_1,6-phospho-beta-galactosidase,CHONFCMC_00052,KGGMHOKE_01574,JPPLDLFD_00122
+rpsP,rpsP,Small ribosomal subunit protein bS16,CHONFCMC_00294,KGGMHOKE_00481,JPPLDLFD_00500
+ffh,ffh,Signal recognition particle protein,CHONFCMC_00293,KGGMHOKE_00480,JPPLDLFD_00499
+hup,hup,DNA-binding protein HU,CHONFCMC_00657,KGGMHOKE_00883,JPPLDLFD_00936
+atpD,atpD,ATP synthase subunit beta,CHONFCMC_00770,KGGMHOKE_01032,JPPLDLFD_01345
+ycaM_2,ycaM_2,Inner membrane transporter YcaM,CHONFCMC_00843,KGGMHOKE_00282,JPPLDLFD_00428
+ctpA,ctpA,Carboxy-terminal processing protease CtpA,CHONFCMC_00639,KGGMHOKE_00864,JPPLDLFD_00956
+sasA_2,sasA_2,Adaptive-response sensory-kinase SasA,CHONFCMC_00791,KGGMHOKE_01053,JPPLDLFD_01324
+galT,galT,Galactose-1-phosphate uridylyltransferase,CHONFCMC_00853,KGGMHOKE_00272,JPPLDLFD_00438
+mdtP_2,mdtP_2,Multidrug transporter protein MdtP,CHONFCMC_00234,KGGMHOKE_00420,JPPLDLFD_01046
+thrC,thrC,Threonine synthase,CHONFCMC_00426,KGGMHOKE_00615,JPPLDLFD_01101
+cls_1,cls_1,Cardiolipin synthase,CHONFCMC_00337,KGGMHOKE_00524,JPPLDLFD_00565
+dtpT,dtpT,Di-/tripeptide transporter,CHONFCMC_00086,KGGMHOKE_01619,JPPLDLFD_00094
+vmlR_1,vmlR_1,Ribosome protection protein VmlR,CHONFCMC_00326,KGGMHOKE_00513,JPPLDLFD_00532
+yjeM,yjeM,Inner membrane transporter YjeM,CHONFCMC_00336,KGGMHOKE_00523,JPPLDLFD_00564
+atpA,atpA,ATP synthase subunit alpha,CHONFCMC_00772,KGGMHOKE_01034,JPPLDLFD_01343
+group_96,,Putative membrane protein insertion efficiency factor,CHONFCMC_00765,KGGMHOKE_01027,JPPLDLFD_01350
+group_93,,hypothetical protein,CHONFCMC_00594,KGGMHOKE_00757,JPPLDLFD_00990
+group_92,,hypothetical protein,CHONFCMC_00265,KGGMHOKE_00451,JPPLDLFD_00470
+comGC,comGC,Competence protein ComGC,CHONFCMC_00804,KGGMHOKE_01068,JPPLDLFD_01311
+group_89,,hypothetical protein,CHONFCMC_00729,KGGMHOKE_00991,JPPLDLFD_01385
+group_88,,hypothetical protein,CHONFCMC_00126,KGGMHOKE_00042,JPPLDLFD_00717
+group_87,,hypothetical protein,CHONFCMC_00320,KGGMHOKE_00507,JPPLDLFD_00526
+rpmA,rpmA,Large ribosomal subunit protein bL27,CHONFCMC_00254,KGGMHOKE_00440,JPPLDLFD_00459
+egtUBC,egtUBC,putative ergothioneine transporter EgtUBC,CHONFCMC_00155,KGGMHOKE_00403,JPPLDLFD_01022
+cpdB,cpdB,2'3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase,CHONFCMC_00673,KGGMHOKE_00899,JPPLDLFD_00920
+group_84,,hypothetical protein,CHONFCMC_00321,KGGMHOKE_00508,JPPLDLFD_00527
+rplU,rplU,Large ribosomal subunit protein bL21,CHONFCMC_00253,KGGMHOKE_00439,JPPLDLFD_00458
+group_83,,hypothetical protein,CHONFCMC_00400,KGGMHOKE_00587,JPPLDLFD_00661
+group_82,,hypothetical protein,CHONFCMC_00046,KGGMHOKE_01567,JPPLDLFD_00128
+ybiT,ybiT,putative ATP-binding protein YbiT,CHONFCMC_00347,KGGMHOKE_00534,JPPLDLFD_00575
+ycaM_1,ycaM_1,Inner membrane transporter YcaM,CHONFCMC_00069,KGGMHOKE_01600,JPPLDLFD_00105
+rnj1,rnj1,Ribonuclease J 1,CHONFCMC_00714,KGGMHOKE_00975,JPPLDLFD_01400
+group_78,,putative protein,CHONFCMC_00278,KGGMHOKE_00464,JPPLDLFD_00483
+group_77,,hypothetical protein,CHONFCMC_00675,KGGMHOKE_00901,JPPLDLFD_00918
+alsS,alsS,Acetolactate synthase,CHONFCMC_00611,KGGMHOKE_00835,JPPLDLFD_00978
+group_76,,hypothetical protein,CHONFCMC_00397,KGGMHOKE_00584,JPPLDLFD_00658
+fhs1,fhs1,Formate--tetrahydrofolate ligase 1,CHONFCMC_00515,KGGMHOKE_00695,JPPLDLFD_00153
+recN,recN,DNA repair protein RecN,CHONFCMC_00264,KGGMHOKE_00450,JPPLDLFD_00469
+rqcH,rqcH,Rqc2 RqcH,CHONFCMC_00520,KGGMHOKE_00700,JPPLDLFD_00148
+group_74,,hypothetical protein,CHONFCMC_00361,KGGMHOKE_00548,JPPLDLFD_00256
+proS,proS,Proline--tRNA ligase,CHONFCMC_00316,KGGMHOKE_00503,JPPLDLFD_00522
+ade,ade,Adenine deaminase,CHONFCMC_00063,KGGMHOKE_01594,JPPLDLFD_00111
+pgcA,pgcA,Phosphoglucomutase,CHONFCMC_00851,KGGMHOKE_00274,JPPLDLFD_00436
+group_73,,hypothetical protein,CHONFCMC_00741,KGGMHOKE_01004,JPPLDLFD_01373
+group_72,,hypothetical protein,CHONFCMC_00720,KGGMHOKE_00982,JPPLDLFD_01394
+group_71,,hypothetical protein,CHONFCMC_00709,KGGMHOKE_00970,JPPLDLFD_01405
+ezrA,ezrA,Septation ring formation regulator EzrA,CHONFCMC_00756,KGGMHOKE_01018,JPPLDLFD_01359
+group_69,,putative ABC transporter ATP-binding protein,CHONFCMC_00090,KGGMHOKE_00003,JPPLDLFD_00090
+oppA_1,oppA_1,Oligopeptide-binding protein OppA,CHONFCMC_00236,KGGMHOKE_00422,JPPLDLFD_01044
+group_64,,hypothetical protein,CHONFCMC_00292,KGGMHOKE_00479,JPPLDLFD_00498
+group_62,,hypothetical protein,CHONFCMC_00128,KGGMHOKE_00057,JPPLDLFD_00715
+yheI_1,yheI_1,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI,CHONFCMC_00304,KGGMHOKE_00491,JPPLDLFD_00510
+pyk,pyk,Pyruvate kinase,CHONFCMC_00669,KGGMHOKE_00895,JPPLDLFD_00924
+group_61,,putative ABC transporter ATP-binding protein,CHONFCMC_00091,KGGMHOKE_00004,JPPLDLFD_00089
+rnj2,rnj2,Ribonuclease J 2,CHONFCMC_00700,KGGMHOKE_00961,JPPLDLFD_01414
+group_60,,hypothetical protein,CHONFCMC_00514,KGGMHOKE_00694,JPPLDLFD_00154
+yheH,yheH,putative multidrug resistance ABC transporter ATP-binding/permease protein YheH,CHONFCMC_00305,KGGMHOKE_00492,JPPLDLFD_00511
+group_58,,hypothetical protein,CHONFCMC_00054,KGGMHOKE_01576,JPPLDLFD_00120
+rplS,rplS,Large ribosomal subunit protein bL19,CHONFCMC_00297,KGGMHOKE_00484,JPPLDLFD_00503
+uvrC,uvrC,UvrABC system protein C,CHONFCMC_00680,KGGMHOKE_00906,JPPLDLFD_00913
+glmS,glmS,Glutamine--fructose-6-phosphate aminotransferase [isomerizing],CHONFCMC_00228,KGGMHOKE_00414,JPPLDLFD_01052
+dnaG,dnaG,DNA primase,CHONFCMC_00383,KGGMHOKE_00570,JPPLDLFD_00278
+bipA,bipA,Large ribosomal subunit assembly factor BipA,CHONFCMC_00711,KGGMHOKE_00972,JPPLDLFD_01403
+lepA_2,lepA_2,Elongation factor 4,CHONFCMC_00332,KGGMHOKE_00519,JPPLDLFD_00560
+mgsR,mgsR,Regulatory protein MgsR,CHONFCMC_00252,KGGMHOKE_00438,JPPLDLFD_00457
+lacF_1,lacF_1,PTS system lactose-specific EIIA component,CHONFCMC_00050,KGGMHOKE_01571,JPPLDLFD_00124
+aspS,aspS,Aspartate--tRNA ligase,CHONFCMC_00368,KGGMHOKE_00555,JPPLDLFD_00263
+dnaK,dnaK,Chaperone protein DnaK,CHONFCMC_00330,KGGMHOKE_00517,JPPLDLFD_00558
+fluC2,fluC2,Fluoride-specific ion channel FluC 2,CHONFCMC_00814,KGGMHOKE_01079,JPPLDLFD_00398
+ftsL_1,ftsL_1,Cell division protein FtsL,CHONFCMC_00738,KGGMHOKE_01001,JPPLDLFD_01376
+ribT,ribT,Protein RibT,CHONFCMC_00666,KGGMHOKE_00892,JPPLDLFD_00927
+group_54,,putative protein,CHONFCMC_00277,KGGMHOKE_00463,JPPLDLFD_00482
+group_51,,hypothetical protein,CHONFCMC_00237,KGGMHOKE_00423,JPPLDLFD_00441
+oatA,oatA,Peptidoglycan O-acetyltransferase OatA,CHONFCMC_00678,KGGMHOKE_00904,JPPLDLFD_00915
+group_50,,hypothetical protein,CHONFCMC_00100,KGGMHOKE_00013,JPPLDLFD_00080
+ytrA,ytrA,HTH-type transcriptional repressor YtrA,CHONFCMC_00388,KGGMHOKE_00575,JPPLDLFD_00649
+rbfA,rbfA,Ribosome-binding factor A,CHONFCMC_00323,KGGMHOKE_00510,JPPLDLFD_00529
+parE,parE,DNA topoisomerase IV subunit B ParE,CHONFCMC_00532,KGGMHOKE_00712,JPPLDLFD_01068
+prkC,prkC,Serine/threonine-protein kinase PrkC,CHONFCMC_00272,KGGMHOKE_00458,JPPLDLFD_00477
+ytcD,ytcD,putative HTH-type transcriptional regulator YtcD,CHONFCMC_00595,KGGMHOKE_00758,JPPLDLFD_00989
+group_48,,hypothetical protein,CHONFCMC_00364,KGGMHOKE_00551,JPPLDLFD_00259
+uvrB_1,uvrB_1,UvrABC system protein B,CHONFCMC_00850,KGGMHOKE_00275,JPPLDLFD_00435
+recG,recG,ATP-dependent DNA helicase RecG,CHONFCMC_00279,KGGMHOKE_00465,JPPLDLFD_00484
+fluC1,fluC1,Fluoride-specific ion channel FluC 1,CHONFCMC_00815,KGGMHOKE_01080,JPPLDLFD_00399
+glyS,glyS,Glycine--tRNA ligase beta subunit,CHONFCMC_00382,KGGMHOKE_00569,JPPLDLFD_00277
+group_42,,hypothetical protein,CHONFCMC_00793,KGGMHOKE_01055,JPPLDLFD_01322
+topA,topA,DNA topoisomerase 1,CHONFCMC_00635,KGGMHOKE_00860,JPPLDLFD_00960
+pbpB,pbpB,Penicillin-binding protein 2B,CHONFCMC_00737,KGGMHOKE_01000,JPPLDLFD_01377
+comA_2,comA_2,Transport/processing ATP-binding protein ComA,CHONFCMC_00107,KGGMHOKE_00020,JPPLDLFD_00739
+ltaS2,ltaS2,Lipoteichoic acid synthase 2,CHONFCMC_00790,KGGMHOKE_01052,JPPLDLFD_01325
+nusB,nusB,Transcription antitermination protein NusB,CHONFCMC_00258,KGGMHOKE_00444,JPPLDLFD_00463
+relA,relA,GTP pyrophosphokinase,CHONFCMC_00365,KGGMHOKE_00552,JPPLDLFD_00260
+kdpB,kdpB,Potassium-transporting ATPase ATP-binding subunit,CHONFCMC_00341,KGGMHOKE_00528,JPPLDLFD_00569
+recJ,recJ,Single-stranded-DNA-specific exonuclease RecJ,CHONFCMC_00334,KGGMHOKE_00521,JPPLDLFD_00562
+group_36,,hypothetical protein,CHONFCMC_00704,KGGMHOKE_00965,JPPLDLFD_01410
+rnr,rnr,Ribonuclease R,CHONFCMC_00835,KGGMHOKE_00290,JPPLDLFD_00420
+group_34,,hypothetical protein,CHONFCMC_00521,KGGMHOKE_00701,JPPLDLFD_00147
+group_33,,hypothetical protein,CHONFCMC_00156,KGGMHOKE_00404,JPPLDLFD_01021
+recD2,recD2,ATP-dependent RecD2 DNA helicase,CHONFCMC_00716,KGGMHOKE_00978,JPPLDLFD_01398
+mtgA_1,mtgA_1,Biosynthetic peptidoglycan transglycosylase,CHONFCMC_00507,KGGMHOKE_00687,JPPLDLFD_00161
+pepX,pepX,Xaa-Pro dipeptidyl-peptidase,CHONFCMC_00160,KGGMHOKE_00408,JPPLDLFD_01016
+priA,priA,Replication restart protein PriA,CHONFCMC_00268,KGGMHOKE_00454,JPPLDLFD_00473
+xpkA,xpkA,Xylulose-5-phosphate phosphoketolase,CHONFCMC_00136,KGGMHOKE_00064,JPPLDLFD_00708
+group_31,,hypothetical protein,CHONFCMC_00803,KGGMHOKE_01067,JPPLDLFD_01312
+ctpE,ctpE,Calcium-transporting ATPase CtpE,CHONFCMC_00360,KGGMHOKE_00547,JPPLDLFD_00255
+parC,parC,DNA topoisomerase IV subunit A ParC,CHONFCMC_00531,KGGMHOKE_00711,JPPLDLFD_01069
+group_30,,hypothetical protein,CHONFCMC_00229,KGGMHOKE_00415,JPPLDLFD_01051
+uvrA_1,uvrA_1,UvrABC system protein A,CHONFCMC_00579,KGGMHOKE_00742,JPPLDLFD_00861
+pepN,pepN,Aminopeptidase N,CHONFCMC_00162,KGGMHOKE_00410,JPPLDLFD_01056
+valS,valS,Valine--tRNA ligase,CHONFCMC_00749,KGGMHOKE_01012,JPPLDLFD_01365
+lepA_1,lepA_1,Elongation factor 4,CHONFCMC_00322,KGGMHOKE_00509,JPPLDLFD_00528
+group_25,,hypothetical protein,CHONFCMC_00299,KGGMHOKE_00486,JPPLDLFD_00505
+lacA,lacA,Galactose-6-phosphate isomerase subunit LacA,CHONFCMC_00042,KGGMHOKE_01563,JPPLDLFD_00132
+group_24,,hypothetical protein,CHONFCMC_00035,KGGMHOKE_01556,JPPLDLFD_00138
+mraZ,mraZ,Transcriptional regulator MraZ,CHONFCMC_00740,KGGMHOKE_01003,JPPLDLFD_01374
+mgtA,mgtA,Magnesium-transporting ATPase P-type 1,CHONFCMC_00578,KGGMHOKE_00741,JPPLDLFD_00860
+ppc,ppc,Phosphoenolpyruvate carboxylase,CHONFCMC_00411,KGGMHOKE_00600,JPPLDLFD_00672
+group_20,,hypothetical protein,CHONFCMC_00072,KGGMHOKE_01603,JPPLDLFD_00102
+ileS,ileS,isoleucine--tRNA ligase IleS,CHONFCMC_00726,KGGMHOKE_00988,JPPLDLFD_01388
+pacL,pacL,Calcium-transporting ATPase,CHONFCMC_00115,KGGMHOKE_00031,JPPLDLFD_00729
+dinG_1,dinG_1,3'-5' exonuclease DinG,CHONFCMC_00502,KGGMHOKE_00682,JPPLDLFD_00166
+uvrA_2,uvrA_2,UvrABC system protein A,CHONFCMC_00849,KGGMHOKE_00276,JPPLDLFD_00434
+sepF,sepF,Cell division protein SepF,CHONFCMC_00730,KGGMHOKE_00992,JPPLDLFD_01384
+gpsB_1,gpsB_1,Cell cycle adapter protein GpsB,CHONFCMC_00510,KGGMHOKE_00690,JPPLDLFD_00158
+dtd,dtd,D-aminoacyl-tRNA deacylase,CHONFCMC_00366,KGGMHOKE_00553,JPPLDLFD_00261
+dnaE,dnaE,DNA polymerase III subunit alpha,CHONFCMC_00671,KGGMHOKE_00897,JPPLDLFD_00922
+carB_2,carB_2,Carbamoyl phosphate synthase large chain,CHONFCMC_00519,KGGMHOKE_00699,JPPLDLFD_00149
+carB_1,carB_1,Carbamoyl phosphate synthase large chain,CHONFCMC_00408,KGGMHOKE_00597,JPPLDLFD_00669
+group_18,,hypothetical protein,CHONFCMC_00786,KGGMHOKE_01048,JPPLDLFD_01329
+atpC,atpC,ATP synthase epsilon chain,CHONFCMC_00769,KGGMHOKE_01031,JPPLDLFD_01346
+addB,addB,ATP-dependent helicase/deoxyribonuclease subunit B,CHONFCMC_00500,KGGMHOKE_00680,JPPLDLFD_00168
+smc_1,smc_1,Chromosome partition protein Smc,CHONFCMC_00289,KGGMHOKE_00476,JPPLDLFD_00495
+group_16,,hypothetical protein,CHONFCMC_00089,KGGMHOKE_00002,JPPLDLFD_00091
+addA,addA,ATP-dependent helicase/nuclease subunit A,CHONFCMC_00501,KGGMHOKE_00681,JPPLDLFD_00167
+yqeY,yqeY,putative protein YqeY,CHONFCMC_00376,KGGMHOKE_00563,JPPLDLFD_00271
+polC_1,polC_1,DNA polymerase III PolC-type,CHONFCMC_00317,KGGMHOKE_00504,JPPLDLFD_00523
+group_15,,putative protein,CHONFCMC_00257,KGGMHOKE_00443,JPPLDLFD_00462
+group_14,,Flavodoxin,CHONFCMC_00148,KGGMHOKE_00076,JPPLDLFD_01028
+tagU_2~~~tagU_1,tagU_2;tagU_1,Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU,CHONFCMC_00687,KGGMHOKE_00948,JPPLDLFD_01427
+mdtP_1,mdtP_1,Multidrug transporter protein MdtP,CHONFCMC_00006,KGGMHOKE_01526,JPPLDLFD_00794
+group_11,,hypothetical protein,CHONFCMC_00025,KGGMHOKE_01545,JPPLDLFD_00774
+bmr3_1,bmr3_1,Multidrug resistance protein 3,CHONFCMC_00030,KGGMHOKE_01550,JPPLDLFD_00769
+uup_6~~~uup_1,uup_6;uup_1,ATP-binding protein Uup,CHONFCMC_00033,KGGMHOKE_01553,JPPLDLFD_01289
+msrC,msrC,Free methionine-R-sulfoxide reductase,CHONFCMC_00024,KGGMHOKE_01544,JPPLDLFD_00775
+group_10,,hypothetical protein,CHONFCMC_00022,KGGMHOKE_01542,JPPLDLFD_00778
+group_8,,hypothetical protein,CHONFCMC_00010,KGGMHOKE_01530,JPPLDLFD_00790
+group_7,,hypothetical protein,CHONFCMC_00007,KGGMHOKE_01527,JPPLDLFD_00793
+nnrD,nnrD,ADP-dependent (S)-NAD(P)H-hydrate dehydratase,CHONFCMC_00012,KGGMHOKE_01532,JPPLDLFD_00788
+leuS,leuS,Leucine--tRNA ligase,CHONFCMC_00008,KGGMHOKE_01528,JPPLDLFD_00792
+hpt_1,hpt_1,Hypoxanthine-guanine phosphoribosyltransferase,CHONFCMC_00021,KGGMHOKE_01541,JPPLDLFD_00779
+group_6,,hypothetical protein,CHONFCMC_00027,KGGMHOKE_01547,JPPLDLFD_00772
+group_5,,hypothetical protein,CHONFCMC_00017,KGGMHOKE_01537,JPPLDLFD_00783
+dacA,dacA,D-alanyl-D-alanine carboxypeptidase DacA,CHONFCMC_00014,KGGMHOKE_01534,JPPLDLFD_00786
+uup_5~~~comA_1~~~uup_9,uup_5;comA_1;uup_9,ATP-binding protein Uup;Transport/processing ATP-binding protein ComA,CHONFCMC_00032,KGGMHOKE_01552,JPPLDLFD_01288
+group_4,,hypothetical protein,CHONFCMC_00028,KGGMHOKE_01548,JPPLDLFD_00771
+tag,tag,DNA-3-methyladenine glycosylase 1,CHONFCMC_00026,KGGMHOKE_01546,JPPLDLFD_00773
+group_3,,hypothetical protein,CHONFCMC_00020,KGGMHOKE_01540,JPPLDLFD_00780
+group_2,,hypothetical protein,CHONFCMC_00013,KGGMHOKE_01533,JPPLDLFD_00787
+yhfK,;yhfK,hypothetical protein;putative sugar epimerase YhfK,CHONFCMC_00023,KGGMHOKE_01543,JPPLDLFD_00776;JPPLDLFD_00777
+murJ,murJ,Lipid II flippase MurJ,CHONFCMC_00009,KGGMHOKE_01529,JPPLDLFD_00791
+group_1,,hypothetical protein,CHONFCMC_00011,KGGMHOKE_01531,JPPLDLFD_00789
+argS,argS,Arginine--tRNA ligase,CHONFCMC_00015,KGGMHOKE_01535,JPPLDLFD_00785
+metK,metK,S-adenosylmethionine synthase,CHONFCMC_00005,KGGMHOKE_01525,JPPLDLFD_00795
+fba,fba,Fructose-bisphosphate aldolase,CHONFCMC_00016,KGGMHOKE_01536,JPPLDLFD_00784
+bmr3_2,bmr3_2,Multidrug resistance protein 3,CHONFCMC_00031,KGGMHOKE_01551,JPPLDLFD_00768
+group_0,,hypothetical protein,CHONFCMC_00019,KGGMHOKE_01539,JPPLDLFD_00781
+gla,gla,Glycerol facilitator-aquaporin gla,CHONFCMC_00029,KGGMHOKE_01549,JPPLDLFD_00770
+yjaB,yjaB;,Peptidyl-lysine N-acetyltransferase YjaB;hypothetical protein,CHONFCMC_00018,KGGMHOKE_01538,JPPLDLFD_00782
+group_887,,hypothetical protein,,KGGMHOKE_00352,JPPLDLFD_00645
+group_884,,hypothetical protein,,KGGMHOKE_00351,JPPLDLFD_00646
+natA,natA,ABC transporter ATP-binding protein NatA,,KGGMHOKE_00350,JPPLDLFD_00647
+group_876,,hypothetical protein,CHONFCMC_01779,,JPPLDLFD_00228
+group_860,,hypothetical protein,,KGGMHOKE_00349,JPPLDLFD_00648
+group_825,,hypothetical protein,,KGGMHOKE_01764,JPPLDLFD_01522
+group_819,,putative phosphotransferase enzyme IIB component,CHONFCMC_01649,KGGMHOKE_01771,
+chbG,chbG,Chitooligosaccharide deacetylase,CHONFCMC_01652,KGGMHOKE_01768,
+group_811,agaC,N-acetylgalactosamine permease IIC component 1,CHONFCMC_01650,KGGMHOKE_01770,
+manZ_6,manZ_6,PTS system mannose-specific EIID component,CHONFCMC_01651,KGGMHOKE_01769,
+rpoN,rpoN,RNA polymerase sigma-54 factor,CHONFCMC_01646,KGGMHOKE_01774,
+norR,norR,Anaerobic nitric oxide reductase transcription regulator NorR,CHONFCMC_01647,KGGMHOKE_01773,
+group_797,,hypothetical protein,CHONFCMC_01648,KGGMHOKE_01772,
+group_785,,hypothetical protein,,KGGMHOKE_01131,JPPLDLFD_00678
+group_774,,hypothetical protein,,KGGMHOKE_01142,JPPLDLFD_00870
+group_769,,hypothetical protein,CHONFCMC_01571,KGGMHOKE_01153,
+group_767,,hypothetical protein,,KGGMHOKE_01141,JPPLDLFD_00871
+group_760,,hypothetical protein,,KGGMHOKE_01147,JPPLDLFD_00865
+group_759,,hypothetical protein,,KGGMHOKE_01148,JPPLDLFD_01287
+bcrA_2,bcrA_2,Bacitracin transport ATP-binding protein BcrA,CHONFCMC_01507,KGGMHOKE_01220,
+group_749,,hypothetical protein,CHONFCMC_01331,,JPPLDLFD_01845
+group_737,,hypothetical protein,CHONFCMC_01508,KGGMHOKE_01219,
+group_713,,hypothetical protein,CHONFCMC_01351,KGGMHOKE_01668,
+group_707,,hypothetical protein,CHONFCMC_01419,,JPPLDLFD_01722
+group_704,,hypothetical protein,,KGGMHOKE_01645,JPPLDLFD_01679
+group_693,,hypothetical protein,CHONFCMC_01323,KGGMHOKE_01698,
+group_672,,hypothetical protein,CHONFCMC_01509,KGGMHOKE_01217;KGGMHOKE_01218,
+group_662,,hypothetical protein,CHONFCMC_01281;CHONFCMC_01282,KGGMHOKE_01904,
+smc_2,smc_2,Chromosome partition protein Smc,CHONFCMC_01327,KGGMHOKE_01694,
+sorB_2,sorB_2,PTS system sorbose-specific EIIB component,CHONFCMC_01127,KGGMHOKE_00312,
+bglK_2~~~bglK_1,;bglK_2;bglK_1,hypothetical protein;Beta-glucoside kinase,,KGGMHOKE_01797;KGGMHOKE_01796,JPPLDLFD_01576
+gtfA_2,gtfA_2,Sucrose phosphorylase,CHONFCMC_01148,KGGMHOKE_01811,
+yfeW,yfeW,Putative D-alanyl-D-alanine carboxypeptidase,CHONFCMC_01128,KGGMHOKE_00311,
+rhaR,rhaR,HTH-type transcriptional activator RhaR,,KGGMHOKE_01801,JPPLDLFD_01572
+uup_2,uup_2,ATP-binding protein Uup,,KGGMHOKE_00228,JPPLDLFD_00032
+group_618,,hypothetical protein,,KGGMHOKE_01800,JPPLDLFD_01573
+group_613,,hypothetical protein,,KGGMHOKE_01799,JPPLDLFD_01574
+group_610,,hypothetical protein,,KGGMHOKE_00249,JPPLDLFD_01629
+group_604,,hypothetical protein,CHONFCMC_01101,,JPPLDLFD_01620
+group_597,,hypothetical protein,,KGGMHOKE_00251,JPPLDLFD_01628
+degA,;degA,hypothetical protein;HTH-type transcriptional regulator DegA,CHONFCMC_01149,KGGMHOKE_01812;KGGMHOKE_01813,
+nagZ,nagZ,Beta-hexosaminidase,CHONFCMC_01124,KGGMHOKE_00315,
+pepO_2,pepO_2,Neutral endopeptidase,CHONFCMC_01157,KGGMHOKE_01822,
+manZ_3,manZ_3,PTS system mannose-specific EIID component,CHONFCMC_01126,KGGMHOKE_00313,
+group_583,,hypothetical protein,CHONFCMC_01156,KGGMHOKE_01821,
+group_582,,hypothetical protein,,KGGMHOKE_01798,JPPLDLFD_01575
+group_579,,hypothetical protein,,KGGMHOKE_01832,JPPLDLFD_01548
+sorC,sorC,PTS system sorbose-specific EIIC component,CHONFCMC_01125,KGGMHOKE_00314,
+group_513,,hypothetical protein,,KGGMHOKE_01395,JPPLDLFD_01273
+mdtD,;mdtD,hypothetical protein;Putative multidrug resistance protein MdtD,CHONFCMC_00950,,JPPLDLFD_01243
+dpaL,dpaL,Diaminopropionate ammonia-lyase,CHONFCMC_00949,KGGMHOKE_01427,
+group_495,,hypothetical protein,,KGGMHOKE_01393,JPPLDLFD_00742
+group_493,,hypothetical protein,,KGGMHOKE_01390,JPPLDLFD_00745
+group_488,,hypothetical protein,,KGGMHOKE_01389,JPPLDLFD_00746
+group_473,,hypothetical protein,,KGGMHOKE_01388,JPPLDLFD_00747
+res,res,Type III restriction-modification enzyme EcoP15I Res subunit,,KGGMHOKE_01392,JPPLDLFD_00743
+gmuR_2,gmuR_2;,HTH-type transcriptional regulator GmuR;hypothetical protein,CHONFCMC_00962,,JPPLDLFD_01244
+ribH,ribH,67-dimethyl-8-ribityllumazine synthase,CHONFCMC_00567,,JPPLDLFD_00858
+sorB_1,sorB_1,PTS system sorbose-specific EIIB component,CHONFCMC_00079,KGGMHOKE_01612,
+group_416,,hypothetical protein,CHONFCMC_00557,,JPPLDLFD_00848
+ogt_1,ogt_1,Methylated-DNA--protein-cysteine methyltransferase,CHONFCMC_00552,,JPPLDLFD_00843
+group_412,,hypothetical protein,,KGGMHOKE_00874,JPPLDLFD_00946
+ykwC_2,ykwC_2,putative oxidoreductase YkwC,CHONFCMC_00556,,JPPLDLFD_00847
+group_410,,hypothetical protein,CHONFCMC_00559,,JPPLDLFD_00850
+rfbC,rfbC,dTDP-4-dehydrorhamnose 35-epimerase,,KGGMHOKE_00927,JPPLDLFD_00894
+aadR,aadR,Transcriptional activatory protein AadR,CHONFCMC_00558,,JPPLDLFD_00849
+group_393,,hypothetical protein,,KGGMHOKE_00914,JPPLDLFD_00905
+ydfK,ydfK,putative membrane protein YdfK,CHONFCMC_00416,KGGMHOKE_00605,
+group_372,,hypothetical protein,CHONFCMC_00796,KGGMHOKE_01058,
+ywqE,ywqE,Tyrosine-protein phosphatase YwqE,,KGGMHOKE_00945,JPPLDLFD_01430
+sorA_1,sorA_1,PTS system sorbose-specific EIIC component,CHONFCMC_00080,KGGMHOKE_01613,
+group_356,,hypothetical protein,CHONFCMC_00651,KGGMHOKE_00878,
+group_354,,hypothetical protein,CHONFCMC_00476,,JPPLDLFD_00194
+claer,cla-er,CLA biosynthesis enone reductase,CHONFCMC_00452,,JPPLDLFD_01098
+group_348,,hypothetical protein,CHONFCMC_00616,KGGMHOKE_00840,
+group_347,,hypothetical protein,CHONFCMC_00482,KGGMHOKE_00660,
+sftI,sftI,Sulfoquinovose isomerase,CHONFCMC_00433,KGGMHOKE_00622,
+group_346,,hypothetical protein,CHONFCMC_00615,KGGMHOKE_00839,
+group_342,,hypothetical protein,CHONFCMC_00618,KGGMHOKE_00843,
+group_341,,hypothetical protein,CHONFCMC_00653;CHONFCMC_00654,KGGMHOKE_00880,
+galR~~~purR_1,galR;purR_1,HTH-type transcriptional regulator GalR;HTH-type transcriptional repressor PurR,CHONFCMC_00432,KGGMHOKE_00621,
+manZ_1,manZ_1,PTS system mannose-specific EIID component,CHONFCMC_00081,KGGMHOKE_01614,
+group_339,,hypothetical protein,CHONFCMC_00459;CHONFCMC_00460,KGGMHOKE_00639,
+htpX_1~~~htpX_2,htpX_1;htpX_2,Protease HtpX,,KGGMHOKE_00918;KGGMHOKE_00919,JPPLDLFD_00902
+group_338,,hypothetical protein,CHONFCMC_00603,KGGMHOKE_00828;KGGMHOKE_00767,
+group_335,,hypothetical protein,,KGGMHOKE_00916,JPPLDLFD_00903
+cap8A,cap8A,Capsular polysaccharide type 8 biosynthesis protein cap8A,,KGGMHOKE_00947,JPPLDLFD_01428
+ywrO_1~~~ywrO~~~ywrO_2,ywrO_1;ywrO;ywrO_2,General stress protein 14,CHONFCMC_00551,,JPPLDLFD_00841;JPPLDLFD_00842
+group_333,,hypothetical protein,,KGGMHOKE_00728,JPPLDLFD_00838
+adh,adh,Alcohol dehydrogenase,CHONFCMC_00619,KGGMHOKE_00844,
+group_330,,hypothetical protein,CHONFCMC_00437,KGGMHOKE_00628,
+licT_1,licT_1,Transcription antiterminator LicT,CHONFCMC_00435,KGGMHOKE_00626,
+aptA,aptA,Apulose-4-phosphate transketolase subunit A,CHONFCMC_00431,KGGMHOKE_00620,
+uup_2~~~msbA_2,uup_2;msbA_2,ATP-binding protein Uup;ATP-dependent lipid A-core flippase,CHONFCMC_00470,KGGMHOKE_00649,
+group_325,,Aldo-keto reductase/MSMEI_2346;Aldo-keto reductase/MSMEI_2347,CHONFCMC_00576,KGGMHOKE_00739,
+group_320,,hypothetical protein,CHONFCMC_00606,KGGMHOKE_00830,
+group_317,,hypothetical protein,CHONFCMC_00602,KGGMHOKE_00766;KGGMHOKE_00765,
+fbiB,fbiB;,Bifunctional F420 biosynthesis protein FbiB;hypothetical protein,CHONFCMC_00484,KGGMHOKE_00661,
+group_308,,hypothetical protein,CHONFCMC_00621,KGGMHOKE_00846,
+ywqD,ywqD,Tyrosine-protein kinase YwqD,,KGGMHOKE_00946,JPPLDLFD_01429
+mutX,mutX,8-oxo-dGTP diphosphatase,,KGGMHOKE_00915,JPPLDLFD_00904
+bglF_1~~~bglF_2,bglF_1;bglF_2,PTS system beta-glucoside-specific EIIBCA component,CHONFCMC_00436,KGGMHOKE_00627,
+group_297,,hypothetical protein,CHONFCMC_00434,KGGMHOKE_00625,
+group_295,,hypothetical protein,CHONFCMC_00620,KGGMHOKE_00845,
+lpdC,lpdC,Gallate decarboxylase,CHONFCMC_00418,KGGMHOKE_00607,
+group_290,,hypothetical protein,,KGGMHOKE_00876,JPPLDLFD_00944
+cas9,cas9,CRISPR-associated endonuclease Cas9,,KGGMHOKE_00925,JPPLDLFD_00896
+group_287,,hypothetical protein,,KGGMHOKE_00873,JPPLDLFD_00947
+bioC,bioC,Malonyl-[acyl-carrier protein] O-methyltransferase,,KGGMHOKE_00930,JPPLDLFD_00891
+oxyR,oxyR,DNA-binding transcriptional dual regulator OxyR,CHONFCMC_00417,KGGMHOKE_00606,
+rfbA,rfbA,Glucose-1-phosphate thymidylyltransferase 1,,KGGMHOKE_00928,JPPLDLFD_00893
+cas1,cas1,CRISPR-associated endonuclease Cas1,,KGGMHOKE_00924,JPPLDLFD_00897
+group_280,,hypothetical protein,CHONFCMC_00440,KGGMHOKE_00632,
+cytR_1~~~rbsR,cytR_1;rbsR,HTH-type transcriptional repressor CytR;Ribose operon repressor,CHONFCMC_00438,KGGMHOKE_00630,
+group_276,,hypothetical protein,,KGGMHOKE_00875,JPPLDLFD_00945
+group_275,,hypothetical protein,CHONFCMC_00039,KGGMHOKE_01560,
+aptB,aptB,Apulose-4-phosphate transketolase subunit B,CHONFCMC_00430,KGGMHOKE_00619,
+lmrA,lmrA,Multidrug resistance ABC transporter ATP-binding and permease protein,CHONFCMC_00577,KGGMHOKE_00740,
+siwR,siwR,Stress-involved WYL domain-containing regulator,CHONFCMC_00565,,JPPLDLFD_00856
+group_261,,hypothetical protein,CHONFCMC_00461,KGGMHOKE_00640,
+group_260,,hypothetical protein,CHONFCMC_00462,KGGMHOKE_00641,
+gdx,;gdx,hypothetical protein;Guanidinium exporter,CHONFCMC_00549,,JPPLDLFD_00840
+group_259,,hypothetical protein,CHONFCMC_00604;CHONFCMC_00605,KGGMHOKE_00829,
+group_252,,hypothetical protein,,KGGMHOKE_00922,JPPLDLFD_00899
+purR_1,purR_1,HTH-type transcriptional repressor PurR,CHONFCMC_00057,,JPPLDLFD_00117
+rmlD,rmlD,dTDP-4-dehydrorhamnose reductase,,KGGMHOKE_00926,JPPLDLFD_00895
+lpdB,lpdB,Flavin prenyltransferase LpdB,CHONFCMC_00419,KGGMHOKE_00608,
+ccpA_1,ccpA_1,Catabolite control protein A,CHONFCMC_00084,KGGMHOKE_01617,
+fetA_1,fetA_1,putative iron export ATP-binding protein FetA,CHONFCMC_00563,,JPPLDLFD_00854
+group_246,,hypothetical protein,,KGGMHOKE_00921,JPPLDLFD_00900
+group_242,,hypothetical protein,CHONFCMC_00553,,JPPLDLFD_00844
+ykwC_1,ykwC_1,putative oxidoreductase YkwC,CHONFCMC_00555,,JPPLDLFD_00846
+rffG,rffG,dTDP-glucose 46-dehydratase 2,,KGGMHOKE_00929,JPPLDLFD_00892
+group_227,,hypothetical protein,,KGGMHOKE_00671,JPPLDLFD_00177
+cas2,cas2,CRISPR-associated endoribonuclease Cas2,,KGGMHOKE_00923,JPPLDLFD_00898
+ribA,ribA,GTP cyclohydrolase-2,CHONFCMC_00566,,JPPLDLFD_00857
+group_223,,hypothetical protein,CHONFCMC_00646,KGGMHOKE_00871,
+group_206,,hypothetical protein,CHONFCMC_00562,,JPPLDLFD_00853
+group_205,,hypothetical protein,CHONFCMC_00422,KGGMHOKE_00611,
+group_175,,hypothetical protein,,KGGMHOKE_00022,2_refound_8
+group_174,,hypothetical protein,,KGGMHOKE_00026,JPPLDLFD_00734
+group_171,,hypothetical protein,CHONFCMC_00554,,JPPLDLFD_00845
+group_163,,hypothetical protein,,KGGMHOKE_00673,JPPLDLFD_00175
+group_158,,hypothetical protein,CHONFCMC_00439,KGGMHOKE_00631,
+group_145,,hypothetical protein,,KGGMHOKE_00028,JPPLDLFD_00732
+group_144,,hypothetical protein,,KGGMHOKE_00024,JPPLDLFD_00736
+group_139,,hypothetical protein,CHONFCMC_00453,,JPPLDLFD_01096
+group_136,,hypothetical protein,CHONFCMC_00475,KGGMHOKE_00654,
+group_134,,hypothetical protein,0_refound_3_pseudo,,JPPLDLFD_00834
+lafA,lafA,Bacteriocin lactacin-F subunit LafA,,KGGMHOKE_00023,JPPLDLFD_00737
+group_127,,hypothetical protein,,KGGMHOKE_00029,JPPLDLFD_00731
+copZ,copZ,Copper chaperone CopZ,CHONFCMC_00560,,JPPLDLFD_00851
+group_106,,hypothetical protein,CHONFCMC_00486,KGGMHOKE_00663,
+glpK,glpK,Glycerol kinase,CHONFCMC_00429,KGGMHOKE_00618,
+group_101,,hypothetical protein,,KGGMHOKE_00027,JPPLDLFD_00733
+group_94,,hypothetical protein,CHONFCMC_00421,KGGMHOKE_00610,
+malL_2,malL_2,Oligo-16-glucosidase,CHONFCMC_00083,KGGMHOKE_01616,
+malL_1,malL_1,Oligo-16-glucosidase 1,CHONFCMC_00059,,JPPLDLFD_00115
+group_67,,hypothetical protein,,KGGMHOKE_00025,JPPLDLFD_00735
+group_59,,hypothetical protein,CHONFCMC_00485,KGGMHOKE_00662,
+group_55,,hypothetical protein,CHONFCMC_00622,KGGMHOKE_00847,
+cadA,cadA,Cadmium-transporting ATPase,CHONFCMC_00561,,JPPLDLFD_00852
+scrA_1,scrA_1,PTS system sucrose-specific EIIBCA component,CHONFCMC_00058,,JPPLDLFD_00116
+lpdD,lpdD,Protein LpdD,CHONFCMC_00420,KGGMHOKE_00609,
+group_47,,hypothetical protein,CHONFCMC_00085,KGGMHOKE_01618,
+group_46,,FMN-binding protein,CHONFCMC_00564,,JPPLDLFD_00855
+melA,melA,Alpha-galactosidase Mel36A,CHONFCMC_00060,,JPPLDLFD_00114
+group_37,,hypothetical protein,,KGGMHOKE_00913,JPPLDLFD_00906
+group_26,,hypothetical protein,,KGGMHOKE_00920,JPPLDLFD_00901
+group_21,,hypothetical protein,CHONFCMC_00082,KGGMHOKE_01615,
+group_9,,hypothetical protein,,KGGMHOKE_01554,JPPLDLFD_01290
+group_895,,hypothetical protein,,KGGMHOKE_01394,
+melR,melR,Melibiose operon regulatory protein,,KGGMHOKE_01193,
+group_894,,Beta-xylosidase,,KGGMHOKE_01191,
+gmuC_2,gmuC_2,PTS system oligo-beta-mannoside-specific EIIC component,,KGGMHOKE_01192,
+simA,simA,6-phospho-alpha-glucosidase 1,,,JPPLDLFD_00238
+malP_2,malP_2,PTS system maltose-specific EIICB component,,,JPPLDLFD_00237
+gatA_1,gatA_1,PTS system galactitol-specific EIIA component,,KGGMHOKE_00101,
+group_889,,hypothetical protein,,KGGMHOKE_00106,
+group_885,gatC_1,PTS system galactitol-specific EIIC component,,KGGMHOKE_00103,
+lacC,lacC,Tagatose-6-phosphate kinase,,KGGMHOKE_00099,
+crr,crr,PTS system glucose-specific EIIA component,,,JPPLDLFD_00233
+group_882,,hypothetical protein,,KGGMHOKE_00104,
+group_880,,hypothetical protein,,,JPPLDLFD_00234
+group_878,lacR_1,Lactose phosphotransferase system repressor,,KGGMHOKE_00100,
+mtnB,mtnB,Methylthioribulose-1-phosphate dehydratase,,KGGMHOKE_00105,
+dacA_1,dacA_1,D-alanyl-D-alanine carboxypeptidase DacA,,,JPPLDLFD_00634
+group_870,,hypothetical protein,,KGGMHOKE_00102,
+malP_1,malP_1,PTS system maltose-specific EIICB component,,,JPPLDLFD_00236
+glvR_1,glvR_1,HTH-type transcriptional regulator GlvR,,,JPPLDLFD_00235
+group_867,yidA_1,Sugar phosphatase YidA,,KGGMHOKE_00098,
+group_853,,hypothetical protein,,,JPPLDLFD_01034
+group_842,,hypothetical protein,,,JPPLDLFD_00633
+group_841,,hypothetical protein,CHONFCMC_01769,,
+group_828,,hypothetical protein,CHONFCMC_01716,,
+group_822,,hypothetical protein,,,JPPLDLFD_01519
+group_818,,hypothetical protein,,,JPPLDLFD_01520
+group_816,,hypothetical protein,,,JPPLDLFD_01521
+group_801,,hypothetical protein,,,JPPLDLFD_01516
+group_798,,hypothetical protein,,,JPPLDLFD_01518
+group_791,vmlR_2,Ribosome protection protein VmlR,,,JPPLDLFD_01517
+group_778,,hypothetical protein,CHONFCMC_01591,,
+group_775,,Putative beta-xylosidase,CHONFCMC_01580,,
+rhaS_4,rhaS_4,HTH-type transcriptional activator RhaS,CHONFCMC_01579,,
+group_768,,hypothetical protein,CHONFCMC_01537,,
+scrB_1,scrB_1,Sucrose-6-phosphate hydrolase,CHONFCMC_01582,,
+group_762,,hypothetical protein,CHONFCMC_01538,,
+scrA_2,scrA_2,PTS system sucrose-specific EIIBCA component,CHONFCMC_01581,,
+group_753,,hypothetical protein,,KGGMHOKE_01135,
+group_725,,hypothetical protein,CHONFCMC_01423,,
+group_721,,Zinc-type alcohol dehydrogenase-like protein,,KGGMHOKE_01304,
+uup_11,uup_11,ATP-binding protein Uup,,KGGMHOKE_01688,
+hlyB,hlyB,Alpha-hemolysin translocation ATP-binding protein HlyB,CHONFCMC_01414,,
+uup_12,uup_12,ATP-binding protein Uup,,KGGMHOKE_01689,
+group_712,,hypothetical protein,,,JPPLDLFD_01849
+yybR,yybR,putative HTH-type transcriptional regulator YybR,,KGGMHOKE_01305,
+azoR,azoR,FMN dependent NADH:quinone oxidoreductase,CHONFCMC_01424,,
+group_689,,hypothetical protein,,KGGMHOKE_01699,
+group_674,,hypothetical protein,,,JPPLDLFD_01809
+group_670,,hypothetical protein,,,JPPLDLFD_01655
+eno,eno,Enolase,,KGGMHOKE_01293,
+group_657,,hypothetical protein,,,JPPLDLFD_01654
+group_639,,hypothetical protein,,,JPPLDLFD_00008
+group_635,,hypothetical protein,,KGGMHOKE_00250,
+sorB,sorB,PTS system sorbose-specific EIIB component,,,JPPLDLFD_01577
+rbsR,rbsR,Ribose operon repressor,,,JPPLDLFD_01582
+group_630,bglA_1,6-phospho-beta-glucosidase BglA,CHONFCMC_01147,,
+group_629,licC_3,Lichenan permease IIC component,,,JPPLDLFD_01596
+group_625,yfeW,Putative D-alanyl-D-alanine carboxypeptidase,,,JPPLDLFD_01597
+group_622,,hypothetical protein,,KGGMHOKE_00259,
+group_621,,hypothetical protein,,,JPPLDLFD_01593
+mupG_2,mupG_2,6-phospho-N-acetylmuramidase,,,JPPLDLFD_01594
+agaC,agaC,N-acetylgalactosamine permease IIC component 1,,,JPPLDLFD_01578
+group_608,,hypothetical protein,,,JPPLDLFD_01630
+group_603,manZ_2,PTS system mannose-specific EIID component,,,JPPLDLFD_01579
+bglF_5,bglF_5,PTS system beta-glucoside-specific EIIBCA component,,KGGMHOKE_01810,
+group_595,,hypothetical protein,,KGGMHOKE_00225,
+group_590,,hypothetical protein,,,JPPLDLFD_00038
+ramC,ramC,putative SapB synthase,,KGGMHOKE_00226,
+group_587,,hypothetical protein,,,JPPLDLFD_01581
+group_576,,hypothetical protein,,,JPPLDLFD_01580
+murK_2,murK_2,N-acetylmuramic acid/N-acetylglucosamine kinase,,,JPPLDLFD_01595
+group_575,,hypothetical protein,,KGGMHOKE_00227,
+group_568,,hypothetical protein,CHONFCMC_01222,,
+licC_2,licC_2,Lichenan permease IIC component,CHONFCMC_01146,,
+group_559,,hypothetical protein,CHONFCMC_01221,,
+galE_1,galE_1,UDP-glucose 4-epimerase,CHONFCMC_01067,,
+group_530,,hypothetical protein,,KGGMHOKE_01364,
+deoC2,deoC2,Deoxyribose-phosphate aldolase 2,CHONFCMC_00961,,
+group_527,,hypothetical protein,,KGGMHOKE_01348,
+btuD_2,btuD_2,Vitamin B12 import ATP-binding protein BtuD,,,JPPLDLFD_01233
+rbsB,rbsB,Ribose import binding protein RbsB,CHONFCMC_00957,,
+group_525,,hypothetical protein,,KGGMHOKE_01382,
+group_524,,hypothetical protein,,KGGMHOKE_01380,
+manX_1,manX_1,PTS system mannose-specific EIIAB component,CHONFCMC_00955,,
+group_521,,hypothetical protein,,KGGMHOKE_01354,
+group_518,,hypothetical protein,,KGGMHOKE_01366,
+group_516,,hypothetical protein,,KGGMHOKE_01377,
+group_515,,hypothetical protein,,,JPPLDLFD_00758
+group_511,,hypothetical protein,,,JPPLDLFD_01232
+ygeX,ygeX,Diaminopropionate ammonia-lyase,,KGGMHOKE_01426,
+group_509,,hypothetical protein,,KGGMHOKE_01362,
+group_508,,hypothetical protein,,KGGMHOKE_01372,
+group_507,,hypothetical protein,,KGGMHOKE_01383,
+group_506,,hypothetical protein,CHONFCMC_00952,,
+group_504,,hypothetical protein,,KGGMHOKE_01358,
+group_503,,hypothetical protein,,KGGMHOKE_01367,
+group_500,,hypothetical protein,,KGGMHOKE_01349,
+group_499,,hypothetical protein,,KGGMHOKE_01368,
+group_497,,hypothetical protein,,KGGMHOKE_01375,
+group_496,,hypothetical protein,,KGGMHOKE_01374,
+group_490,,hypothetical protein,,KGGMHOKE_01386,
+manZ_2,manZ_2,PTS system mannose-specific EIID component,CHONFCMC_00953,,
+group_487,,hypothetical protein,,KGGMHOKE_01355,
+group_485,,hypothetical protein,,KGGMHOKE_01347,
+group_484,,hypothetical protein,,KGGMHOKE_01360,
+group_481,mod,Type III restriction-modification enzyme StyLTI Mod subunit,,,JPPLDLFD_00744
+group_479,,hypothetical protein,,KGGMHOKE_01385,
+group_478,,hypothetical protein,,KGGMHOKE_01424,
+group_476,,hypothetical protein,,KGGMHOKE_01353,
+mod,mod,Type III restriction-modification enzyme StyLTI Mod subunit,,KGGMHOKE_01391,
+group_474,,hypothetical protein,,KGGMHOKE_01365,
+group_471,,hypothetical protein,,KGGMHOKE_01369,
+group_470,,hypothetical protein,,KGGMHOKE_01350,
+group_468,,hypothetical protein,,KGGMHOKE_01373,
+group_467,,hypothetical protein,CHONFCMC_00954,,
+group_465,,hypothetical protein,,KGGMHOKE_01425,
+group_464,,hypothetical protein,,KGGMHOKE_01361,
+group_463,,hypothetical protein,,KGGMHOKE_01379,
+group_459,,hypothetical protein,,KGGMHOKE_01352,
+group_458,,hypothetical protein,,KGGMHOKE_01371,
+group_457,,hypothetical protein,,KGGMHOKE_01351,
+group_456,,hypothetical protein,CHONFCMC_00960,,
+group_453,,hypothetical protein,,KGGMHOKE_01357,
+group_452,,hypothetical protein,CHONFCMC_00951,,
+group_451,,hypothetical protein,,,JPPLDLFD_01234
+group_447,,putative HTH-type transcriptional regulator,,,JPPLDLFD_01235
+clpP_2,clpP_2,ATP-dependent Clp protease proteolytic subunit,,KGGMHOKE_01356,
+group_445,,hypothetical protein,,KGGMHOKE_01370,
+group_444,,hypothetical protein,,KGGMHOKE_01359,
+group_443,,hypothetical protein,,KGGMHOKE_01376,
+lnrK,lnrK,Transcriptional regulatory protein LnrK,CHONFCMC_00959,,
+group_441,,hypothetical protein,,KGGMHOKE_01384,
+group_440,,hypothetical protein,CHONFCMC_00958,,
+group_439,,hypothetical protein,CHONFCMC_00956,,
+group_437,,hypothetical protein,,KGGMHOKE_01378,
+group_436,,hypothetical protein,,KGGMHOKE_01381,
+group_435,,hypothetical protein,,KGGMHOKE_01363,
+group_433,,hypothetical protein,CHONFCMC_00170,,
+group_431,,hypothetical protein,CHONFCMC_00190,,
+group_429,,hypothetical protein,CHONFCMC_00457,,
+xkdM,xkdM,Phage-like element PBSX protein XkdM,CHONFCMC_00210,,
+group_427,,hypothetical protein,CHONFCMC_00454,,
+group_426,,hypothetical protein,,KGGMHOKE_00737,
+group_425,,hypothetical protein,,KGGMHOKE_00733,
+levE_1,levE_1,PTS system fructose-specific EIIB component,,KGGMHOKE_00049,
+group_422,,hypothetical protein,CHONFCMC_00198,,
+group_421,,hypothetical protein,CHONFCMC_00220,,
+group_414,,hypothetical protein,CHONFCMC_00195,,
+group_409,,hypothetical protein,CHONFCMC_00202,,
+group_407,,hypothetical protein,CHONFCMC_00218,,
+group_406,,hypothetical protein,CHONFCMC_00169,,
+maa_2,maa_2,Maltose O-acetyltransferase,,KGGMHOKE_00736,
+group_403,,hypothetical protein,CHONFCMC_00574,,
+group_398,,hypothetical protein,CHONFCMC_00197,,
+group_392,cla-er,CLA biosynthesis enone reductase,,KGGMHOKE_00633,
+kdgA,kdgA,2-dehydro-3-deoxy-phosphogluconate aldolase,,KGGMHOKE_00044,
+group_390,,hypothetical protein,CHONFCMC_00572,,
+glnP_2,glnP_2,Glutamine transport system permease protein GlnP,,,JPPLDLFD_00280
+rfbP,rfbP,Undecaprenyl-phosphate galactose phosphotransferase,,KGGMHOKE_00944,
+group_388,,hypothetical protein,,KGGMHOKE_00933,
+yvdM_1,yvdM_1,Beta-phosphoglucomutase,CHONFCMC_00446,,
+tcyB,tcyB,L-cystine transport system permease protein TcyB,,,JPPLDLFD_00281
+group_385,,hypothetical protein,CHONFCMC_00213,,
+group_377,,hypothetical protein,CHONFCMC_00168,,
+artM_1,artM_1,Arginine transport ATP-binding protein ArtM,,,JPPLDLFD_00282
+group_374,,hypothetical protein,CHONFCMC_00183,,
+deoD_1,deoD_1,Purine nucleoside phosphorylase DeoD-type,,KGGMHOKE_00666,
+group_373,,Carbohydrate deacetylase,CHONFCMC_00458,,
+yiaJ,yiaJ,DNA-binding transcriptional repressor YiaJ,,KGGMHOKE_00056,
+group_371,,hypothetical protein,,KGGMHOKE_00932,
+group_370,,hypothetical protein,CHONFCMC_00550,,
+group_369,,hypothetical protein,,KGGMHOKE_00943,
+group_368,,hypothetical protein,,,JPPLDLFD_00187
+agaC_1,agaC_1,N-acetylgalactosamine permease IIC component 1,,KGGMHOKE_00050,
+fabG_1,fabG_1,3-oxoacyl-[acyl-carrier-protein] reductase FabG,,,JPPLDLFD_00992
+group_365,,Putative phosphatase,CHONFCMC_00135,,
+murR_2,murR_2,HTH-type transcriptional regulator MurR,,KGGMHOKE_00735,
+group_361,,hypothetical protein,,KGGMHOKE_00877,
+group_360,,hypothetical protein,,KGGMHOKE_00055,
+group_359,manZ_1,PTS system mannose-specific EIID component,,KGGMHOKE_00051,
+group_352,,hypothetical protein,CHONFCMC_00177,,
+rhaS_3,rhaS_3,HTH-type transcriptional activator RhaS,,KGGMHOKE_01586,
+kduD,kduD,2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase,,KGGMHOKE_00046,
+bglG,bglG,Cryptic beta-glucoside bgl operon antiterminator,CHONFCMC_00455,,
+axeA1,axeA1,Acetylxylan esterase,,KGGMHOKE_01584,
+group_331,,hypothetical protein,,KGGMHOKE_00588,
+licT_3,licT_3,Transcription antiterminator LicT,,KGGMHOKE_00635,
+kduI1,kduI1,4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase 1,,KGGMHOKE_00047,
+group_323,,hypothetical protein,,KGGMHOKE_00842,
+glnH_3,glnH_3,ABC transporter glutamine-binding protein GlnH,,,JPPLDLFD_00283
+group_310,,hypothetical protein,CHONFCMC_00176,,
+ybbH_2,ybbH_2,putative HTH-type transcriptional regulator YbbH,,KGGMHOKE_01579,
+group_283,,hypothetical protein,,KGGMHOKE_00624,
+bglF_2,bglF_2,PTS system beta-glucoside-specific EIIBCA component,CHONFCMC_00456,,
+group_281,,hypothetical protein,,KGGMHOKE_00939,
+group_272,,hypothetical protein,CHONFCMC_00178,,
+xerC_4,xerC_4,Tyrosine recombinase XerC,,,JPPLDLFD_00942
+cah,cah,Cephalosporin-C deacetylase,,KGGMHOKE_01585,
+group_258,,hypothetical protein,CHONFCMC_00225,,
+group_257,,hypothetical protein,,KGGMHOKE_00931,
+group_255,,hypothetical protein,,KGGMHOKE_00935,
+group_250,,hypothetical protein,CHONFCMC_00652,,
+iolU_1,iolU_1,scyllo-inositol 2-dehydrogenase (NADP(+)) IolU,,KGGMHOKE_00738,
+kdgK,kdgK,2-dehydro-3-deoxygluconokinase,,KGGMHOKE_00045,
+group_235,,hypothetical protein,CHONFCMC_00650,,
+rhaR_2,rhaR_2,HTH-type transcriptional activator RhaR,CHONFCMC_00450,,
+group_224,,hypothetical protein,CHONFCMC_00214,,
+group_221,,hypothetical protein,CHONFCMC_00203,,
+group_220,,hypothetical protein,,,JPPLDLFD_01020
+epsF_1,epsF_1,Putative glycosyltransferase EpsF,,KGGMHOKE_00940,
+xerC_1,xerC_1,Tyrosine recombinase XerC,CHONFCMC_00166,,
+epsF_3,epsF_3,Putative glycosyltransferase EpsF,,KGGMHOKE_00942,
+rhaS_2,rhaS_2,HTH-type transcriptional activator RhaS,CHONFCMC_00441,,
+glf,glf,UDP-galactopyranose mutase,,KGGMHOKE_00937,
+group_208,,hypothetical protein,,KGGMHOKE_00879,
+oppA_4~~~oppA_1,oppA_4;oppA_1,Oligopeptide-binding protein OppA,,KGGMHOKE_00473,
+group_204,,hypothetical protein,,,JPPLDLFD_00673
+epsF_2,epsF_2,Putative glycosyltransferase EpsF,,KGGMHOKE_00941,
+group_200,,hypothetical protein,,,JPPLDLFD_00943
+group_198,,hypothetical protein,CHONFCMC_00201,,
+ard,ard,NADH:acrylate oxidoreductase,,,JPPLDLFD_01097
+group_197,,hypothetical protein,,,JPPLDLFD_00554
+group_196,xerC_2,Tyrosine recombinase XerC,,,JPPLDLFD_00555
+group_195,,hypothetical protein,CHONFCMC_00217,,
+group_194,,hypothetical protein,,,JPPLDLFD_00553
+group_193,,hypothetical protein,,,JPPLDLFD_00552
+group_192,,hypothetical protein,,,JPPLDLFD_00551
+group_191,,hypothetical protein,,,JPPLDLFD_00550
+group_190,,hypothetical protein,,,JPPLDLFD_00549
+group_189,,hypothetical protein,,,JPPLDLFD_00548
+group_188,,hypothetical protein,,,JPPLDLFD_00547
+group_187,,hypothetical protein,,,JPPLDLFD_00546
+group_186,,hypothetical protein,,,JPPLDLFD_00545
+xerC_2,xerC_2,Tyrosine recombinase XerC,,,JPPLDLFD_00544
+group_185,,hypothetical protein,,,JPPLDLFD_00543
+group_184,,hypothetical protein,,,JPPLDLFD_00542
+group_183,,hypothetical protein,,,JPPLDLFD_00541
+group_182,,hypothetical protein,,,JPPLDLFD_00540
+group_181,,hypothetical protein,,,JPPLDLFD_00539
+group_180,,hypothetical protein,,,JPPLDLFD_00538
+group_179,,hypothetical protein,,,JPPLDLFD_00537
+group_178,,hypothetical protein,,,JPPLDLFD_00536
+group_177,,hypothetical protein,,,JPPLDLFD_00535
+group_176,,hypothetical protein,,,JPPLDLFD_00534
+frsA,frsA,Esterase FrsA,CHONFCMC_00573,,
+ugl,ugl,Unsaturated chondroitin disaccharide hydrolase,,KGGMHOKE_00048,
+group_173,,hypothetical protein,CHONFCMC_00443,,
+group_169,,hypothetical protein,CHONFCMC_00448,,
+group_167,,hypothetical protein,CHONFCMC_00575,,
+group_166,,hypothetical protein,CHONFCMC_00167,,
+group_165,,hypothetical protein,,,JPPLDLFD_00941
+group_162,,hypothetical protein,CHONFCMC_00413,,
+group_161,,hypothetical protein,,,JPPLDLFD_00193
+group_160,,hypothetical protein,CHONFCMC_00194,,
+group_159,,hypothetical protein,,KGGMHOKE_00655,
+group_157,,hypothetical protein,CHONFCMC_00571,,
+group_156,,hypothetical protein,CHONFCMC_00199,,
+group_155,,hypothetical protein,CHONFCMC_00181,,
+group_153,,hypothetical protein,,,JPPLDLFD_00186
+gmuC_1,gmuC_1,PTS system oligo-beta-mannoside-specific EIIC component,,KGGMHOKE_00623,
+group_147,,hypothetical protein,CHONFCMC_00185,,
+group_146,,hypothetical protein,CHONFCMC_00447,,
+group_143,,hypothetical protein,CHONFCMC_00221,,
+group_142,,hypothetical protein,,KGGMHOKE_00634,
+licC_3,licC_3,Lichenan permease IIC component,,KGGMHOKE_01581,
+group_141,,hypothetical protein,,KGGMHOKE_00938,
+group_133,,hypothetical protein,CHONFCMC_00208,,
+group_132,,hypothetical protein,CHONFCMC_00193,,
+pepC_2,pepC_2,Aminopeptidase C,,KGGMHOKE_01591,
+group_130,,hypothetical protein,CHONFCMC_00172,,
+group_125,,hypothetical protein,,KGGMHOKE_00917,
+group_123,,hypothetical protein,CHONFCMC_00111,,
+group_122,,hypothetical protein,,KGGMHOKE_00734,
+group_120,,hypothetical protein,CHONFCMC_00209,,
+group_119,,hypothetical protein,CHONFCMC_00186,,
+group_117,,putative transporter,,KGGMHOKE_01593,
+group_113,,hypothetical protein,CHONFCMC_00189,,
+group_112,,hypothetical protein,CHONFCMC_00188,,
+group_110,,hypothetical protein,CHONFCMC_00649,,
+group_109,,hypothetical protein,CHONFCMC_00569,,
+bglA_2,bglA_2,6-phospho-beta-glucosidase BglA,,KGGMHOKE_01580,
+group_108,,hypothetical protein,CHONFCMC_00174,,
+group_107,,hypothetical protein,CHONFCMC_00200,,
+rfbX_2,rfbX_2,Putative O-antigen transporter,,KGGMHOKE_00936,
+bglA_1,bglA_1,Aryl-phospho-beta-D-glucosidase BglA,,KGGMHOKE_00637,
+yjmB,yjmB,putative symporter YjmB,,KGGMHOKE_01583,
+group_105,,hypothetical protein,CHONFCMC_00451,,
+group_104,,hypothetical protein,CHONFCMC_00226,,
+group_103,,hypothetical protein,CHONFCMC_00223,,
+group_102,,hypothetical protein,CHONFCMC_00112,,
+vprA,vprA,Vinyl phenol reductase,,KGGMHOKE_00589,
+group_100,,hypothetical protein,CHONFCMC_00110,,
+group_99,,hypothetical protein,CHONFCMC_00109,,
+group_98,,hypothetical protein,,KGGMHOKE_00730,
+group_97,,hypothetical protein,,KGGMHOKE_00638,
+group_95,,hypothetical protein,CHONFCMC_00192,,
+group_91,,hypothetical protein,CHONFCMC_00187,,
+group_90,,Non-reducing end alpha-L-arabinofuranosidase BoGH43A,CHONFCMC_00445,,
+group_86,,hypothetical protein,CHONFCMC_00191,,
+group_85,,hypothetical protein,,KGGMHOKE_01588,
+group_81,,hypothetical protein,CHONFCMC_00179,,
+group_80,,hypothetical protein,CHONFCMC_00182,,
+group_79,,Type I restriction enzyme MpnII methylase subunit,,,JPPLDLFD_00940
+gadC_3,gadC_3,Glutamate/gamma-aminobutyrate antiporter,,KGGMHOKE_01592,
+rhiE,rhiE,Rhamnogalacturonate lyase,,KGGMHOKE_01587,
+group_75,,hypothetical protein,CHONFCMC_00175,,
+nag3,nag3,Beta-N-acetylglucosaminidase/beta-glucosidase,CHONFCMC_00449,,
+group_70,,hypothetical protein,CHONFCMC_00173,,
+group_68,,hypothetical protein,,KGGMHOKE_00053,
+group_66,,hypothetical protein,CHONFCMC_00215,,
+group_65,,hypothetical protein,CHONFCMC_00180,,
+xre,xre,HTH-type transcriptional regulator Xre,CHONFCMC_00171,,
+group_63,,hypothetical protein,CHONFCMC_00184,,
+pemK,pemK,Endoribonuclease PemK,CHONFCMC_00227,,
+group_57,,hypothetical protein,CHONFCMC_00648,,
+group_56,,hypothetical protein,,KGGMHOKE_00731,
+bglF_3,bglF_3,PTS system beta-glucoside-specific EIIBCA component,,KGGMHOKE_00636,
+group_53,,hypothetical protein,,KGGMHOKE_00054,
+group_52,,hypothetical protein,CHONFCMC_00205,,
+group_49,,hypothetical protein,CHONFCMC_00216,,
+group_45,,hypothetical protein,,KGGMHOKE_00934,
+group_44,,hypothetical protein,CHONFCMC_00204,,
+group_43,,hypothetical protein,CHONFCMC_00219,,
+group_41,,hypothetical protein,CHONFCMC_00570,,
+group_40,,hypothetical protein,CHONFCMC_00224,,
+group_39,,hypothetical protein,CHONFCMC_00483,,
+group_38,,hypothetical protein,CHONFCMC_00113,,
+group_35,,hypothetical protein,CHONFCMC_00207,,
+group_32,,Beta-galactosidase BoGH2A,CHONFCMC_00442,,
+group_29,,hypothetical protein,CHONFCMC_00222,,
+group_28,,hypothetical protein,CHONFCMC_00211,,
+group_27,,hypothetical protein,,KGGMHOKE_01582,
+group_23,,hypothetical protein,,KGGMHOKE_00629,
+group_22,,hypothetical protein,CHONFCMC_00444,,
+group_19,,hypothetical protein,CHONFCMC_00206,,
+hsdR,hsdR,Type I restriction enzyme SauN315I endonuclease subunit,,,JPPLDLFD_00939
+group_17,,hypothetical protein,CHONFCMC_00212,,
+group_13,,hypothetical protein,,KGGMHOKE_00052,
+group_12,,hypothetical protein,,,JPPLDLFD_01291

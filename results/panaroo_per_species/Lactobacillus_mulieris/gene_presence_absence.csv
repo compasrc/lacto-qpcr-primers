@@ -1,0 +1,1512 @@
+Gene,Non-unique Gene name,Annotation,Lactobacillus_mulieris__UMB0007B__GCA_026184155.1,Lactobacillus_mulieris__UMB7783B__GCA_030228195.1
+tcyA,tcyA;,L-cystine-binding protein TcyA;putative amino-acid ABC transporter-binding protein,OCAFGGHM_00424,GPENAHNM_00823
+group_566,,hypothetical protein,OCAFGGHM_00832,GPENAHNM_00406
+yjeM_2~~~yjeM_3,yjeM_2;yjeM_3,Inner membrane transporter YjeM,OCAFGGHM_01456,GPENAHNM_00831;GPENAHNM_00830
+group_565,,hypothetical protein,OCAFGGHM_00671,GPENAHNM_00763
+group_564,,hypothetical protein,OCAFGGHM_00782,GPENAHNM_01300
+dfrA,dfrA,Dihydrofolate reductase,0_refound_2_pseudo,GPENAHNM_01038
+pbp2a,pbp2a,Penicillin-binding protein 2a,0_refound_1,GPENAHNM_00693
+group_558,,hypothetical protein,0_refound_0_pseudo,GPENAHNM_00687
+group_551,,hypothetical protein,OCAFGGHM_01764,GPENAHNM_01146
+group_550,,hypothetical protein,OCAFGGHM_01763,GPENAHNM_01540
+greA_2,greA_2,Transcription elongation factor GreA,OCAFGGHM_01762,GPENAHNM_01539
+group_549,,hypothetical protein,OCAFGGHM_01751,GPENAHNM_00789
+rpmGA_2,rpmGA_2,Large ribosomal subunit protein bL33A,OCAFGGHM_01752,GPENAHNM_00788
+group_548,,hypothetical protein,OCAFGGHM_01739,GPENAHNM_01351
+group_547,,hypothetical protein,OCAFGGHM_01738,GPENAHNM_01350
+group_546,,hypothetical protein,OCAFGGHM_01740,GPENAHNM_01352
+group_545,,hypothetical protein,OCAFGGHM_01728,GPENAHNM_00832
+group_544,,hypothetical protein,OCAFGGHM_01724,GPENAHNM_00915
+group_543,,hypothetical protein,OCAFGGHM_01723,GPENAHNM_00916
+ltaS2_2~~~ltaS1,ltaS2_2;ltaS1,Lipoteichoic acid synthase 2;Lipoteichoic acid synthase 1,OCAFGGHM_01714,GPENAHNM_00575
+murC,murC,UDP-N-acetylmuramate--L-alanine ligase,OCAFGGHM_01715,GPENAHNM_00574
+group_542,,hypothetical protein,OCAFGGHM_01712,GPENAHNM_01252
+licT_2,licT_2,Transcription antiterminator LicT,OCAFGGHM_01713,GPENAHNM_01251
+group_541,,hypothetical protein,OCAFGGHM_01711,GPENAHNM_01253
+dps,dps,DNA protection during starvation protein,OCAFGGHM_01704,GPENAHNM_00911
+group_540,,hypothetical protein,OCAFGGHM_01702,GPENAHNM_00913
+group_539,,hypothetical protein,OCAFGGHM_01703,GPENAHNM_00912
+group_538,,hypothetical protein,OCAFGGHM_01705,GPENAHNM_00910
+manZ_3,manZ_3,PTS system mannose-specific EIID component,OCAFGGHM_01700,GPENAHNM_00721
+group_537,,hypothetical protein,OCAFGGHM_01701,GPENAHNM_00722
+manX_2,manX_2,PTS system mannose-specific EIIAB component,OCAFGGHM_01698,GPENAHNM_00719
+sorA_2,sorA_2,PTS system sorbose-specific EIIC component,OCAFGGHM_01699,GPENAHNM_00720
+purR_2~~~purR_1,purR_2;purR_1,HTH-type transcriptional repressor PurR,OCAFGGHM_01696,GPENAHNM_00373
+vprA_2,vprA_2,Vinyl phenol reductase,OCAFGGHM_01697,GPENAHNM_00374
+degA_4,degA_4,HTH-type transcriptional regulator DegA,OCAFGGHM_01695,GPENAHNM_00372
+recX,recX,Regulatory protein RecX,OCAFGGHM_01692,GPENAHNM_00467
+group_536,,hypothetical protein,OCAFGGHM_01691,GPENAHNM_00468
+group_535,,hypothetical protein,OCAFGGHM_01690,GPENAHNM_00469
+prfC,prfC,Peptide chain release factor 3,OCAFGGHM_01688,GPENAHNM_00471
+corC,corC,Magnesium and cobalt efflux protein CorC,OCAFGGHM_01689,GPENAHNM_00470
+nadK,nadK,NAD kinase,OCAFGGHM_01678,GPENAHNM_01295
+yjbK,;yjbK,hypothetical protein;Putative triphosphatase YjbK,OCAFGGHM_01676,GPENAHNM_01293
+yjbM,yjbM,GTP pyrophosphokinase YjbM,OCAFGGHM_01677,GPENAHNM_01294
+spxH,spxH,ClpXP adapter protein SpxH,OCAFGGHM_01675,GPENAHNM_01292
+group_534,,hypothetical protein,OCAFGGHM_01679,GPENAHNM_01296
+group_533,,hypothetical protein,OCAFGGHM_01680,GPENAHNM_01297
+smc_7,smc_7,Chromosome partition protein Smc,OCAFGGHM_01665,GPENAHNM_01381
+group_532,,hypothetical protein,OCAFGGHM_01659,GPENAHNM_00102
+nfr1,nfr1,NADH-dependent flavin reductase subunit 1,OCAFGGHM_01657,GPENAHNM_00100
+group_531,,hypothetical protein,OCAFGGHM_01658,GPENAHNM_00101
+nfr2,nfr2,NADH-dependent flavin reductase subunit 2,OCAFGGHM_01656,GPENAHNM_00099
+mupG,mupG,6-phospho-N-acetylmuramidase,OCAFGGHM_01655,GPENAHNM_00098
+iphP,iphP,Tyrosine-protein phosphatase,OCAFGGHM_01654,GPENAHNM_00893
+group_530,,hypothetical protein,OCAFGGHM_01644,GPENAHNM_00576
+group_529,,Alpha-monoglucosyldiacylglycerol synthase,OCAFGGHM_01642,GPENAHNM_00578
+cpoA,cpoA,Alpha-galactosylglucosyldiacylglycerol synthase,OCAFGGHM_01643,GPENAHNM_00577
+ecsA,ecsA,ABC-type transporter ATP-binding protein EcsA,OCAFGGHM_01632,GPENAHNM_00685
+hit,hit,Protein hit,OCAFGGHM_01631,GPENAHNM_00686
+group_528,,hypothetical protein,OCAFGGHM_01633,GPENAHNM_00684
+pheT_2,pheT_2,Phenylalanine--tRNA ligase beta subunit,OCAFGGHM_01636,GPENAHNM_00681
+ytpP,ytpP,Thioredoxin-like protein YtpP,OCAFGGHM_01635,GPENAHNM_00682
+group_527,,hypothetical protein,OCAFGGHM_01637,GPENAHNM_00680
+trmB,trmB,tRNA (guanine-N(7)-)-methyltransferase,OCAFGGHM_01634,GPENAHNM_00683
+hdfR,hdfR,HTH-type transcriptional regulator HdfR,OCAFGGHM_01627,GPENAHNM_00375
+nanE,nanE,Putative N-acetylmannosamine-6-phosphate 2-epimerase,OCAFGGHM_01629,GPENAHNM_00377
+ptsG,ptsG,PTS system glucose-specific EIICBA component,OCAFGGHM_01628,GPENAHNM_00376
+ybbH,ybbH,putative HTH-type transcriptional regulator YbbH,OCAFGGHM_01630,GPENAHNM_00378
+dtpT,dtpT,Di-/tripeptide transporter,OCAFGGHM_01617,GPENAHNM_00718
+mmgB,mmgB,putative 3-hydroxybutyryl-CoA dehydrogenase,OCAFGGHM_01616,GPENAHNM_00716
+cladc,cla-dc,CLA biosynthesis isomerase,OCAFGGHM_01615,GPENAHNM_00715
+iolU,iolU,scyllo-inositol 2-dehydrogenase (NADP(+)) IolU,OCAFGGHM_01612,GPENAHNM_00712
+claer,cla-er,CLA biosynthesis enone reductase,OCAFGGHM_01614,GPENAHNM_00714
+group_525,guaA_2,GMP synthase [glutamine-hydrolyzing],OCAFGGHM_01613,GPENAHNM_00713
+pbpA,pbpA,Penicillin-binding protein 2A,OCAFGGHM_01605,GPENAHNM_00540
+yqgQ,yqgQ,putative protein YqgQ,OCAFGGHM_01609,GPENAHNM_00536
+glpE,glpE,Thiosulfate sulfurtransferase GlpE,OCAFGGHM_01610,GPENAHNM_00535
+rpmGA_1,rpmGA_1,Large ribosomal subunit protein bL33A,OCAFGGHM_01606,GPENAHNM_00539
+yqgN,yqgN,putative protein YqgN,OCAFGGHM_01607,GPENAHNM_00538
+group_524,,hypothetical protein,OCAFGGHM_01611,GPENAHNM_00534
+glpG~~~gluP,glpG;gluP,Rhomboid protease GlpG;Rhomboid protease GluP,OCAFGGHM_01608,GPENAHNM_00537
+group_523,,hypothetical protein,OCAFGGHM_01601,GPENAHNM_00691
+yhaM,yhaM,3'-5' exoribonuclease YhaM,OCAFGGHM_01603,GPENAHNM_00689
+group_522,,hypothetical protein,OCAFGGHM_01600,GPENAHNM_00692
+prsA,prsA,Foldase protein PrsA,OCAFGGHM_01604,GPENAHNM_00688
+group_521,,hypothetical protein,OCAFGGHM_01602,GPENAHNM_00690
+cas2,cas2,CRISPR-associated endoribonuclease Cas2,OCAFGGHM_01593,GPENAHNM_00705
+cas9,cas9,CRISPR-associated endonuclease Cas9,OCAFGGHM_01591,GPENAHNM_00707
+group_520,,hypothetical protein,OCAFGGHM_01594,GPENAHNM_00704
+cas1,cas1,CRISPR-associated endonuclease Cas1,OCAFGGHM_01592,GPENAHNM_00706
+group_519,,PhoH-like protein,OCAFGGHM_01586,GPENAHNM_00996
+yqfL,yqfL,Putative pyruvate phosphate dikinase regulatory protein,OCAFGGHM_01583,GPENAHNM_00999
+era,era,GTPase Era,OCAFGGHM_01589,GPENAHNM_00993
+ybeY,ybeY,Endoribonuclease YbeY,OCAFGGHM_01587,GPENAHNM_00995
+yqeY,yqeY,putative protein YqeY,OCAFGGHM_01585,GPENAHNM_00997
+rpsU,rpsU,Small ribosomal subunit protein bS21,OCAFGGHM_01584,GPENAHNM_00998
+cdd,cdd,Cytidine deaminase,OCAFGGHM_01588,GPENAHNM_00994
+msrB,msrB,Peptide methionine sulfoxide reductase MsrB,OCAFGGHM_01580,GPENAHNM_01002
+group_518,,hypothetical protein,OCAFGGHM_01582,GPENAHNM_01000
+recO,recO,DNA repair protein RecO,OCAFGGHM_01590,GPENAHNM_00992
+msrA2,msrA2,Peptide methionine sulfoxide reductase MsrA 2,OCAFGGHM_01581,GPENAHNM_01001
+arcD1_1,arcD1_1,Arginine/ornithine antiporter ArcD1,OCAFGGHM_01574,GPENAHNM_00275
+arcA,arcA,Arginine deiminase,OCAFGGHM_01576,GPENAHNM_00273
+argF,argF,Ornithine carbamoyltransferase,OCAFGGHM_01578,GPENAHNM_00271
+arcC1,arcC1,Carbamate kinase 1,OCAFGGHM_01577,GPENAHNM_00272
+arcD1_2,arcD1_2,Arginine/ornithine antiporter ArcD1,OCAFGGHM_01575,GPENAHNM_00274
+group_517,,hypothetical protein,OCAFGGHM_01579,GPENAHNM_00270
+group_516,,hypothetical protein,OCAFGGHM_01570,GPENAHNM_00795
+group_515,,hypothetical protein,OCAFGGHM_01571,GPENAHNM_00794
+group_514,,hypothetical protein,OCAFGGHM_01572,GPENAHNM_00791
+garK,garK,Glycerate 2-kinase,OCAFGGHM_01573,GPENAHNM_00790
+yfmL,yfmL,putative ATP-dependent RNA helicase YfmL,OCAFGGHM_01549,GPENAHNM_00448
+group_511,,hypothetical protein,OCAFGGHM_01545,GPENAHNM_00452
+group_510,,hypothetical protein,OCAFGGHM_01546,GPENAHNM_00451
+mnaA,mnaA,UDP-N-acetylglucosamine 2-epimerase,OCAFGGHM_01544,GPENAHNM_00453
+hpt,hpt,Hypoxanthine-guanine phosphoribosyltransferase,OCAFGGHM_01552,GPENAHNM_00445
+group_509,,hypothetical protein,OCAFGGHM_01550,GPENAHNM_00447
+celB,celB,PTS system cellobiose-specific EIIC component,OCAFGGHM_01548,GPENAHNM_00449
+steT_2,steT_2,Serine/threonine exchanger SteT,OCAFGGHM_01551,GPENAHNM_00446
+group_508,,hypothetical protein,OCAFGGHM_01553,GPENAHNM_00444
+dhaM,dhaM,PTS-dependent dihydroxyacetone kinase phosphotransferase subunit DhaM,OCAFGGHM_01538,GPENAHNM_00783
+glpF_1~~~glpF_2,glpF_1;glpF_2,Glycerol uptake facilitator protein,OCAFGGHM_01537,GPENAHNM_00784;GPENAHNM_00785
+dhaL,dhaL,PTS-dependent dihydroxyacetone kinase ADP-binding subunit DhaL,OCAFGGHM_01539,GPENAHNM_00782
+group_507,,hypothetical protein,OCAFGGHM_01541,GPENAHNM_00780
+group_506,,hypothetical protein,OCAFGGHM_01536,GPENAHNM_00786
+glmS,glmS,Glutamine--fructose-6-phosphate aminotransferase [isomerizing],OCAFGGHM_01535,GPENAHNM_00787
+group_505,,hypothetical protein,OCAFGGHM_01542,GPENAHNM_00779
+dhaK,dhaK,PTS-dependent dihydroxyacetone kinase dihydroxyacetone-binding subunit DhaK,OCAFGGHM_01540,GPENAHNM_00781
+rnj,rnj,Ribonuclease J,OCAFGGHM_01526,GPENAHNM_00848
+lacF,lacF,Lactose transport system permease protein LacF,OCAFGGHM_01528,GPENAHNM_00850
+group_504,,hypothetical protein;Protein ADP-ribosyltransferase,OCAFGGHM_01532,GPENAHNM_00854
+smoH,smoH,Sulfoquinovosyl glycerol transport system permease protein SmoH,OCAFGGHM_01527,GPENAHNM_00849
+group_503,,hypothetical protein,OCAFGGHM_01530,GPENAHNM_00852
+group_502,uup_6,ATP-binding protein Uup,OCAFGGHM_01529,GPENAHNM_00851
+polC_3~~~polC_2,polC_3;polC_2,DNA polymerase III PolC-type,OCAFGGHM_01531,GPENAHNM_00853
+group_501,,hypothetical protein,OCAFGGHM_01525,GPENAHNM_00847
+citF,citF,Citrate lyase alpha chain,OCAFGGHM_01524,GPENAHNM_01015
+citD,citD,Citrate lyase acyl carrier protein,OCAFGGHM_01522,GPENAHNM_01017
+citX,citX,Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase,OCAFGGHM_01516,GPENAHNM_01023
+yjmC,yjmC,putative oxidoreductase YjmC,OCAFGGHM_01517,GPENAHNM_01022
+ldh,ldh,L-lactate dehydrogenase,OCAFGGHM_01518,GPENAHNM_01021
+ydjP,ydjP,AB hydrolase superfamily protein YdjP,OCAFGGHM_01519,GPENAHNM_01020
+citC,citC,[Citrate [pro-3S]-lyase] ligase,OCAFGGHM_01521,GPENAHNM_01018
+citE,citE,Citrate lyase subunit beta,OCAFGGHM_01523,GPENAHNM_01016
+sorC,sorC,Sorbitol operon regulator,OCAFGGHM_01520,GPENAHNM_01019
+group_500,,hypothetical protein,OCAFGGHM_01487,GPENAHNM_01013
+group_499,,hypothetical protein,OCAFGGHM_01490,GPENAHNM_01010
+dtd,dtd,D-aminoacyl-tRNA deacylase,OCAFGGHM_01492,GPENAHNM_01008
+group_498,,hypothetical protein,OCAFGGHM_01495,GPENAHNM_01005
+relA,relA,GTP pyrophosphokinase,OCAFGGHM_01491,GPENAHNM_01009
+group_497,,hypothetical protein,OCAFGGHM_01496,GPENAHNM_01004
+prmA,prmA,Ribosomal protein L11 methyltransferase,OCAFGGHM_01489,GPENAHNM_01011
+ybaK,ybaK,Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK,OCAFGGHM_01488,GPENAHNM_01012
+aspS,aspS,Aspartate--tRNA ligase,OCAFGGHM_01494,GPENAHNM_01006
+hisS,hisS,Histidine--tRNA ligase,OCAFGGHM_01493,GPENAHNM_01007
+bglC,bglC,Aryl-phospho-beta-D-glucosidase BglC,OCAFGGHM_01481,GPENAHNM_00365
+rbsD,rbsD,D-ribose pyranase,OCAFGGHM_01476,GPENAHNM_00370
+rbsA,rbsA,Ribose import ATP-binding protein RbsA,OCAFGGHM_01477,GPENAHNM_00369
+rbsC,rbsC,Ribose import permease protein RbsC,OCAFGGHM_01478,GPENAHNM_00368
+palQ~~~malL_1,palQ;malL_1,Palatinase;Oligo-16-glucosidase,OCAFGGHM_01486,GPENAHNM_00357
+gmuC~~~licC_2,gmuC;licC_2,PTS system oligo-beta-mannoside-specific EIIC component;Lichenan permease IIC component,OCAFGGHM_01482,GPENAHNM_00364
+rbsB_2,rbsB_2,Ribose import binding protein RbsB,OCAFGGHM_01479,GPENAHNM_00367
+hcaR~~~gltC_3,hcaR;gltC_3,Hca operon transcriptional activator HcaR;Transcriptional dual regulator GltC,OCAFGGHM_01484,GPENAHNM_00359
+ifcA~~~vprA_1,ifcA;vprA_1,putative fumarate reductase Ifc3;Vinyl phenol reductase,OCAFGGHM_01483,GPENAHNM_00360
+gmuR_2,gmuR_2,HTH-type transcriptional regulator GmuR,OCAFGGHM_01480,GPENAHNM_00366
+rbsR_2,rbsR_2,Ribose operon repressor,OCAFGGHM_01485,GPENAHNM_00358
+yumC,yumC,Ferredoxin--NADP reductase 2,OCAFGGHM_01474,GPENAHNM_00283
+group_496,,hypothetical protein,OCAFGGHM_01467,GPENAHNM_00290
+arcD,arcD,Arginine/ornithine antiporter,OCAFGGHM_01465,GPENAHNM_00292
+ypjQ,ypjQ,putative protein YpjQ,OCAFGGHM_01473,GPENAHNM_00284
+glyA,glyA,Serine hydroxymethyltransferase,OCAFGGHM_01471,GPENAHNM_00286
+group_495,,hypothetical protein,OCAFGGHM_01470,GPENAHNM_00287
+dedA,dedA,DedA family protein,OCAFGGHM_01472,GPENAHNM_00285
+uvrA_2~~~uvrA_1,uvrA_2;uvrA_1,UvrABC system protein A,OCAFGGHM_01468,GPENAHNM_00289
+group_494,,hypothetical protein,OCAFGGHM_01466,GPENAHNM_00291
+group_493,,hypothetical protein,OCAFGGHM_01469,GPENAHNM_00288
+syfD,syfD,putative syringafactin export ATP-binding/permease protein SyfD,OCAFGGHM_01463,GPENAHNM_00825
+betI_2,betI_2,HTH-type transcriptional regulator BetI,OCAFGGHM_01464,GPENAHNM_00824
+ygcS_1,ygcS_1,Inner membrane metabolite transport protein YgcS,OCAFGGHM_01460,GPENAHNM_00827
+ygcS_2~~~ygcS_1,ygcS_2;ygcS_1,Inner membrane metabolite transport protein YgcS,OCAFGGHM_01461,GPENAHNM_00826
+ysdC,ysdC,Putative aminopeptidase YsdC,OCAFGGHM_01459,GPENAHNM_00828
+ykoE,ykoE,Putative HMP/thiamine permease protein YkoE,OCAFGGHM_01458,GPENAHNM_00829
+gtaB,gtaB,UTP--glucose-1-phosphate uridylyltransferase,OCAFGGHM_01449,GPENAHNM_00460
+bioH_3,bioH_3,Pimeloyl-[acyl-carrier protein] methyl ester esterase,OCAFGGHM_01447,GPENAHNM_00462
+mvaA,mvaA,3-hydroxy-3-methylglutaryl-coenzyme A reductase,OCAFGGHM_01445,GPENAHNM_00464
+elaA,elaA,Protein ElaA,OCAFGGHM_01454,GPENAHNM_00455
+group_491,,hypothetical protein,OCAFGGHM_01453,GPENAHNM_00456
+map,map,Methionine aminopeptidase 1,OCAFGGHM_01451,GPENAHNM_00458
+thlA,thlA,Acetyl-CoA acetyltransferase,OCAFGGHM_01446,GPENAHNM_00463
+group_490,,hypothetical protein,OCAFGGHM_01450,GPENAHNM_00459
+rlmCD,rlmCD,23S rRNA (uracil-C(5))-methyltransferase RlmCD,OCAFGGHM_01443,GPENAHNM_00466
+group_489,,Flavodoxin,OCAFGGHM_01452,GPENAHNM_00457
+group_488,,hypothetical protein,OCAFGGHM_01448,GPENAHNM_00461
+mvaS,mvaS,Hydroxymethylglutaryl-CoA synthase,OCAFGGHM_01444,GPENAHNM_00465
+group_487,,hypothetical protein,OCAFGGHM_01455,GPENAHNM_00454
+group_486,,hypothetical protein,OCAFGGHM_01410,GPENAHNM_01286
+group_485,,hypothetical protein,OCAFGGHM_01412,GPENAHNM_01284
+clpE_2,clpE_2,ATP-dependent Clp protease ATP-binding subunit ClpE,OCAFGGHM_01411,GPENAHNM_01285
+ptsI,ptsI,Phosphoenolpyruvate-protein phosphotransferase,OCAFGGHM_01408,GPENAHNM_01288
+group_484,,hypothetical protein,OCAFGGHM_01405,GPENAHNM_01291
+mecA,mecA,Adapter protein MecA 1,OCAFGGHM_01406,GPENAHNM_01290
+spx,spx,Global transcriptional regulator Spx,OCAFGGHM_01407,GPENAHNM_01289
+galE_2,galE_2,UDP-glucose 4-epimerase,OCAFGGHM_01415,GPENAHNM_01281
+ptsH,ptsH,Phosphocarrier protein HPr,OCAFGGHM_01409,GPENAHNM_01287
+galK_2,galK_2,Galactokinase,OCAFGGHM_01416,GPENAHNM_01280
+galT,galT,Galactose-1-phosphate uridylyltransferase,OCAFGGHM_01414,GPENAHNM_01282
+galM,galM,Aldose 1-epimerase,OCAFGGHM_01413,GPENAHNM_01283
+metN,metN,Methionine import ATP-binding protein MetN,OCAFGGHM_01398,GPENAHNM_01030
+csbB,csbB,Putative glycosyltransferase CsbB,OCAFGGHM_01392,GPENAHNM_01036
+group_483,,hypothetical protein,OCAFGGHM_01395,GPENAHNM_01033
+group_482,,hypothetical protein,OCAFGGHM_01393,GPENAHNM_01035
+mscL,mscL,Large-conductance mechanosensitive channel,OCAFGGHM_01396,GPENAHNM_01032
+group_481,,NADH:fumarate oxidoreductase,OCAFGGHM_01401,GPENAHNM_01027
+dacA_3~~~dacA_2,dacA_3;dacA_2,D-alanyl-D-alanine carboxypeptidase DacA,OCAFGGHM_01404,GPENAHNM_01024
+fumC,fumC,Fumarate hydratase class II,OCAFGGHM_01400,GPENAHNM_01028
+yflS_3,yflS_3,Putative malate transporter YflS,OCAFGGHM_01403,GPENAHNM_01025
+metP,metP,Methionine import system permease protein MetP,OCAFGGHM_01399,GPENAHNM_01029
+group_480,,hypothetical protein,OCAFGGHM_01394,GPENAHNM_01034
+yflS_2,yflS_2,Putative malate transporter YflS,OCAFGGHM_01402,GPENAHNM_01026
+metQ,metQ,putative D-methionine-binding lipoprotein MetQ,OCAFGGHM_01397,GPENAHNM_01031
+rpoY,rpoY,DNA-directed RNA polymerase subunit epsilon,OCAFGGHM_01386,GPENAHNM_00021
+group_479,,hypothetical protein,OCAFGGHM_01389,GPENAHNM_00024
+coaD,coaD,Phosphopantetheine adenylyltransferase,OCAFGGHM_01380,GPENAHNM_00015
+rnj1,rnj1,Ribonuclease J 1,OCAFGGHM_01387,GPENAHNM_00022
+pnbA_1,;pnbA_1,hypothetical protein;4-nitrobenzoate reductase,OCAFGGHM_01431,GPENAHNM_00001
+comEA,comEA,ComE operon protein 1,OCAFGGHM_01378,GPENAHNM_00013
+recD2,recD2,ATP-dependent RecD2 DNA helicase,OCAFGGHM_01388,GPENAHNM_00023
+clpX,clpX,ATP-dependent Clp protease ATP-binding subunit ClpX,OCAFGGHM_01434,GPENAHNM_00004
+comEC,;comEC,hypothetical protein;ComE operon protein 3,OCAFGGHM_01442;OCAFGGHM_01377,GPENAHNM_00012
+pspA_2,pspA_2,Phosphoserine phosphatase 1,OCAFGGHM_01390,GPENAHNM_00025
+rnj2,rnj2,Ribonuclease J 2,OCAFGGHM_01438,GPENAHNM_00008
+ylbL,ylbL,putative protein YlbL,OCAFGGHM_01379,GPENAHNM_00014
+engB,engB,putative GTP-binding protein EngB,OCAFGGHM_01433,GPENAHNM_00003
+tuf,tuf,Elongation factor Tu,OCAFGGHM_01436,GPENAHNM_00006
+rpsT,rpsT,Small ribosomal subunit protein bS20,OCAFGGHM_01440,GPENAHNM_00010
+ftsW,ftsW,putative peptidoglycan glycosyltransferase FtsW,OCAFGGHM_01383,GPENAHNM_00018
+tig,tig,Trigger factor,OCAFGGHM_01435,GPENAHNM_00005
+bipA,bipA,Large ribosomal subunit assembly factor BipA,OCAFGGHM_01384,GPENAHNM_00019
+oxyR_2~~~oxyR,oxyR_2;oxyR,DNA-binding transcriptional dual regulator OxyR,OCAFGGHM_01391,GPENAHNM_00026
+group_478,,hypothetical protein,OCAFGGHM_01382,GPENAHNM_00017
+rpsO,rpsO,Small ribosomal subunit protein uS15,OCAFGGHM_01439,GPENAHNM_00009
+group_477,,hypothetical protein,OCAFGGHM_01437,GPENAHNM_00007
+group_476,,hypothetical protein,OCAFGGHM_01432,GPENAHNM_00002
+rsmD,rsmD,Ribosomal RNA small subunit methyltransferase D,OCAFGGHM_01381,GPENAHNM_00016
+holA,holA,DNA polymerase III subunit delta,OCAFGGHM_01441,GPENAHNM_00011
+def2,def2,Peptide deformylase 2,OCAFGGHM_01385,GPENAHNM_00020
+group_475,,hypothetical protein,OCAFGGHM_01364,GPENAHNM_00845
+murK,murK,N-acetylmuramic acid/N-acetylglucosamine kinase,OCAFGGHM_01365,GPENAHNM_00844
+group_474,,hypothetical protein,OCAFGGHM_01375,GPENAHNM_00834
+group_473,,hypothetical protein,OCAFGGHM_01363,GPENAHNM_00846
+group_472,,hypothetical protein,OCAFGGHM_01372,GPENAHNM_00837
+group_471,,hypothetical protein,OCAFGGHM_01367,GPENAHNM_00842
+group_470,,hypothetical protein,OCAFGGHM_01371,GPENAHNM_00838
+group_469,,hypothetical protein,OCAFGGHM_01373,GPENAHNM_00836
+group_468,,hypothetical protein,OCAFGGHM_01369,GPENAHNM_00840
+serS,serS,Serine--tRNA ligase,OCAFGGHM_01376,GPENAHNM_00833
+gabD1,gabD1,Succinate-semialdehyde dehydrogenase [NADP(+)] 1,OCAFGGHM_01370,GPENAHNM_00839
+group_467,,hypothetical protein,OCAFGGHM_01368,GPENAHNM_00841
+group_466,,hypothetical protein,OCAFGGHM_01374,GPENAHNM_00835
+group_465,,hypothetical protein,OCAFGGHM_01366,GPENAHNM_00843
+trpS2,trpS2,Tryptophan--tRNA ligase 2,OCAFGGHM_01351,GPENAHNM_01534
+dinB_2,dinB_2,DNA polymerase IV,OCAFGGHM_01347,GPENAHNM_01538
+rnmV,rnmV,Ribonuclease M5,OCAFGGHM_01357,GPENAHNM_01528
+glmU,glmU,Bifunctional protein GlmU,OCAFGGHM_01361,GPENAHNM_01524
+mgtB,mgtB,Magnesium-transporting ATPase P-type 1,OCAFGGHM_01354,GPENAHNM_01531
+purR_1,purR_1,Purine biosynthesis transcriptional repressor PurR,OCAFGGHM_01360,GPENAHNM_01525
+group_464,,hypothetical protein,OCAFGGHM_01348,GPENAHNM_01537
+veg,veg,Protein Veg,OCAFGGHM_01359,GPENAHNM_01526
+dtd3,dtd3,D-aminoacyl-tRNA deacylase,OCAFGGHM_01356,GPENAHNM_01529
+tadA_3,tadA_3,tRNA-specific adenosine deaminase,OCAFGGHM_01352,GPENAHNM_01533
+group_463,,hypothetical protein,OCAFGGHM_01353,GPENAHNM_01532
+metG,metG,Methionine--tRNA ligase,OCAFGGHM_01355,GPENAHNM_01530
+rsmA,rsmA,Ribosomal RNA small subunit methyltransferase A,OCAFGGHM_01358,GPENAHNM_01527
+group_462,,hypothetical protein,OCAFGGHM_01349,GPENAHNM_01536
+rluD_2~~~rluD_1,rluD_2;rluD_1,Ribosomal large subunit pseudouridine synthase D,OCAFGGHM_01336,GPENAHNM_00694
+def,def;,Peptide deformylase;hypothetical protein,OCAFGGHM_01345,GPENAHNM_00702
+ppsA,ppsA,Phosphoenolpyruvate synthase,OCAFGGHM_01346,GPENAHNM_00703
+argS,argS,Arginine--tRNA ligase,OCAFGGHM_01338,GPENAHNM_00696
+fba,fba,Fructose-bisphosphate aldolase,OCAFGGHM_01337,GPENAHNM_00695
+dacA_2,dacA_2,D-alanyl-D-alanine carboxypeptidase DacA,OCAFGGHM_01340,GPENAHNM_00697
+nnrD,nnrD,ADP-dependent (S)-NAD(P)H-hydrate dehydratase,OCAFGGHM_01341,GPENAHNM_00698
+group_459,,hypothetical protein,OCAFGGHM_01343,GPENAHNM_00700
+smc_6,smc_6,Chromosome partition protein Smc,OCAFGGHM_01328,GPENAHNM_01102
+rnc,rnc,Ribonuclease 3,OCAFGGHM_01327,GPENAHNM_01103
+oppA_2~~~oppA,oppA_2;oppA,Oligopeptide-binding protein OppA,OCAFGGHM_01326,GPENAHNM_01104
+ftsY,ftsY,Signal recognition particle receptor FtsY,OCAFGGHM_01329,GPENAHNM_01101
+pepDA_3,pepDA_3,Dipeptidase A,OCAFGGHM_01330,GPENAHNM_01100
+licC_2,licC_2,Lichenan permease IIC component,OCAFGGHM_01315,GPENAHNM_01246
+pyrAA,pyrAA,Carbamoyl phosphate synthase pyrimidine-specific small chain,OCAFGGHM_01321,GPENAHNM_01239
+lspA,lspA,Lipoprotein signal peptidase,OCAFGGHM_01319,GPENAHNM_01241
+group_456,,hypothetical protein,OCAFGGHM_01316,GPENAHNM_01245
+group_455,,hypothetical protein,OCAFGGHM_01323,GPENAHNM_01237
+fhs1,fhs1,Formate--tetrahydrofolate ligase 1,OCAFGGHM_01318,GPENAHNM_01242
+lacG,lacG,6-phospho-beta-galactosidase,OCAFGGHM_01313,GPENAHNM_01249
+pyrAB,pyrAB,Carbamoyl phosphate synthase pyrimidine-specific large chain,OCAFGGHM_01322,GPENAHNM_01238
+lacE_1~~~lacE~~~lacE_2,lacE_1;lacE;lacE_2,PTS system lactose-specific EIICB component,OCAFGGHM_01314,GPENAHNM_01248;GPENAHNM_01247
+rluD_1~~~rluD_2,rluD_1;rluD_2,Ribosomal large subunit pseudouridine synthase D,OCAFGGHM_01320,GPENAHNM_01240
+group_454,,hypothetical protein,OCAFGGHM_01317,GPENAHNM_01243
+group_452,,hypothetical protein,OCAFGGHM_01312,GPENAHNM_00532
+deoD,deoD,Purine nucleoside phosphorylase DeoD-type,OCAFGGHM_01310,GPENAHNM_00530
+glnA,glnA,Glutamine synthetase,OCAFGGHM_01311,GPENAHNM_00531
+bmpA_4,bmpA_4,ABC transporter nucleoside-binding protein BmpA,OCAFGGHM_01309,GPENAHNM_01390
+resD,resD,Transcriptional regulatory protein ResD,OCAFGGHM_01300,GPENAHNM_00947
+pepX,pepX,Xaa-Pro dipeptidyl-peptidase,OCAFGGHM_01306,GPENAHNM_00952
+group_450,,hypothetical protein,OCAFGGHM_01307,GPENAHNM_00953
+yfcJ,yfcJ;,putative MFS-type transporter YfcJ;hypothetical protein,OCAFGGHM_01308,GPENAHNM_01388;GPENAHNM_00954
+mgsR,mgsR,Regulatory protein MgsR,OCAFGGHM_01305,GPENAHNM_00951
+gmuF,gmuF,putative mannose-6-phosphate isomerase GmuF,OCAFGGHM_01302,GPENAHNM_00949
+group_449,,hypothetical protein,OCAFGGHM_01301,GPENAHNM_00948
+sasA_3~~~sasA_2,sasA_3;sasA_2,Adaptive-response sensory-kinase SasA,OCAFGGHM_01299,GPENAHNM_00946
+group_448,,hypothetical protein,OCAFGGHM_01287,GPENAHNM_01138
+crtE,crtE,Geranylgeranyl pyrophosphate synthase,OCAFGGHM_01297,GPENAHNM_01128
+xseB,xseB,Exodeoxyribonuclease 7 small subunit,OCAFGGHM_01296,GPENAHNM_01129
+xseA,xseA,Exodeoxyribonuclease 7 large subunit,OCAFGGHM_01295,GPENAHNM_01130
+folD,folD,Bifunctional protein FolD protein,OCAFGGHM_01294,GPENAHNM_01131
+group_447,,Iron-sulfur cluster assembly SufBD family protein,OCAFGGHM_01283,GPENAHNM_01142
+rplU,rplU,Large ribosomal subunit protein bL21,OCAFGGHM_01288,GPENAHNM_01137
+iscU,iscU,Iron-sulfur cluster assembly scaffold protein IscU,OCAFGGHM_01285,GPENAHNM_01140
+sufC,sufC,Vegetative protein 296,OCAFGGHM_01282,GPENAHNM_01143
+nusB,nusB,Transcription antitermination protein NusB,OCAFGGHM_01293,GPENAHNM_01132
+tlyA,tlyA,Hemolysin A,OCAFGGHM_01298,GPENAHNM_01127
+sufS,sufS,Cysteine desulfurase SufS,OCAFGGHM_01284,GPENAHNM_01141
+group_446,,Iron-sulfur cluster assembly SufBD family protein,OCAFGGHM_01286,GPENAHNM_01139
+rpmA,rpmA,Large ribosomal subunit protein bL27,OCAFGGHM_01289,GPENAHNM_01136
+ypdF,ypdF,Aminopeptidase YpdF,OCAFGGHM_01290,GPENAHNM_01135
+efp_2,efp_2,Elongation factor P,OCAFGGHM_01291,GPENAHNM_01134
+group_445,,hypothetical protein,OCAFGGHM_01292,GPENAHNM_01133
+aimA,aimA,Glutamate/serine transporter AimA,OCAFGGHM_01242,GPENAHNM_01189
+secG,secG,putative protein-export membrane protein SecG,OCAFGGHM_01250,GPENAHNM_01182
+group_444,,hypothetical protein,OCAFGGHM_01238,GPENAHNM_01194;GPENAHNM_01193
+rnr,rnr,Ribonuclease R,OCAFGGHM_01251,GPENAHNM_01181
+gap,gap,Glyceraldehyde-3-phosphate dehydrogenase,OCAFGGHM_01246,GPENAHNM_01186
+ycaM_3,ycaM_3,Inner membrane transporter YcaM,OCAFGGHM_01241,GPENAHNM_01190
+group_443,,hypothetical protein,OCAFGGHM_01253,GPENAHNM_01179
+cggR,cggR,Central glycolytic genes regulator,OCAFGGHM_01245,GPENAHNM_01187
+clpP,clpP,ATP-dependent Clp protease proteolytic subunit,OCAFGGHM_01239,GPENAHNM_01192
+eno2,eno2,Enolase 2,OCAFGGHM_01249,GPENAHNM_01183
+perR,perR,Peroxide-responsive repressor PerR,OCAFGGHM_01240,GPENAHNM_01191
+smpB,smpB,SsrA-binding protein,OCAFGGHM_01252,GPENAHNM_01180
+pgk,pgk,Phosphoglycerate kinase,OCAFGGHM_01247,GPENAHNM_01185
+tpiA,tpiA,Triosephosphate isomerase,OCAFGGHM_01248,GPENAHNM_01184
+ung,ung,Uracil-DNA glycosylase,OCAFGGHM_01254,GPENAHNM_01178
+ldhA,ldhA,D-2-hydroxyacid dehydrogenase (NAD(+)),OCAFGGHM_01237,GPENAHNM_01195
+whiA,whiA,putative cell division protein WhiA,OCAFGGHM_01235,GPENAHNM_01197
+group_440,,hypothetical protein,OCAFGGHM_01234,GPENAHNM_01277
+group_439,,hypothetical protein,OCAFGGHM_01229,GPENAHNM_01272
+group_438,,hypothetical protein,OCAFGGHM_01231,GPENAHNM_01274
+group_437,,hypothetical protein,OCAFGGHM_01221,GPENAHNM_01264
+nrdD,nrdD,Anaerobic ribonucleoside-triphosphate reductase,OCAFGGHM_01224,GPENAHNM_01267
+group_436,,Putative universal stress protein,OCAFGGHM_01233,GPENAHNM_01276
+group_435,,hypothetical protein,OCAFGGHM_01232,GPENAHNM_01275
+kup,kup,Low affinity potassium transport system protein Kup,OCAFGGHM_01218,GPENAHNM_01261
+group_434,,hypothetical protein,OCAFGGHM_01223,GPENAHNM_01266
+glnQ_1,glnQ_1,Glutamine transport ATP-binding protein GlnQ,OCAFGGHM_01230,GPENAHNM_01273
+group_433,,hypothetical protein,OCAFGGHM_01226,GPENAHNM_01269
+phnE,phnE,Phosphate-import permease protein PhnE,OCAFGGHM_01228,GPENAHNM_01271
+pepO_2,pepO_2,Neutral endopeptidase,OCAFGGHM_01219,GPENAHNM_01262
+group_432,,hypothetical protein,OCAFGGHM_01217,GPENAHNM_01260
+asnB,asnB,Asparagine synthetase [glutamine-hydrolyzing] 1,OCAFGGHM_01225,GPENAHNM_01268
+mdtH,mdtH,Multidrug resistance protein MdtH,OCAFGGHM_01220,GPENAHNM_01263
+group_431,,hypothetical protein,OCAFGGHM_01222,GPENAHNM_01265
+group_430,,hypothetical protein,OCAFGGHM_01227,GPENAHNM_01270
+gtfA,gtfA,Sucrose phosphorylase,OCAFGGHM_01203,GPENAHNM_00276
+rbsR_1,rbsR_1,Ribose operon repressor,OCAFGGHM_01204,GPENAHNM_00277
+group_429,,putative protein,OCAFGGHM_01193,GPENAHNM_01113
+plsX,plsX,Phosphate acyltransferase,OCAFGGHM_01196,GPENAHNM_01110
+group_428,,putative protein,OCAFGGHM_01194,GPENAHNM_01112
+rsmB,rsmB,Ribosomal RNA small subunit methyltransferase B,OCAFGGHM_01186,GPENAHNM_01120
+recN,recN,DNA repair protein RecN,OCAFGGHM_01180,GPENAHNM_01126
+oppD,oppD,Oligopeptide transport ATP-binding protein OppD,OCAFGGHM_01198,GPENAHNM_01108
+group_427,,hypothetical protein,OCAFGGHM_01181,GPENAHNM_01125
+acpP,acpP,Acyl carrier protein,OCAFGGHM_01197,GPENAHNM_01109
+priA,priA,Replication restart protein PriA,OCAFGGHM_01184,GPENAHNM_01122
+rpe,rpe,Ribulose-phosphate 3-epimerase,OCAFGGHM_01190,GPENAHNM_01116
+oppF_2~~~oppF_1~~~oppF,oppF_2;oppF_1;oppF,Oligopeptide transport ATP-binding protein OppF,OCAFGGHM_01199;OCAFGGHM_01200,GPENAHNM_01107
+fmt,fmt,Methionyl-tRNA formyltransferase,OCAFGGHM_01185,GPENAHNM_01121
+group_426,,Putative protein phosphatase 2C-type,OCAFGGHM_01187,GPENAHNM_01119
+rpmB,rpmB,Large ribosomal subunit protein bL28,OCAFGGHM_01192,GPENAHNM_01114
+thiN,thiN,Thiamine pyrophosphokinase,OCAFGGHM_01191,GPENAHNM_01115
+oppB,oppB,Oligopeptide transport system permease protein OppB,OCAFGGHM_01201,GPENAHNM_01106
+rsgA,rsgA,Small ribosomal subunit biogenesis GTPase RsgA,OCAFGGHM_01189,GPENAHNM_01117
+gmk_2,gmk_2,Guanylate kinase,OCAFGGHM_01182,GPENAHNM_01124
+prkC,prkC,Serine/threonine-protein kinase PrkC,OCAFGGHM_01188,GPENAHNM_01118
+recG,recG,ATP-dependent DNA helicase RecG,OCAFGGHM_01195,GPENAHNM_01111
+rpoZ,rpoZ,DNA-directed RNA polymerase subunit omega,OCAFGGHM_01183,GPENAHNM_01123
+oppC,oppC,Oligopeptide transport system permease protein OppC,OCAFGGHM_01202,GPENAHNM_01105
+btuD_1~~~potA,btuD_1;potA,Vitamin B12 import ATP-binding protein BtuD;Spermidine/putrescine import ATP-binding protein PotA,OCAFGGHM_01154,GPENAHNM_01172;GPENAHNM_01173
+polC_2~~~polC_4,polC_2;polC_4,DNA polymerase III PolC-type,OCAFGGHM_01152,GPENAHNM_01175
+ycaM_2,ycaM_2,Inner membrane transporter YcaM,OCAFGGHM_01173,GPENAHNM_01153
+group_425,,hypothetical protein,OCAFGGHM_01175,GPENAHNM_01151
+potC,potC,Spermidine/putrescine transport system permease protein PotC,OCAFGGHM_01156,GPENAHNM_01170
+group_424,,hypothetical protein,OCAFGGHM_01177,GPENAHNM_01149
+group_423,,putative transcriptional regulatory protein,OCAFGGHM_01170,GPENAHNM_01156
+group_422,,Putative phosphatase,OCAFGGHM_01161,GPENAHNM_01165
+fimA,fimA,Metal ABC transporter substrate-binding lipoprotein FimA,OCAFGGHM_01172,GPENAHNM_01154
+potB,potB,Spermidine/putrescine transport system permease protein PotB,OCAFGGHM_01155,GPENAHNM_01171
+pta,pta,Phosphate acetyltransferase,OCAFGGHM_01150,GPENAHNM_01177
+comGC,comGC,Competence protein ComGC,OCAFGGHM_01176,GPENAHNM_01150
+potD,potD,Spermidine/putrescine-binding periplasmic protein,OCAFGGHM_01157,GPENAHNM_01169
+fluC1,fluC1,Fluoride-specific ion channel FluC 1,OCAFGGHM_01166,GPENAHNM_01160
+copA,copA,Copper-exporting P-type ATPase,OCAFGGHM_01165,GPENAHNM_01161
+group_421,,hypothetical protein,OCAFGGHM_01179,GPENAHNM_01147
+yfkJ,yfkJ,Low molecular weight protein-tyrosine-phosphatase YfkJ,OCAFGGHM_01169,GPENAHNM_01157
+fluC2,fluC2,Fluoride-specific ion channel FluC 2,OCAFGGHM_01167,GPENAHNM_01159
+group_420,,hypothetical protein,OCAFGGHM_01164,GPENAHNM_01162
+glmM,glmM,Phosphoglucosamine mutase,OCAFGGHM_01160,GPENAHNM_01166
+cdaR,cdaR,CdaA regulatory protein CdaR,OCAFGGHM_01159,GPENAHNM_01167
+group_419,,hypothetical protein,OCAFGGHM_01178,GPENAHNM_01148
+group_418,,Putative phosphatase,OCAFGGHM_01162,GPENAHNM_01164
+dacA_1,dacA_1,Diadenylate cyclase,OCAFGGHM_01158,GPENAHNM_01168
+tsaE,tsaE,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE,OCAFGGHM_01151,GPENAHNM_01176
+group_417,,hypothetical protein,OCAFGGHM_01168,GPENAHNM_01158
+comGA,comGA,Competence protein ComGA,OCAFGGHM_01174,GPENAHNM_01152
+copY,copY,Transcriptional repressor CopY,OCAFGGHM_01163,GPENAHNM_01163
+murB,murB,UDP-N-acetylenolpyruvoylglucosamine reductase,OCAFGGHM_01153,GPENAHNM_01174
+group_416,,hypothetical protein,OCAFGGHM_01171,GPENAHNM_01155
+udk,udk,Uridine kinase,OCAFGGHM_01131,GPENAHNM_00426
+guaB,guaB,Inosine-5'-monophosphate dehydrogenase,OCAFGGHM_01146,GPENAHNM_00410
+pyrP,pyrP,Uracil permease,OCAFGGHM_01143,GPENAHNM_00413
+gltT,gltT,Proton/sodium-glutamate symport protein,OCAFGGHM_01144,GPENAHNM_00412
+arnT,arnT,Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase,OCAFGGHM_01133,GPENAHNM_00424
+group_415,,hypothetical protein,OCAFGGHM_01142,GPENAHNM_00414
+rbsKrbiA,rbsK/rbiA,Bifunctional ribokinase/ribose-5-phosphate isomerase A,OCAFGGHM_01423,GPENAHNM_00438
+rihC,rihC,Non-specific ribonucleoside hydrolase RihC,OCAFGGHM_01421,GPENAHNM_00440
+ebh_2~~~hylA,ebh_2;hylA,Extracellular matrix-binding protein ebh;Polysaccharide lyase 8 family protein HylA,OCAFGGHM_01149,GPENAHNM_00407
+phoU,phoU,Phosphate-specific transport system accessory protein PhoU,OCAFGGHM_01137,GPENAHNM_00419
+group_414,,Adenine deaminase,OCAFGGHM_01145,GPENAHNM_00411
+pnbA,pnbA,4-nitrobenzoate reductase,OCAFGGHM_01418,GPENAHNM_00443
+xpkA,xpkA,Xylulose-5-phosphate phosphoketolase,OCAFGGHM_01419,GPENAHNM_00442
+pstS1,pstS1,Phosphate-binding protein PstS 1,OCAFGGHM_01141,GPENAHNM_00415
+group_413,gmuR_1,HTH-type transcriptional regulator GmuR,OCAFGGHM_01420,GPENAHNM_00441
+group_412,,hypothetical protein,OCAFGGHM_01424,GPENAHNM_00437
+group_411,,putative ABC transporter ATP-binding protein,OCAFGGHM_01622,GPENAHNM_00428
+bcaP_2,bcaP_2,Branched-chain amino acid permease BcaP,OCAFGGHM_01135,GPENAHNM_00421
+group_410,,hypothetical protein,OCAFGGHM_01425,GPENAHNM_00436
+group_409,,putative ABC transporter ATP-binding protein,OCAFGGHM_01623,GPENAHNM_00429
+glnP,glnP,putative glutamine ABC transporter permease protein GlnP,OCAFGGHM_01428,GPENAHNM_00433
+paiA_2,paiA_2,Spermidine/spermine N(1)-acetyltransferase,OCAFGGHM_01148,GPENAHNM_00408
+group_408,,hypothetical protein,OCAFGGHM_01427,GPENAHNM_00434
+glnQ_2,glnQ_2,Glutamine transport ATP-binding protein GlnQ,OCAFGGHM_01624,GPENAHNM_00430
+pstA,pstA,Phosphate transport system permease protein PstA,OCAFGGHM_01139,GPENAHNM_00417
+pucI,pucI,Allantoin permease,OCAFGGHM_01147,GPENAHNM_00409
+group_407,,hypothetical protein,OCAFGGHM_01130;OCAFGGHM_01621,GPENAHNM_00427
+glnH,glnH,ABC transporter glutamine-binding protein GlnH,OCAFGGHM_01625,GPENAHNM_00431
+yjeM_1,yjeM_1,Inner membrane transporter YjeM,OCAFGGHM_01136,GPENAHNM_00420
+pstB3,pstB3,Phosphate import ATP-binding protein PstB 3,OCAFGGHM_01138,GPENAHNM_00418
+ykoT,ykoT,putative glycosyltransferase YkoT,OCAFGGHM_01132,GPENAHNM_00425
+group_406,,hypothetical protein,OCAFGGHM_01140,GPENAHNM_00416
+rpiA,rpiA,Ribose-5-phosphate isomerase A,OCAFGGHM_01422,GPENAHNM_00439
+mdtG~~~sbnD_2~~~sbnD_1,mdtG;sbnD_2;sbnD_1,Multidrug resistance protein MdtG;Staphyloferrin B transporter,OCAFGGHM_01134,GPENAHNM_00422;GPENAHNM_00423
+glnM_2~~~glnM_1~~~glnM,glnM_2;glnM_1;glnM,putative glutamine ABC transporter permease protein GlnM,OCAFGGHM_01429;OCAFGGHM_01626,GPENAHNM_00432
+group_405,,hypothetical protein,OCAFGGHM_01426,GPENAHNM_00435
+thrP_2,thrP_2,Threonine/serine transporter ThrP,OCAFGGHM_01127,GPENAHNM_01041
+dnaJ,dnaJ,Chaperone protein DnaJ,OCAFGGHM_01114,GPENAHNM_01054
+strA,strA,Sortase A,OCAFGGHM_01116,GPENAHNM_01052
+truB,truB,tRNA pseudouridine synthase B,OCAFGGHM_01109,GPENAHNM_01059
+thrP_1,thrP_1,Threonine/serine transporter ThrP,OCAFGGHM_01126,GPENAHNM_01042
+recJ,recJ,Single-stranded-DNA-specific exonuclease RecJ,OCAFGGHM_01117,GPENAHNM_01051
+kdpB,kdpB,Potassium-transporting ATPase ATP-binding subunit,OCAFGGHM_01119,GPENAHNM_01049
+group_404,,hypothetical protein,OCAFGGHM_01120,GPENAHNM_01048
+grpE,grpE,Protein GrpE,OCAFGGHM_01112,GPENAHNM_01056
+ribCF,ribCF,Bifunctional riboflavin kinase/FMN adenylyltransferase,OCAFGGHM_01110,GPENAHNM_01058
+hrcA,hrcA,Heat-inducible transcription repressor HrcA,OCAFGGHM_01111,GPENAHNM_01057
+apt,apt,Adenine phosphoribosyltransferase,OCAFGGHM_01118,GPENAHNM_01050
+group_403,lepA_2,Elongation factor 4,OCAFGGHM_01115,GPENAHNM_01053
+dnaK,dnaK,Chaperone protein DnaK,OCAFGGHM_01113,GPENAHNM_01055
+qmcA,qmcA,Protein QmcA,OCAFGGHM_01128,GPENAHNM_01040
+group_402,,hypothetical protein,OCAFGGHM_01124,GPENAHNM_01044
+group_401,,DegV domain-containing protein,OCAFGGHM_01121,GPENAHNM_01047
+ydfK,ydfK,putative membrane protein YdfK,OCAFGGHM_01125,GPENAHNM_01043
+group_400,,hypothetical protein,OCAFGGHM_01122,GPENAHNM_01046
+thyA,thyA,Thymidylate synthase,OCAFGGHM_01129,GPENAHNM_01039
+frr,frr,Ribosome-recycling factor,OCAFGGHM_01097,GPENAHNM_01071
+rasP,rasP,Regulator of sigma-W protease RasP,OCAFGGHM_01094,GPENAHNM_01068
+rbfA,rbfA,Ribosome-binding factor A,OCAFGGHM_01086,GPENAHNM_01060
+group_399,,hypothetical protein,OCAFGGHM_01266,GPENAHNM_01086
+group_398,,hypothetical protein,OCAFGGHM_01265,GPENAHNM_01087
+uppS,uppS,Ditranspolycis-undecaprenyl-diphosphate synthase ((2E6E)-farnesyl-diphosphate specific),OCAFGGHM_01096,GPENAHNM_01070
+pcp,pcp,Pyrrolidone-carboxylate peptidase,OCAFGGHM_01267,GPENAHNM_01085
+proS,proS,Proline--tRNA ligase,OCAFGGHM_01093,GPENAHNM_01067
+yfiC,yfiC,tRNA1(Val) (adenine(37)-N6)-methyltransferase,OCAFGGHM_01101,GPENAHNM_01075
+group_397,,hypothetical protein,OCAFGGHM_01256,GPENAHNM_01096
+rimP,rimP,Ribosome maturation factor RimP,OCAFGGHM_01091,GPENAHNM_01065
+group_396,,hypothetical protein,OCAFGGHM_01263,GPENAHNM_01089
+rimM,rimM,Ribosome maturation factor RimM,OCAFGGHM_01260,GPENAHNM_01092
+ffh,ffh,Signal recognition particle protein,OCAFGGHM_01258,GPENAHNM_01094
+pyrH,pyrH,Uridylate kinase,OCAFGGHM_01098,GPENAHNM_01072
+group_395,,hypothetical protein,OCAFGGHM_01095,GPENAHNM_01069
+trmD,trmD,tRNA (guanine-N(1)-)-methyltransferase,OCAFGGHM_01261,GPENAHNM_01091
+tsf,tsf,Elongation factor Ts,OCAFGGHM_01099,GPENAHNM_01073
+yheH,yheH,putative multidrug resistance ABC transporter ATP-binding/permease protein YheH,OCAFGGHM_01103,GPENAHNM_01077
+scrB,scrB,Sucrose-6-phosphate hydrolase,OCAFGGHM_01269,GPENAHNM_01083
+group_394,,hypothetical protein,OCAFGGHM_01106,GPENAHNM_01080
+comA_2,;comA_2,hypothetical protein;Transport/processing ATP-binding protein ComA,OCAFGGHM_01255,GPENAHNM_01097
+group_393,,hypothetical protein,OCAFGGHM_01089,GPENAHNM_01063
+lepA_2,lepA_2,Elongation factor 4,OCAFGGHM_01087,GPENAHNM_01061
+yheI,yheI,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI,OCAFGGHM_01104,GPENAHNM_01078
+rpsP,rpsP,Small ribosomal subunit protein bS16,OCAFGGHM_01259,GPENAHNM_01093
+scrA_1,scrA_1,PTS system sucrose-specific EIIBCA component,OCAFGGHM_01270,GPENAHNM_01082
+plsC,plsC,1-acyl-sn-glycerol-3-phosphate acyltransferase,OCAFGGHM_01102,GPENAHNM_01076
+group_392,,hypothetical protein,OCAFGGHM_01257,GPENAHNM_01095
+lexA_3,lexA_3,LexA repressor,OCAFGGHM_01107,GPENAHNM_01081
+bceA_2~~~bceA_1,bceA_2;bceA_1,Bacitracin export ATP-binding protein BceA,OCAFGGHM_01264,GPENAHNM_01088
+nusA,nusA,Transcription termination/antitermination protein NusA,OCAFGGHM_01090,GPENAHNM_01064
+group_391,polC_1,DNA polymerase III PolC-type,OCAFGGHM_01092,GPENAHNM_01066
+rulQ,rulQ,RNA-binding protein YlxQ,OCAFGGHM_01088,GPENAHNM_01062
+rplS,rplS,Large ribosomal subunit protein bL19,OCAFGGHM_01262,GPENAHNM_01090
+degA_3,degA_3,HTH-type transcriptional regulator DegA,OCAFGGHM_01268,GPENAHNM_01084
+group_390,,hypothetical protein,OCAFGGHM_01105,GPENAHNM_01079
+rpsB,rpsB,Small ribosomal subunit protein uS2,OCAFGGHM_01100,GPENAHNM_01074
+group_388,,hypothetical protein,OCAFGGHM_01084,GPENAHNM_00857
+iolS,iolS,Aldo-keto reductase IolS,OCAFGGHM_01083,GPENAHNM_00858
+group_387,,hypothetical protein,OCAFGGHM_01079,GPENAHNM_00866
+group_386,,Gamma-resorcylate decarboxylase;hypothetical protein,OCAFGGHM_01081,GPENAHNM_00860
+group_384,,hypothetical protein,OCAFGGHM_01080,GPENAHNM_00865
+group_383,,hypothetical protein,OCAFGGHM_01085,GPENAHNM_00856
+msbA_2,msbA_2,ATP-dependent lipid A-core flippase,OCAFGGHM_01078,GPENAHNM_00867
+adhR,adhR,HTH-type transcriptional regulator AdhR,OCAFGGHM_01082,GPENAHNM_00859
+bceB,bceB,Bacitracin export permease protein BceB,OCAFGGHM_01067,GPENAHNM_01326
+trcR,trcR,Transcriptional regulatory protein TrcR,OCAFGGHM_01073,GPENAHNM_01320
+ndkA,ndkA,Nucleoside diphosphate kinase,OCAFGGHM_01068,GPENAHNM_01325
+bceA_1,bceA_1,Bacitracin export ATP-binding protein BceA,OCAFGGHM_01066,GPENAHNM_01327
+group_382,,hypothetical protein,OCAFGGHM_01070,GPENAHNM_01323
+fpaP,fpaP,Proline iminopeptidase,OCAFGGHM_01077,GPENAHNM_01316
+efp_1~~~efp_2,efp_1;efp_2,Elongation factor P,OCAFGGHM_01076,GPENAHNM_01317
+group_380,,hypothetical protein,OCAFGGHM_01061,GPENAHNM_01332
+ywaC,ywaC,GTP pyrophosphokinase YwaC,OCAFGGHM_01072,GPENAHNM_01321
+helD,helD,DNA helicase IV,OCAFGGHM_01071,GPENAHNM_01322
+cobC,cobC,Adenosylcobalamin/alpha-ribazole phosphatase,OCAFGGHM_01069,GPENAHNM_01324
+hflX,hflX,GTPase HflX,OCAFGGHM_01065,GPENAHNM_01328
+group_379,,hypothetical protein,OCAFGGHM_01064,GPENAHNM_01329
+gmk_1~~~gmk_2,gmk_1;gmk_2,Guanylate kinase,OCAFGGHM_01062,GPENAHNM_01331
+sasA_2,sasA_2,Adaptive-response sensory-kinase SasA,OCAFGGHM_01074,GPENAHNM_01319
+coaA,coaA,Pantothenate kinase,OCAFGGHM_01075,GPENAHNM_01318
+group_376,,hypothetical protein,OCAFGGHM_01059,GPENAHNM_01413
+galK_1,galK_1,Galactokinase,OCAFGGHM_01057,GPENAHNM_00970
+ytrA,ytrA,HTH-type transcriptional repressor YtrA,OCAFGGHM_01043,GPENAHNM_00984
+group_375,,GTP cyclohydrolase 1 type 2,OCAFGGHM_01041,GPENAHNM_00986
+group_374,,hypothetical protein,OCAFGGHM_01051,GPENAHNM_00976
+fni,fni,Isopentenyl-diphosphate delta-isomerase,OCAFGGHM_01054,GPENAHNM_00973
+spsB,spsB,Signal peptidase IB,OCAFGGHM_01050,GPENAHNM_00977
+dnaG,dnaG,DNA primase,OCAFGGHM_01038,GPENAHNM_00989
+group_373,,hypothetical protein,OCAFGGHM_01049,GPENAHNM_00978
+glyQ,glyQ,Glycine--tRNA ligase alpha subunit,OCAFGGHM_01036,GPENAHNM_00991
+group_372,,hypothetical protein,OCAFGGHM_01045,GPENAHNM_00982
+group_371,,hypothetical protein,OCAFGGHM_01056,GPENAHNM_00971
+group_370,,Phosphomevalonate kinase,OCAFGGHM_01055,GPENAHNM_00972
+addB,addB,ATP-dependent helicase/deoxyribonuclease subunit B,OCAFGGHM_01058,GPENAHNM_00969
+sigA,sigA,RNA polymerase sigma factor SigA,OCAFGGHM_01039,GPENAHNM_00988
+group_369,,hypothetical protein,OCAFGGHM_01047,GPENAHNM_00980
+group_368,,hypothetical protein,OCAFGGHM_01048,GPENAHNM_00979
+group_367,,hypothetical protein,OCAFGGHM_01046,GPENAHNM_00981
+rsmF,rsmF;,Ribosomal RNA small subunit methyltransferase F;hypothetical protein,OCAFGGHM_01052,GPENAHNM_00974;GPENAHNM_00975
+trmK,trmK,tRNA (adenine(22)-N(1))-methyltransferase,OCAFGGHM_01040,GPENAHNM_00987
+pepT_1,pepT_1,Peptidase T,OCAFGGHM_01042,GPENAHNM_00985
+glyS,glyS,Glycine--tRNA ligase beta subunit,OCAFGGHM_01037,GPENAHNM_00990
+albC,albC,Putative ABC transporter ATP-binding protein AlbC,OCAFGGHM_01044,GPENAHNM_00983
+group_365,,hypothetical protein,OCAFGGHM_00975,GPENAHNM_00657
+sorA_1,sorA_1,PTS system sorbose-specific EIIC component,OCAFGGHM_00986,GPENAHNM_00667
+group_364,,Putative phosphatase,OCAFGGHM_00989,GPENAHNM_00670
+lipI~~~nlhH,lipI;nlhH,Esterase LipI;Carboxylesterase NlhH,OCAFGGHM_00976,GPENAHNM_00658
+yfbR,yfbR,5'-deoxynucleotidase YfbR,OCAFGGHM_00974,GPENAHNM_00656
+norB,norB,Quinolone resistance protein NorB,OCAFGGHM_00980,GPENAHNM_00662
+group_363,,hypothetical protein,OCAFGGHM_00995,GPENAHNM_00677
+group_362,,hypothetical protein,OCAFGGHM_00984,GPENAHNM_00665
+levE_2,levE_2,PTS system fructose-specific EIIB component,OCAFGGHM_00987,GPENAHNM_00668
+group_361,,hypothetical protein,OCAFGGHM_00972,GPENAHNM_00654
+mltF,mltF,Membrane-bound lytic murein transglycosylase F,OCAFGGHM_00998,GPENAHNM_00173
+group_360,,hypothetical protein,OCAFGGHM_00991,GPENAHNM_00672;GPENAHNM_00673
+group_359,,hypothetical protein,OCAFGGHM_00993,GPENAHNM_00675
+group_358,,hypothetical protein,OCAFGGHM_00982,GPENAHNM_00664
+lldD~~~hmo,lldD;hmo,L-lactate dehydrogenase;4-hydroxymandelate oxidase,OCAFGGHM_00994,GPENAHNM_00676
+tadA_2,tadA_2,tRNA-specific adenosine deaminase,OCAFGGHM_00981,GPENAHNM_00663
+rihA_3,rihA_3,Pyrimidine-specific ribonucleoside hydrolase RihA,OCAFGGHM_00979,GPENAHNM_00661
+artM,artM,Arginine transport ATP-binding protein ArtM,OCAFGGHM_00997,GPENAHNM_00174
+lnrK,lnrK,Transcriptional regulatory protein LnrK,OCAFGGHM_00992,GPENAHNM_00674
+yurK,yurK,putative HTH-type transcriptional regulator YurK,OCAFGGHM_00977,GPENAHNM_00659
+group_357,,hypothetical protein,OCAFGGHM_00973,GPENAHNM_00655
+group_356,,hypothetical protein,OCAFGGHM_00971,GPENAHNM_00653
+group_355,,hypothetical protein,OCAFGGHM_01000,GPENAHNM_00171
+rbsB_1,rbsB_1,Ribose import binding protein RbsB,OCAFGGHM_00990,GPENAHNM_00671
+group_354,,Putative 3-methyladenine DNA glycosylase,OCAFGGHM_00999,GPENAHNM_00172
+manZ_2,manZ_2,PTS system mannose-specific EIID component,OCAFGGHM_00985,GPENAHNM_00666
+group_353,,hypothetical protein,OCAFGGHM_00988,GPENAHNM_00669
+group_352,,hypothetical protein,OCAFGGHM_00996,GPENAHNM_00175
+group_351,,hypothetical protein,OCAFGGHM_01002,GPENAHNM_00169
+cobB,cobB,NAD-dependent protein deacetylase,OCAFGGHM_01001,GPENAHNM_00170
+ybiR,ybiR,Inner membrane protein YbiR,OCAFGGHM_00970,GPENAHNM_00652
+rbsK,rbsK,Ribokinase,OCAFGGHM_00978,GPENAHNM_00660
+tagK,tagK,D-tagatose-1-phosphate kinase,OCAFGGHM_00952,GPENAHNM_00875
+ybjI,ybjI,5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI,OCAFGGHM_00950,GPENAHNM_00873
+group_349,,putative ABC transporter ATP-binding protein,OCAFGGHM_00959;OCAFGGHM_00958,GPENAHNM_00881
+znuB,znuB,High-affinity zinc uptake system membrane protein ZnuB,OCAFGGHM_00948,GPENAHNM_00871
+apbE,apbE,FAD:protein FMN transferase,OCAFGGHM_00969,GPENAHNM_00892
+rsmG,rsmG,Ribosomal RNA small subunit methyltransferase G,OCAFGGHM_00967,GPENAHNM_00890
+rcsC,rcsC,Sensor histidine kinase RcsC,OCAFGGHM_00956,GPENAHNM_00879
+znuC,znuC,Zinc import ATP-binding protein ZnuC,OCAFGGHM_00949,GPENAHNM_00872
+pepF1,pepF1,Oligoendopeptidase F plasmid,OCAFGGHM_00945,GPENAHNM_00868
+group_348,,hypothetical protein,OCAFGGHM_00968,GPENAHNM_00891
+group_347,,hypothetical protein,OCAFGGHM_00963,GPENAHNM_00886
+group_346,,Aspartate racemase,OCAFGGHM_00954,GPENAHNM_00877
+glcR,glcR,HTH-type transcriptional repressor GlcR,OCAFGGHM_00953,GPENAHNM_00876
+glcA_1,glcA_1,Glycolate permease GlcA,OCAFGGHM_00946,GPENAHNM_00869
+vanR,vanR,Regulatory protein VanR,OCAFGGHM_00957,GPENAHNM_00880
+glcA_2,glcA_2,Glycolate permease GlcA,OCAFGGHM_00947,GPENAHNM_00870
+fruA,fruA,PTS system fructose-specific EIIABC component,OCAFGGHM_00951,GPENAHNM_00874
+ychF,ychF,Ribosome-binding ATPase YchF,OCAFGGHM_00962,GPENAHNM_00885
+group_345,,hypothetical protein,OCAFGGHM_00961,GPENAHNM_00884
+noc,noc,Nucleoid occlusion protein,OCAFGGHM_00966,GPENAHNM_00889
+murE,murE,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase,OCAFGGHM_00955,GPENAHNM_00878
+spo0J,spo0J,Stage 0 sporulation protein J,OCAFGGHM_00964,GPENAHNM_00887
+group_344,,putative ABC transporter ATP-binding protein,OCAFGGHM_00960,GPENAHNM_00883;GPENAHNM_00882
+soj,soj,Sporulation initiation inhibitor protein Soj,OCAFGGHM_00965,GPENAHNM_00888
+tagU,tagU,Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU,OCAFGGHM_00944,GPENAHNM_01391
+mco,mco,Multicopper oxidase mco,OCAFGGHM_00943,GPENAHNM_01392
+brpA,brpA,Biofilm regulatory protein A,OCAFGGHM_00931,GPENAHNM_01549
+clahy,cla-hy,Linoleate hydratase,OCAFGGHM_00923,GPENAHNM_01543
+plsY_2,plsY_2,Glycerol-3-phosphate acyltransferase,OCAFGGHM_00930,GPENAHNM_01548
+group_343,,hypothetical protein,OCAFGGHM_00941,GPENAHNM_01559
+group_342,,hypothetical protein,OCAFGGHM_00933,GPENAHNM_01551
+group_338,,hypothetical protein,OCAFGGHM_00940,GPENAHNM_01558
+yjjB,yjjB,succinate transporter subunit YjjB,OCAFGGHM_00936,GPENAHNM_01554
+group_337,,hypothetical protein,OCAFGGHM_00939,GPENAHNM_01557
+group_336,,hypothetical protein,OCAFGGHM_00935,GPENAHNM_01553
+tyrS,tyrS,Tyrosine--tRNA ligase,OCAFGGHM_00925,GPENAHNM_01545
+yheS,yheS,putative ATP-binding protein YheS,OCAFGGHM_00938,GPENAHNM_01556
+gpmA_3,gpmA_3,23-bisphosphoglycerate-dependent phosphoglycerate mutase,OCAFGGHM_00932,GPENAHNM_01550
+yjjP,yjjP,putative succinate transporter subunit YjjP,OCAFGGHM_00937,GPENAHNM_01555
+group_334,,putative ABC transporter ATP-binding protein,OCAFGGHM_00934,GPENAHNM_01552
+group_333,,hypothetical protein,OCAFGGHM_00929,GPENAHNM_01547
+pepE,pepE,Aminopeptidase E,OCAFGGHM_00922,GPENAHNM_01541
+group_331,,hypothetical protein,OCAFGGHM_00897,GPENAHNM_00551
+dnaI,dnaI,Replicative helicase loader DnaI,OCAFGGHM_00916,GPENAHNM_00568
+rplT,rplT,Large ribosomal subunit protein bL20,OCAFGGHM_00911,GPENAHNM_00563
+mutM,mutM,Formamidopyrimidine-DNA glycosylase,OCAFGGHM_00920,GPENAHNM_00572
+tmcAL,tmcAL,tRNA(Met) cytidine acetate ligase,OCAFGGHM_00902,GPENAHNM_00556
+arlR,arlR,Response regulator ArlR,OCAFGGHM_00900,GPENAHNM_00554
+pheT_1,pheT_1,Phenylalanine--tRNA ligase beta subunit,OCAFGGHM_00889,GPENAHNM_00543
+coaE,coaE,Dephospho-CoA kinase,OCAFGGHM_00919,GPENAHNM_00571
+dnaB_2,dnaB_2,Replicative helicase loading/DNA remodeling protein DnaB,OCAFGGHM_00917,GPENAHNM_00569
+pheS,pheS,Phenylalanine--tRNA ligase alpha subunit,OCAFGGHM_00890,GPENAHNM_00544
+desK,desK,Sensor histidine kinase DesK,OCAFGGHM_00896,GPENAHNM_00550
+gph,gph,Phosphoglycolate phosphatase,OCAFGGHM_00907,GPENAHNM_00561
+group_330,,Bis(5'-nucleosyl)-tetraphosphatase symmetrical,OCAFGGHM_00904,GPENAHNM_00558
+desR,desR,Transcriptional regulatory protein DesR,OCAFGGHM_00895,GPENAHNM_00549
+thrS,thrS,Threonine--tRNA ligase,OCAFGGHM_00914,GPENAHNM_00566
+uup_4~~~uup_2,uup_4;uup_2,ATP-binding protein Uup,OCAFGGHM_00898,GPENAHNM_00552
+adhE_3~~~adhE_2~~~adhE_1~~~adhE,adhE_3;adhE_2;adhE_1;adhE,Aldehyde-alcohol dehydrogenase,OCAFGGHM_00908;OCAFGGHM_00909;OCAFGGHM_00910,GPENAHNM_00562
+group_329,,hypothetical protein,OCAFGGHM_00901,GPENAHNM_00555
+nrdR,nrdR,Transcriptional repressor NrdR,OCAFGGHM_00918,GPENAHNM_00570
+rpmI,rpmI,Large ribosomal subunit protein bL35,OCAFGGHM_00912,GPENAHNM_00564
+yccX,yccX,Acylphosphatase,OCAFGGHM_00893,GPENAHNM_00547
+pepO_1,pepO_1,Neutral endopeptidase,OCAFGGHM_00915,GPENAHNM_00567
+misCB,misCB,Membrane protein insertase MisCB,OCAFGGHM_00894,GPENAHNM_00548
+infC,infC,Translation initiation factor IF-3,OCAFGGHM_00913,GPENAHNM_00565
+yqeH,yqeH,putative protein YqeH,OCAFGGHM_00906,GPENAHNM_00560
+rlmP,rlmP,23S rRNA (guanosine(2553)-2'-O)-methyltransferase RlmP,OCAFGGHM_00892,GPENAHNM_00546
+greA_1,greA_1,Transcription elongation factor GreA,OCAFGGHM_00888,GPENAHNM_00542
+sasA_1,sasA_1,Adaptive-response sensory-kinase SasA,OCAFGGHM_00899,GPENAHNM_00553
+rsfS,rsfS,Ribosomal silencing factor RsfS,OCAFGGHM_00903,GPENAHNM_00557
+nadD,nadD,Nicotinate-nucleotide adenylyltransferase,OCAFGGHM_00905,GPENAHNM_00559
+yodB,yodB,HTH-type transcriptional regulator YodB,OCAFGGHM_00891,GPENAHNM_00545
+polA,polA,DNA polymerase I,OCAFGGHM_00921,GPENAHNM_00573
+pbpB,pbpB,Penicillin-binding protein 2B,OCAFGGHM_00866,GPENAHNM_00048
+group_328,,hypothetical protein,OCAFGGHM_00875,GPENAHNM_00039
+divIB,divIB,Cell division protein DivIB,OCAFGGHM_00870,GPENAHNM_00044
+mreC,mreC,Cell shape-determining protein MreC,OCAFGGHM_00859,GPENAHNM_00055
+mraZ,mraZ,Transcriptional regulator MraZ,OCAFGGHM_00863,GPENAHNM_00051
+nudF,nudF,ADP-ribose pyrophosphatase,OCAFGGHM_00879,GPENAHNM_00035
+group_327,,hypothetical protein,OCAFGGHM_00880,GPENAHNM_00034
+iscS_2,iscS_2,Cysteine desulfurase IscS,OCAFGGHM_00882,GPENAHNM_00032
+group_326,,hypothetical protein,OCAFGGHM_00885,GPENAHNM_00029
+ftsL,ftsL,Cell division protein FtsL,OCAFGGHM_00865,GPENAHNM_00049
+group_325,,hypothetical protein,OCAFGGHM_00886,GPENAHNM_00028
+mtnN,mtnN,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,OCAFGGHM_00881,GPENAHNM_00033
+mreB,mreB,Cell shape-determining protein MreB,OCAFGGHM_00858,GPENAHNM_00056
+group_324,,hypothetical protein,OCAFGGHM_00874,GPENAHNM_00040
+group_323,,(R)-mandelonitrile lyase,OCAFGGHM_00887,GPENAHNM_00027
+rsmH,rsmH,Ribosomal RNA small subunit methyltransferase H,OCAFGGHM_00864,GPENAHNM_00050
+group_322,,hypothetical protein,OCAFGGHM_00862,GPENAHNM_00052
+ftsZ,ftsZ,Cell division protein FtsZ,OCAFGGHM_00872,GPENAHNM_00042
+ileS,ileS,isoleucine--tRNA ligase IleS,OCAFGGHM_00877,GPENAHNM_00037
+sepF,sepF,Cell division protein SepF,OCAFGGHM_00873,GPENAHNM_00041
+mraY,mraY,Phospho-N-acetylmuramoyl-pentapeptide-transferase,OCAFGGHM_00867,GPENAHNM_00047
+group_321,,hypothetical protein,OCAFGGHM_00883,GPENAHNM_00031
+ftsA,ftsA,Cell division protein FtsA,OCAFGGHM_00871,GPENAHNM_00043
+murG,murG,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,OCAFGGHM_00869,GPENAHNM_00045
+gpsB_2~~~gpsB_1,gpsB_2;gpsB_1,Cell cycle adapter protein GpsB,OCAFGGHM_00876,GPENAHNM_00038
+murD,murD,UDP-N-acetylmuramoylalanine--D-glutamate ligase,OCAFGGHM_00868,GPENAHNM_00046
+group_320,,hypothetical protein,OCAFGGHM_00861,GPENAHNM_00053
+group_319,,hypothetical protein,OCAFGGHM_00860,GPENAHNM_00054
+mnmA,mnmA,tRNA-specific 2-thiouridylase MnmA,OCAFGGHM_00884,GPENAHNM_00030
+cspA,cspA,Cold shock-like protein CspA,OCAFGGHM_00878,GPENAHNM_00036
+levE_1,levE_1,PTS system fructose-specific EIIB component,OCAFGGHM_00851,GPENAHNM_00386
+gatC_1,;gatC_1,hypothetical protein;PTS system galactitol-specific EIIC component,OCAFGGHM_01729;OCAFGGHM_00857;OCAFGGHM_00856,GPENAHNM_00381
+dgoD,dgoD,D-galactonate dehydratase,OCAFGGHM_01730,GPENAHNM_00380
+degA_1,degA_1,HTH-type transcriptional regulator DegA,OCAFGGHM_00847,GPENAHNM_00390
+group_318,,hypothetical protein,OCAFGGHM_00850,GPENAHNM_00387
+group_317,,hypothetical protein,OCAFGGHM_00849,GPENAHNM_00388
+yflS_1,yflS_1,Putative malate transporter YflS,OCAFGGHM_00846,GPENAHNM_00391
+group_316,,Aspartate aminotransferase,OCAFGGHM_00841,GPENAHNM_00395
+group_315,,hypothetical protein,OCAFGGHM_00852,GPENAHNM_00385
+group_314,,hypothetical protein,OCAFGGHM_01731,GPENAHNM_00379
+tal,tal,Transaldolase,OCAFGGHM_00848,GPENAHNM_00389
+group_313,,hypothetical protein,OCAFGGHM_00839,GPENAHNM_00397
+adh,adh,Alcohol dehydrogenase,OCAFGGHM_00840,GPENAHNM_00396
+cysL,cysL,HTH-type transcriptional regulator CysL,OCAFGGHM_00844,GPENAHNM_00393
+glf,glf,UDP-galactopyranose mutase,OCAFGGHM_00834,GPENAHNM_00404
+group_311,,hypothetical protein,OCAFGGHM_00845,GPENAHNM_00392
+group_310,,hypothetical protein,OCAFGGHM_00835,GPENAHNM_00403
+group_309,,hypothetical protein,OCAFGGHM_00838,GPENAHNM_00400
+kdgA,kdgA,2-dehydro-3-deoxy-phosphogluconate aldolase,OCAFGGHM_00853,GPENAHNM_00384
+group_308,,hypothetical protein,OCAFGGHM_00854,GPENAHNM_00383
+group_307,,hypothetical protein,OCAFGGHM_00836,1_refound_4
+group_306,,hypothetical protein,OCAFGGHM_00837,GPENAHNM_00402
+gatB_2,gatB_2,PTS system galactitol-specific EIIB component,OCAFGGHM_00855,GPENAHNM_00382
+group_304,,hypothetical protein,OCAFGGHM_00843;OCAFGGHM_00842,GPENAHNM_00394
+agaC,agaC,N-acetylgalactosamine permease IIC component 1,OCAFGGHM_00777,GPENAHNM_01309
+manZ_1,manZ_1,PTS system mannose-specific EIID component,OCAFGGHM_00778,GPENAHNM_01308
+group_303,,hypothetical protein,OCAFGGHM_00774,GPENAHNM_01313
+ctpE,ctpE,Calcium-transporting ATPase CtpE,OCAFGGHM_00779,GPENAHNM_01302
+asnA,asnA,Aspartate--ammonia ligase,OCAFGGHM_00780,GPENAHNM_01301
+yokD_2,yokD_2;,SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD;hypothetical protein,OCAFGGHM_00775,GPENAHNM_01312;GPENAHNM_01311
+group_299,rihA_2,Pyrimidine-specific ribonucleoside hydrolase RihA,OCAFGGHM_00773,GPENAHNM_01314
+bcaP_1,bcaP_1,Branched-chain amino acid permease BcaP,OCAFGGHM_00772,GPENAHNM_01315
+manX_1,manX_1,PTS system mannose-specific EIIAB component,OCAFGGHM_00776,GPENAHNM_01310
+ypiA,ypiA,TPR repeat-containing protein YpiA,OCAFGGHM_00743,GPENAHNM_00206
+rluB,rluB,Ribosomal large subunit pseudouridine synthase B,OCAFGGHM_00750,GPENAHNM_00199
+group_298,,putative oxidoreductase,OCAFGGHM_00765,GPENAHNM_00184
+group_297,,hypothetical protein,OCAFGGHM_00760,GPENAHNM_00189
+group_296,,hypothetical protein,OCAFGGHM_00771,GPENAHNM_00178
+rnz,rnz,Ribonuclease Z,OCAFGGHM_00766,GPENAHNM_00183
+group_295,,hypothetical protein,OCAFGGHM_00748,GPENAHNM_00201
+scpA,scpA,Segregation and condensation protein A,OCAFGGHM_00752,GPENAHNM_00197
+ribU,ribU,Riboflavin transporter RibU,OCAFGGHM_00749,GPENAHNM_00200
+pyk,pyk,Pyruvate kinase,OCAFGGHM_00756,GPENAHNM_00193
+obg,obg,GTPase Obg,OCAFGGHM_00768,GPENAHNM_00181
+uvrC,uvrC,UvrABC system protein C,OCAFGGHM_00769,GPENAHNM_00180
+cmk,cmk,Cytidylate kinase,OCAFGGHM_00747,GPENAHNM_00202
+cvfB,cvfB,Conserved virulence factor B,OCAFGGHM_00755,GPENAHNM_00194
+scpB,scpB,Segregation and condensation protein B,OCAFGGHM_00751,GPENAHNM_00198
+der,der,GTPase Der,OCAFGGHM_00745,GPENAHNM_00204
+group_294,,hypothetical protein,OCAFGGHM_00764,GPENAHNM_00185
+rpmF,rpmF,Large ribosomal subunit protein bL32,OCAFGGHM_00763,GPENAHNM_00186
+group_293,,hypothetical protein,OCAFGGHM_00761,GPENAHNM_00188
+group_292,,hypothetical protein,OCAFGGHM_00770,GPENAHNM_00179
+rps1,rps1,Small ribosomal subunit protein bS1,OCAFGGHM_00746,GPENAHNM_00203
+oatA,oatA,Peptidoglycan O-acetyltransferase OatA,OCAFGGHM_00767,GPENAHNM_00182
+pfkA,pfkA,ATP-dependent 6-phosphofructokinase,OCAFGGHM_00757,GPENAHNM_00192
+dnaE,dnaE,DNA polymerase III subunit alpha,OCAFGGHM_00758,GPENAHNM_00191
+hup,hup,DNA-binding protein HU,OCAFGGHM_00744,GPENAHNM_00205
+group_291,,hypothetical protein,OCAFGGHM_00759,GPENAHNM_00190
+ribT,ribT,Protein RibT,OCAFGGHM_00753,GPENAHNM_00196
+xerD_2,xerD_2,Tyrosine recombinase XerD,OCAFGGHM_00754,GPENAHNM_00195
+cpdB,cpdB,2'3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase,OCAFGGHM_00762,GPENAHNM_00187
+prfB,prfB,Peptide chain release factor 2,OCAFGGHM_00718,GPENAHNM_01208
+rny,rny,Ribonuclease Y,OCAFGGHM_00725,GPENAHNM_01215
+pgsA,pgsA,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,OCAFGGHM_00727,GPENAHNM_01217
+lgt,lgt,Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase,OCAFGGHM_00715,GPENAHNM_01205
+comFA,comFA,Competence protein ComFA,OCAFGGHM_00722,GPENAHNM_01212
+trxB,trxB,Thioredoxin reductase,OCAFGGHM_00713,GPENAHNM_01203
+pgl,pgl,6-phosphogluconolactonase,OCAFGGHM_00737,GPENAHNM_01227
+group_290,,hypothetical protein,OCAFGGHM_00717,GPENAHNM_01207
+pgcA,pgcA,Phosphoglucomutase,OCAFGGHM_00712,GPENAHNM_01202
+spoIIIE,spoIIIE,DNA translocase SpoIIIE,OCAFGGHM_00732,GPENAHNM_01222
+gpsA,gpsA,Glycerol-3-phosphate dehydrogenase [NAD(P)+],OCAFGGHM_00714,GPENAHNM_01204
+secA,secA,Protein translocase subunit SecA,OCAFGGHM_00719,GPENAHNM_01209
+tagO,tagO,putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase,OCAFGGHM_00724,GPENAHNM_01214
+fabG,fabG,3-oxoacyl-[acyl-carrier-protein] reductase FabG,OCAFGGHM_00729,GPENAHNM_01219
+group_289,,hypothetical protein,OCAFGGHM_00730,GPENAHNM_01220
+yigZ,yigZ,IMPACT family member YigZ,OCAFGGHM_00723,GPENAHNM_01213
+yvcJ,yvcJ,Nucleotide-binding protein YvcJ,OCAFGGHM_00709,GPENAHNM_01199
+group_288,,Putative gluconeogenesis factor,OCAFGGHM_00708,GPENAHNM_01198
+hprK,hprK,HPr kinase/phosphorylase,OCAFGGHM_00716,GPENAHNM_01206
+comFC,comFC,Competence protein ComFC,OCAFGGHM_00721,GPENAHNM_01211
+group_287,,hypothetical protein,OCAFGGHM_00733,GPENAHNM_01223
+pacL,pacL,Calcium-transporting ATPase,OCAFGGHM_00736,GPENAHNM_01226
+group_286,,hypothetical protein,OCAFGGHM_00728,GPENAHNM_01218
+group_285,,Putative transport protein,OCAFGGHM_00735,GPENAHNM_01225
+uvrA_1,uvrA_1,UvrABC system protein A,OCAFGGHM_00710,GPENAHNM_01200
+recA,recA,Protein RecA,OCAFGGHM_00726,GPENAHNM_01216
+uppP,uppP,Undecaprenyl-diphosphatase,OCAFGGHM_00738,GPENAHNM_01228
+group_284,,hypothetical protein,OCAFGGHM_00731,GPENAHNM_01221
+cspR,cspR,Putative tRNA (cytidine(34)-2'-O)-methyltransferase,OCAFGGHM_00734,GPENAHNM_01224
+hpf,hpf,Ribosome hibernation promotion factor,OCAFGGHM_00720,GPENAHNM_01210
+group_283,,hypothetical protein,OCAFGGHM_00739,GPENAHNM_01229
+uvrB_2,uvrB_2,UvrABC system protein B,OCAFGGHM_00711,GPENAHNM_01201
+group_282,,hypothetical protein,OCAFGGHM_00740,GPENAHNM_01230
+group_281,,hypothetical protein,OCAFGGHM_00703,GPENAHNM_00727
+dagK,dagK,Diacylglycerol kinase,OCAFGGHM_00676,GPENAHNM_00759
+pspB,;pspB,hypothetical protein;Putative phosphoserine phosphatase 2,OCAFGGHM_00702,GPENAHNM_00728
+group_278,,Protein SprT-like protein,OCAFGGHM_00686,GPENAHNM_00749
+group_277,,hypothetical protein,OCAFGGHM_00683,GPENAHNM_00752
+group_276,,hypothetical protein,OCAFGGHM_00675,GPENAHNM_00760
+pcrA,pcrA,ATP-dependent DNA helicase PcrA,OCAFGGHM_00682,GPENAHNM_00753
+yerH,yerH,putative lipoprotein YerH,OCAFGGHM_00680,GPENAHNM_00755
+gatC,gatC,Glutamyl-tRNA(Gln) amidotransferase subunit C,OCAFGGHM_00679,GPENAHNM_00756
+group_274,,L-2-hydroxyisocaproate dehydrogenase,OCAFGGHM_00700,GPENAHNM_00730
+panT,panT,Pantothenate transporter PanT,OCAFGGHM_00684,GPENAHNM_00751
+gatB_1,gatB_1,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B,OCAFGGHM_00677,GPENAHNM_00758
+gatA,gatA,Glutamyl-tRNA(Gln) amidotransferase subunit A,OCAFGGHM_00678,GPENAHNM_00757
+group_271,,hypothetical protein,OCAFGGHM_00690,GPENAHNM_00741
+bshA,bshA,N-acetyl-alpha-D-glucosaminyl L-malate synthase,OCAFGGHM_00691,GPENAHNM_00739
+tagA,tagA,N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase,OCAFGGHM_00692,GPENAHNM_00738
+tagD,tagD,Glycerol-3-phosphate cytidylyltransferase,OCAFGGHM_00695,GPENAHNM_00735
+rfbX,rfbX,Putative O-antigen transporter,OCAFGGHM_00693,GPENAHNM_00737
+ycaM_1,ycaM_1,Inner membrane transporter YcaM,OCAFGGHM_00673,GPENAHNM_00762
+group_270,,Calcium-transporting ATPase 1,OCAFGGHM_00687,GPENAHNM_00747
+pncB2,pncB2,Nicotinate phosphoribosyltransferase pncB2,OCAFGGHM_00689,GPENAHNM_00745
+qacC,qacC,Quaternary ammonium compound-resistance protein QacC,OCAFGGHM_00704,GPENAHNM_00726
+odcI,odcI,Inducible ornithine decarboxylase,OCAFGGHM_00674,GPENAHNM_00761
+nadE,nadE,NH(3)-dependent NAD(+) synthetase,OCAFGGHM_00688,GPENAHNM_00746
+ligA,ligA,DNA ligase,OCAFGGHM_00681,GPENAHNM_00754
+group_267,,hypothetical protein,OCAFGGHM_00697,GPENAHNM_00733
+nagR,nagR,HTH-type transcriptional repressor NagR,OCAFGGHM_00696,GPENAHNM_00734
+cycA,cycA,D-serine/D-alanine/glycine transporter,OCAFGGHM_00707,GPENAHNM_00723
+ybhL,ybhL,Inner membrane protein YbhL,OCAFGGHM_00668,GPENAHNM_00216
+group_266,,putative RNA methyltransferase,OCAFGGHM_00666,GPENAHNM_00219
+nhaC,nhaC,Na(+)/H(+) antiporter NhaC,OCAFGGHM_00667,GPENAHNM_00218
+group_264,,hypothetical protein,OCAFGGHM_00664,GPENAHNM_00221
+patB,patB,Cystathionine beta-lyase PatB,OCAFGGHM_00670,GPENAHNM_00214
+group_263,,hypothetical protein,OCAFGGHM_00669,GPENAHNM_00215
+group_262,,hypothetical protein,OCAFGGHM_00665,GPENAHNM_00220
+lemA,lemA,Protein LemA,OCAFGGHM_00663,GPENAHNM_00651
+group_261,,D-lactate dehydrogenase,OCAFGGHM_00625,GPENAHNM_00928
+group_260,,hypothetical protein,OCAFGGHM_00619,GPENAHNM_00935
+ykoD,ykoD,Putative HMP/thiamine import ATP-binding protein YkoD,OCAFGGHM_00655,GPENAHNM_00643
+group_259,,hypothetical protein,OCAFGGHM_00620,GPENAHNM_00933;GPENAHNM_00934
+group_258,,hypothetical protein,OCAFGGHM_00652;OCAFGGHM_00651,GPENAHNM_00641
+walR,walR,Transcriptional regulatory protein WalR,OCAFGGHM_00638,GPENAHNM_00629
+group_257,,hypothetical protein,OCAFGGHM_00649,GPENAHNM_00639
+walJ,walJ,Exodeoxyribonuclease WalJ,OCAFGGHM_00642,GPENAHNM_00633
+argP,argP,HTH-type transcriptional regulator ArgP,OCAFGGHM_00631,GPENAHNM_00922
+glpF_1,glpF_1,Glycerol uptake facilitator protein,OCAFGGHM_00624,GPENAHNM_00929
+htrA,htrA,Serine protease Do-like HtrA,OCAFGGHM_00643,GPENAHNM_00634
+yxdL,yxdL,ABC transporter ATP-binding protein YxdL,OCAFGGHM_00621,GPENAHNM_00932
+group_256,,hypothetical protein,OCAFGGHM_00646,GPENAHNM_00636
+ribBA,ribBA,Riboflavin biosynthesis protein RibBA,OCAFGGHM_00627,GPENAHNM_00926
+ribH,ribH,67-dimethyl-8-ribityllumazine synthase,OCAFGGHM_00626,GPENAHNM_00927
+group_255,,hypothetical protein,OCAFGGHM_00659,GPENAHNM_00647
+group_254,,hypothetical protein,OCAFGGHM_00635,GPENAHNM_00918;GPENAHNM_00626
+sufT,sufT,Fe-S protein maturation auxiliary factor SufT,OCAFGGHM_00661,GPENAHNM_00649
+rhaS_2,rhaS_2,HTH-type transcriptional activator RhaS,OCAFGGHM_00657,GPENAHNM_00645
+group_253,,hypothetical protein,OCAFGGHM_00658,GPENAHNM_00646
+group_252,,hypothetical protein,OCAFGGHM_00641,GPENAHNM_00632
+group_251,,hypothetical protein,OCAFGGHM_00648,GPENAHNM_00638
+htpX,htpX,Protease HtpX,OCAFGGHM_00662,GPENAHNM_00650
+mdtP,mdtP,Multidrug transporter protein MdtP,OCAFGGHM_00656,GPENAHNM_00644
+urdA_2,urdA_2,Urocanate reductase,OCAFGGHM_00632,GPENAHNM_00921
+rlmH,rlmH,Ribosomal RNA large subunit methyltransferase H,OCAFGGHM_00645,GPENAHNM_00635
+walK,walK,Sensor histidine kinase WalK,OCAFGGHM_00639,GPENAHNM_00630
+ribE,ribE,Riboflavin synthase,OCAFGGHM_00628,GPENAHNM_00925
+ribD,ribD,Riboflavin biosynthesis protein RibD,OCAFGGHM_00629,GPENAHNM_00924
+sdhA,sdhA,L-serine dehydratase alpha chain,OCAFGGHM_00660,GPENAHNM_00648
+group_250,,hypothetical protein,OCAFGGHM_00654,GPENAHNM_00642
+nrgA,nrgA,Ammonium transporter,OCAFGGHM_00636,GPENAHNM_00627
+group_249,,hypothetical protein,OCAFGGHM_00640,GPENAHNM_00631
+group_247,,hypothetical protein,OCAFGGHM_00633,GPENAHNM_00920
+msbA_1,msbA_1,ATP-dependent lipid A-core flippase,OCAFGGHM_00650,GPENAHNM_00640
+natA,natA,ABC transporter ATP-binding protein NatA,OCAFGGHM_00647,GPENAHNM_00637
+group_246,,hypothetical protein,OCAFGGHM_00644,1_refound_3_pseudo
+group_245,,hypothetical protein,OCAFGGHM_00622,GPENAHNM_00931
+group_244,,hypothetical protein,OCAFGGHM_00623,GPENAHNM_00930
+brnQ,brnQ,Branched-chain amino acid permease BrnQ,OCAFGGHM_00630,GPENAHNM_00923
+group_243,,hypothetical protein,OCAFGGHM_00618,GPENAHNM_00936
+group_242,,hypothetical protein,OCAFGGHM_00612,GPENAHNM_00942
+metB,metB,Cystathionine gamma-synthase,OCAFGGHM_00613,GPENAHNM_00941
+uvrB_1,uvrB_1,UvrABC system protein B,OCAFGGHM_00615,GPENAHNM_00939
+group_241,,hypothetical protein,OCAFGGHM_00617,GPENAHNM_00937
+exoA,exoA,Exodeoxyribonuclease,OCAFGGHM_00614,GPENAHNM_00940
+group_240,,Aldo-keto reductase/MSMEI_2347,OCAFGGHM_00616,GPENAHNM_00938
+dnaN,dnaN,Beta sliding clamp,OCAFGGHM_00580,GPENAHNM_00499
+mnmE,mnmE,tRNA modification GTPase MnmE,OCAFGGHM_00575,GPENAHNM_00504
+rpsF,rpsF,Small ribosomal subunit protein bS6,OCAFGGHM_00585,GPENAHNM_00494
+rpmH,rpmH,Large ribosomal subunit protein bL34,OCAFGGHM_00578,GPENAHNM_00501
+group_239,,hypothetical protein,OCAFGGHM_00592,GPENAHNM_00487
+misCA,misCA,Membrane protein insertase MisCA,OCAFGGHM_00576,GPENAHNM_00503
+yofA,yofA;,HTH-type transcriptional regulator YofA;hypothetical protein,OCAFGGHM_00611,GPENAHNM_00473
+group_235,,hypothetical protein,OCAFGGHM_00591,GPENAHNM_00488
+rnpA,rnpA,Ribonuclease P protein component,OCAFGGHM_00577,GPENAHNM_00502
+rpsR,rpsR,Small ribosomal subunit protein bS18,OCAFGGHM_00587,GPENAHNM_00492
+ssb_2,ssb_2,Single-stranded DNA-binding protein,OCAFGGHM_00586,GPENAHNM_00493
+gyrA,gyrA,DNA gyrase subunit A GyrA,OCAFGGHM_00584,GPENAHNM_00495
+pox5,pox5,Pyruvate oxidase,OCAFGGHM_00573,GPENAHNM_00506
+rplI,rplI,Large ribosomal subunit protein bL9,OCAFGGHM_00589,GPENAHNM_00490
+group_224,,hypothetical protein,OCAFGGHM_00608,GPENAHNM_00476
+group_223,,hypothetical protein,OCAFGGHM_00610,GPENAHNM_00474
+mnmG,mnmG,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG,OCAFGGHM_00574,GPENAHNM_00505
+gyrB,gyrB,DNA gyrase subunit B,OCAFGGHM_00583,GPENAHNM_00496
+group_221,licC_1,Lichenan permease IIC component,OCAFGGHM_00607,GPENAHNM_00477
+dnaB_1,dnaB_1,Replicative DNA helicase DnaB,OCAFGGHM_00590,GPENAHNM_00489
+gdpP,gdpP,Cyclic-di-AMP phosphodiesterase GdpP,OCAFGGHM_00588,GPENAHNM_00491
+dnaA,dnaA,Chromosomal replication initiator protein DnaA,OCAFGGHM_00579,GPENAHNM_00500
+group_217,,hypothetical protein,OCAFGGHM_00581,GPENAHNM_00498
+recF,recF,DNA replication and repair protein RecF,OCAFGGHM_00582,GPENAHNM_00497
+group_216,,hypothetical protein,OCAFGGHM_00609,GPENAHNM_00475
+ccpA,ccpA,Catabolite control protein A,OCAFGGHM_00537,GPENAHNM_00262
+group_215,,hypothetical protein,OCAFGGHM_00532,GPENAHNM_00267
+groEL,groEL,Chaperonin GroEL,OCAFGGHM_00569,GPENAHNM_00226
+mggB,mggB,Mannosylglucosyl-3-phosphoglycerate phosphatase,OCAFGGHM_00533,GPENAHNM_00266
+rex,rex,Redox-sensing transcriptional repressor Rex,OCAFGGHM_00571,GPENAHNM_00224
+group_213,,hypothetical protein,OCAFGGHM_00568,GPENAHNM_00227
+pepV,pepV,Beta-Ala-Xaa dipeptidase,OCAFGGHM_00536,GPENAHNM_00263
+ruvB,ruvB,Holliday junction branch migration complex subunit RuvB,OCAFGGHM_00557,GPENAHNM_00240
+mutSB,mutSB,Putative endonuclease MutS2,OCAFGGHM_00547,GPENAHNM_00250
+group_211,,hypothetical protein,OCAFGGHM_00556,GPENAHNM_00241
+ruvA,ruvA,Holliday junction branch migration complex subunit RuvA,OCAFGGHM_00558,GPENAHNM_00239
+ykuT,ykuT,putative MscS family protein YkuT,OCAFGGHM_00541,GPENAHNM_00257
+trxA,trxA,Thioredoxin,OCAFGGHM_00546,GPENAHNM_00252
+group_209,,hypothetical protein,OCAFGGHM_00548,GPENAHNM_00249
+zwf,zwf,Glucose-6-phosphate 1-dehydrogenase,OCAFGGHM_00555,GPENAHNM_00242
+yrrK,yrrK,Putative pre-16S rRNA nuclease,OCAFGGHM_00549,GPENAHNM_00248
+group_208,,hypothetical protein,OCAFGGHM_00534,GPENAHNM_00265
+mutS,mutS,DNA mismatch repair protein MutS,OCAFGGHM_00560,GPENAHNM_00237
+group_207,,putative tautomerase.1,OCAFGGHM_00542,GPENAHNM_00256
+alaS,alaS,Alanine--tRNA ligase,OCAFGGHM_00551,GPENAHNM_00246
+group_206,,hypothetical protein,OCAFGGHM_00550,GPENAHNM_00247
+murI,murI,Glutamate racemase,OCAFGGHM_00544,GPENAHNM_00254
+mutL,mutL,DNA mismatch repair protein MutL,OCAFGGHM_00559,GPENAHNM_00238
+yslB,yslB,putative protein YslB,OCAFGGHM_00545,GPENAHNM_00253
+ettA~~~yheS_1,ettA;yheS_1,Energy-dependent translational throttle protein EttA;putative ATP-binding protein YheS,OCAFGGHM_00572,GPENAHNM_00223;GPENAHNM_00222
+group_203,,hypothetical protein,OCAFGGHM_00539,GPENAHNM_00259
+nrnA,nrnA,putative bifunctional oligoribonuclease and PAP phosphatase NrnA,OCAFGGHM_00553,GPENAHNM_00244
+group_200,,hypothetical protein,OCAFGGHM_00567,GPENAHNM_00229
+group_198,,dITP/XTP pyrophosphatase,OCAFGGHM_00543,GPENAHNM_00255
+cshB,cshB,DEAD-box ATP-dependent RNA helicase CshB,OCAFGGHM_00552,GPENAHNM_00245
+group_197,,hypothetical protein,OCAFGGHM_00530,GPENAHNM_00269
+yutF,yutF,5'-nucleotidase YutF,OCAFGGHM_00531,GPENAHNM_00268
+uup_3,uup_3,ATP-binding protein Uup,OCAFGGHM_00566,GPENAHNM_00230
+groES,groES,Co-chaperonin GroES,OCAFGGHM_00570,GPENAHNM_00225
+pepQ,pepQ,Xaa-Pro dipeptidase,OCAFGGHM_00538,GPENAHNM_00261
+dinB_1,dinB_1,DNA polymerase IV,OCAFGGHM_00554,GPENAHNM_00243
+group_194,,hypothetical protein,OCAFGGHM_00540,GPENAHNM_00258
+group_193,,hypothetical protein,OCAFGGHM_00535,GPENAHNM_00264
+degV,degV,Protein DegV,OCAFGGHM_00529,GPENAHNM_00909
+clpY,clpY,ATP-dependent protease ATPase subunit ClpY,OCAFGGHM_00519,GPENAHNM_00900
+plsY_1,plsY_1,Glycerol-3-phosphate acyltransferase,OCAFGGHM_00521,GPENAHNM_00902
+trmFO,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO,OCAFGGHM_00516,GPENAHNM_00897
+lacX,lacX,Protein LacX plasmid,OCAFGGHM_00520,GPENAHNM_00901
+ppaC,ppaC,putative manganese-dependent inorganic pyrophosphatase,OCAFGGHM_00524,GPENAHNM_00905
+group_192,,Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase;Putative peptidyl-prolyl cis-trans isomerase,OCAFGGHM_00526;OCAFGGHM_00525,GPENAHNM_00906
+dprA,dprA,DNA processing protein DprA,OCAFGGHM_00514,GPENAHNM_00895
+parC,parC,DNA topoisomerase IV subunit A ParC,OCAFGGHM_00523,GPENAHNM_00904
+xerC_2,xerC_2,Tyrosine recombinase XerC,OCAFGGHM_00517,GPENAHNM_00898
+group_191,,hypothetical protein,OCAFGGHM_00513,GPENAHNM_00894
+rqcH,rqcH,Rqc2 RqcH,OCAFGGHM_00527,GPENAHNM_00907
+parE,parE,DNA topoisomerase IV subunit B ParE,OCAFGGHM_00522,GPENAHNM_00903
+hslV,hslV,ATP-dependent protease subunit HslV,OCAFGGHM_00518,GPENAHNM_00899
+topA_2,topA_2,DNA topoisomerase 1,OCAFGGHM_00515,GPENAHNM_00896
+group_190,,hypothetical protein,OCAFGGHM_00528,GPENAHNM_00908
+npr,npr,NADH peroxidase,OCAFGGHM_00501,GPENAHNM_01362
+rnhB,rnhB,Ribonuclease HII,OCAFGGHM_00511,GPENAHNM_01354
+group_189,,hypothetical protein,OCAFGGHM_00507,GPENAHNM_01357
+group_188,,Acetyltransferase,OCAFGGHM_00512,GPENAHNM_01353
+group_187,,hypothetical protein,OCAFGGHM_00502,GPENAHNM_01361
+group_186,,hypothetical protein,OCAFGGHM_00500,GPENAHNM_01364
+rbgA,rbgA,Ribosome biogenesis GTPase A,OCAFGGHM_00510,GPENAHNM_01355
+group_185,,DegV domain-containing protein,OCAFGGHM_00506,GPENAHNM_01358
+group_184,,hypothetical protein,OCAFGGHM_00505,GPENAHNM_01359
+cca,cca,CCA-adding enzyme,OCAFGGHM_00503,GPENAHNM_01360
+nhaK,nhaK;,Sodium potassium lithium and rubidium/H(+) antiporter;hypothetical protein,OCAFGGHM_00508;OCAFGGHM_00509,GPENAHNM_01356
+smc_4,smc_4;,Chromosome partition protein Smc;hypothetical protein,OCAFGGHM_00499,GPENAHNM_01365
+dnaD,dnaD,Replicative helicase loading/DNA remodeling protein DnaD,OCAFGGHM_00486,GPENAHNM_00964
+group_179,,hypothetical protein,OCAFGGHM_00484,GPENAHNM_00966
+recU,recU,Holliday junction resolvase RecU,OCAFGGHM_00490,GPENAHNM_00960
+yokD_1,yokD_1,SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD,OCAFGGHM_00488,GPENAHNM_00962
+dinG,dinG,3'-5' exonuclease DinG,OCAFGGHM_00483,GPENAHNM_00967
+asnS,asnS,Asparagine--tRNA ligase,OCAFGGHM_00485,GPENAHNM_00965
+addA,addA,ATP-dependent helicase/nuclease subunit A,OCAFGGHM_00482,GPENAHNM_00968
+coaBC~~~undec1A,coaBC;undec1A,Coenzyme A biosynthesis bifunctional protein CoaBC;Cysteine/Cysteine sulfinic acid decarboxylase,OCAFGGHM_00495,GPENAHNM_00955
+group_178,,hypothetical protein,OCAFGGHM_00491,GPENAHNM_00959
+cpdA,cpdA,3'5'-cyclic adenosine monophosphate phosphodiesterase CpdA,OCAFGGHM_00494,GPENAHNM_00956
+gpsB_1,gpsB_1,Cell cycle protein GpsB,OCAFGGHM_00492,GPENAHNM_00958
+ponA,ponA,Penicillin-binding protein 1A,OCAFGGHM_00489,GPENAHNM_00961
+ypsC,ypsC,Putative RNA methyltransferase YpsC,OCAFGGHM_00493,GPENAHNM_00957
+nth,nth,Endonuclease III,OCAFGGHM_00487,GPENAHNM_00963
+group_177,,hypothetical protein,OCAFGGHM_00477,GPENAHNM_00167
+urdA_1,urdA_1,Urocanate reductase,OCAFGGHM_00441,GPENAHNM_00118
+ydiM_1,ydiM_1,Inner membrane transport protein YdiM,OCAFGGHM_00438,GPENAHNM_00115
+crr,crr,PTS system glucose-specific EIIA component,OCAFGGHM_00446,GPENAHNM_00121
+gltC_2,gltC_2,Transcriptional dual regulator GltC,OCAFGGHM_00440,GPENAHNM_00117
+yhjX,;yhjX,L-lactate transporter;hypothetical protein;putative MFS-type transporter YhjX,OCAFGGHM_00445;OCAFGGHM_00444,GPENAHNM_00120
+alx,alx,Putative membrane-bound redox modulator Alx,OCAFGGHM_00474,GPENAHNM_00164
+group_172,,hypothetical protein,OCAFGGHM_00476,GPENAHNM_00166
+group_171,,hypothetical protein,OCAFGGHM_00463,GPENAHNM_00151
+aroE,aroE,Shikimate dehydrogenase (NADP(+)),OCAFGGHM_00439,GPENAHNM_00116
+agaA_1,agaA_1,N-acetylgalactosamine-6-phosphate deacetylase,OCAFGGHM_00459,GPENAHNM_00147
+bioH_2,bioH_2,Pimeloyl-[acyl-carrier protein] methyl ester esterase,OCAFGGHM_00471,GPENAHNM_00161
+glvR,glvR,HTH-type transcriptional regulator GlvR,OCAFGGHM_00448,GPENAHNM_00123
+group_170,,hypothetical protein,OCAFGGHM_00470,GPENAHNM_00160
+group_169,,hypothetical protein,OCAFGGHM_00460,GPENAHNM_00148
+bglK_2~~~bglK_1,bglK_2;bglK_1,Beta-glucoside kinase,OCAFGGHM_00451,GPENAHNM_00128
+gmuE,gmuE,Putative fructokinase,OCAFGGHM_00443,GPENAHNM_00119
+epsJ,epsJ,putative glycosyltransferase EpsJ,OCAFGGHM_00472,GPENAHNM_00162
+malP_2,malP_2,PTS system maltose-specific EIICB component,OCAFGGHM_00449,GPENAHNM_00124
+pepDA_2~~~pepDA_1,pepDA_2;pepDA_1,Dipeptidase A,OCAFGGHM_00425,GPENAHNM_00103
+hrtA,hrtA,Putative hemin import ATP-binding protein HrtA,OCAFGGHM_00426,GPENAHNM_00104
+group_166,,putative ABC transporter permease,OCAFGGHM_00427,GPENAHNM_00105
+group_165,,hypothetical protein,OCAFGGHM_00428,GPENAHNM_00106
+pspA_1~~~pspA_2,pspA_1;pspA_2,Phosphoserine phosphatase 1,OCAFGGHM_00429,GPENAHNM_00107
+bioH_1,bioH_1,Pimeloyl-[acyl-carrier protein] methyl ester esterase,OCAFGGHM_00430,GPENAHNM_00108
+yaaA,yaaA;,DNA-binding and peroxide stress resistance protein YaaA;hypothetical protein,OCAFGGHM_00432;OCAFGGHM_00431,GPENAHNM_00109
+aes,aes,Acetyl esterase,OCAFGGHM_00453,GPENAHNM_00141
+group_164,,hypothetical protein,OCAFGGHM_00433,GPENAHNM_00110
+bglA,bglA,6-phospho-beta-glucosidase BglA,OCAFGGHM_00456,GPENAHNM_00144
+pepN,pepN,Aminopeptidase N,OCAFGGHM_00434,GPENAHNM_00111
+group_163,,hypothetical protein,OCAFGGHM_00465,GPENAHNM_00153
+group_162,,hypothetical protein,OCAFGGHM_00435,GPENAHNM_00112
+clsA~~~cls,clsA;cls,Major cardiolipin synthase ClsA;Cardiolipin synthase,OCAFGGHM_00478,GPENAHNM_00168
+ypuA,ypuA,putative protein YpuA,OCAFGGHM_00473,GPENAHNM_00163
+ddlA,ddlA,D-alanine--D-alanine ligase A,OCAFGGHM_00464,GPENAHNM_00152
+betI_1,betI_1,HTH-type transcriptional regulator BetI,OCAFGGHM_00468,GPENAHNM_00158
+simA,simA,6-phospho-alpha-glucosidase 1,OCAFGGHM_00450,GPENAHNM_00125
+group_161,,hypothetical protein,OCAFGGHM_00467,GPENAHNM_00157
+group_160,,hypothetical protein,OCAFGGHM_00461,GPENAHNM_00149
+group_159,,hypothetical protein,OCAFGGHM_00462,GPENAHNM_00150
+group_158,,hypothetical protein,OCAFGGHM_00447,GPENAHNM_00122
+gltC_1,gltC_1,Transcriptional dual regulator GltC,OCAFGGHM_00436,GPENAHNM_00113
+licT_1,licT_1,Transcription antiterminator LicT,OCAFGGHM_00458,GPENAHNM_00146
+bglF,bglF,PTS system beta-glucoside-specific EIIBCA component,OCAFGGHM_00457,GPENAHNM_00145
+rnhA,rnhA,Ribonuclease H,OCAFGGHM_00475,GPENAHNM_00165
+group_156,,hypothetical protein,OCAFGGHM_00466,GPENAHNM_00156
+prs_2,prs_2,Ribose-phosphate pyrophosphokinase,OCAFGGHM_00469,GPENAHNM_00159
+aroD,aroD,3-dehydroquinate dehydratase,OCAFGGHM_00437,GPENAHNM_00114
+rhaS_1,rhaS_1,HTH-type transcriptional activator RhaS,OCAFGGHM_00454,GPENAHNM_00142
+group_154,,hypothetical protein,OCAFGGHM_00452,GPENAHNM_00140
+guaD,guaD,Guanine deaminase,OCAFGGHM_00415,GPENAHNM_00813
+group_153,,hypothetical protein,OCAFGGHM_00416,GPENAHNM_00814
+metK,metK,S-adenosylmethionine synthase,OCAFGGHM_00408,GPENAHNM_00806
+group_152,,Nucleobase transporter PlUacP,OCAFGGHM_00414,GPENAHNM_00812
+group_151,,hypothetical protein,OCAFGGHM_00419,GPENAHNM_00817
+leuS,leuS,Leucine--tRNA ligase,OCAFGGHM_00411,GPENAHNM_00809
+group_150,,hypothetical protein,OCAFGGHM_00417,GPENAHNM_00815
+murJ,murJ,Lipid II flippase MurJ,OCAFGGHM_00412,GPENAHNM_00810
+group_149,,hypothetical protein,OCAFGGHM_00410,GPENAHNM_00808
+tcyB,tcyB,L-cystine transport system permease protein TcyB,OCAFGGHM_00422,GPENAHNM_00820
+tcyN,tcyN,L-cystine transport system ATP-binding protein TcyN,OCAFGGHM_00421,GPENAHNM_00819
+bmr3,bmr3,Multidrug resistance protein 3,OCAFGGHM_00409,GPENAHNM_00807
+group_146,,hypothetical protein,OCAFGGHM_00413,GPENAHNM_00811
+group_144,,hypothetical protein,OCAFGGHM_00420,GPENAHNM_00818
+paiA_1~~~paiA_2,paiA_1;paiA_2,Spermidine/spermine N(1)-acetyltransferase,OCAFGGHM_00418,GPENAHNM_00816
+group_142,,D-aspartate ligase,OCAFGGHM_00262,GPENAHNM_00096
+prmC,prmC,Release factor glutamine methyltransferase,OCAFGGHM_00328,GPENAHNM_00084
+rarA,rarA,Replication-associated recombination protein A,OCAFGGHM_00345,GPENAHNM_00067
+amiE,amiE,N-acetylmuramyl-L-alanine amidase,OCAFGGHM_00324,GPENAHNM_00088
+tdk,tdk,Thymidine kinase,OCAFGGHM_00326,GPENAHNM_00086
+pgi,pgi,Glucose-6-phosphate isomerase,OCAFGGHM_00265,GPENAHNM_00093
+rpsD,rpsD,Small ribosomal subunit protein uS4,OCAFGGHM_00347,GPENAHNM_00065
+ribZ,ribZ,Riboflavin transporter RibZ,OCAFGGHM_00266,GPENAHNM_00092
+murT,murT,Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT,OCAFGGHM_00325,GPENAHNM_00087
+group_135,,hypothetical protein,OCAFGGHM_00355,GPENAHNM_00057
+upp,upp,Uracil phosphoribosyltransferase,OCAFGGHM_00330,GPENAHNM_00082
+atpD,atpD,ATP synthase subunit beta,OCAFGGHM_00337,GPENAHNM_00075
+rsuA,rsuA,Ribosomal small subunit pseudouridine synthase A,OCAFGGHM_00351,GPENAHNM_00061
+atpH_2~~~atpH_1,atpH_2;atpH_1,ATP synthase subunit delta,OCAFGGHM_00334,GPENAHNM_00078
+group_124,,hypothetical protein,OCAFGGHM_00264,GPENAHNM_00094
+group_122,,Phosphorylated carbohydrates phosphatase,OCAFGGHM_00354,GPENAHNM_00058
+atpA,atpA,ATP synthase subunit alpha,OCAFGGHM_00335,GPENAHNM_00077
+atpG,atpG,ATP synthase gamma chain,OCAFGGHM_00336,GPENAHNM_00076
+mbl,mbl,Cell shape-determining protein Mbl,OCAFGGHM_00340,GPENAHNM_00072
+ywlC,ywlC,Threonylcarbamoyl-AMP synthase,OCAFGGHM_00329,GPENAHNM_00083
+atpB,atpB,ATP synthase subunit a,OCAFGGHM_00331,GPENAHNM_00081
+group_111,,Putative universal stress protein,OCAFGGHM_00344,GPENAHNM_00068
+ezrA,ezrA,Septation ring formation regulator EzrA,OCAFGGHM_00348,GPENAHNM_00064
+atpC,atpC,ATP synthase epsilon chain,OCAFGGHM_00338,GPENAHNM_00074
+prfA,prfA,Peptide chain release factor 1,OCAFGGHM_00327,GPENAHNM_00085
+yueI,yueI,putative protein YueI,OCAFGGHM_00346,GPENAHNM_00066
+atpH_1,atpH_1,ATP synthase subunit c,OCAFGGHM_00332,GPENAHNM_00080
+group_95,,hypothetical protein,OCAFGGHM_00342,GPENAHNM_00070
+ltaS2_1,ltaS2_1,Lipoteichoic acid synthase 2,OCAFGGHM_00263,GPENAHNM_00095
+valS,valS,Valine--tRNA ligase,OCAFGGHM_00352,GPENAHNM_00060
+iscS_1,iscS_1,Cysteine desulfurase IscS,OCAFGGHM_00349,GPENAHNM_00063
+group_92,,hypothetical protein,OCAFGGHM_00339,GPENAHNM_00073
+atpF,atpF,ATP synthase subunit b,OCAFGGHM_00333,GPENAHNM_00079
+group_91,,hypothetical protein,OCAFGGHM_00267,GPENAHNM_00091
+rodA,rodA,Peptidoglycan glycosyltransferase RodA,OCAFGGHM_00343,GPENAHNM_00069
+fpgS,fpgS,Folylpolyglutamate synthase,OCAFGGHM_00353,GPENAHNM_00059
+thiI,thiI,putative tRNA sulfurtransferase,OCAFGGHM_00350,GPENAHNM_00062
+group_83,,Putative membrane protein insertion efficiency factor,OCAFGGHM_00341,GPENAHNM_00071
+group_82,,hypothetical protein,OCAFGGHM_00201;OCAFGGHM_00200,GPENAHNM_00609
+mleS,mleS,Malolactic enzyme,OCAFGGHM_00185,GPENAHNM_00624
+ganQ,ganQ,Galactooligosaccharides transport system permease protein GanQ,OCAFGGHM_00223,GPENAHNM_00587
+group_81,,hypothetical protein,OCAFGGHM_00186,GPENAHNM_00623
+malP_1,malP_1,Maltose phosphorylase,OCAFGGHM_00217,GPENAHNM_00593
+group_80,,putative transporter,OCAFGGHM_00205,GPENAHNM_00605
+bbmA,bbmA,Intracellular maltogenic amylase,OCAFGGHM_00216,GPENAHNM_00594
+yedJ,yedJ,putative protein YedJ,OCAFGGHM_00203,GPENAHNM_00607
+group_79,,hypothetical protein,OCAFGGHM_00188,GPENAHNM_00621
+purA,purA,Adenylosuccinate synthetase,OCAFGGHM_00208,GPENAHNM_00602
+group_78,,hypothetical protein,OCAFGGHM_00187,GPENAHNM_00622
+purB,purB,Adenylosuccinate lyase,OCAFGGHM_00209,GPENAHNM_00601
+group_77,,hypothetical protein,OCAFGGHM_00197,GPENAHNM_00612
+group_76,,Putative glutamine amidotransferase,OCAFGGHM_00204,GPENAHNM_00606
+oxyR_1,oxyR_1,DNA-binding transcriptional dual regulator OxyR,OCAFGGHM_00184,GPENAHNM_00625
+group_75,,hypothetical protein,OCAFGGHM_00196,GPENAHNM_00613
+thiD,thiD,Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,OCAFGGHM_00211,GPENAHNM_00599
+dltC1,dltC1,D-alanyl carrier protein 1,OCAFGGHM_00191,GPENAHNM_00618
+guaC,guaC,GMP reductase,OCAFGGHM_00207,GPENAHNM_00603
+yfeW,yfeW,Putative D-alanyl-D-alanine carboxypeptidase,OCAFGGHM_00193,GPENAHNM_00616
+cytR,cytR,HTH-type transcriptional repressor CytR,OCAFGGHM_00214,GPENAHNM_00596
+group_74,,hypothetical protein,OCAFGGHM_00195,GPENAHNM_00614
+dltD,dltD,Protein DltD,OCAFGGHM_00192,GPENAHNM_00617
+yvdM,yvdM,Beta-phosphoglucomutase,OCAFGGHM_00218,GPENAHNM_00592
+glpK,glpK,Glycerol kinase,OCAFGGHM_00212,GPENAHNM_00598
+group_73,,hypothetical protein,OCAFGGHM_00224,GPENAHNM_00586
+malX,malX,Maltooligosaccharide ABC transporter solute-binding lipoprotein,OCAFGGHM_00221,GPENAHNM_00589
+dltA,dltA,D-alanine--D-alanyl carrier protein ligase,OCAFGGHM_00189,GPENAHNM_00620
+group_72,,hypothetical protein,OCAFGGHM_00227,GPENAHNM_00583
+group_71,,hypothetical protein,OCAFGGHM_00225,GPENAHNM_00585
+gatD,gatD,Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD,OCAFGGHM_00210,GPENAHNM_00600
+malL_1~~~malL_2,malL_1;malL_2,Oligo-16-glucosidase,OCAFGGHM_00215,GPENAHNM_00595
+group_70,,hypothetical protein,OCAFGGHM_00199,GPENAHNM_00610
+ganP,ganP,Galactooligosaccharides transport system permease protein GanP,OCAFGGHM_00222,GPENAHNM_00588
+group_69,,hypothetical protein,OCAFGGHM_00213,GPENAHNM_00597
+dltB,dltB,Teichoic acid D-alanyltransferase,OCAFGGHM_00190,GPENAHNM_00619
+msmX_1,msmX_1,Oligosaccharides import ATP-binding protein MsmX,OCAFGGHM_00219,GPENAHNM_00591
+clpE_1,clpE_1,ATP-dependent Clp protease ATP-binding subunit ClpE,OCAFGGHM_00202,GPENAHNM_00608
+yicL,yicL,putative inner membrane transporter YicL,OCAFGGHM_00206,GPENAHNM_00604
+sbnD_1,sbnD_1,Staphyloferrin B transporter,OCAFGGHM_00226,GPENAHNM_00584
+galE_1,galE_1,UDP-glucose 4-epimerase,OCAFGGHM_00194,GPENAHNM_00615
+dexB,dexB,Glucan 16-alpha-glucosidase,OCAFGGHM_00220,GPENAHNM_00590
+gnd,gnd,6-phosphogluconate dehydrogenase decarboxylating,OCAFGGHM_00161,GPENAHNM_00507
+nupB,nupB,Nucleoside ABC transporter permease protein NupB,OCAFGGHM_00173,GPENAHNM_00519
+napA,napA,Na(+)/H(+) antiporter,OCAFGGHM_00181,GPENAHNM_00527
+nagB,nagB,Glucosamine-6-phosphate deaminase,OCAFGGHM_00171,GPENAHNM_00517
+group_67,,Deoxyadenosine kinase,OCAFGGHM_00170,GPENAHNM_00516
+phnD2,phnD2,putative ABC transporter phosphonate/phosphite binding protein PhnD2,OCAFGGHM_00178,GPENAHNM_00524
+group_66,,hypothetical protein,OCAFGGHM_00180,GPENAHNM_00526
+uup_2~~~comA_1,uup_2;comA_1,ATP-binding protein Uup;Transport/processing ATP-binding protein ComA,OCAFGGHM_00167,GPENAHNM_00513
+ptxB,ptxB,putative phosphite transport system-binding protein PtxB,OCAFGGHM_00179,GPENAHNM_00525
+pbuG_2,pbuG_2,Guanine/hypoxanthine permease PbuG,OCAFGGHM_00165,GPENAHNM_00511
+pbuG_1,pbuG_1,Guanine/hypoxanthine permease PbuG,OCAFGGHM_00164,GPENAHNM_00510
+ziaA,ziaA,Zinc-transporting ATPase,OCAFGGHM_00182,GPENAHNM_00528
+group_65,,Deoxyguanosine kinase,OCAFGGHM_00169,GPENAHNM_00515
+bmpA_2,bmpA_2,ABC transporter nucleoside-binding protein BmpA,OCAFGGHM_00176,GPENAHNM_00522
+nupC,nupC,Nucleoside ABC transporter permease protein NupC,OCAFGGHM_00172,GPENAHNM_00518
+vmlR,vmlR,Ribosome protection protein VmlR,OCAFGGHM_00168,GPENAHNM_00514
+bmpA_3,bmpA_3,ABC transporter nucleoside-binding protein BmpA,OCAFGGHM_00177,GPENAHNM_00523
+bmpA_1,bmpA_1,ABC transporter nucleoside-binding protein BmpA,OCAFGGHM_00175,GPENAHNM_00521
+group_64,,hypothetical protein,OCAFGGHM_00162,GPENAHNM_00508
+darB,darB,Cyclic di-AMP receptor B,OCAFGGHM_00183,GPENAHNM_00529
+nupA,nupA,Nucleoside import ATP-binding protein NupA,OCAFGGHM_00174,GPENAHNM_00520
+group_63,,L-lactate oxidase,OCAFGGHM_00166,GPENAHNM_00512
+clcA,clcA,H(+)/Cl(-) exchange transporter ClcA,OCAFGGHM_00163,GPENAHNM_00509
+nusG,nusG,Transcription termination/antitermination protein NusG,OCAFGGHM_00126,GPENAHNM_00333
+yabA,yabA,Replication initiation control protein YabA,OCAFGGHM_00142,GPENAHNM_00317
+rplL,rplL,Large ribosomal subunit protein bL12,OCAFGGHM_00132,GPENAHNM_00327
+bglK_1,bglK_1,Beta-glucoside kinase,OCAFGGHM_00130,GPENAHNM_00329
+group_61,,hypothetical protein,OCAFGGHM_00145,GPENAHNM_00314
+steT_1,steT_1,Serine/threonine exchanger SteT,OCAFGGHM_00155,GPENAHNM_00304
+group_60,,hypothetical protein,OCAFGGHM_00153,GPENAHNM_00306
+group_59,,hypothetical protein,OCAFGGHM_00141,GPENAHNM_00318
+tmk,tmk,Thymidylate kinase,OCAFGGHM_00139,GPENAHNM_00320
+rplJ,rplJ,Large ribosomal subunit protein uL10,OCAFGGHM_00131,GPENAHNM_00328
+group_58,,hypothetical protein,OCAFGGHM_00123;OCAFGGHM_00122,GPENAHNM_00336
+qorB,qorB,Quinone oxidoreductase 2,OCAFGGHM_00150,GPENAHNM_00309
+cysS,cysS,Cysteine--tRNA ligase,OCAFGGHM_00119,GPENAHNM_00339
+group_56,,hypothetical protein,OCAFGGHM_00158,GPENAHNM_00301
+arnC,arnC,Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase,OCAFGGHM_00129,GPENAHNM_00330
+rsmI,rsmI,Ribosomal RNA small subunit methyltransferase I,OCAFGGHM_00143,GPENAHNM_00316
+group_55,,hypothetical protein,OCAFGGHM_00138,GPENAHNM_00321
+rsmC,rsmC,Ribosomal RNA small subunit methyltransferase C,OCAFGGHM_00133,GPENAHNM_00326
+group_54,,hypothetical protein,OCAFGGHM_00108,GPENAHNM_00351
+group_53,,hypothetical protein,OCAFGGHM_00159,GPENAHNM_00300
+secE,secE,Protein translocase subunit SecE,OCAFGGHM_00125,GPENAHNM_00334
+group_52,,hypothetical protein,OCAFGGHM_00110,GPENAHNM_00349
+tsaB,tsaB,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,OCAFGGHM_00147,GPENAHNM_00312
+group_51,,hypothetical protein,OCAFGGHM_00144,GPENAHNM_00315
+dnaX,dnaX,DNA polymerase III subunit tau,OCAFGGHM_00135,GPENAHNM_00324
+mrnC,mrnC,Mini-ribonuclease 3,OCAFGGHM_00120,GPENAHNM_00338
+tsaD,tsaD,tRNA N6-adenosine threonylcarbamoyltransferase,OCAFGGHM_00149,GPENAHNM_00310
+darA,darA,Cyclic di-AMP receptor A,OCAFGGHM_00140,GPENAHNM_00319
+yajL,yajL,Protein/nucleic acid deglycase 3,OCAFGGHM_00104,GPENAHNM_01368
+group_50,,hypothetical protein,OCAFGGHM_00157,GPENAHNM_00302
+celA,celA;,Endoglucanase A;hypothetical protein,OCAFGGHM_00156,GPENAHNM_00303
+recR,recR,Recombination protein RecR,OCAFGGHM_00137,GPENAHNM_00322
+rimI,rimI,[Ribosomal protein bS18]-alanine N-acetyltransferase,OCAFGGHM_00148,GPENAHNM_00311
+group_49,,hypothetical protein,OCAFGGHM_00112,GPENAHNM_00347
+ybaB,ybaB,Nucleoid-associated protein YbaB,OCAFGGHM_00136,GPENAHNM_00323
+gpmA_2,gpmA_2,23-bisphosphoglycerate-dependent phosphoglycerate mutase,OCAFGGHM_00109,GPENAHNM_00350
+group_48,,hypothetical protein,OCAFGGHM_00116,GPENAHNM_00343
+yfcA,yfcA,putative membrane transporter protein YfcA,OCAFGGHM_00105,GPENAHNM_00354
+gltX,gltX,Glutamate--tRNA ligase,OCAFGGHM_00115,GPENAHNM_00344
+czcD,czcD,Cadmium cobalt and zinc/H(+)-K(+) antiporter,OCAFGGHM_00107,GPENAHNM_00352
+group_47,,hypothetical protein,OCAFGGHM_00103,GPENAHNM_01367
+group_46,,Putative TrmH family tRNA/rRNA methyltransferase,OCAFGGHM_00121,GPENAHNM_00337
+pepC,pepC,Aminopeptidase C,OCAFGGHM_00111,GPENAHNM_00348
+folT,folT,Folate transporter FolT,OCAFGGHM_00146,GPENAHNM_00313
+dut,dut,Deoxyuridine 5'-triphosphate nucleotidohydrolase,OCAFGGHM_00113,GPENAHNM_00346
+tadA_1,tadA_1,tRNA-specific adenosine deaminase,OCAFGGHM_00134,GPENAHNM_00325
+ykfA,ykfA,putative murein peptide carboxypeptidase,OCAFGGHM_00152,GPENAHNM_00307
+sotB,sotB,sugar efflux transporter,OCAFGGHM_00102,GPENAHNM_01366
+rplA,rplA,Large ribosomal subunit protein uL1,OCAFGGHM_00128,GPENAHNM_00331
+group_44,,hypothetical protein,OCAFGGHM_00154,GPENAHNM_00305
+radA,radA,DNA repair protein RadA,OCAFGGHM_00114,GPENAHNM_00345
+ywnA,ywnA,Putative HTH-type transcriptional regulator YwnA,OCAFGGHM_00151,GPENAHNM_00308
+group_42,,hypothetical protein,OCAFGGHM_00124,GPENAHNM_00335
+rplK,rplK,Large ribosomal subunit protein uL11,OCAFGGHM_00127,GPENAHNM_00332
+gpmA_1~~~gpmA_2,gpmA_1;gpmA_2,23-bisphosphoglycerate-dependent phosphoglycerate mutase,OCAFGGHM_00106,GPENAHNM_00353
+yhaP,yhaP,putative protein YhaP,OCAFGGHM_00028,GPENAHNM_01490
+ecfA1,ecfA1,Energy-coupling factor transporter ATP-binding protein EcfA1,OCAFGGHM_00094,GPENAHNM_01421
+pth,pth,Peptidyl-tRNA hydrolase,OCAFGGHM_00037,GPENAHNM_01482
+rplW,rplW,Large ribosomal subunit protein uL23,OCAFGGHM_00068,GPENAHNM_01447
+murA1,murA1,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,OCAFGGHM_00007,GPENAHNM_01517
+ecfA2,ecfA2,Energy-coupling factor transporter ATP-binding protein EcfA2,OCAFGGHM_00095,GPENAHNM_01420
+group_40,,hypothetical protein,OCAFGGHM_00026,GPENAHNM_01492
+group_38,,Nucleobase transporter PlUacP,OCAFGGHM_00009,GPENAHNM_01508
+secY,secY,Protein translocase subunit SecY,OCAFGGHM_00086,GPENAHNM_01429
+rplX,rplX,Large ribosomal subunit protein uL24,OCAFGGHM_00077,GPENAHNM_01438
+xpt_1~~~xpt_2~~~xpt,xpt_1;xpt_2;xpt,Xanthine phosphoribosyltransferase,OCAFGGHM_00011;OCAFGGHM_00010,GPENAHNM_01507
+bcrA,bcrA,Bacitracin transport ATP-binding protein BcrA,OCAFGGHM_00051,GPENAHNM_01468
+hslO,hslO,33 kDa chaperonin,OCAFGGHM_00044,GPENAHNM_01475
+group_36,,hypothetical protein,OCAFGGHM_00013,GPENAHNM_01505
+rpoE,rpoE,DNA-directed RNA polymerase subunit delta,OCAFGGHM_00005,GPENAHNM_01519
+rplD,rplD,Large ribosomal subunit protein uL4,OCAFGGHM_00067,GPENAHNM_01448
+tilS,tilS,tRNA(Ile)-lysidine synthase,OCAFGGHM_00042,GPENAHNM_01477
+btuD,btuD,Vitamin B12 import ATP-binding protein BtuD,OCAFGGHM_00027,GPENAHNM_01491
+group_35,,hypothetical protein,OCAFGGHM_00056,GPENAHNM_01459
+murF,murF,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,OCAFGGHM_00033,GPENAHNM_01486
+rpsM,rpsM,Small ribosomal subunit protein uS13,OCAFGGHM_00090,GPENAHNM_01425
+group_34,,hypothetical protein,OCAFGGHM_00003,GPENAHNM_01521
+rplC,rplC,Large ribosomal subunit protein uL3,OCAFGGHM_00066,GPENAHNM_01449
+group_33,,hypothetical protein,OCAFGGHM_00041,GPENAHNM_01478
+rplV,rplV,Large ribosomal subunit protein uL22,OCAFGGHM_00071,GPENAHNM_01444
+group_31,,hypothetical protein,OCAFGGHM_00029,GPENAHNM_01489
+rplR,rplR,Large ribosomal subunit protein uL18,OCAFGGHM_00082,GPENAHNM_01433
+rplN,rplN,Large ribosomal subunit protein uL14,OCAFGGHM_00076,GPENAHNM_01439
+adk,adk,Adenylate kinase,OCAFGGHM_00087,GPENAHNM_01428
+pepDA_1,pepDA_1,Dipeptidase A,OCAFGGHM_00008,GPENAHNM_01509
+group_30,,hypothetical protein,OCAFGGHM_00040,GPENAHNM_01479
+rplQ,rplQ,Large ribosomal subunit protein bL17,OCAFGGHM_00093,GPENAHNM_01422
+rpoA,rpoA,DNA-directed RNA polymerase subunit alpha,OCAFGGHM_00092,GPENAHNM_01423
+cshA,cshA,ATP-dependent RNA helicase CshA,OCAFGGHM_00034,GPENAHNM_01485
+citN,citN,Citrate transporter,OCAFGGHM_00001,GPENAHNM_01523
+rpsK,rpsK,Small ribosomal subunit protein uS11,OCAFGGHM_00091,GPENAHNM_01424
+rpsI,rpsI,Small ribosomal subunit protein uS9,OCAFGGHM_00099,GPENAHNM_01416
+rpsJ,rpsJ,Small ribosomal subunit protein uS10,OCAFGGHM_00065,GPENAHNM_01450
+rpsC,rpsC,Small ribosomal subunit protein uS3,OCAFGGHM_00072,GPENAHNM_01443
+rpsH,rpsH,Small ribosomal subunit protein uS8,OCAFGGHM_00080,GPENAHNM_01435
+group_28,,hypothetical protein,OCAFGGHM_00064,GPENAHNM_01451
+rpsL,rpsL,Small ribosomal subunit protein uS12,OCAFGGHM_00061,GPENAHNM_01454
+group_27,,hypothetical protein,OCAFGGHM_00060,GPENAHNM_01455
+lysS,lysS,Lysine--tRNA ligase,OCAFGGHM_00046,GPENAHNM_01473
+prs_1,prs_1,Ribose-phosphate pyrophosphokinase,OCAFGGHM_00002,GPENAHNM_01522
+group_26,,hypothetical protein,OCAFGGHM_00004,GPENAHNM_01520
+group_25,,hypothetical protein,OCAFGGHM_00036,GPENAHNM_01483
+guaA_1,guaA_1,GMP synthase [glutamine-hydrolyzing],OCAFGGHM_00012,GPENAHNM_01506
+rpmJ,rpmJ,Large ribosomal subunit protein bL36,OCAFGGHM_00089,GPENAHNM_01426
+pyrG,pyrG,CTP synthase,OCAFGGHM_00006,GPENAHNM_01518
+rplM,rplM,Large ribosomal subunit protein uL13,OCAFGGHM_00098,GPENAHNM_01417
+rplO,rplO,Large ribosomal subunit protein uL15,OCAFGGHM_00085,GPENAHNM_01430
+rplP,rplP,Large ribosomal subunit protein uL16,OCAFGGHM_00073,GPENAHNM_01442
+dusB,dusB,tRNA-dihydrouridine synthase B,OCAFGGHM_00045,GPENAHNM_01474
+rpmD,rpmD,Large ribosomal subunit protein uL30,OCAFGGHM_00084,GPENAHNM_01431
+rpsZ,rpsZ,Small ribosomal subunit protein uS14,OCAFGGHM_00079,GPENAHNM_01436
+rpmC,rpmC,Large ribosomal subunit protein uL29,OCAFGGHM_00074,GPENAHNM_01441
+group_19,,hypothetical protein,OCAFGGHM_00048,GPENAHNM_01471
+rpsG,rpsG,Small ribosomal subunit protein uS7,OCAFGGHM_00062,GPENAHNM_01453
+group_17,,hypothetical protein,OCAFGGHM_00049,GPENAHNM_01470
+group_16,,hypothetical protein,OCAFGGHM_00025,GPENAHNM_01493
+fusA,fusA,elongation factor G FusA,OCAFGGHM_00063,GPENAHNM_01452
+yciB,yciB,Putative LD-transpeptidase YciB,OCAFGGHM_00014,GPENAHNM_01504
+alr,alr,Alanine racemase,OCAFGGHM_00035,GPENAHNM_01484
+infA,infA,Translation initiation factor IF-1,OCAFGGHM_00088,GPENAHNM_01427
+ftsH,ftsH,ATP-dependent zinc metalloprotease FtsH,OCAFGGHM_00043,GPENAHNM_01476
+truA,truA,tRNA pseudouridine synthase A,OCAFGGHM_00097,GPENAHNM_01418
+group_13,,hypothetical protein,OCAFGGHM_00030,GPENAHNM_01488
+ecfT,ecfT,Energy-coupling factor transporter transmembrane protein EcfT,OCAFGGHM_00096,GPENAHNM_01419
+rpsE,rpsE,Small ribosomal subunit protein uS5,OCAFGGHM_00083,GPENAHNM_01432
+rqcP,rqcP,RQC P-site tRNA stabilizing factor,OCAFGGHM_00039,GPENAHNM_01480
+clpC,clpC,ATP-dependent Clp protease ATP-binding subunit ClpC,OCAFGGHM_00057,GPENAHNM_01458
+group_4,,hypothetical protein,OCAFGGHM_00052,GPENAHNM_01467
+group_3,,hypothetical protein,OCAFGGHM_00050,GPENAHNM_01469
+rpmE2,rpmE2,Large ribosomal subunit protein bL31B,OCAFGGHM_00032,GPENAHNM_01487
+rplF,rplF,Large ribosomal subunit protein uL6,OCAFGGHM_00081,GPENAHNM_01434
+rpsQ,rpsQ,Small ribosomal subunit protein uS17,OCAFGGHM_00075,GPENAHNM_01440
+mfd,mfd,Transcription-repair-coupling factor,OCAFGGHM_00038,GPENAHNM_01481
+rplE,rplE,Large ribosomal subunit protein uL5,OCAFGGHM_00078,GPENAHNM_01437
+rpsS,rpsS,Small ribosomal subunit protein uS19,OCAFGGHM_00070,GPENAHNM_01445
+rpoB,rpoB,DNA-directed RNA polymerase subunit beta RpoB,OCAFGGHM_00058,GPENAHNM_01457
+rplB,rplB,Large ribosomal subunit protein uL2,OCAFGGHM_00069,GPENAHNM_01446
+rpoC,rpoC,DNA-directed RNA polymerase subunit beta RpoC,OCAFGGHM_00059,GPENAHNM_01456
+group_563,,hypothetical protein,,GPENAHNM_01389
+lacF_2,lacF_2,PTS system lactose-specific EIIA component,,GPENAHNM_01250
+group_562,,hypothetical protein,,GPENAHNM_01037
+citG,citG,2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase,,GPENAHNM_01014
+ndvA,ndvA,Beta-(1-->2)glucan export ATP-binding/permease protein NdvA,,GPENAHNM_01003
+group_561,pepT_1,Peptidase T,,GPENAHNM_00855
+murQ,murQ,N-acetylmuramic acid 6-phosphate etherase,,GPENAHNM_00711
+group_560,,hypothetical protein,,GPENAHNM_00708
+murP,murP,PTS system MurNAc-GlcNAc-specific EIIBC component,,GPENAHNM_00709
+group_559,,hypothetical protein,,GPENAHNM_00710
+group_557,,hypothetical protein,,GPENAHNM_00541
+miaA,miaA,tRNA dimethylallyltransferase,,GPENAHNM_00533
+rbsK_1,rbsK_1,Ribokinase,,GPENAHNM_00371
+group_556,,hypothetical protein,,GPENAHNM_00298
+group_555,,hypothetical protein,,GPENAHNM_00295
+hemH,hemH,Ferrochelatase,,GPENAHNM_00296
+group_554,,hypothetical protein,,GPENAHNM_00299
+mepA,mepA,Multidrug export protein MepA,,GPENAHNM_00297
+group_553,,hypothetical protein,,GPENAHNM_00294
+group_552,,hypothetical protein,,GPENAHNM_00293
+group_526,,hypothetical protein,,GPENAHNM_00717
+group_513,,hypothetical protein,,GPENAHNM_00792
+group_512,,hypothetical protein,,GPENAHNM_00793
+bglG,bglG,Cryptic beta-glucoside bgl operon antiterminator,,GPENAHNM_00363
+bglH_3,bglH_3,Aryl-phospho-beta-D-glucosidase BglH,,GPENAHNM_00361
+bglF_2,bglF_2,PTS system beta-glucoside-specific EIIBCA component,,GPENAHNM_00362
+group_492,,hypothetical protein,OCAFGGHM_01457,
+wecH,wecH,O-acetyltransferase WecH,OCAFGGHM_01462,
+group_461,,hypothetical protein,,GPENAHNM_00701
+group_460,,hypothetical protein,OCAFGGHM_01344,
+group_458,,hypothetical protein,OCAFGGHM_01339,
+uup_6,uup_6,ATP-binding protein Uup,,GPENAHNM_01098
+group_457,,hypothetical protein,,GPENAHNM_01099
+group_453,toxN,Endoribonuclease ToxN,,GPENAHNM_01244
+group_451,,hypothetical protein,OCAFGGHM_01303,
+ackA,ackA,Acetate kinase,,GPENAHNM_01145
+group_442,,hypothetical protein,OCAFGGHM_01243,
+group_441,,hypothetical protein,OCAFGGHM_01236,
+msrD,msrD,putative macrolide resistance translation factor MsrD,,GPENAHNM_01196
+arsR,arsR,Arsenical resistance operon repressor,,GPENAHNM_00864
+group_389,,hypothetical protein,,GPENAHNM_00863
+group_385,,hypothetical protein,,GPENAHNM_00862
+ipdC,ipdC,(3aS4S5R7aS)-5-hydroxy-7a-methyl-1-oxo-octahydro-1H-indene-4-carboxyl-CoA dehydrogenase,,GPENAHNM_00861
+group_381,,hypothetical protein,OCAFGGHM_01063,
+group_378,,hypothetical protein,,GPENAHNM_01330
+group_377,,hypothetical protein,OCAFGGHM_01060,
+group_366,,hypothetical protein,OCAFGGHM_01053,
+group_350,,hypothetical protein,OCAFGGHM_00983,
+group_341,,hypothetical protein,OCAFGGHM_00928,
+group_340,,hypothetical protein,OCAFGGHM_00926,
+group_339,,hypothetical protein,OCAFGGHM_00927,
+group_335,,hypothetical protein,,GPENAHNM_01546
+group_332,,hypothetical protein,,GPENAHNM_01542
+group_312,,hypothetical protein,OCAFGGHM_00833,
+pyrDB,pyrDB,Dihydroorotate dehydrogenase B (NAD(+)) catalytic subunit,,GPENAHNM_00398
+niaP,niaP,Niacin transporter NiaP,,GPENAHNM_00399
+group_305,,hypothetical protein,,GPENAHNM_00401
+lacB,lacB,Galactose-6-phosphate isomerase subunit LacB,,GPENAHNM_01303
+dpaL,dpaL,Diaminopropionate ammonia-lyase,,GPENAHNM_01307
+group_302,,RutC family protein,,GPENAHNM_01306
+group_301,,hypothetical protein,OCAFGGHM_00781,
+group_300,,hypothetical protein,,GPENAHNM_01304
+yicL_2,yicL_2,putative inner membrane transporter YicL,,GPENAHNM_01305
+group_280,,hypothetical protein,,GPENAHNM_00736
+group_279,,hypothetical protein,OCAFGGHM_00694,
+group_275,,hypothetical protein,,GPENAHNM_00743
+group_273,,hypothetical protein,,GPENAHNM_00744
+group_272,,hypothetical protein,,GPENAHNM_00742
+group_269,,hypothetical protein,,GPENAHNM_00748
+arnC_2,arnC_2,Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase,,GPENAHNM_00740
+group_268,,putative protein,OCAFGGHM_00672,
+group_265,,hypothetical protein,,GPENAHNM_00217
+group_248,,hypothetical protein,OCAFGGHM_00653,
+group_238,dapE,putative succinyl-diaminopimelate desuccinylase,,GPENAHNM_00485
+dapE,dapE,putative succinyl-diaminopimelate desuccinylase,OCAFGGHM_00605,
+group_237,,hypothetical protein,OCAFGGHM_00598,
+group_236,,hypothetical protein,OCAFGGHM_00594,
+hsdRM,hsdRM,Type II methyltransferase M.BsuRI,OCAFGGHM_00603,
+group_234,,hypothetical protein,OCAFGGHM_00602,
+group_233,,hypothetical protein,OCAFGGHM_00597,
+group_232,,hypothetical protein,OCAFGGHM_00604,
+group_231,,hypothetical protein,OCAFGGHM_00595,
+group_230,bglA,6-phospho-beta-glucosidase BglA,,GPENAHNM_00483
+yydK,yydK,putative HTH-type transcriptional regulator YydK,,GPENAHNM_00480
+group_229,,hypothetical protein,OCAFGGHM_00599,
+ptcB,ptcB,PTS system galactose-specific EIIB component,,GPENAHNM_00479
+group_228,,hypothetical protein,,GPENAHNM_00478
+group_227,,hypothetical protein,OCAFGGHM_00600,
+group_226,,hypothetical protein,,GPENAHNM_00484
+group_225,,hypothetical protein,OCAFGGHM_00606,
+group_222,,hypothetical protein,,GPENAHNM_00482
+group_220,,hypothetical protein,OCAFGGHM_00601,
+group_219,,hypothetical protein,OCAFGGHM_00596,
+group_218,,Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase,,GPENAHNM_00481
+group_214,,hypothetical protein,,GPENAHNM_00232
+group_212,,hypothetical protein,,GPENAHNM_00235
+group_210,,hypothetical protein,,GPENAHNM_00234
+group_205,,hypothetical protein,,GPENAHNM_00231
+polC_1,polC_1,DNA polymerase III PolC-type,,GPENAHNM_00233
+group_204,,hypothetical protein,OCAFGGHM_00562,
+group_202,,hypothetical protein,,GPENAHNM_00260
+group_201,,hypothetical protein,OCAFGGHM_00561,
+group_199,,hypothetical protein,,GPENAHNM_00236
+hsdS,hsdS,Type I restriction enzyme EcoR124I/EcoR124II specificity subunit,OCAFGGHM_00563,
+hsdM,hsdM,Type I restriction enzyme HindI methylase subunit,OCAFGGHM_00564,
+thiT,thiT,Thiamine transporter ThiT,,GPENAHNM_00251
+group_196,,hypothetical protein,,GPENAHNM_00228
+group_195,,hypothetical protein,OCAFGGHM_00565,
+toxN,toxN,Endoribonuclease ToxN,OCAFGGHM_00504,
+group_183,,hypothetical protein,,GPENAHNM_01363
+group_182,,hypothetical protein,OCAFGGHM_00497,
+group_181,,hypothetical protein,OCAFGGHM_00496,
+group_180,,hypothetical protein,OCAFGGHM_00498,
+group_176,,hypothetical protein,,GPENAHNM_00154
+group_175,,Beta-xylosidase,,GPENAHNM_00135
+licB,licB,Lichenan-specific phosphotransferase enzyme IIB component,,GPENAHNM_00137
+licC_1,licC_1,Lichenan permease IIC component,,GPENAHNM_00136
+group_174,,hypothetical protein,OCAFGGHM_00455,
+gmuR_1,gmuR_1,HTH-type transcriptional regulator GmuR,,GPENAHNM_00134
+group_173,,hypothetical protein,,GPENAHNM_00155
+group_168,ydiM_2,Inner membrane transport protein YdiM,OCAFGGHM_00442,
+licA,licA,Lichenan-specific phosphotransferase enzyme IIA component,,GPENAHNM_00138
+group_167,,hypothetical protein,,GPENAHNM_00129
+gmuC,gmuC,PTS system oligo-beta-mannoside-specific EIIC component,,GPENAHNM_00132
+licR,licR,putative licABCH operon regulator,,GPENAHNM_00139
+menH,menH,2-succinyl-6-hydroxy-24-cyclohexadiene-1-carboxylate synthase,,GPENAHNM_00126
+ydiM_2,ydiM_2,Inner membrane transport protein YdiM,,GPENAHNM_00127
+group_157,,hypothetical protein,,GPENAHNM_00143
+bglH_1,bglH_1,Aryl-phospho-beta-D-glucosidase BglH,,GPENAHNM_00133
+group_155,,hypothetical protein,,GPENAHNM_00130
+rhaR,rhaR,HTH-type transcriptional activator RhaR,,GPENAHNM_00131
+group_148,,hypothetical protein,,GPENAHNM_00821
+group_147,,hypothetical protein,,GPENAHNM_00822
+group_145,,hypothetical protein,OCAFGGHM_00423,
+group_143,,hypothetical protein,OCAFGGHM_00316,
+group_141,,hypothetical protein,OCAFGGHM_00299,
+group_140,,hypothetical protein,OCAFGGHM_00273,
+group_139,,hypothetical protein,OCAFGGHM_00300,
+group_138,,hypothetical protein,OCAFGGHM_00277,
+group_137,,hypothetical protein,OCAFGGHM_00283,
+group_136,,hypothetical protein,OCAFGGHM_00307,
+group_134,,hypothetical protein,OCAFGGHM_00289,
+group_133,,hypothetical protein,OCAFGGHM_00303,
+group_132,,hypothetical protein,OCAFGGHM_00286,
+group_131,,hypothetical protein,OCAFGGHM_00281,
+group_130,,hypothetical protein,OCAFGGHM_00301,
+group_129,,hypothetical protein,OCAFGGHM_00306,
+group_128,,hypothetical protein,OCAFGGHM_00296,
+group_127,,hypothetical protein,OCAFGGHM_00271,
+group_126,,hypothetical protein,OCAFGGHM_00287,
+group_125,,hypothetical protein,OCAFGGHM_00304,
+group_123,,hypothetical protein,OCAFGGHM_00321,
+group_121,,hypothetical protein,OCAFGGHM_00284,
+group_120,,hypothetical protein,OCAFGGHM_00297,
+group_119,,hypothetical protein,OCAFGGHM_00272,
+group_118,,hypothetical protein,OCAFGGHM_00318,
+group_117,,hypothetical protein,OCAFGGHM_00270,
+group_116,,hypothetical protein,OCAFGGHM_00280,
+group_115,,hypothetical protein,OCAFGGHM_00315,
+group_114,,hypothetical protein,OCAFGGHM_00278,
+group_113,,hypothetical protein,OCAFGGHM_00317,
+group_112,,hypothetical protein,OCAFGGHM_00290,
+group_110,,hypothetical protein,OCAFGGHM_00310,
+group_109,,hypothetical protein,OCAFGGHM_00314,
+ssb_1,ssb_1,Single-stranded DNA-binding protein,OCAFGGHM_00282,
+group_108,,hypothetical protein,OCAFGGHM_00298,
+group_107,,hypothetical protein,OCAFGGHM_00288,
+group_106,,hypothetical protein,OCAFGGHM_00320,
+group_105,,hypothetical protein,OCAFGGHM_00269,
+group_104,,hypothetical protein,OCAFGGHM_00312,
+group_103,,hypothetical protein,OCAFGGHM_00292,
+group_102,,hypothetical protein,OCAFGGHM_00291,
+group_101,,hypothetical protein,OCAFGGHM_00313,
+group_100,,hypothetical protein,OCAFGGHM_00319,
+group_99,,hypothetical protein,OCAFGGHM_00275,
+group_98,,hypothetical protein,OCAFGGHM_00279,
+group_97,,hypothetical protein,OCAFGGHM_00276,
+group_96,,hypothetical protein,OCAFGGHM_00274,
+group_94,,hypothetical protein,OCAFGGHM_00285,
+xerD_1,xerD_1,Tyrosine recombinase XerD,OCAFGGHM_00268,
+group_93,,hypothetical protein,OCAFGGHM_00311,
+group_90,,hypothetical protein,OCAFGGHM_00293,
+group_89,,hypothetical protein,OCAFGGHM_00309,
+group_88,,hypothetical protein,OCAFGGHM_00294,
+group_87,,hypothetical protein,OCAFGGHM_00305,
+group_86,,hypothetical protein,OCAFGGHM_00295,
+group_85,,hypothetical protein,OCAFGGHM_00302,
+group_84,,hypothetical protein,OCAFGGHM_00308,
+group_68,,hypothetical protein,OCAFGGHM_00198,
+group_62,,hypothetical protein,OCAFGGHM_00118,
+group_57,,hypothetical protein,,GPENAHNM_00342
+agrA_1,agrA_1,Accessory gene regulator A,,GPENAHNM_00341
+group_45,,hypothetical protein,,GPENAHNM_00340
+group_43,,hypothetical protein,OCAFGGHM_00117,
+group_41,,hypothetical protein,,GPENAHNM_01472
+group_39,,hypothetical protein,,GPENAHNM_01465
+bcrA_1,bcrA_1,Bacitracin transport ATP-binding protein BcrA,,GPENAHNM_01464
+group_37,,hypothetical protein,OCAFGGHM_00047,
+group_32,,hypothetical protein,,GPENAHNM_01511
+btuD_3,btuD_3,Vitamin B12 import ATP-binding protein BtuD,,GPENAHNM_01514
+rihA_2,rihA_2,Pyrimidine-specific ribonucleoside hydrolase RihA,,GPENAHNM_01496
+group_29,emrB,Multidrug export protein EmrB,,GPENAHNM_01498
+guaA_2,guaA_2,GMP synthase [glutamine-hydrolyzing],,GPENAHNM_01501
+emrB,emrB,Multidrug export protein EmrB,OCAFGGHM_00017,
+rihA_1,rihA_1,Pyrimidine-specific ribonucleoside hydrolase RihA,OCAFGGHM_00021,
+smc_1,smc_1,Chromosome partition protein Smc,OCAFGGHM_00019,
+mntB,mntB,Manganese transport system ATP-binding protein MntB,,GPENAHNM_01513
+uup_1,uup_1,ATP-binding protein Uup,OCAFGGHM_00101,
+group_24,,hypothetical protein,,GPENAHNM_01497
+group_23,,hypothetical protein,OCAFGGHM_00023,
+group_22,,hypothetical protein,OCAFGGHM_00018,
+group_21,,hypothetical protein,,GPENAHNM_01502
+proX,proX,Prolyl-tRNA editing protein ProX,OCAFGGHM_00015,
+group_20,,hypothetical protein,,GPENAHNM_01515
+group_18,,hypothetical protein,OCAFGGHM_00022,
+group_15,,hypothetical protein,,GPENAHNM_01516
+group_14,,hypothetical protein,,GPENAHNM_01463
+group_12,,hypothetical protein,OCAFGGHM_00031,
+group_11,,hypothetical protein,,GPENAHNM_01494
+group_10,,hypothetical protein,OCAFGGHM_00024,
+group_9,,hypothetical protein,,GPENAHNM_01512
+group_8,,hypothetical protein,,GPENAHNM_01510
+group_7,,hypothetical protein,OCAFGGHM_00100,
+group_6,,hypothetical protein,,GPENAHNM_01503
+group_5,,hypothetical protein,,GPENAHNM_01466
+smc_2,smc_2,Chromosome partition protein Smc,OCAFGGHM_00020,
+group_2,,hypothetical protein,,GPENAHNM_01499
+smc_3,smc_3,Chromosome partition protein Smc,,GPENAHNM_01495
+group_1,,hypothetical protein,OCAFGGHM_00016,
+group_0,,hypothetical protein,,GPENAHNM_01500

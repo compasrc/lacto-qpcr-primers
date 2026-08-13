@@ -1,0 +1,1577 @@
+Gene,Non-unique Gene name,Annotation,Lactobacillus_jensenii__UMB0732__GCA_030218485.1,Lactobacillus_jensenii__UMB10187__GCA_030211725.1,Lactobacillus_jensenii__UMB7786__GCA_030215165.1
+asnS,asnS,Asparagine--tRNA ligase,BDMKMOGB_01357,IAAMHMBP_00674,PKFCGPHH_01395
+era,era,GTPase Era,BDMKMOGB_01386,IAAMHMBP_00646,PKFCGPHH_01424
+group_551,,hypothetical protein,BDMKMOGB_01358,IAAMHMBP_00673,PKFCGPHH_01396
+group_550,,hypothetical protein,BDMKMOGB_01371,IAAMHMBP_00661,PKFCGPHH_01409
+spsB,spsB,Signal peptidase IB,BDMKMOGB_01370,IAAMHMBP_00662,PKFCGPHH_01408
+galK_3,galK_3,Galactokinase,BDMKMOGB_01362,IAAMHMBP_00669,PKFCGPHH_01400
+recO,recO,DNA repair protein RecO,BDMKMOGB_01385,IAAMHMBP_00647,PKFCGPHH_01423
+fni,fni,Isopentenyl-diphosphate delta-isomerase,BDMKMOGB_01365,IAAMHMBP_00666,PKFCGPHH_01403
+ybaK,ybaK,Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK,BDMKMOGB_01403,IAAMHMBP_00629,PKFCGPHH_01441
+glyQ,glyQ,Glycine--tRNA ligase alpha subunit,BDMKMOGB_01384,IAAMHMBP_00648,PKFCGPHH_01422
+cdd,cdd,Cytidine deaminase,BDMKMOGB_01387,IAAMHMBP_00645,PKFCGPHH_01425
+group_549,,hypothetical protein,BDMKMOGB_01373,IAAMHMBP_00659,PKFCGPHH_01411
+glyS,glyS,Glycine--tRNA ligase beta subunit,BDMKMOGB_01383,IAAMHMBP_00649,PKFCGPHH_01421
+group_548,,hypothetical protein,BDMKMOGB_01404,IAAMHMBP_00628,PKFCGPHH_01442
+ndvA,ndvA,Beta-(1-->2)glucan export ATP-binding/permease protein NdvA,BDMKMOGB_01396,IAAMHMBP_00636,PKFCGPHH_01434
+group_547,,hypothetical protein,BDMKMOGB_01372,IAAMHMBP_00660,PKFCGPHH_01410
+relA,relA,GTP pyrophosphokinase,BDMKMOGB_01400,IAAMHMBP_00632,PKFCGPHH_01438
+ybeY,ybeY,Endoribonuclease YbeY,BDMKMOGB_01388,IAAMHMBP_00644,PKFCGPHH_01426
+trmK,trmK,tRNA (adenine(22)-N(1))-methyltransferase,BDMKMOGB_01380,IAAMHMBP_00652,PKFCGPHH_01418
+dtd,dtd,D-aminoacyl-tRNA deacylase,BDMKMOGB_01399,IAAMHMBP_00633,PKFCGPHH_01437
+msrB,msrB,Peptide methionine sulfoxide reductase MsrB,BDMKMOGB_01395,IAAMHMBP_00637,PKFCGPHH_01433
+ytrA,ytrA,HTH-type transcriptional repressor YtrA,BDMKMOGB_01377,IAAMHMBP_00655,PKFCGPHH_01415
+prmA,prmA,Ribosomal protein L11 methyltransferase,BDMKMOGB_01402,IAAMHMBP_00630,PKFCGPHH_01440
+msrA,msrA,Peptide methionine sulfoxide reductase MsrA,BDMKMOGB_01394,IAAMHMBP_00638,PKFCGPHH_01432
+group_546,,Phosphomevalonate kinase,BDMKMOGB_01364,IAAMHMBP_00667,PKFCGPHH_01402
+group_545,,hypothetical protein,BDMKMOGB_01401,IAAMHMBP_00631,PKFCGPHH_01439
+group_544,,PhoH-like protein,BDMKMOGB_01389,IAAMHMBP_00643,PKFCGPHH_01427
+albC,albC,Putative ABC transporter ATP-binding protein AlbC,BDMKMOGB_01376,IAAMHMBP_00656,PKFCGPHH_01414
+sigA,sigA,RNA polymerase sigma factor SigA,BDMKMOGB_01381,IAAMHMBP_00651,PKFCGPHH_01419
+pepT_2,pepT_2,Peptidase T,BDMKMOGB_01378,IAAMHMBP_00654,PKFCGPHH_01416
+group_543,,hypothetical protein,BDMKMOGB_01363,IAAMHMBP_00668,PKFCGPHH_01401
+group_542,,hypothetical protein,BDMKMOGB_01393,IAAMHMBP_00639,PKFCGPHH_01431
+group_541,,GTP cyclohydrolase 1 type 2,BDMKMOGB_01379,IAAMHMBP_00653,PKFCGPHH_01417
+group_540,,hypothetical protein,BDMKMOGB_01374,IAAMHMBP_00658,PKFCGPHH_01412
+dnaD,dnaD,Replicative helicase loading/DNA remodeling protein DnaD,BDMKMOGB_01356,IAAMHMBP_00675,PKFCGPHH_01394
+yqeY,yqeY,putative protein YqeY,BDMKMOGB_01390,IAAMHMBP_00642,PKFCGPHH_01428
+group_539,,hypothetical protein,BDMKMOGB_01368,IAAMHMBP_00664,PKFCGPHH_01406
+nth,nth,Endonuclease III,BDMKMOGB_01355,IAAMHMBP_00676,PKFCGPHH_01393
+dnaG,dnaG,DNA primase,BDMKMOGB_01382,IAAMHMBP_00650,PKFCGPHH_01420
+group_538,,hypothetical protein,BDMKMOGB_01369,IAAMHMBP_00663,PKFCGPHH_01407
+dinG,dinG,3'-5' exonuclease DinG,BDMKMOGB_01359,IAAMHMBP_00672,PKFCGPHH_01397
+yokD_2,yokD_2,SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD,BDMKMOGB_01354,IAAMHMBP_00677,PKFCGPHH_01392
+hisS,hisS,Histidine--tRNA ligase,BDMKMOGB_01398,IAAMHMBP_00634,PKFCGPHH_01436
+group_537,,hypothetical protein,BDMKMOGB_01375,IAAMHMBP_00657,PKFCGPHH_01413
+aspS,aspS,Aspartate--tRNA ligase,BDMKMOGB_01397,IAAMHMBP_00635,PKFCGPHH_01435
+rsmF_2~~~rsmF~~~rsmF_1,rsmF_2;rsmF;rsmF_1,Ribosomal RNA small subunit methyltransferase F,BDMKMOGB_01366;BDMKMOGB_01367,IAAMHMBP_00665,PKFCGPHH_01404;PKFCGPHH_01405
+addB,addB,ATP-dependent helicase/deoxyribonuclease subunit B,BDMKMOGB_01361,IAAMHMBP_00670,PKFCGPHH_01399
+addA,addA,ATP-dependent helicase/nuclease subunit A,BDMKMOGB_01360,IAAMHMBP_00671,PKFCGPHH_01398
+citG,citG,2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase,BDMKMOGB_01405,IAAMHMBP_00627,PKFCGPHH_01443
+rpsU,rpsU,Small ribosomal subunit protein bS21,BDMKMOGB_01391,IAAMHMBP_00641,PKFCGPHH_01429
+yqfL,yqfL,Putative pyruvate phosphate dikinase regulatory protein,BDMKMOGB_01392,IAAMHMBP_00640,PKFCGPHH_01430
+yffB,yffB,Protein YffB,BDMKMOGB_01342,IAAMHMBP_00786,PKFCGPHH_01253
+pepX,pepX,Xaa-Pro dipeptidyl-peptidase,BDMKMOGB_01341,IAAMHMBP_00787,PKFCGPHH_01254
+glyA,glyA,Serine hydroxymethyltransferase,BDMKMOGB_01337,IAAMHMBP_00860,PKFCGPHH_01377
+ypjQ,ypjQ,putative protein YpjQ,BDMKMOGB_01339,IAAMHMBP_00862,PKFCGPHH_01379
+dedA,dedA,DedA family protein,BDMKMOGB_01338,IAAMHMBP_00861,PKFCGPHH_01378
+yumC,yumC,Ferredoxin--NADP reductase 2,BDMKMOGB_01340,IAAMHMBP_00863,PKFCGPHH_01380
+group_535,,hypothetical protein,BDMKMOGB_01334,IAAMHMBP_01049,PKFCGPHH_01250
+resD,resD,Transcriptional regulatory protein ResD,BDMKMOGB_01335,IAAMHMBP_01048,PKFCGPHH_01249
+rcsC_2,rcsC_2,Sensor histidine kinase RcsC,BDMKMOGB_01336,IAAMHMBP_01047,PKFCGPHH_01248
+gmuF,gmuF,putative mannose-6-phosphate isomerase GmuF,BDMKMOGB_01333,IAAMHMBP_01050,PKFCGPHH_01251
+group_534,,putative tautomerase.1,BDMKMOGB_01304,IAAMHMBP_00090,PKFCGPHH_01481
+group_533,,hypothetical protein,BDMKMOGB_01296,IAAMHMBP_00098,PKFCGPHH_01489
+arcC1,arcC1,Carbamate kinase 1,BDMKMOGB_01319,IAAMHMBP_00075,PKFCGPHH_01466
+ruvB,ruvB,Holliday junction branch migration complex subunit RuvB,BDMKMOGB_01289,IAAMHMBP_00105,PKFCGPHH_01496
+ruvA,ruvA,Holliday junction branch migration complex subunit RuvA,BDMKMOGB_01288,IAAMHMBP_00106,PKFCGPHH_01497
+group_532,,hypothetical protein,BDMKMOGB_01279,IAAMHMBP_00115,PKFCGPHH_01355
+malR~~~rbsR,malR;rbsR,HTH-type transcriptional regulator MalR;Ribose operon repressor,BDMKMOGB_01324,IAAMHMBP_00070,PKFCGPHH_01461
+group_531,,hypothetical protein,BDMKMOGB_01281,IAAMHMBP_00113,PKFCGPHH_01504
+hsdM,hsdM,Type I restriction enzyme HindI methylase subunit,BDMKMOGB_01283,IAAMHMBP_00111,PKFCGPHH_01502
+msmX_3,msmX_3,Oligosaccharides import ATP-binding protein MsmX,BDMKMOGB_01351,IAAMHMBP_00069,PKFCGPHH_01460
+group_530,,hypothetical protein,BDMKMOGB_01306,IAAMHMBP_00088,PKFCGPHH_01479
+group_529,,hypothetical protein,BDMKMOGB_01282,IAAMHMBP_00112,PKFCGPHH_01503
+yutF,yutF,5'-nucleotidase YutF,BDMKMOGB_01315,IAAMHMBP_00079,PKFCGPHH_01470
+uup_4,uup_4,ATP-binding protein Uup,BDMKMOGB_01280,IAAMHMBP_00114,PKFCGPHH_01505
+group_528,,hypothetical protein,BDMKMOGB_01317,IAAMHMBP_00077,PKFCGPHH_01468
+cshB,cshB,DEAD-box ATP-dependent RNA helicase CshB,BDMKMOGB_01294,IAAMHMBP_00100,PKFCGPHH_01491
+groES,groES,Co-chaperonin GroES,BDMKMOGB_01276,IAAMHMBP_00118,PKFCGPHH_01358
+group_527,,hypothetical protein,BDMKMOGB_01316,IAAMHMBP_00078,PKFCGPHH_01469
+groEL,groEL,Chaperonin GroEL,BDMKMOGB_01277,IAAMHMBP_00117,PKFCGPHH_01357
+mutSB,mutSB,Putative endonuclease MutS2,BDMKMOGB_01299,IAAMHMBP_00095,PKFCGPHH_01486
+group_526,,hypothetical protein,BDMKMOGB_01311,IAAMHMBP_00083,PKFCGPHH_01474
+group_525,,hypothetical protein,BDMKMOGB_01290,IAAMHMBP_00104,PKFCGPHH_01495
+group_524,,hypothetical protein,BDMKMOGB_01352,IAAMHMBP_00068,PKFCGPHH_01459
+group_523,,dITP/XTP pyrophosphatase,BDMKMOGB_01303,IAAMHMBP_00091,PKFCGPHH_01482
+arcA,arcA,Arginine deiminase,BDMKMOGB_01320,IAAMHMBP_00074,PKFCGPHH_01465
+yrrK,yrrK,Putative pre-16S rRNA nuclease,BDMKMOGB_01297,IAAMHMBP_00097,PKFCGPHH_01488
+group_522,,hypothetical protein,BDMKMOGB_01313,IAAMHMBP_00081,PKFCGPHH_01472
+nrnA,nrnA,putative bifunctional oligoribonuclease and PAP phosphatase NrnA,BDMKMOGB_01293,IAAMHMBP_00101,PKFCGPHH_01492
+pepV,pepV,Beta-Ala-Xaa dipeptidase,BDMKMOGB_01310,IAAMHMBP_00084,PKFCGPHH_01475
+trxA,trxA,Thioredoxin,BDMKMOGB_01300,IAAMHMBP_00094,PKFCGPHH_01485
+pepQ,pepQ,Xaa-Pro dipeptidase,BDMKMOGB_01308,IAAMHMBP_00086,PKFCGPHH_01477
+group_521,,hypothetical protein,BDMKMOGB_01298,IAAMHMBP_00096,PKFCGPHH_01487
+mutS,mutS,DNA mismatch repair protein MutS,BDMKMOGB_01286,IAAMHMBP_00108,PKFCGPHH_01499
+alaS,alaS,Alanine--tRNA ligase,BDMKMOGB_01295,IAAMHMBP_00099,PKFCGPHH_01490
+arcD1_1,arcD1_1,Arginine/ornithine antiporter ArcD1,BDMKMOGB_01321,IAAMHMBP_00073,PKFCGPHH_01464
+dinB_2,dinB_2,DNA polymerase IV,BDMKMOGB_01292,IAAMHMBP_00102,PKFCGPHH_01493
+group_520,,hypothetical protein,BDMKMOGB_01312,IAAMHMBP_00082,PKFCGPHH_01473
+murI,murI,Glutamate racemase,BDMKMOGB_01302,IAAMHMBP_00092,PKFCGPHH_01483
+arcD1_2,arcD1_2,Arginine/ornithine antiporter ArcD1,BDMKMOGB_01322,IAAMHMBP_00072,PKFCGPHH_01463
+group_519,,hypothetical protein,BDMKMOGB_01284,IAAMHMBP_00110,PKFCGPHH_01501
+yslB,yslB,putative protein YslB,BDMKMOGB_01301,IAAMHMBP_00093,PKFCGPHH_01484
+group_518,,hypothetical protein,BDMKMOGB_01314,IAAMHMBP_00080,PKFCGPHH_01471
+group_517,,hypothetical protein,BDMKMOGB_01285,IAAMHMBP_00109,PKFCGPHH_01500
+gtfA,gtfA,Sucrose phosphorylase,BDMKMOGB_01323,IAAMHMBP_00071,PKFCGPHH_01462
+zwf,zwf,Glucose-6-phosphate 1-dehydrogenase,BDMKMOGB_01291,IAAMHMBP_00103,PKFCGPHH_01494
+group_516,,hypothetical protein,BDMKMOGB_01307,IAAMHMBP_00087,PKFCGPHH_01478
+ccpA_3,ccpA_3,Catabolite control protein A,BDMKMOGB_01309,IAAMHMBP_00085,PKFCGPHH_01476
+ykuT,ykuT,putative MscS family protein YkuT,BDMKMOGB_01305,IAAMHMBP_00089,PKFCGPHH_01480
+mutL,mutL,DNA mismatch repair protein MutL,BDMKMOGB_01287,IAAMHMBP_00107,PKFCGPHH_01498
+argF,argF,Ornithine carbamoyltransferase,BDMKMOGB_01318,IAAMHMBP_00076,PKFCGPHH_01467
+group_515,,hypothetical protein,BDMKMOGB_01278,IAAMHMBP_00116,PKFCGPHH_01356
+pbuG_2,pbuG_2,Guanine/hypoxanthine permease PbuG,BDMKMOGB_01350,IAAMHMBP_01607,PKFCGPHH_00041
+group_510,,L-lactate oxidase,BDMKMOGB_01349,IAAMHMBP_01608,PKFCGPHH_00040
+pbuG_1,pbuG_1,Guanine/hypoxanthine permease PbuG,BDMKMOGB_01238,IAAMHMBP_01606,PKFCGPHH_00042
+gnd,gnd,6-phosphogluconate dehydrogenase decarboxylating,BDMKMOGB_01241,IAAMHMBP_01603,PKFCGPHH_00045
+group_509,,hypothetical protein,BDMKMOGB_01240,IAAMHMBP_01604,PKFCGPHH_00044
+clcA,clcA,H(+)/Cl(-) exchange transporter ClcA,BDMKMOGB_01239,IAAMHMBP_01605,PKFCGPHH_00043
+pncB,pncB,Nicotinate phosphoribosyltransferase,BDMKMOGB_01198,IAAMHMBP_00226,PKFCGPHH_01327
+ettA,ettA,Energy-dependent translational throttle protein EttA,BDMKMOGB_01172,IAAMHMBP_00199,PKFCGPHH_01301
+group_507,,hypothetical protein,BDMKMOGB_01195,IAAMHMBP_00223,PKFCGPHH_01324
+nadE,nadE,NH(3)-dependent NAD(+) synthetase,BDMKMOGB_01197,IAAMHMBP_00225,PKFCGPHH_01326
+odcI,odcI,Inducible ornithine decarboxylase,BDMKMOGB_01182,IAAMHMBP_00210,PKFCGPHH_01311
+arnC_2,arnC_2,Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase,BDMKMOGB_01203,IAAMHMBP_00230,PKFCGPHH_01332
+manZ_3,manZ_3,PTS system mannose-specific EIID component,BDMKMOGB_01221,IAAMHMBP_00248,PKFCGPHH_01350
+dagK,dagK,Diacylglycerol kinase,BDMKMOGB_01184,IAAMHMBP_00212,PKFCGPHH_01313
+panT,panT,Pantothenate transporter PanT,BDMKMOGB_01192,IAAMHMBP_00220,PKFCGPHH_01321
+ligA,ligA,DNA ligase,BDMKMOGB_01189,IAAMHMBP_00217,PKFCGPHH_01318
+group_506,,hypothetical protein,BDMKMOGB_01180,IAAMHMBP_00207,PKFCGPHH_01309
+group_505,,hypothetical protein,BDMKMOGB_01175,IAAMHMBP_00202,PKFCGPHH_01304
+group_504,,putative RNA methyltransferase,BDMKMOGB_01177,IAAMHMBP_00204,PKFCGPHH_01306
+group_503,,hypothetical protein,BDMKMOGB_01174,IAAMHMBP_00201,PKFCGPHH_01303
+nhaC,nhaC,Na(+)/H(+) antiporter NhaC,BDMKMOGB_01178,IAAMHMBP_00205,PKFCGPHH_01307
+group_502,,hypothetical protein,BDMKMOGB_01220,IAAMHMBP_00247,PKFCGPHH_01349
+group_501,,hypothetical protein,BDMKMOGB_01215,IAAMHMBP_00242,PKFCGPHH_01344
+pcrA,pcrA,ATP-dependent DNA helicase PcrA,BDMKMOGB_01190,IAAMHMBP_00218,PKFCGPHH_01319
+cycA,cycA,D-serine/D-alanine/glycine transporter,BDMKMOGB_01219,IAAMHMBP_00246,PKFCGPHH_01348
+bshA,bshA,N-acetyl-alpha-D-glucosaminyl L-malate synthase,BDMKMOGB_01204,IAAMHMBP_00231,PKFCGPHH_01333
+group_500,,Protein SprT-like protein,BDMKMOGB_01194,IAAMHMBP_00222,PKFCGPHH_01323
+group_499,,hypothetical protein,BDMKMOGB_01202,IAAMHMBP_00229,PKFCGPHH_01331
+nagR,nagR,HTH-type transcriptional repressor NagR,BDMKMOGB_01209,IAAMHMBP_00236,PKFCGPHH_01338
+gatC,gatC,Glutamyl-tRNA(Gln) amidotransferase subunit C,BDMKMOGB_01187,IAAMHMBP_00215,PKFCGPHH_01316
+ybhL,ybhL,Inner membrane protein YbhL,BDMKMOGB_01179,IAAMHMBP_00206,PKFCGPHH_01308
+group_498,,hypothetical protein,BDMKMOGB_01201;BDMKMOGB_01200,IAAMHMBP_00228,PKFCGPHH_01330;PKFCGPHH_01329
+group_497,,hypothetical protein,BDMKMOGB_01199,IAAMHMBP_00227,PKFCGPHH_01328
+tagD,tagD,Glycerol-3-phosphate cytidylyltransferase,BDMKMOGB_01208,IAAMHMBP_00235,PKFCGPHH_01337
+group_496,,hypothetical protein,BDMKMOGB_01210,IAAMHMBP_00237,PKFCGPHH_01339
+group_495,,hypothetical protein,BDMKMOGB_01173,IAAMHMBP_00200,PKFCGPHH_01302
+group_494,,Calcium-transporting ATPase 1,BDMKMOGB_01196,IAAMHMBP_00224,PKFCGPHH_01325
+ycaM_1~~~ycaM_2,ycaM_1;ycaM_2,Inner membrane transporter YcaM,BDMKMOGB_01181,IAAMHMBP_00209;IAAMHMBP_00208,PKFCGPHH_01310
+group_493,,hypothetical protein,BDMKMOGB_01183,IAAMHMBP_00211,PKFCGPHH_01312
+group_492,,hypothetical protein,BDMKMOGB_01176,IAAMHMBP_00203,PKFCGPHH_01305
+sorA_2,sorA_2,PTS system sorbose-specific EIIC component,BDMKMOGB_01222,IAAMHMBP_00249,PKFCGPHH_01351
+rfbX,rfbX,Putative O-antigen transporter,BDMKMOGB_01206,IAAMHMBP_00233,PKFCGPHH_01335
+gatB,gatB,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B,BDMKMOGB_01185,IAAMHMBP_00213,PKFCGPHH_01314
+rex,rex,Redox-sensing transcriptional repressor Rex,BDMKMOGB_01171,IAAMHMBP_00198,PKFCGPHH_01300
+qacC,qacC,Quaternary ammonium compound-resistance protein QacC,BDMKMOGB_01216,IAAMHMBP_00243,PKFCGPHH_01345
+group_491,,hypothetical protein,BDMKMOGB_01191,IAAMHMBP_00219,PKFCGPHH_01320
+gatA,gatA,Glutamyl-tRNA(Gln) amidotransferase subunit A,BDMKMOGB_01186,IAAMHMBP_00214,PKFCGPHH_01315
+pspB,pspB,Putative phosphoserine phosphatase 2,BDMKMOGB_01214,IAAMHMBP_00241,PKFCGPHH_01343
+manX_2,manX_2,PTS system mannose-specific EIIAB component,BDMKMOGB_01223,IAAMHMBP_00250,PKFCGPHH_01352
+group_490,,hypothetical protein,BDMKMOGB_01207,IAAMHMBP_00234,PKFCGPHH_01336
+tagA,tagA,N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase,BDMKMOGB_01205,IAAMHMBP_00232,PKFCGPHH_01334
+yerH,yerH,putative lipoprotein YerH,BDMKMOGB_01188,IAAMHMBP_00216,PKFCGPHH_01317
+leuS,leuS,Leucine--tRNA ligase,BDMKMOGB_01163,IAAMHMBP_00752,PKFCGPHH_01276
+group_489,,hypothetical protein,BDMKMOGB_01160,IAAMHMBP_00755,PKFCGPHH_01273
+group_488,,hypothetical protein,BDMKMOGB_01161,IAAMHMBP_00754,PKFCGPHH_01274
+murJ_2,murJ_2,Lipid II flippase MurJ,BDMKMOGB_01162,IAAMHMBP_00753,PKFCGPHH_01275
+hepT,hepT,Heptaprenyl diphosphate synthase component 2,BDMKMOGB_01245,IAAMHMBP_00748,PKFCGPHH_00634
+appC,appC,Cytochrome bd-II ubiquinol oxidase subunit 1,BDMKMOGB_01121,IAAMHMBP_00744,PKFCGPHH_00638
+cydB,cydB,Cytochrome bd-I ubiquinol oxidase subunit 2,BDMKMOGB_01120,IAAMHMBP_00745,PKFCGPHH_00637
+group_481,,Type II NADH:quinone oxidoreductase,BDMKMOGB_01247,IAAMHMBP_00750,PKFCGPHH_00632
+bmr3,bmr3,Multidrug resistance protein 3,BDMKMOGB_01122,IAAMHMBP_00743,PKFCGPHH_00639
+cydC,cydC,Glutathione/L-cysteine transport system ATP-binding/permease protein CydC,BDMKMOGB_01244,IAAMHMBP_00747,PKFCGPHH_00635
+menA,menA,14-dihydroxy-2-naphthoate octaprenyltransferase,BDMKMOGB_01246,IAAMHMBP_00749,PKFCGPHH_00633
+cydD,cydD,Glutathione/L-cysteine transport system ATP-binding/permease protein CydD,BDMKMOGB_01119,IAAMHMBP_00746,PKFCGPHH_00636
+metK,metK,S-adenosylmethionine synthase,BDMKMOGB_01123,IAAMHMBP_00742,PKFCGPHH_00640
+cladc,cla-dc,CLA biosynthesis isomerase,BDMKMOGB_01107,IAAMHMBP_00288,PKFCGPHH_00703
+dtpT,dtpT,Di-/tripeptide transporter,BDMKMOGB_01109,IAAMHMBP_00290,PKFCGPHH_00705
+group_476,,Macro domain-containing protein,BDMKMOGB_01110,IAAMHMBP_00067,PKFCGPHH_00706
+iolU,iolU,scyllo-inositol 2-dehydrogenase (NADP(+)) IolU,BDMKMOGB_01104,IAAMHMBP_00285,PKFCGPHH_00700
+mmgB,mmgB,putative 3-hydroxybutyryl-CoA dehydrogenase,BDMKMOGB_01108,IAAMHMBP_00289,PKFCGPHH_00704
+claer,cla-er,CLA biosynthesis enone reductase,BDMKMOGB_01106,IAAMHMBP_00287,PKFCGPHH_00702
+guaA_2,guaA_2,GMP synthase [glutamine-hydrolyzing],BDMKMOGB_01105,IAAMHMBP_00286,PKFCGPHH_00701
+murQ,murQ,N-acetylmuramic acid 6-phosphate etherase,BDMKMOGB_01103,IAAMHMBP_00284,PKFCGPHH_00699
+group_472,,hypothetical protein,BDMKMOGB_01102,IAAMHMBP_01180,PKFCGPHH_01279
+group_471,,hypothetical protein,BDMKMOGB_01069,IAAMHMBP_01148,PKFCGPHH_00616
+group_470,,hypothetical protein,BDMKMOGB_01061,IAAMHMBP_01140,PKFCGPHH_00624
+pspA,pspA,Phosphoserine phosphatase 1,BDMKMOGB_01056,IAAMHMBP_01135,PKFCGPHH_00629
+iscS_2,iscS_2,Cysteine desulfurase IscS,BDMKMOGB_01093,IAAMHMBP_01172,PKFCGPHH_00675
+iscS_1,iscS_1,Cysteine desulfurase IscS,BDMKMOGB_01062,IAAMHMBP_01141,PKFCGPHH_00623
+coaD,coaD,Phosphopantetheine adenylyltransferase,BDMKMOGB_01046,IAAMHMBP_01125,PKFCGPHH_01103
+recD2,recD2,ATP-dependent RecD2 DNA helicase,BDMKMOGB_01054,IAAMHMBP_01133,PKFCGPHH_01095
+ylbL,ylbL,putative protein YlbL,BDMKMOGB_01045,IAAMHMBP_01124,PKFCGPHH_01104
+rarA,rarA,Replication-associated recombination protein A,BDMKMOGB_01097,IAAMHMBP_01176,PKFCGPHH_00671
+group_469,,Phosphorylated carbohydrates phosphatase,BDMKMOGB_01088,IAAMHMBP_01167,PKFCGPHH_00680
+ftsW,ftsW,putative peptidoglycan glycosyltransferase FtsW,BDMKMOGB_01049,IAAMHMBP_01128,PKFCGPHH_01100
+group_468,,hypothetical protein,BDMKMOGB_01064,IAAMHMBP_01143,PKFCGPHH_00621
+mraZ,mraZ,Transcriptional regulator MraZ,BDMKMOGB_01081,IAAMHMBP_01160,PKFCGPHH_00687
+ftsZ,ftsZ,Cell division protein FtsZ,BDMKMOGB_01072,IAAMHMBP_01151,PKFCGPHH_00613
+divIB,divIB,Cell division protein DivIB,BDMKMOGB_01074,IAAMHMBP_01153,PKFCGPHH_00611
+group_467,,hypothetical protein,BDMKMOGB_01070,IAAMHMBP_01149,PKFCGPHH_00615
+group_466,,hypothetical protein,BDMKMOGB_01099;BDMKMOGB_01100,IAAMHMBP_01178,PKFCGPHH_01282;PKFCGPHH_01281
+mreC,mreC,Cell shape-determining protein MreC,BDMKMOGB_01085,IAAMHMBP_01164,PKFCGPHH_00683
+mtnN,mtnN,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,BDMKMOGB_01063,IAAMHMBP_01142,PKFCGPHH_00622
+group_465,,Putative universal stress protein,BDMKMOGB_01098,IAAMHMBP_01177,PKFCGPHH_01283
+murD,murD,UDP-N-acetylmuramoylalanine--D-glutamate ligase,BDMKMOGB_01076,IAAMHMBP_01155,PKFCGPHH_00609
+ftsA,ftsA,Cell division protein FtsA,BDMKMOGB_01073,IAAMHMBP_01152,PKFCGPHH_00612
+rpsD,rpsD,Small ribosomal subunit protein uS4,BDMKMOGB_01095,IAAMHMBP_01174,PKFCGPHH_00673
+thiI,thiI,putative tRNA sulfurtransferase,BDMKMOGB_01092,IAAMHMBP_01171,PKFCGPHH_00676
+group_464,,hypothetical protein,BDMKMOGB_01083,IAAMHMBP_01162,PKFCGPHH_00685
+ftsL,ftsL,Cell division protein FtsL,BDMKMOGB_01079,IAAMHMBP_01158,PKFCGPHH_00689
+cspA,cspA,Cold shock-like protein CspA,BDMKMOGB_01066,IAAMHMBP_01145,PKFCGPHH_00619
+rnj1,rnj1,Ribonuclease J 1,BDMKMOGB_01053,IAAMHMBP_01132,PKFCGPHH_01096
+rsmH,rsmH,Ribosomal RNA small subunit methyltransferase H,BDMKMOGB_01080,IAAMHMBP_01159,PKFCGPHH_00688
+rpoY,rpoY,DNA-directed RNA polymerase subunit epsilon,BDMKMOGB_01052,IAAMHMBP_01131,PKFCGPHH_01097
+rsuA,rsuA,Ribosomal small subunit pseudouridine synthase A,BDMKMOGB_01091,IAAMHMBP_01170,PKFCGPHH_00677
+group_463,,hypothetical protein,BDMKMOGB_01087,IAAMHMBP_01166,PKFCGPHH_00681
+mraY,mraY,Phospho-N-acetylmuramoyl-pentapeptide-transferase,BDMKMOGB_01077,IAAMHMBP_01156,PKFCGPHH_00608
+ezrA,ezrA,Septation ring formation regulator EzrA,BDMKMOGB_01094,IAAMHMBP_01173,PKFCGPHH_00674
+group_462,,hypothetical protein,BDMKMOGB_01059,IAAMHMBP_01138,PKFCGPHH_00626
+group_461,,hypothetical protein,BDMKMOGB_01084,IAAMHMBP_01163,PKFCGPHH_00684
+fpgS,fpgS,Folylpolyglutamate synthase,BDMKMOGB_01089,IAAMHMBP_01168,PKFCGPHH_00679
+sepF,sepF,Cell division protein SepF,BDMKMOGB_01071,IAAMHMBP_01150,PKFCGPHH_00614
+murG,murG,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,BDMKMOGB_01075,IAAMHMBP_01154,PKFCGPHH_00610
+valS,valS,Valine--tRNA ligase,BDMKMOGB_01090,IAAMHMBP_01169,PKFCGPHH_00678
+group_460,,hypothetical protein,BDMKMOGB_01055,IAAMHMBP_01134,PKFCGPHH_00630
+rsmD,rsmD,Ribosomal RNA small subunit methyltransferase D,BDMKMOGB_01047,IAAMHMBP_01126,PKFCGPHH_01102
+group_459,,hypothetical protein;(R)-mandelonitrile lyase,BDMKMOGB_01058,IAAMHMBP_01137,PKFCGPHH_00627
+group_458,,hypothetical protein,BDMKMOGB_01096,IAAMHMBP_01175,PKFCGPHH_00672
+def2,def2,Peptide deformylase 2,BDMKMOGB_01051,IAAMHMBP_01130,PKFCGPHH_01098
+cynR,cynR,HTH-type transcriptional regulator CynR,BDMKMOGB_01057,IAAMHMBP_01136,PKFCGPHH_00628
+ileS,ileS,isoleucine--tRNA ligase IleS,BDMKMOGB_01067,IAAMHMBP_01146,PKFCGPHH_00618
+group_457,,hypothetical protein,BDMKMOGB_01101,IAAMHMBP_01179,PKFCGPHH_01280
+mnmA,mnmA,tRNA-specific 2-thiouridylase MnmA,BDMKMOGB_01060,IAAMHMBP_01139,PKFCGPHH_00625
+pbpB,pbpB,Penicillin-binding protein 2B,BDMKMOGB_01078,IAAMHMBP_01157,PKFCGPHH_00607
+comEA,comEA,ComE operon protein 1,BDMKMOGB_01044,IAAMHMBP_01123,PKFCGPHH_01105
+group_456,,hypothetical protein,BDMKMOGB_01082,IAAMHMBP_01161,PKFCGPHH_00686
+bipA,bipA,Large ribosomal subunit assembly factor BipA,BDMKMOGB_01050,IAAMHMBP_01129,PKFCGPHH_01099
+gpsB_2,gpsB_2,Cell cycle adapter protein GpsB,BDMKMOGB_01068,IAAMHMBP_01147,PKFCGPHH_00617
+nudF,nudF,ADP-ribose pyrophosphatase,BDMKMOGB_01065,IAAMHMBP_01144,PKFCGPHH_00620
+group_455,,hypothetical protein,BDMKMOGB_01048,IAAMHMBP_01127,PKFCGPHH_01101
+mreB,mreB,Cell shape-determining protein MreB,BDMKMOGB_01086,IAAMHMBP_01165,PKFCGPHH_00682
+group_454,,hypothetical protein,BDMKMOGB_01043,IAAMHMBP_00362,PKFCGPHH_01163
+murJ_1,murJ_1,lipid II flippase MurJ,BDMKMOGB_01039,IAAMHMBP_00366,PKFCGPHH_01159
+glf,glf,UDP-galactopyranose mutase,BDMKMOGB_01042,IAAMHMBP_00363,PKFCGPHH_01162
+group_453,,hypothetical protein,BDMKMOGB_01037,IAAMHMBP_00368,PKFCGPHH_01157
+group_452,,hypothetical protein,BDMKMOGB_01040,IAAMHMBP_00365,PKFCGPHH_01160
+group_451,,hypothetical protein,BDMKMOGB_01038,IAAMHMBP_00367,PKFCGPHH_01158
+group_450,,hypothetical protein,BDMKMOGB_01041,IAAMHMBP_00364,PKFCGPHH_01161
+group_449,,hypothetical protein,BDMKMOGB_01030,IAAMHMBP_01441,PKFCGPHH_01444
+xerC_4,xerC_4,Tyrosine recombinase XerC,BDMKMOGB_01031,IAAMHMBP_01442,PKFCGPHH_01445
+rbsD,rbsD,D-ribose pyranase,BDMKMOGB_01028,IAAMHMBP_00390,PKFCGPHH_00985
+rbsK,rbsK,Ribokinase,BDMKMOGB_01029,IAAMHMBP_00389,PKFCGPHH_00986
+rbsA,rbsA,Ribose import ATP-binding protein RbsA,BDMKMOGB_01027,IAAMHMBP_00391,PKFCGPHH_00984
+rbsC,rbsC,Ribose import permease protein RbsC,BDMKMOGB_01026,IAAMHMBP_00392,PKFCGPHH_00983
+rbsB_1~~~rbsB_2,rbsB_1;;rbsB_2,Ribose import binding protein RbsB;hypothetical protein,BDMKMOGB_01025,IAAMHMBP_00393;IAAMHMBP_00394,PKFCGPHH_00982
+group_444,licC_3,Lichenan permease IIC component,BDMKMOGB_01022,IAAMHMBP_01476,PKFCGPHH_01368
+bglC,bglC,Aryl-phospho-beta-D-glucosidase BglC,BDMKMOGB_01023,IAAMHMBP_01477,PKFCGPHH_01367
+gmuR_1,gmuR_1,HTH-type transcriptional regulator GmuR,BDMKMOGB_01024,IAAMHMBP_01478,PKFCGPHH_01366
+group_443,,hypothetical protein,BDMKMOGB_00973,IAAMHMBP_00854,PKFCGPHH_01111
+group_442,,hypothetical protein,BDMKMOGB_00971,IAAMHMBP_00852,PKFCGPHH_01113
+group_441,,hypothetical protein,BDMKMOGB_00977,IAAMHMBP_00858,PKFCGPHH_01107
+group_440,,hypothetical protein,BDMKMOGB_00969,IAAMHMBP_00850,PKFCGPHH_01115
+group_439,,hypothetical protein,BDMKMOGB_00972,IAAMHMBP_00853,PKFCGPHH_01112
+lctD_2,lctD_2,Lactate dehydrogenase (NAD(+)ferredoxin) subunit LctD,BDMKMOGB_00975,IAAMHMBP_00856,PKFCGPHH_01109
+mepA_2,mepA_2,Multidrug export protein MepA,BDMKMOGB_00968,IAAMHMBP_00849,PKFCGPHH_01116
+uvrA_2,uvrA_2,UvrABC system protein A,BDMKMOGB_00976,IAAMHMBP_00857,PKFCGPHH_01108
+group_438,,hypothetical protein,BDMKMOGB_00974,IAAMHMBP_00855,PKFCGPHH_01110
+group_437,,hypothetical protein,BDMKMOGB_00970,IAAMHMBP_00851,PKFCGPHH_01114
+mepA_1,mepA_1,Multidrug export protein MepA,BDMKMOGB_00967,IAAMHMBP_00848,PKFCGPHH_01117
+group_436,,hypothetical protein,BDMKMOGB_00978,IAAMHMBP_00859,PKFCGPHH_01106
+ponA,ponA,Penicillin-binding protein 1A,BDMKMOGB_00943,IAAMHMBP_00678,PKFCGPHH_01086
+coaBC,coaBC,Coenzyme A biosynthesis bifunctional protein CoaBC,BDMKMOGB_00949,IAAMHMBP_00684,PKFCGPHH_01080
+gpsB_1,gpsB_1,Cell cycle protein GpsB,BDMKMOGB_00946,IAAMHMBP_00681,PKFCGPHH_01083
+group_435,,hypothetical protein,BDMKMOGB_00950,IAAMHMBP_00685,PKFCGPHH_01079
+group_434,,hypothetical protein,BDMKMOGB_00953,IAAMHMBP_00687,PKFCGPHH_01077
+recU,recU,Holliday junction resolvase RecU,BDMKMOGB_00944,IAAMHMBP_00679,PKFCGPHH_01085
+ypsC,ypsC,Putative RNA methyltransferase YpsC,BDMKMOGB_00947,IAAMHMBP_00682,PKFCGPHH_01082
+group_433,,hypothetical protein,BDMKMOGB_00951;BDMKMOGB_00952,IAAMHMBP_00686,PKFCGPHH_01078
+cpdA,cpdA,3'5'-cyclic adenosine monophosphate phosphodiesterase CpdA,BDMKMOGB_00948,IAAMHMBP_00683,PKFCGPHH_01081
+group_432,,hypothetical protein,BDMKMOGB_00945,IAAMHMBP_00680,PKFCGPHH_01084
+group_431,,hypothetical protein,BDMKMOGB_00933,IAAMHMBP_00058,PKFCGPHH_00972
+tmcAL,tmcAL,tRNA(Met) cytidine acetate ligase,BDMKMOGB_00909,IAAMHMBP_00035,PKFCGPHH_01616
+thrS,thrS,Threonine--tRNA ligase,BDMKMOGB_00898,IAAMHMBP_00025,PKFCGPHH_01605
+murC,murC,UDP-N-acetylmuramate--L-alanine ligase,BDMKMOGB_00890,IAAMHMBP_00017,PKFCGPHH_01597
+mutM,mutM,Formamidopyrimidine-DNA glycosylase,BDMKMOGB_00892,IAAMHMBP_00019,PKFCGPHH_01599
+pepO_1,pepO_1,Neutral endopeptidase,BDMKMOGB_00897,IAAMHMBP_00024,PKFCGPHH_01604
+rsfS,rsfS,Ribosomal silencing factor RsfS,BDMKMOGB_00908,IAAMHMBP_00034,PKFCGPHH_01615
+yodB,yodB,HTH-type transcriptional regulator YodB,BDMKMOGB_00922,IAAMHMBP_00047,PKFCGPHH_01628
+group_430,,Alpha-monoglucosyldiacylglycerol synthase,BDMKMOGB_00886,IAAMHMBP_00013,PKFCGPHH_01593
+group_429,,hypothetical protein,BDMKMOGB_00888,IAAMHMBP_00015,PKFCGPHH_01595
+dnaI,dnaI,Replicative helicase loader DnaI,BDMKMOGB_00896,IAAMHMBP_00023,PKFCGPHH_01603
+yhhS,yhhS,putative MFS-type transporter YhhS,BDMKMOGB_00941,IAAMHMBP_00065,PKFCGPHH_00980
+deoD,deoD,Purine nucleoside phosphorylase DeoD-type,BDMKMOGB_00938,IAAMHMBP_00062,PKFCGPHH_00977
+group_428,,hypothetical protein,BDMKMOGB_00942,IAAMHMBP_00066,PKFCGPHH_00981
+glnA,glnA,Glutamine synthetase,BDMKMOGB_00937,IAAMHMBP_00061,PKFCGPHH_00976
+miaA,miaA,tRNA dimethylallyltransferase,BDMKMOGB_00934,IAAMHMBP_00059,PKFCGPHH_00973
+smc_3,;smc_3,hypothetical protein;Chromosome partition protein Smc,BDMKMOGB_00875,IAAMHMBP_00002,PKFCGPHH_01582;PKFCGPHH_01581
+ltaS1,ltaS1,Lipoteichoic acid synthase 1,BDMKMOGB_00889,IAAMHMBP_00016,PKFCGPHH_01596
+rplT,rplT,Large ribosomal subunit protein bL20,BDMKMOGB_00901,IAAMHMBP_00028,PKFCGPHH_01608
+dnaB_2,dnaB_2,Replicative helicase loading/DNA remodeling protein DnaB,BDMKMOGB_00895,IAAMHMBP_00022,PKFCGPHH_01602
+yccX,yccX,Acylphosphatase,BDMKMOGB_00920,IAAMHMBP_00045,PKFCGPHH_01626
+rpmI,rpmI,Large ribosomal subunit protein bL35,BDMKMOGB_00900,IAAMHMBP_00027,PKFCGPHH_01607
+penA~~~pbpA,penA;pbpA,Penicillin-binding protein 2B;Penicillin-binding protein 2A,BDMKMOGB_00927,IAAMHMBP_00052,PKFCGPHH_00966
+sasA_2,sasA_2,Adaptive-response sensory-kinase SasA,BDMKMOGB_00912,IAAMHMBP_00038,PKFCGPHH_01619
+cpoA,cpoA,Alpha-galactosylglucosyldiacylglycerol synthase,BDMKMOGB_00887,IAAMHMBP_00014,PKFCGPHH_01594
+group_427,,hypothetical protein,BDMKMOGB_00940,IAAMHMBP_00064,PKFCGPHH_00979
+rlmP,rlmP,23S rRNA (guanosine(2553)-2'-O)-methyltransferase RlmP,BDMKMOGB_00921,IAAMHMBP_00046,PKFCGPHH_01627
+yqgQ,yqgQ,putative protein YqgQ,BDMKMOGB_00931,IAAMHMBP_00056,PKFCGPHH_00970
+desR,desR,Transcriptional regulatory protein DesR,BDMKMOGB_00916,IAAMHMBP_00042,PKFCGPHH_01623
+pheS,pheS,Phenylalanine--tRNA ligase alpha subunit,BDMKMOGB_00923,IAAMHMBP_00048,PKFCGPHH_01629
+ytlR,ytlR,Putative lipid kinase YtlR,BDMKMOGB_00874,IAAMHMBP_00001,PKFCGPHH_01580
+gluP,gluP,Rhomboid protease GluP,BDMKMOGB_00930,IAAMHMBP_00055,PKFCGPHH_00969
+group_426,,Bis(5'-nucleosyl)-tetraphosphatase symmetrical,BDMKMOGB_00907,IAAMHMBP_00033,PKFCGPHH_01614
+bmpA_4,bmpA_4,ABC transporter nucleoside-binding protein BmpA,BDMKMOGB_00939,IAAMHMBP_00063,PKFCGPHH_00978
+coaE,coaE,Dephospho-CoA kinase,BDMKMOGB_00893,IAAMHMBP_00020,PKFCGPHH_01600
+group_425,,Phosphoserine phosphatase,BDMKMOGB_00904,IAAMHMBP_00030,PKFCGPHH_01611
+adhE,adhE,Aldehyde-alcohol dehydrogenase,BDMKMOGB_00903,IAAMHMBP_00029,PKFCGPHH_01610
+pheT_2,pheT_2,Phenylalanine--tRNA ligase beta subunit,BDMKMOGB_00924,IAAMHMBP_00049,PKFCGPHH_01630
+glcU,;glcU,hypothetical protein;Glucose uptake protein GlcU,BDMKMOGB_00917;BDMKMOGB_00918,IAAMHMBP_00043,PKFCGPHH_01624
+uup_2,uup_2,ATP-binding protein Uup,BDMKMOGB_00913,IAAMHMBP_00039,PKFCGPHH_01620
+desK,desK,Sensor histidine kinase DesK,BDMKMOGB_00915,IAAMHMBP_00041,PKFCGPHH_01622
+yqeH,yqeH,putative protein YqeH,BDMKMOGB_00905,IAAMHMBP_00031,PKFCGPHH_01612
+nadD,nadD,Nicotinate-nucleotide adenylyltransferase,BDMKMOGB_00906,IAAMHMBP_00032,PKFCGPHH_01613
+group_424,,hypothetical protein,BDMKMOGB_00926,IAAMHMBP_00051,PKFCGPHH_01632
+group_423,,hypothetical protein,BDMKMOGB_00910,IAAMHMBP_00036,PKFCGPHH_01617
+rpmGA_2,rpmGA_2,Large ribosomal subunit protein bL33A,BDMKMOGB_00928,IAAMHMBP_00053,PKFCGPHH_00967
+misCB,misCB,Membrane protein insertase MisCB,BDMKMOGB_00919,IAAMHMBP_00044,PKFCGPHH_01625
+polA,polA,DNA polymerase I,BDMKMOGB_00891,IAAMHMBP_00018,PKFCGPHH_01598
+nrdR,nrdR,Transcriptional repressor NrdR,BDMKMOGB_00894,IAAMHMBP_00021,PKFCGPHH_01601
+group_422,,hypothetical protein,BDMKMOGB_00935;BDMKMOGB_00936,IAAMHMBP_00060,PKFCGPHH_00975;PKFCGPHH_00974
+arlR,arlR,Response regulator ArlR,BDMKMOGB_00911,IAAMHMBP_00037,PKFCGPHH_01618
+yqgN,yqgN,putative protein YqgN,BDMKMOGB_00929,IAAMHMBP_00054,PKFCGPHH_00968
+greA_2,greA_2,Transcription elongation factor GreA,BDMKMOGB_00925,IAAMHMBP_00050,PKFCGPHH_01631
+infC,infC,Translation initiation factor IF-3,BDMKMOGB_00899,IAAMHMBP_00026,PKFCGPHH_01606
+glpE,glpE,Thiosulfate sulfurtransferase GlpE,BDMKMOGB_00932,IAAMHMBP_00057,PKFCGPHH_00971
+group_420,,hypothetical protein,BDMKMOGB_00914,IAAMHMBP_00040,PKFCGPHH_01621
+group_419,,hypothetical protein,BDMKMOGB_00835,IAAMHMBP_00319,PKFCGPHH_00890
+group_418,,hypothetical protein,BDMKMOGB_00830,IAAMHMBP_00314,PKFCGPHH_00885
+gabD1,gabD1,Succinate-semialdehyde dehydrogenase [NADP(+)] 1,BDMKMOGB_00836,IAAMHMBP_00320,PKFCGPHH_00891
+group_417,,hypothetical protein,BDMKMOGB_01347,IAAMHMBP_00325,PKFCGPHH_00896
+group_416,,hypothetical protein,BDMKMOGB_00838,IAAMHMBP_00322,PKFCGPHH_00893
+group_415,,hypothetical protein,BDMKMOGB_01348,IAAMHMBP_00324,PKFCGPHH_00895
+group_414,,hypothetical protein,BDMKMOGB_00834,IAAMHMBP_00318,PKFCGPHH_00889
+ntd_1,ntd_1,Nucleoside deoxyribosyltransferase,BDMKMOGB_00837,IAAMHMBP_00321,PKFCGPHH_00892
+group_413,,hypothetical protein,BDMKMOGB_00839,IAAMHMBP_00323,PKFCGPHH_00894
+murK,murK,N-acetylmuramic acid/N-acetylglucosamine kinase,BDMKMOGB_00831,IAAMHMBP_00315,PKFCGPHH_00886
+serS,serS,Serine--tRNA ligase,BDMKMOGB_01346,IAAMHMBP_00326,PKFCGPHH_00897
+group_412,,hypothetical protein,BDMKMOGB_00833,IAAMHMBP_00317,PKFCGPHH_00888
+group_411,,hypothetical protein,BDMKMOGB_00832,IAAMHMBP_00316,PKFCGPHH_00887
+yajL,yajL,Protein/nucleic acid deglycase 3,BDMKMOGB_00814,IAAMHMBP_00692,PKFCGPHH_00561
+gltX,gltX,Glutamate--tRNA ligase,BDMKMOGB_00801,IAAMHMBP_00704,PKFCGPHH_00572
+arnC_1,arnC_1,Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase,BDMKMOGB_00957,IAAMHMBP_00714,PKFCGPHH_00582
+yfcA,yfcA,putative membrane transporter protein YfcA,BDMKMOGB_00813,IAAMHMBP_00693,PKFCGPHH_00562
+group_410,pbuE_1,Purine efflux pump PbuE,BDMKMOGB_00815,IAAMHMBP_00691,PKFCGPHH_00560
+group_409,,Putative TrmH family tRNA/rRNA methyltransferase,BDMKMOGB_00964,IAAMHMBP_00707,PKFCGPHH_00575
+bglK_2,bglK_2,Beta-glucoside kinase,BDMKMOGB_00956,IAAMHMBP_00715,PKFCGPHH_00583
+rplJ,rplJ,Large ribosomal subunit protein uL10,BDMKMOGB_00955,IAAMHMBP_00716,PKFCGPHH_00584
+rplK,rplK,Large ribosomal subunit protein uL11,BDMKMOGB_00959,IAAMHMBP_00712,PKFCGPHH_00580
+gpmA_2,gpmA_2,23-bisphosphoglycerate-dependent phosphoglycerate mutase,BDMKMOGB_00808,IAAMHMBP_00697,PKFCGPHH_00566
+czcD~~~zitB,czcD;zitB,Cadmium cobalt and zinc/H(+)-K(+) antiporter;Zinc transporter ZitB,BDMKMOGB_00810;BDMKMOGB_00811,IAAMHMBP_00695,PKFCGPHH_00564
+gpmA_3,gpmA_3,23-bisphosphoglycerate-dependent phosphoglycerate mutase,BDMKMOGB_00812,IAAMHMBP_00694,PKFCGPHH_00563
+rplL,rplL,Large ribosomal subunit protein bL12,BDMKMOGB_00954,IAAMHMBP_00717,PKFCGPHH_00585
+pbuE_1,pbuE_1,Purine efflux pump PbuE,BDMKMOGB_00817,IAAMHMBP_00689,PKFCGPHH_00558
+group_408,,hypothetical protein,BDMKMOGB_00807,IAAMHMBP_00698,PKFCGPHH_00567
+pepC,pepC;,Aminopeptidase C;hypothetical protein,BDMKMOGB_00805;BDMKMOGB_00806,IAAMHMBP_00699;IAAMHMBP_00700,PKFCGPHH_00568
+group_407,,hypothetical protein,BDMKMOGB_00804,IAAMHMBP_00701,PKFCGPHH_00569
+rplA,rplA,Large ribosomal subunit protein uL1,BDMKMOGB_00958,IAAMHMBP_00713,PKFCGPHH_00581
+radA,radA,DNA repair protein RadA,BDMKMOGB_00802,IAAMHMBP_00703,PKFCGPHH_00571
+group_406,,hypothetical protein,BDMKMOGB_00962,IAAMHMBP_00709,PKFCGPHH_00577
+mrnC,mrnC,Mini-ribonuclease 3,BDMKMOGB_00965,IAAMHMBP_00706,PKFCGPHH_00574
+sotB,sotB,sugar efflux transporter,BDMKMOGB_00818,IAAMHMBP_00688,PKFCGPHH_00557
+group_405,,hypothetical protein,BDMKMOGB_00816,IAAMHMBP_00690,PKFCGPHH_00559
+dut,dut,Deoxyuridine 5'-triphosphate nucleotidohydrolase,BDMKMOGB_00803,IAAMHMBP_00702,PKFCGPHH_00570
+cysS,cysS,Cysteine--tRNA ligase,BDMKMOGB_00966,IAAMHMBP_00705,PKFCGPHH_00573
+group_404,,hypothetical protein,BDMKMOGB_00963,IAAMHMBP_00708,PKFCGPHH_00576
+nusG,nusG,Transcription termination/antitermination protein NusG,BDMKMOGB_00960,IAAMHMBP_00711,PKFCGPHH_00579
+group_403,,hypothetical protein,BDMKMOGB_00809,IAAMHMBP_00696,PKFCGPHH_00565
+secE,secE,Protein translocase subunit SecE,BDMKMOGB_00961,IAAMHMBP_00710,PKFCGPHH_00578
+group_402,,hypothetical protein,BDMKMOGB_00781,IAAMHMBP_00791,PKFCGPHH_00324
+steT_1,steT_1,Serine/threonine exchanger SteT,BDMKMOGB_00779,IAAMHMBP_00793,PKFCGPHH_00322
+group_401,,hypothetical protein,BDMKMOGB_00777,IAAMHMBP_00795,PKFCGPHH_00320
+yabA,yabA,Replication initiation control protein YabA,BDMKMOGB_01002,IAAMHMBP_01037,PKFCGPHH_00310
+recR,recR,Recombination protein RecR,BDMKMOGB_00997,IAAMHMBP_01042,PKFCGPHH_00305
+rsmC,rsmC,Ribosomal RNA small subunit methyltransferase C,BDMKMOGB_00993,IAAMHMBP_01046,PKFCGPHH_00301
+group_400,,hypothetical protein,BDMKMOGB_01001,IAAMHMBP_01038,PKFCGPHH_00309
+tsaD,tsaD,tRNA N6-adenosine threonylcarbamoyltransferase,BDMKMOGB_00774,IAAMHMBP_00798,PKFCGPHH_00317
+ywnA_2,ywnA_2,Putative HTH-type transcriptional regulator YwnA,BDMKMOGB_00776,IAAMHMBP_00796,PKFCGPHH_00319
+rsmI,rsmI,Ribosomal RNA small subunit methyltransferase I,BDMKMOGB_01003,IAAMHMBP_01036,PKFCGPHH_00311
+group_399,,hypothetical protein,BDMKMOGB_00778,IAAMHMBP_00794,PKFCGPHH_00321
+tadA_2,tadA_2,tRNA-specific adenosine deaminase,BDMKMOGB_00994,IAAMHMBP_01045,PKFCGPHH_00302
+group_398,,hypothetical protein,BDMKMOGB_00770,IAAMHMBP_01034,PKFCGPHH_00313
+group_397,,hypothetical protein,BDMKMOGB_00775,IAAMHMBP_00797,PKFCGPHH_00318
+group_396,,hypothetical protein,BDMKMOGB_00782,IAAMHMBP_00790,PKFCGPHH_00325
+folT,folT,Folate transporter FolT,BDMKMOGB_00771,IAAMHMBP_00801,PKFCGPHH_00314
+group_394,,hypothetical protein,BDMKMOGB_00991,IAAMHMBP_01201,PKFCGPHH_00299
+dnaX,dnaX,DNA polymerase III subunit tau,BDMKMOGB_00995,IAAMHMBP_01044,PKFCGPHH_00303
+group_393,,hypothetical protein,BDMKMOGB_00998,IAAMHMBP_01041,PKFCGPHH_00306
+darA,darA,Cyclic di-AMP receptor A,BDMKMOGB_01000,IAAMHMBP_01039,PKFCGPHH_00308
+rimI,rimI,[Ribosomal protein bS18]-alanine N-acetyltransferase,BDMKMOGB_00773,IAAMHMBP_00799,PKFCGPHH_00316
+group_392,,hypothetical protein,BDMKMOGB_00780,IAAMHMBP_00792,PKFCGPHH_00323
+tmk_2,tmk_2,Thymidylate kinase,BDMKMOGB_00999,IAAMHMBP_01040,PKFCGPHH_00307
+group_391,,hypothetical protein,BDMKMOGB_00992,IAAMHMBP_01202,PKFCGPHH_00300
+group_390,,hypothetical protein,BDMKMOGB_01004,IAAMHMBP_01035,PKFCGPHH_00312
+tsaB,tsaB,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,BDMKMOGB_00772,IAAMHMBP_00800,PKFCGPHH_00315
+ybaB,ybaB,Nucleoid-associated protein YbaB,BDMKMOGB_00996,IAAMHMBP_01043,PKFCGPHH_00304
+guaB_1~~~guaB_2~~~guaB,guaB_1;guaB_2;guaB,Inosine-5'-monophosphate dehydrogenase,BDMKMOGB_00752;BDMKMOGB_00751,IAAMHMBP_01016,PKFCGPHH_01130
+group_389,,hypothetical protein,BDMKMOGB_00767,IAAMHMBP_01031,PKFCGPHH_01297
+group_388,,IS3 family transposase ISL6,BDMKMOGB_00765,IAAMHMBP_01029,PKFCGPHH_01295
+tcyB,tcyB,L-cystine transport system permease protein TcyB,BDMKMOGB_00762,IAAMHMBP_01026,PKFCGPHH_01458
+yjeM_1,yjeM_1,Inner membrane transporter YjeM,BDMKMOGB_00754,IAAMHMBP_01018,PKFCGPHH_01132
+group_387,,hypothetical protein,BDMKMOGB_00764,IAAMHMBP_01028,PKFCGPHH_01294
+macB~~~syfD,macB;syfD,Macrolide export ATP-binding/permease protein MacB;putative syringafactin export ATP-binding/permease protein SyfD,BDMKMOGB_00758,IAAMHMBP_01022,PKFCGPHH_01136
+tcyJ,tcyJ,L-cystine-binding protein TcyJ,BDMKMOGB_00760,IAAMHMBP_01024,PKFCGPHH_01456
+group_386,,putative amino-acid ABC transporter-binding protein,BDMKMOGB_00761,IAAMHMBP_01025,PKFCGPHH_01457
+group_385,,hypothetical protein,BDMKMOGB_00759,IAAMHMBP_01023,PKFCGPHH_01577
+ygcS_1,ygcS_1,Inner membrane metabolite transport protein YgcS,BDMKMOGB_00756,IAAMHMBP_01020,PKFCGPHH_01134
+pucI,pucI,Allantoin permease,BDMKMOGB_00753,IAAMHMBP_01017,PKFCGPHH_01131
+paiA,paiA,Spermidine/spermine N(1)-acetyltransferase,BDMKMOGB_00768,IAAMHMBP_01032,PKFCGPHH_01298
+group_384,,hypothetical protein,BDMKMOGB_00769,IAAMHMBP_01033,PKFCGPHH_01299
+group_383,,hypothetical protein,BDMKMOGB_00766,IAAMHMBP_01030,PKFCGPHH_01296
+tcyN,tcyN,L-cystine transport system ATP-binding protein TcyN,BDMKMOGB_00763,IAAMHMBP_01027,PKFCGPHH_01293
+ykoE,ykoE,Putative HMP/thiamine permease protein YkoE,BDMKMOGB_00755,IAAMHMBP_01019,PKFCGPHH_01133
+ygcS_2,ygcS_2,Inner membrane metabolite transport protein YgcS,BDMKMOGB_00757,IAAMHMBP_01021,PKFCGPHH_01135
+group_382,,hypothetical protein,BDMKMOGB_00711,IAAMHMBP_01394,PKFCGPHH_00069
+group_381,,hypothetical protein,BDMKMOGB_00688,IAAMHMBP_01371,PKFCGPHH_00147
+group_380,,hypothetical protein,BDMKMOGB_00719,IAAMHMBP_01402,PKFCGPHH_00061
+group_379,,hypothetical protein,BDMKMOGB_00714,IAAMHMBP_01397,PKFCGPHH_00066
+rplM,rplM,Large ribosomal subunit protein uL13,BDMKMOGB_00634,IAAMHMBP_01317,PKFCGPHH_00093
+rplP,rplP,Large ribosomal subunit protein uL16,BDMKMOGB_00659,IAAMHMBP_01342,PKFCGPHH_00118
+rplO,rplO,Large ribosomal subunit protein uL15,BDMKMOGB_00647,IAAMHMBP_01330,PKFCGPHH_00106
+rpmJ,rpmJ,Large ribosomal subunit protein bL36,BDMKMOGB_00643,IAAMHMBP_01326,PKFCGPHH_00102
+truA,truA,tRNA pseudouridine synthase A,BDMKMOGB_00635,IAAMHMBP_01318,PKFCGPHH_00094
+group_378,,hypothetical protein,BDMKMOGB_00707,IAAMHMBP_01390,PKFCGPHH_00073
+yhaP,yhaP,putative protein YhaP,BDMKMOGB_00708,IAAMHMBP_01391,PKFCGPHH_00072
+group_377,,hypothetical protein,BDMKMOGB_00712,IAAMHMBP_01395,PKFCGPHH_00068
+tilS,tilS,tRNA(Ile)-lysidine synthase,BDMKMOGB_00695,IAAMHMBP_01378,PKFCGPHH_00085
+ecfT,ecfT,Energy-coupling factor transporter transmembrane protein EcfT,BDMKMOGB_00636,IAAMHMBP_01319,PKFCGPHH_00095
+group_376,,hypothetical protein,BDMKMOGB_00725,IAAMHMBP_01409,PKFCGPHH_00055
+murA1,murA1,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,BDMKMOGB_01149,IAAMHMBP_01414,PKFCGPHH_00050
+rpsG,rpsG,Small ribosomal subunit protein uS7,BDMKMOGB_00670,IAAMHMBP_01353,PKFCGPHH_00129
+group_375,,hypothetical protein,BDMKMOGB_00687,IAAMHMBP_01370,PKFCGPHH_00146
+secY,secY,Protein translocase subunit SecY,BDMKMOGB_00646,IAAMHMBP_01329,PKFCGPHH_00105
+group_374,,hypothetical protein,BDMKMOGB_00683,IAAMHMBP_01366,PKFCGPHH_00142
+group_373,,hypothetical protein,BDMKMOGB_00706,IAAMHMBP_01389,PKFCGPHH_00074
+group_372,,hypothetical protein,BDMKMOGB_00684,IAAMHMBP_01367,PKFCGPHH_00143
+rpsZ,rpsZ,Small ribosomal subunit protein uS14,BDMKMOGB_00653,IAAMHMBP_01336,PKFCGPHH_00112
+rpmD,rpmD,Large ribosomal subunit protein uL30,BDMKMOGB_00648,IAAMHMBP_01331,PKFCGPHH_00107
+rplB,rplB,Large ribosomal subunit protein uL2,BDMKMOGB_00663,IAAMHMBP_01346,PKFCGPHH_00122
+rpmC,rpmC,Large ribosomal subunit protein uL29,BDMKMOGB_00658,IAAMHMBP_01341,PKFCGPHH_00117
+rpsE,rpsE,Small ribosomal subunit protein uS5,BDMKMOGB_00649,IAAMHMBP_01332,PKFCGPHH_00108
+ecfA1,ecfA1,Energy-coupling factor transporter ATP-binding protein EcfA1,BDMKMOGB_00638,IAAMHMBP_01321,PKFCGPHH_00097
+murF,murF,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,BDMKMOGB_00704,IAAMHMBP_01387,PKFCGPHH_00076
+group_371,,hypothetical protein,BDMKMOGB_01153,IAAMHMBP_01418,PKFCGPHH_00046
+rpsJ,rpsJ,Small ribosomal subunit protein uS10,BDMKMOGB_00667,IAAMHMBP_01350,PKFCGPHH_00126
+ecfA2,ecfA2,Energy-coupling factor transporter ATP-binding protein EcfA2,BDMKMOGB_00637,IAAMHMBP_01320,PKFCGPHH_00096
+infA,infA,Translation initiation factor IF-1,BDMKMOGB_00644,IAAMHMBP_01327,PKFCGPHH_00103
+rplF,rplF,Large ribosomal subunit protein uL6,BDMKMOGB_00651,IAAMHMBP_01334,PKFCGPHH_00110
+rplE,rplE,Large ribosomal subunit protein uL5,BDMKMOGB_00654,IAAMHMBP_01337,PKFCGPHH_00113
+hslO,hslO,33 kDa chaperonin,BDMKMOGB_00693,IAAMHMBP_01376,PKFCGPHH_00087
+pepDA_3,pepDA_3,Dipeptidase A,BDMKMOGB_00723,IAAMHMBP_01407,PKFCGPHH_00057
+pth,pth,Peptidyl-tRNA hydrolase,BDMKMOGB_00700,IAAMHMBP_01383,PKFCGPHH_00080
+group_370,,hypothetical protein,BDMKMOGB_00676,IAAMHMBP_01359,PKFCGPHH_00135
+group_369,,hypothetical protein,BDMKMOGB_00717,IAAMHMBP_01400,PKFCGPHH_00063
+rqcP,rqcP,RQC P-site tRNA stabilizing factor,BDMKMOGB_00698,IAAMHMBP_01381,PKFCGPHH_00082
+cshA,cshA,ATP-dependent RNA helicase CshA,BDMKMOGB_00703,IAAMHMBP_01386,PKFCGPHH_00077
+btuD,btuD,Vitamin B12 import ATP-binding protein BtuD,BDMKMOGB_00709,IAAMHMBP_01392,PKFCGPHH_00071
+group_368,,hypothetical protein,BDMKMOGB_00716,IAAMHMBP_01399,PKFCGPHH_00064
+emrB,emrB,Multidrug export protein EmrB,BDMKMOGB_00715,IAAMHMBP_01398,PKFCGPHH_00065
+group_367,,hypothetical protein,BDMKMOGB_00727,IAAMHMBP_01411,PKFCGPHH_00053
+rpmE2,rpmE2,Large ribosomal subunit protein bL31B,BDMKMOGB_00705,IAAMHMBP_01388,PKFCGPHH_00075
+xpt,xpt,Xanthine phosphoribosyltransferase,BDMKMOGB_00721,IAAMHMBP_01404,PKFCGPHH_00059
+group_366,,hypothetical protein,BDMKMOGB_00682,IAAMHMBP_01365,PKFCGPHH_00141
+rpsQ,rpsQ,Small ribosomal subunit protein uS17,BDMKMOGB_00657,IAAMHMBP_01340,PKFCGPHH_00116
+lysS,lysS,Lysine--tRNA ligase,BDMKMOGB_00691,IAAMHMBP_01374,PKFCGPHH_00089
+group_365,,hypothetical protein,BDMKMOGB_00668,IAAMHMBP_01351,PKFCGPHH_00127
+bcrA_1,bcrA_1,Bacitracin transport ATP-binding protein BcrA,BDMKMOGB_00681,IAAMHMBP_01364,PKFCGPHH_00140
+guaA_1,guaA_1,GMP synthase [glutamine-hydrolyzing],BDMKMOGB_00720,IAAMHMBP_01403,PKFCGPHH_00060
+group_364,,hypothetical protein,BDMKMOGB_00686,IAAMHMBP_01369,PKFCGPHH_00145
+rpsS,rpsS,Small ribosomal subunit protein uS19,BDMKMOGB_00662,IAAMHMBP_01345,PKFCGPHH_00121
+bcrA_2,bcrA_2,Bacitracin transport ATP-binding protein BcrA,BDMKMOGB_00685,IAAMHMBP_01368,PKFCGPHH_00144
+pyrG,pyrG,CTP synthase,BDMKMOGB_01150,IAAMHMBP_01415,PKFCGPHH_00049
+yciB,yciB,Putative LD-transpeptidase YciB,BDMKMOGB_00718,IAAMHMBP_01401,PKFCGPHH_00062
+rpoA,rpoA,DNA-directed RNA polymerase subunit alpha,BDMKMOGB_00640,IAAMHMBP_01323,PKFCGPHH_00099
+rplW,rplW,Large ribosomal subunit protein uL23,BDMKMOGB_00664,IAAMHMBP_01347,PKFCGPHH_00123
+rihA_2,rihA_2,Pyrimidine-specific ribonucleoside hydrolase RihA,BDMKMOGB_00713,IAAMHMBP_01396,PKFCGPHH_00067
+rplD,rplD,Large ribosomal subunit protein uL4,BDMKMOGB_00665,IAAMHMBP_01348,PKFCGPHH_00124
+group_363,,hypothetical protein,BDMKMOGB_00724,IAAMHMBP_01408,PKFCGPHH_00056
+group_362,,hypothetical protein,BDMKMOGB_00728,IAAMHMBP_01412,PKFCGPHH_00052
+rplC,rplC,Large ribosomal subunit protein uL3,BDMKMOGB_00666,IAAMHMBP_01349,PKFCGPHH_00125
+rplX,rplX,Large ribosomal subunit protein uL24,BDMKMOGB_00655,IAAMHMBP_01338,PKFCGPHH_00114
+group_361,,hypothetical protein,BDMKMOGB_00689,IAAMHMBP_01372,PKFCGPHH_00148;PKFCGPHH_00091
+adk,adk,Adenylate kinase,BDMKMOGB_00645,IAAMHMBP_01328,PKFCGPHH_00104
+rpoE,rpoE,DNA-directed RNA polymerase subunit delta,BDMKMOGB_01151,IAAMHMBP_01416,PKFCGPHH_00048
+group_360,,hypothetical protein,BDMKMOGB_00680,IAAMHMBP_01363,PKFCGPHH_00139
+group_359,,hypothetical protein,BDMKMOGB_00696,IAAMHMBP_01379,PKFCGPHH_00084
+rpsM,rpsM,Small ribosomal subunit protein uS13,BDMKMOGB_00642,IAAMHMBP_01325,PKFCGPHH_00101
+dusB,dusB,tRNA-dihydrouridine synthase B,BDMKMOGB_00692,IAAMHMBP_01375,PKFCGPHH_00088
+rplV,rplV,Large ribosomal subunit protein uL22,BDMKMOGB_00661,IAAMHMBP_01344,PKFCGPHH_00120
+rpsC,rpsC,Small ribosomal subunit protein uS3,BDMKMOGB_00660,IAAMHMBP_01343,PKFCGPHH_00119
+fusA,fusA,elongation factor G FusA,BDMKMOGB_00669,IAAMHMBP_01352,PKFCGPHH_00128
+ftsH,ftsH,ATP-dependent zinc metalloprotease FtsH,BDMKMOGB_00694,IAAMHMBP_01377,PKFCGPHH_00086
+rplR,rplR,Large ribosomal subunit protein uL18,BDMKMOGB_00650,IAAMHMBP_01333,PKFCGPHH_00109
+group_358,,hypothetical protein,BDMKMOGB_00672,IAAMHMBP_01355,PKFCGPHH_00131
+group_357,,hypothetical protein,BDMKMOGB_00701,IAAMHMBP_01384,PKFCGPHH_00079
+group_356,,hypothetical protein,BDMKMOGB_00729,IAAMHMBP_01413,PKFCGPHH_00051
+rplN,rplN,Large ribosomal subunit protein uL14,BDMKMOGB_00656,IAAMHMBP_01339,PKFCGPHH_00115
+group_355,,hypothetical protein,BDMKMOGB_00697,IAAMHMBP_01380,PKFCGPHH_00083
+cbiO,cbiO,Cobalt import ATP-binding protein CbiO,BDMKMOGB_00726,IAAMHMBP_01410,PKFCGPHH_00054
+pucK,;pucK,hypothetical protein;Uric acid permease PucK,BDMKMOGB_00722,IAAMHMBP_01406;IAAMHMBP_01405,PKFCGPHH_00058
+group_354,,hypothetical protein,BDMKMOGB_00690,IAAMHMBP_01373,PKFCGPHH_00090
+rplQ,rplQ,Large ribosomal subunit protein bL17,BDMKMOGB_00639,IAAMHMBP_01322,PKFCGPHH_00098
+clpC,clpC,ATP-dependent Clp protease ATP-binding subunit ClpC,BDMKMOGB_00675,IAAMHMBP_01358,PKFCGPHH_00134
+group_353,,hypothetical protein,BDMKMOGB_00710,IAAMHMBP_01393,PKFCGPHH_00070
+rpsK,rpsK,Small ribosomal subunit protein uS11,BDMKMOGB_00641,IAAMHMBP_01324,PKFCGPHH_00100
+rpsI,rpsI,Small ribosomal subunit protein uS9,BDMKMOGB_00633,IAAMHMBP_01316,PKFCGPHH_00092
+alr,alr,Alanine racemase,BDMKMOGB_00702,IAAMHMBP_01385,PKFCGPHH_00078
+rpsH,rpsH,Small ribosomal subunit protein uS8,BDMKMOGB_00652,IAAMHMBP_01335,PKFCGPHH_00111
+mfd,mfd,Transcription-repair-coupling factor,BDMKMOGB_00699,IAAMHMBP_01382,PKFCGPHH_00081
+rpoB,rpoB,DNA-directed RNA polymerase subunit beta RpoB,BDMKMOGB_00674,IAAMHMBP_01357,PKFCGPHH_00133
+rpoC,rpoC,DNA-directed RNA polymerase subunit beta RpoC,BDMKMOGB_00673,IAAMHMBP_01356,PKFCGPHH_00132
+group_352,,hypothetical protein,BDMKMOGB_01152,IAAMHMBP_01417,PKFCGPHH_00047
+rpsL,rpsL,Small ribosomal subunit protein uS12,BDMKMOGB_00671,IAAMHMBP_01354,PKFCGPHH_00130
+smoH,smoH,Sulfoquinovosyl glycerol transport system permease protein SmoH,BDMKMOGB_01130,IAAMHMBP_00310,PKFCGPHH_00846
+group_351,,hypothetical protein,BDMKMOGB_00577,IAAMHMBP_00302,PKFCGPHH_00854
+group_350,,hypothetical protein,BDMKMOGB_01132,IAAMHMBP_00312,PKFCGPHH_00844
+fpaP,fpaP,Proline iminopeptidase,BDMKMOGB_00579,IAAMHMBP_00300,PKFCGPHH_00869
+bceA,bceA,Bacitracin export ATP-binding protein BceA,BDMKMOGB_00590,IAAMHMBP_01056,PKFCGPHH_00858
+group_349,,hypothetical protein,BDMKMOGB_01411,IAAMHMBP_01054,PKFCGPHH_00856
+coaA,coaA,Pantothenate kinase,BDMKMOGB_00581,IAAMHMBP_00298,PKFCGPHH_00867
+mprA,mprA,Response regulator MprA,BDMKMOGB_00583,IAAMHMBP_00296,PKFCGPHH_00865
+group_348,,hypothetical protein,BDMKMOGB_00586,IAAMHMBP_00293,PKFCGPHH_00862
+uup_1,uup_1,ATP-binding protein Uup,BDMKMOGB_00578,IAAMHMBP_00301,PKFCGPHH_00855
+group_347,,Protein ADP-ribosyltransferase,BDMKMOGB_00574,IAAMHMBP_00305,PKFCGPHH_00851
+helD,helD,DNA helicase IV,BDMKMOGB_00585,IAAMHMBP_00294,PKFCGPHH_00863
+uup_3,uup_3,ATP-binding protein Uup,BDMKMOGB_01128,IAAMHMBP_00308,PKFCGPHH_00848
+ywaC,ywaC,GTP pyrophosphokinase YwaC,BDMKMOGB_00584,IAAMHMBP_00295,PKFCGPHH_00864
+polC_3,polC_3,DNA polymerase III PolC-type,BDMKMOGB_00573,IAAMHMBP_00306,PKFCGPHH_00850
+lacF_3,lacF_3,Lactose transport system permease protein LacF,BDMKMOGB_01129,IAAMHMBP_00309,PKFCGPHH_00847
+ndkA,ndkA,Nucleoside diphosphate kinase,BDMKMOGB_00588,IAAMHMBP_00291,PKFCGPHH_00860
+group_346,,hypothetical protein,BDMKMOGB_00572,IAAMHMBP_00307,PKFCGPHH_00849
+gpmA_4~~~cobC,gpmA_4;cobC,23-bisphosphoglycerate-dependent phosphoglycerate mutase;Adenosylcobalamin/alpha-ribazole phosphatase,BDMKMOGB_00587,IAAMHMBP_00292,PKFCGPHH_00861
+group_345,,hypothetical protein,BDMKMOGB_00576,IAAMHMBP_00303,PKFCGPHH_00853
+sasA_1,sasA_1,Adaptive-response sensory-kinase SasA,BDMKMOGB_00582,IAAMHMBP_00297,PKFCGPHH_00866
+pepT_1,pepT_1,Peptidase T,BDMKMOGB_00575,IAAMHMBP_00304,PKFCGPHH_00852
+hflX,hflX,GTPase HflX,BDMKMOGB_01410,IAAMHMBP_01055,PKFCGPHH_00857
+yxdM,yxdM,ABC transporter permease protein YxdM,BDMKMOGB_00589,IAAMHMBP_01057,PKFCGPHH_00859
+rnj,rnj,Ribonuclease J,BDMKMOGB_01131,IAAMHMBP_00311,PKFCGPHH_00845
+efp_2,efp_2,Elongation factor P,BDMKMOGB_00580,IAAMHMBP_00299,PKFCGPHH_00868
+group_344,,hypothetical protein,BDMKMOGB_01133,IAAMHMBP_00313,PKFCGPHH_00843
+clpE_1,clpE_1,ATP-dependent Clp protease ATP-binding subunit ClpE,BDMKMOGB_00850,IAAMHMBP_00421,PKFCGPHH_00185
+group_343,glpK_1,Glycerol kinase,BDMKMOGB_00571,IAAMHMBP_00410,PKFCGPHH_00196
+group_342,,hypothetical protein,BDMKMOGB_00559,IAAMHMBP_00398,PKFCGPHH_00208
+group_341,,hypothetical protein,BDMKMOGB_00556,IAAMHMBP_00395,PKFCGPHH_00211
+yvdM,yvdM,Beta-phosphoglucomutase,BDMKMOGB_00565,IAAMHMBP_00404,PKFCGPHH_00202
+group_340,,putative transporter,BDMKMOGB_00847,IAAMHMBP_00417;IAAMHMBP_00418,PKFCGPHH_00188
+yicL,yicL;,putative inner membrane transporter YicL;hypothetical protein,BDMKMOGB_00845;BDMKMOGB_00846,IAAMHMBP_00416,PKFCGPHH_00189;PKFCGPHH_00190
+iphP_1,iphP_1,Tyrosine-protein phosphatase,BDMKMOGB_00570,IAAMHMBP_00409,PKFCGPHH_00197
+ganP,ganP,Galactooligosaccharides transport system permease protein GanP,BDMKMOGB_00561,IAAMHMBP_00400,PKFCGPHH_00206
+gatD,gatD,Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD,BDMKMOGB_00841,IAAMHMBP_00412,PKFCGPHH_00194
+dexB,dexB,Glucan 16-alpha-glucosidase,BDMKMOGB_00563,IAAMHMBP_00402,PKFCGPHH_00204
+ganQ,ganQ,Galactooligosaccharides transport system permease protein GanQ,BDMKMOGB_00560,IAAMHMBP_00399,PKFCGPHH_00207
+malP,malP,Maltose phosphorylase,BDMKMOGB_00566,IAAMHMBP_00405,PKFCGPHH_00201
+malL,malL,Oligo-16-glucosidase,BDMKMOGB_00568,IAAMHMBP_00407,PKFCGPHH_00199
+malX,malX,Maltooligosaccharide ABC transporter solute-binding lipoprotein,BDMKMOGB_00562,IAAMHMBP_00401,PKFCGPHH_00205
+group_339,,hypothetical protein,BDMKMOGB_00558,IAAMHMBP_00397,PKFCGPHH_00209
+cytR_2,cytR_2,HTH-type transcriptional repressor CytR,BDMKMOGB_00569,IAAMHMBP_00408,PKFCGPHH_00198
+bbmA,bbmA,Intracellular maltogenic amylase,BDMKMOGB_00567,IAAMHMBP_00406,PKFCGPHH_00200
+sbnD,sbnD,Staphyloferrin B transporter,BDMKMOGB_00557,IAAMHMBP_00396,PKFCGPHH_00210
+msmX_2,msmX_2,Oligosaccharides import ATP-binding protein MsmX,BDMKMOGB_00564,IAAMHMBP_00403,PKFCGPHH_00203
+thiD,thiD,Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,BDMKMOGB_00840,IAAMHMBP_00411,PKFCGPHH_00195
+yedJ,yedJ,putative protein YedJ,BDMKMOGB_00849,IAAMHMBP_00420,PKFCGPHH_00186
+guaC,guaC,GMP reductase,BDMKMOGB_00844,IAAMHMBP_00415,PKFCGPHH_00191
+group_338,,Putative glutamine amidotransferase,BDMKMOGB_00848,IAAMHMBP_00419,PKFCGPHH_00187
+purA,purA,Adenylosuccinate synthetase,BDMKMOGB_00843,IAAMHMBP_00414,PKFCGPHH_00192
+purB,purB,Adenylosuccinate lyase,BDMKMOGB_00842,IAAMHMBP_00413,PKFCGPHH_00193
+group_337,,hypothetical protein,BDMKMOGB_00554,IAAMHMBP_01439,PKFCGPHH_01448
+group_336,,hypothetical protein,BDMKMOGB_00545,IAAMHMBP_01430,PKFCGPHH_01075
+group_335,,hypothetical protein,BDMKMOGB_00553,IAAMHMBP_01438,2_refound_4_pseudo
+lacF_2,lacF_2,PTS system lactose-specific EIIA component,BDMKMOGB_00551,IAAMHMBP_01436,PKFCGPHH_01069
+pyrAB,pyrAB,Carbamoyl phosphate synthase pyrimidine-specific large chain,BDMKMOGB_00540,IAAMHMBP_01425,PKFCGPHH_01288
+pyrAA,pyrAA,Carbamoyl phosphate synthase pyrimidine-specific small chain,BDMKMOGB_00541,IAAMHMBP_01426,PKFCGPHH_01454
+group_334,,hypothetical protein,BDMKMOGB_00537,IAAMHMBP_01422,PKFCGPHH_01291
+group_333,,hypothetical protein,BDMKMOGB_00555,IAAMHMBP_01440,PKFCGPHH_01447
+fhs1,fhs1,Formate--tetrahydrofolate ligase 1,BDMKMOGB_00544,IAAMHMBP_01429,PKFCGPHH_01076
+toxN,toxN,Endoribonuclease ToxN,BDMKMOGB_00546,IAAMHMBP_01431,PKFCGPHH_01074
+lacE,lacE,PTS system lactose-specific EIICB component,BDMKMOGB_00549,IAAMHMBP_01434,PKFCGPHH_01071
+licT_1,licT_1,Transcription antiterminator LicT,BDMKMOGB_00552,IAAMHMBP_01437,PKFCGPHH_01068
+lacG,lacG,6-phospho-beta-galactosidase,BDMKMOGB_00550,IAAMHMBP_01435,PKFCGPHH_01070
+lspA,lspA,Lipoprotein signal peptidase,BDMKMOGB_00543,IAAMHMBP_01428,2_refound_3
+group_332,,hypothetical protein,BDMKMOGB_00538,IAAMHMBP_01423,PKFCGPHH_01290
+licC_2,licC_2,Lichenan permease IIC component,BDMKMOGB_00548,IAAMHMBP_01433,PKFCGPHH_01072
+group_331,,hypothetical protein,BDMKMOGB_00539,IAAMHMBP_01424,PKFCGPHH_01289
+group_330,,hypothetical protein,BDMKMOGB_00536,IAAMHMBP_01421,PKFCGPHH_01292
+group_329,,hypothetical protein,BDMKMOGB_00547,IAAMHMBP_01432,PKFCGPHH_01073
+rluD_1,rluD_1,Ribosomal large subunit pseudouridine synthase D,BDMKMOGB_00542,IAAMHMBP_01427,PKFCGPHH_01453
+nupB,nupB,Nucleoside ABC transporter permease protein NupB,BDMKMOGB_00855,IAAMHMBP_00726,PKFCGPHH_00027
+group_328,,hypothetical protein,BDMKMOGB_00520,IAAMHMBP_00834,PKFCGPHH_00015
+napA,napA,Na(+)/H(+) antiporter,BDMKMOGB_00514,IAAMHMBP_00733,PKFCGPHH_00020
+dltA_2,dltA_2,D-alanine--D-alanyl carrier protein ligase,BDMKMOGB_00523,IAAMHMBP_00837,PKFCGPHH_00012
+dltD,dltD,Protein DltD,BDMKMOGB_00526,IAAMHMBP_00840,PKFCGPHH_00009
+group_327,,hypothetical protein,BDMKMOGB_00535,IAAMHMBP_00847,PKFCGPHH_00001
+group_326,,Deoxyguanosine kinase,BDMKMOGB_00851,IAAMHMBP_00722,PKFCGPHH_00031
+celB_1,;celB_1,hypothetical protein;PTS system cellobiose-specific EIIC component,BDMKMOGB_00534;BDMKMOGB_00532;BDMKMOGB_00533,IAAMHMBP_00846,PKFCGPHH_00003;PKFCGPHH_00002
+nupA,nupA,Nucleoside import ATP-binding protein NupA,BDMKMOGB_00856,IAAMHMBP_00727,PKFCGPHH_00026
+group_325,,hypothetical protein,BDMKMOGB_00529,IAAMHMBP_00843,PKFCGPHH_00006
+flp,flp,Protein flp,BDMKMOGB_00527,IAAMHMBP_00841,PKFCGPHH_00008
+bmpA_2,bmpA_2,ABC transporter nucleoside-binding protein BmpA,BDMKMOGB_00858,IAAMHMBP_00729,PKFCGPHH_00024
+bmpA_3,bmpA_3,ABC transporter nucleoside-binding protein BmpA,BDMKMOGB_00859,IAAMHMBP_00730,PKFCGPHH_00023
+ziaA~~~kdpB,ziaA;kdpB,Zinc-transporting ATPase;Potassium-transporting ATPase ATP-binding subunit,BDMKMOGB_00516;BDMKMOGB_00515,IAAMHMBP_00734,PKFCGPHH_00019
+group_322,,hypothetical protein,BDMKMOGB_00530,IAAMHMBP_00844,PKFCGPHH_00005
+bmpA_1,bmpA_1,ABC transporter nucleoside-binding protein BmpA,BDMKMOGB_00857,IAAMHMBP_00728,PKFCGPHH_00025
+group_321,,hypothetical protein,BDMKMOGB_00513,IAAMHMBP_00732,PKFCGPHH_00021
+group_320,,hypothetical protein,BDMKMOGB_00521,IAAMHMBP_00835,PKFCGPHH_00014
+nupC,nupC,Nucleoside ABC transporter permease protein NupC,BDMKMOGB_00854,IAAMHMBP_00725,PKFCGPHH_00028
+dltB,dltB,Teichoic acid D-alanyltransferase,BDMKMOGB_00524,IAAMHMBP_00838,PKFCGPHH_00011
+group_319,,hypothetical protein,BDMKMOGB_00531,IAAMHMBP_00845,PKFCGPHH_00004
+oxyR,oxyR,DNA-binding transcriptional dual regulator OxyR,BDMKMOGB_00518,IAAMHMBP_00831,PKFCGPHH_00017
+mleS_1~~~mleS_2~~~mleS,mleS_1;mleS_2;mleS,Malolactic enzyme,BDMKMOGB_00519,IAAMHMBP_00833;IAAMHMBP_00832,PKFCGPHH_00016
+nagB,nagB,Glucosamine-6-phosphate deaminase,BDMKMOGB_00853,IAAMHMBP_00724,PKFCGPHH_00029
+dltC1,dltC1,D-alanyl carrier protein 1,BDMKMOGB_00525,IAAMHMBP_00839,PKFCGPHH_00010
+darB,darB,Cyclic di-AMP receptor B,BDMKMOGB_00517,IAAMHMBP_00735,PKFCGPHH_00018
+group_318,,hypothetical protein,BDMKMOGB_00522,IAAMHMBP_00836,PKFCGPHH_00013
+galE_1,galE_1,UDP-glucose 4-epimerase,BDMKMOGB_00528,IAAMHMBP_00842,PKFCGPHH_00007
+group_317,,Deoxyadenosine kinase,BDMKMOGB_00852,IAAMHMBP_00723,PKFCGPHH_00030
+htxB,htxB,putative phosphite transport system-binding protein HtxB,BDMKMOGB_00860,IAAMHMBP_00731,PKFCGPHH_00022
+garK,garK,Glycerate 2-kinase,BDMKMOGB_00494,IAAMHMBP_01450,PKFCGPHH_00601
+dhaL,dhaL,PTS-dependent dihydroxyacetone kinase ADP-binding subunit DhaL,BDMKMOGB_00507,IAAMHMBP_01463,PKFCGPHH_00588
+group_316,,hypothetical protein,BDMKMOGB_00511,IAAMHMBP_01467,PKFCGPHH_01382
+hsdR,hsdR;,Type I restriction enzyme SauN315I endonuclease subunit;hypothetical protein,BDMKMOGB_01034,IAAMHMBP_01446;IAAMHMBP_01445,PKFCGPHH_00605
+group_315,,hypothetical protein,BDMKMOGB_00493,IAAMHMBP_01449,PKFCGPHH_00602
+group_314,,hypothetical protein,BDMKMOGB_01035,IAAMHMBP_01447,PKFCGPHH_00604
+group_313,,hypothetical protein,BDMKMOGB_00510,IAAMHMBP_01466,PKFCGPHH_01383
+group_312,,Type I restriction enzyme MpnII methylase subunit,BDMKMOGB_01033,IAAMHMBP_01444,PKFCGPHH_00606
+dhaM,dhaM,PTS-dependent dihydroxyacetone kinase phosphotransferase subunit DhaM,BDMKMOGB_00506,IAAMHMBP_01462,PKFCGPHH_00589
+glpF_2,glpF_2,Glycerol uptake facilitator protein,BDMKMOGB_00505,IAAMHMBP_01461,PKFCGPHH_00590
+group_311,,hypothetical protein,BDMKMOGB_00509,IAAMHMBP_01465,PKFCGPHH_01384
+dxs,dxs,1-deoxy-D-xylulose-5-phosphate synthase,BDMKMOGB_00499,IAAMHMBP_01455,PKFCGPHH_00596
+yflS_1,yflS_1,Putative malate transporter YflS,BDMKMOGB_00504,IAAMHMBP_01460,PKFCGPHH_00591
+group_310,,hypothetical protein,BDMKMOGB_00495,IAAMHMBP_01451,PKFCGPHH_00600
+rpmGA_1,rpmGA_1,Large ribosomal subunit protein bL33A,BDMKMOGB_00496,IAAMHMBP_01452,PKFCGPHH_00599
+group_309,,hypothetical protein,BDMKMOGB_01036,IAAMHMBP_01448,PKFCGPHH_00603
+group_308,,hypothetical protein,BDMKMOGB_00501,IAAMHMBP_01457,PKFCGPHH_00594
+group_307,,hypothetical protein,BDMKMOGB_00503,IAAMHMBP_01459,PKFCGPHH_00592
+group_306,,hypothetical protein,BDMKMOGB_00500,IAAMHMBP_01456,PKFCGPHH_00595
+pcp,pcp,Pyrrolidone-carboxylate peptidase,BDMKMOGB_00498,IAAMHMBP_01454,PKFCGPHH_00597
+glmS,glmS,Glutamine--fructose-6-phosphate aminotransferase [isomerizing],BDMKMOGB_00497,IAAMHMBP_01453,PKFCGPHH_00598
+cysL,cysL,HTH-type transcriptional regulator CysL,BDMKMOGB_00502,IAAMHMBP_01458,PKFCGPHH_00593
+dhaK,dhaK,PTS-dependent dihydroxyacetone kinase dihydroxyacetone-binding subunit DhaK,BDMKMOGB_00508,IAAMHMBP_01464,PKFCGPHH_00587
+smc_4~~~ebh_1,smc_4;ebh_1,Chromosome partition protein Smc;Extracellular matrix-binding protein ebh,BDMKMOGB_00512,IAAMHMBP_01468,PKFCGPHH_01381
+bioH_2,bioH_2,Pimeloyl-[acyl-carrier protein] methyl ester esterase,BDMKMOGB_00462,IAAMHMBP_01229,PKFCGPHH_01145
+group_301,,hypothetical protein,BDMKMOGB_00467,IAAMHMBP_01224,PKFCGPHH_01139
+rnhA,rnhA,Ribonuclease H,BDMKMOGB_00466,IAAMHMBP_01225,PKFCGPHH_01140
+group_295,,hypothetical protein,BDMKMOGB_00469,IAAMHMBP_01222,PKFCGPHH_01137
+group_294,,hypothetical protein,BDMKMOGB_00461,IAAMHMBP_01230,PKFCGPHH_01146
+ypuA,ypuA,putative protein YpuA,BDMKMOGB_00464,IAAMHMBP_01227,PKFCGPHH_01143
+alx,;alx,hypothetical protein;Putative membrane-bound redox modulator Alx,BDMKMOGB_00465,IAAMHMBP_01226,PKFCGPHH_01141;PKFCGPHH_01142
+epsJ,epsJ,putative glycosyltransferase EpsJ,BDMKMOGB_00463,IAAMHMBP_01228,PKFCGPHH_01144
+prs_2,prs_2,Ribose-phosphate pyrophosphokinase,BDMKMOGB_00460,IAAMHMBP_01231,PKFCGPHH_01147
+clsA,clsA,Major cardiolipin synthase ClsA,BDMKMOGB_00468,IAAMHMBP_01223,PKFCGPHH_01138
+group_285,,hypothetical protein,BDMKMOGB_00743,IAAMHMBP_01291,PKFCGPHH_01011
+agaA,agaA,N-acetylgalactosamine-6-phosphate deacetylase,BDMKMOGB_00827,IAAMHMBP_01240,PKFCGPHH_01059
+rcsC_1,rcsC_1,Sensor histidine kinase RcsC,BDMKMOGB_00748,IAAMHMBP_01296,PKFCGPHH_01006
+group_284,,hypothetical protein,BDMKMOGB_00825,IAAMHMBP_01238,PKFCGPHH_01061
+bioH_1,bioH_1,Pimeloyl-[acyl-carrier protein] methyl ester esterase,BDMKMOGB_00445,IAAMHMBP_01270,PKFCGPHH_01032
+glcR,glcR,HTH-type transcriptional repressor GlcR,BDMKMOGB_01154,IAAMHMBP_01299,PKFCGPHH_01003
+glcA_2~~~glcA_1~~~glcA,glcA_2;glcA_1;glcA,Glycolate permease GlcA,BDMKMOGB_01019;BDMKMOGB_01020,IAAMHMBP_01306,PKFCGPHH_00996
+aroD,aroD,3-dehydroquinate dehydratase,BDMKMOGB_00451,IAAMHMBP_01264,PKFCGPHH_01038
+group_283,,putative ABC transporter ATP-binding protein,BDMKMOGB_00745,IAAMHMBP_01293,PKFCGPHH_01009
+ydiM,ydiM,Inner membrane transport protein YdiM,BDMKMOGB_00452,IAAMHMBP_01263,PKFCGPHH_01039
+yaaA,yaaA,DNA-binding and peroxide stress resistance protein YaaA,BDMKMOGB_00446,IAAMHMBP_01269,PKFCGPHH_01033
+group_281,,Aspartate racemase,BDMKMOGB_00750,IAAMHMBP_01298,PKFCGPHH_01004
+tagU,tagU,Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU,BDMKMOGB_01017,IAAMHMBP_01308,PKFCGPHH_00994
+yhjX,yhjX,putative MFS-type transporter YhjX,BDMKMOGB_00457,IAAMHMBP_01257,PKFCGPHH_01044
+soj,soj,Sporulation initiation inhibitor protein Soj,BDMKMOGB_00739,IAAMHMBP_01287,PKFCGPHH_01015
+iphP_2,iphP_2,Tyrosine-protein phosphatase,BDMKMOGB_00734,IAAMHMBP_01282,PKFCGPHH_01020
+ybiV,ybiV,Sugar phosphatase YbiV,BDMKMOGB_01157,IAAMHMBP_01302,PKFCGPHH_01000
+znuB,znuB,High-affinity zinc uptake system membrane protein ZnuB,BDMKMOGB_01159,IAAMHMBP_01304,PKFCGPHH_00998
+group_280,,hypothetical protein,BDMKMOGB_00458,IAAMHMBP_01256,PKFCGPHH_01045
+group_279,,hypothetical protein,BDMKMOGB_00820,IAAMHMBP_01233,PKFCGPHH_01066
+licT_2,licT_2,Transcription antiterminator LicT,BDMKMOGB_00828,IAAMHMBP_01241,PKFCGPHH_01058
+noc,noc,Nucleoid occlusion protein,BDMKMOGB_00738,IAAMHMBP_01286,PKFCGPHH_01016
+group_278,,hypothetical protein,BDMKMOGB_00438,IAAMHMBP_01277,PKFCGPHH_01025
+group_276,,hypothetical protein,BDMKMOGB_00442,IAAMHMBP_01273,PKFCGPHH_01029
+group_275,,hypothetical protein,BDMKMOGB_00736,IAAMHMBP_01284,PKFCGPHH_01018
+nfr1,nfr1,NADH-dependent flavin reductase subunit 1,BDMKMOGB_00731,IAAMHMBP_01279,PKFCGPHH_01023
+gmuE,gmuE,Putative fructokinase,BDMKMOGB_00456,IAAMHMBP_01258,PKFCGPHH_01043
+lctD_1,lctD_1,Lactate dehydrogenase (NAD(+)ferredoxin) subunit LctD,BDMKMOGB_00443,IAAMHMBP_01272,PKFCGPHH_01030
+pepDA_2,pepDA_2,Dipeptidase A,BDMKMOGB_00439,IAAMHMBP_01276,PKFCGPHH_01026
+nfr2,nfr2,NADH-dependent flavin reductase subunit 2,BDMKMOGB_00732,IAAMHMBP_01280,PKFCGPHH_01022
+gmk_2,gmk_2,Guanylate kinase,BDMKMOGB_01486,IAAMHMBP_01314,PKFCGPHH_01376
+spo0J,spo0J,Stage 0 sporulation protein J,BDMKMOGB_00740,IAAMHMBP_01288,PKFCGPHH_01014
+gltC_1,gltC_1,Transcriptional dual regulator GltC,BDMKMOGB_00450,IAAMHMBP_01265,PKFCGPHH_01037
+group_274,,hypothetical protein,BDMKMOGB_00821,IAAMHMBP_01234,PKFCGPHH_01065
+group_273,,hypothetical protein,BDMKMOGB_00741,IAAMHMBP_01289,PKFCGPHH_01013
+tagK,tagK,D-tagatose-1-phosphate kinase,BDMKMOGB_01155,IAAMHMBP_01300,PKFCGPHH_01002
+lutP,lutP,L-lactate permease,BDMKMOGB_01021,IAAMHMBP_01305,PKFCGPHH_00997
+group_272,,hypothetical protein,BDMKMOGB_01406,IAAMHMBP_01312,PKFCGPHH_01374
+murE,murE,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase,BDMKMOGB_00749,IAAMHMBP_01297,PKFCGPHH_01005
+aroE,aroE,Shikimate dehydrogenase (NADP(+)),BDMKMOGB_00453,IAAMHMBP_01262,PKFCGPHH_01040
+gpmA_1,gpmA_1,23-bisphosphoglycerate-dependent phosphoglycerate mutase,BDMKMOGB_00444,IAAMHMBP_01271,PKFCGPHH_01031
+mco,mco,Multicopper oxidase mco,BDMKMOGB_01016,IAAMHMBP_01309,PKFCGPHH_00993
+group_271,,hypothetical protein,BDMKMOGB_00730,IAAMHMBP_01278,PKFCGPHH_01024
+apbE,apbE,FAD:protein FMN transferase,BDMKMOGB_00735,IAAMHMBP_01283,PKFCGPHH_01019
+group_270,,hypothetical protein,BDMKMOGB_01407,IAAMHMBP_01313,PKFCGPHH_01375
+urdA_2,urdA_2,Urocanate reductase,BDMKMOGB_00455,IAAMHMBP_01259,PKFCGPHH_01042
+group_269,,hypothetical protein,BDMKMOGB_01014,IAAMHMBP_01311,PKFCGPHH_01373
+pepF1,pepF1,Oligoendopeptidase F plasmid,BDMKMOGB_01018,IAAMHMBP_01307,PKFCGPHH_00995
+group_268,,putative ABC transporter ATP-binding protein,BDMKMOGB_00746,IAAMHMBP_01294,PKFCGPHH_01008
+gltC_1~~~gltC_2,;gltC_1;gltC_2,hypothetical protein;Transcriptional dual regulator GltC,BDMKMOGB_00454,IAAMHMBP_01261;IAAMHMBP_01260,PKFCGPHH_01041
+znuC,znuC,Zinc import ATP-binding protein ZnuC,BDMKMOGB_01158,IAAMHMBP_01303,PKFCGPHH_00999
+group_267,,hypothetical protein,BDMKMOGB_01015,IAAMHMBP_01310,PKFCGPHH_00992
+group_266,,hypothetical protein,BDMKMOGB_00447,IAAMHMBP_01268,PKFCGPHH_01034
+group_265,,hypothetical protein,BDMKMOGB_00449,IAAMHMBP_01266,PKFCGPHH_01036
+fruA,fruA,PTS system fructose-specific EIIABC component,BDMKMOGB_01156,IAAMHMBP_01301,PKFCGPHH_01001
+hrtA,hrtA,Putative hemin import ATP-binding protein HrtA,BDMKMOGB_00440,IAAMHMBP_01275,PKFCGPHH_01027
+mupG,mupG,6-phospho-N-acetylmuramidase,BDMKMOGB_00733,IAAMHMBP_01281,PKFCGPHH_01021
+group_264,,hypothetical protein,BDMKMOGB_00819,IAAMHMBP_01232,PKFCGPHH_01067
+vanR,vanR,Regulatory protein VanR,BDMKMOGB_00747,IAAMHMBP_01295,PKFCGPHH_01007
+group_263,,putative ABC transporter permease,BDMKMOGB_00441,IAAMHMBP_01274,PKFCGPHH_01028
+group_262,,hypothetical protein,BDMKMOGB_00459,IAAMHMBP_01255,PKFCGPHH_01046
+ddlA,ddlA,D-alanine--D-alanine ligase A,BDMKMOGB_00822,IAAMHMBP_01235,PKFCGPHH_01064
+group_261,,hypothetical protein,BDMKMOGB_00824,IAAMHMBP_01237,PKFCGPHH_01062
+ychF,ychF,Ribosome-binding ATPase YchF,BDMKMOGB_00742,IAAMHMBP_01290,PKFCGPHH_01012
+pepN,pepN,Aminopeptidase N,BDMKMOGB_00448,IAAMHMBP_01267,PKFCGPHH_01035
+group_260,,putative ABC transporter ATP-binding protein;hypothetical protein,BDMKMOGB_00744,IAAMHMBP_01292,PKFCGPHH_01010
+group_259,,hypothetical protein,BDMKMOGB_00823,IAAMHMBP_01236,PKFCGPHH_01063
+rsmG,rsmG,Ribosomal RNA small subunit methyltransferase G,BDMKMOGB_00737,IAAMHMBP_01285,PKFCGPHH_01017
+group_258,,hypothetical protein,BDMKMOGB_00826,IAAMHMBP_01239,PKFCGPHH_01060
+tadA_1,tadA_1,tRNA-specific adenosine deaminase,BDMKMOGB_00427,IAAMHMBP_01531,PKFCGPHH_00287
+group_257,,hypothetical protein,BDMKMOGB_01518,IAAMHMBP_01491,PKFCGPHH_00177
+group_256,,hypothetical protein,BDMKMOGB_01495,IAAMHMBP_01514,PKFCGPHH_00153
+purR,purR,Purine biosynthesis transcriptional repressor PurR,BDMKMOGB_00419,IAAMHMBP_01539,PKFCGPHH_00295
+group_255,,hypothetical protein,BDMKMOGB_00430,IAAMHMBP_01528,PKFCGPHH_00284
+pepE_1,pepE_1,Aminopeptidase E,0_refound_0,IAAMHMBP_01521,PKFCGPHH_00277
+asnB,asnB,Asparagine synthetase [glutamine-hydrolyzing] 1,BDMKMOGB_01516,IAAMHMBP_01493,PKFCGPHH_00175
+dinB_1,dinB_1,DNA polymerase IV,BDMKMOGB_00432,IAAMHMBP_01526,PKFCGPHH_00282
+pepE,pepE,Aminopeptidase E,BDMKMOGB_00435,IAAMHMBP_01523,PKFCGPHH_00279
+metG,metG,Methionine--tRNA ligase,BDMKMOGB_00424,IAAMHMBP_01534,PKFCGPHH_00290
+group_254,,hypothetical protein,BDMKMOGB_00434,IAAMHMBP_01524,PKFCGPHH_00280
+trpS2,trpS2,Tryptophan--tRNA ligase 2,BDMKMOGB_00428,IAAMHMBP_01530,PKFCGPHH_00286
+kup,kup,Low affinity potassium transport system protein Kup,BDMKMOGB_01509,IAAMHMBP_01500,PKFCGPHH_00167
+citN,citN,Citrate transporter,BDMKMOGB_00417,IAAMHMBP_01541,PKFCGPHH_00297
+yheS,yheS,putative ATP-binding protein YheS,BDMKMOGB_01502,IAAMHMBP_01507,PKFCGPHH_00160
+plsY_1~~~plsY_2,plsY_1;plsY_2,Glycerol-3-phosphate acyltransferase,BDMKMOGB_01492,IAAMHMBP_01517,PKFCGPHH_00150;PKFCGPHH_00149
+pepO_2,pepO_2,Neutral endopeptidase,BDMKMOGB_01510,IAAMHMBP_01499,PKFCGPHH_00168
+group_253,,hypothetical protein,BDMKMOGB_00431,IAAMHMBP_01527,PKFCGPHH_00283
+group_252,,hypothetical protein,BDMKMOGB_01506,IAAMHMBP_01503,PKFCGPHH_00164
+group_251,,hypothetical protein,BDMKMOGB_01504,IAAMHMBP_01505,PKFCGPHH_00162
+yjjP,yjjP,putative succinate transporter subunit YjjP,BDMKMOGB_01501,IAAMHMBP_01508,PKFCGPHH_00159
+group_250,,hypothetical protein,BDMKMOGB_01522,IAAMHMBP_01487,PKFCGPHH_00181
+nrdD,nrdD,Anaerobic ribonucleoside-triphosphate reductase,BDMKMOGB_01515,IAAMHMBP_01494,PKFCGPHH_00174
+dtd3,dtd3,D-aminoacyl-tRNA deacylase,BDMKMOGB_00423,IAAMHMBP_01535,PKFCGPHH_00291
+glnQ_2,glnQ_2,Glutamine transport ATP-binding protein GlnQ,BDMKMOGB_01521,IAAMHMBP_01488,PKFCGPHH_00180
+group_249,,hypothetical protein,BDMKMOGB_01503,IAAMHMBP_01506,PKFCGPHH_00161
+mdtH,mdtH,Multidrug resistance protein MdtH,BDMKMOGB_01511,IAAMHMBP_01498,PKFCGPHH_00169
+group_248,,hypothetical protein,BDMKMOGB_01517,IAAMHMBP_01492,PKFCGPHH_00176
+gpmA_4,gpmA_4,23-bisphosphoglycerate-dependent phosphoglycerate mutase,BDMKMOGB_01494,IAAMHMBP_01515,PKFCGPHH_00152
+treA,treA,Trehalose-6-phosphate hydrolase,BDMKMOGB_01497,IAAMHMBP_01512,PKFCGPHH_00155
+group_247,,putative ABC transporter ATP-binding protein,BDMKMOGB_01499,IAAMHMBP_01510,PKFCGPHH_00157
+msmE,msmE;,Multiple sugar-binding protein;hypothetical protein,BDMKMOGB_01512,IAAMHMBP_01497,PKFCGPHH_00171;PKFCGPHH_00170
+clahy,cla-hy,Linoleate hydratase,BDMKMOGB_00436,IAAMHMBP_01522,PKFCGPHH_00278
+glmU,glmU,Bifunctional protein GlmU,BDMKMOGB_00418,IAAMHMBP_01540,PKFCGPHH_00296
+group_246,,hypothetical protein,BDMKMOGB_00426,IAAMHMBP_01532,PKFCGPHH_00288
+yjjB,yjjB,succinate transporter subunit YjjB,BDMKMOGB_01500,IAAMHMBP_01509,PKFCGPHH_00158
+treR,treR,HTH-type transcriptional regulator TreR,BDMKMOGB_01496,IAAMHMBP_01513,PKFCGPHH_00154
+group_245,,hypothetical protein,BDMKMOGB_01498,IAAMHMBP_01511,PKFCGPHH_00156
+veg,veg,Protein Veg,BDMKMOGB_00420,IAAMHMBP_01538,PKFCGPHH_00294
+prs_1,prs_1,Ribose-phosphate pyrophosphokinase,BDMKMOGB_00416,IAAMHMBP_01542,PKFCGPHH_00298
+group_244,,hypothetical protein,BDMKMOGB_01520,IAAMHMBP_01489,PKFCGPHH_00179
+group_243,,hypothetical protein,BDMKMOGB_01514,IAAMHMBP_01495,PKFCGPHH_00173
+tyrS,tyrS,Tyrosine--tRNA ligase,BDMKMOGB_01491,IAAMHMBP_01518,PKFCGPHH_00274
+group_242,,hypothetical protein,BDMKMOGB_01417,IAAMHMBP_01485,PKFCGPHH_00183
+mgtB,mgtB,Magnesium-transporting ATPase P-type 1,BDMKMOGB_00425,IAAMHMBP_01533,PKFCGPHH_00289
+greA_1,greA_1,Transcription elongation factor GreA,BDMKMOGB_00433,IAAMHMBP_01525,PKFCGPHH_00281
+rsmA,rsmA,Ribosomal RNA small subunit methyltransferase A,BDMKMOGB_00421,IAAMHMBP_01537,PKFCGPHH_00293
+group_241,,hypothetical protein,BDMKMOGB_01507,IAAMHMBP_01502,PKFCGPHH_00165
+group_240,,hypothetical protein,BDMKMOGB_01505,IAAMHMBP_01504,PKFCGPHH_00163
+phnE,phnE,Phosphate-import permease protein PhnE,BDMKMOGB_01519,IAAMHMBP_01490,PKFCGPHH_00178
+ntd_2,ntd_2,Nucleoside deoxyribosyltransferase,BDMKMOGB_01416,IAAMHMBP_01484,PKFCGPHH_00184
+brpA,brpA,Biofilm regulatory protein A,BDMKMOGB_01493,IAAMHMBP_01516,PKFCGPHH_00151
+rnmV,rnmV,Ribonuclease M5,BDMKMOGB_00422,IAAMHMBP_01536,PKFCGPHH_00292
+group_239,,hypothetical protein,BDMKMOGB_01513,IAAMHMBP_01496,PKFCGPHH_00172
+group_238,,hypothetical protein,BDMKMOGB_01508,IAAMHMBP_01501,PKFCGPHH_00166
+group_237,,Putative universal stress protein,BDMKMOGB_01523,IAAMHMBP_01486,PKFCGPHH_00182
+group_236,,hypothetical protein,BDMKMOGB_00786,IAAMHMBP_01632,PKFCGPHH_00731
+group_235,,hypothetical protein,BDMKMOGB_00296,IAAMHMBP_01584,PKFCGPHH_01544
+artM,artM,Arginine transport ATP-binding protein ArtM,BDMKMOGB_01118,IAAMHMBP_01677,PKFCGPHH_01155
+group_234,,hypothetical protein,BDMKMOGB_00291,IAAMHMBP_01676,PKFCGPHH_01156
+group_233,,hypothetical protein,BDMKMOGB_00979,IAAMHMBP_01626,PKFCGPHH_00902
+group_232,,hypothetical protein,BDMKMOGB_01260,IAAMHMBP_01568,PKFCGPHH_01549
+ribBA,ribBA,Riboflavin biosynthesis protein RibBA,BDMKMOGB_00330,IAAMHMBP_01546,PKFCGPHH_01571
+natA,natA,ABC transporter ATP-binding protein NatA,BDMKMOGB_00785,IAAMHMBP_01631,PKFCGPHH_00730
+group_231,,hypothetical protein,BDMKMOGB_00280,IAAMHMBP_01666,PKFCGPHH_00547
+group_228,,hypothetical protein,BDMKMOGB_00263,IAAMHMBP_01648,PKFCGPHH_00530
+group_227,,hypothetical protein,BDMKMOGB_00290,IAAMHMBP_01675,PKFCGPHH_00556
+group_226,,Putative phosphatase,BDMKMOGB_00281,IAAMHMBP_01667,PKFCGPHH_00548
+group_225,,hypothetical protein,BDMKMOGB_00264,IAAMHMBP_01649,PKFCGPHH_00531
+ywnA_1,ywnA_1,Putative HTH-type transcriptional regulator YwnA,BDMKMOGB_00318,IAAMHMBP_01558,PKFCGPHH_01559
+rplI,rplI,Large ribosomal subunit protein bL9,BDMKMOGB_00298,IAAMHMBP_01586,PKFCGPHH_01542
+rpmH,rpmH,Large ribosomal subunit protein bL34,BDMKMOGB_00309,IAAMHMBP_01597,PKFCGPHH_01531
+walJ,walJ,Exodeoxyribonuclease WalJ,BDMKMOGB_01268,IAAMHMBP_01627,PKFCGPHH_00901
+ribH,ribH,67-dimethyl-8-ribityllumazine synthase,BDMKMOGB_00329,IAAMHMBP_01547,PKFCGPHH_01570
+group_221,,hypothetical protein,BDMKMOGB_00288,IAAMHMBP_01673,PKFCGPHH_00554
+group_220,,hypothetical protein,BDMKMOGB_00317,IAAMHMBP_01559,PKFCGPHH_01558
+group_219,,hypothetical protein,BDMKMOGB_00286,IAAMHMBP_01671,PKFCGPHH_00552
+htrA,htrA,Serine protease Do-like HtrA,BDMKMOGB_01269,IAAMHMBP_01628,PKFCGPHH_00900
+group_218,,hypothetical protein,BDMKMOGB_01258,IAAMHMBP_01566,PKFCGPHH_01551
+group_217,,hypothetical protein,0_refound_1_pseudo,IAAMHMBP_01660,2_refound_7_pseudo
+group_216,,hypothetical protein,BDMKMOGB_00316,IAAMHMBP_01560,PKFCGPHH_01557
+group_215,,hypothetical protein,BDMKMOGB_01113,IAAMHMBP_01682,PKFCGPHH_01150
+bfrA,bfrA,Beta-fructosidase,BDMKMOGB_00271,IAAMHMBP_01656,PKFCGPHH_00538
+group_214,,hypothetical protein,BDMKMOGB_00268,IAAMHMBP_01653,PKFCGPHH_00535
+group_213,,hypothetical protein,BDMKMOGB_00273,IAAMHMBP_01658,PKFCGPHH_00540
+efpA,efpA,putative MFS-type transporter EfpA,BDMKMOGB_00984,IAAMHMBP_01621,PKFCGPHH_00907
+exoA,exoA,Exodeoxyribonuclease,BDMKMOGB_00321,IAAMHMBP_01555,PKFCGPHH_01562
+group_211,,hypothetical protein,BDMKMOGB_00275,IAAMHMBP_01661,PKFCGPHH_00542
+levE,levE,PTS system fructose-specific EIIB component,BDMKMOGB_00279,IAAMHMBP_01665,PKFCGPHH_00546
+ytcP,ytcP,Polygalacturonan/rhamnogalacturonan transport system permease protein YtcP,BDMKMOGB_00270,IAAMHMBP_01655,PKFCGPHH_00537
+group_210,,Putative phosphatase,BDMKMOGB_01257,IAAMHMBP_01565,PKFCGPHH_01552
+ssb_2,ssb_2,Single-stranded DNA-binding protein,BDMKMOGB_00301,IAAMHMBP_01589,PKFCGPHH_01539
+group_209,,hypothetical protein,BDMKMOGB_00980,IAAMHMBP_01625,PKFCGPHH_00903
+group_208,,hypothetical protein,BDMKMOGB_00289,IAAMHMBP_01674,PKFCGPHH_00555
+rlmH,rlmH,Ribosomal RNA large subunit methyltransferase H,BDMKMOGB_01270,IAAMHMBP_01629,PKFCGPHH_00899
+licC_3,licC_3,Lichenan permease IIC component,BDMKMOGB_00315,IAAMHMBP_01561,PKFCGPHH_01556
+sorA_1,sorA_1,PTS system sorbose-specific EIIC component,BDMKMOGB_00278,IAAMHMBP_01664,PKFCGPHH_00545
+brnQ,brnQ,Branched-chain amino acid permease BrnQ,BDMKMOGB_00333,IAAMHMBP_01613,PKFCGPHH_01574
+dnaA,dnaA,Chromosomal replication initiator protein DnaA,BDMKMOGB_00308,IAAMHMBP_01596,PKFCGPHH_01532
+dnaB_1,dnaB_1,Replicative DNA helicase DnaB,BDMKMOGB_00297,IAAMHMBP_01585,PKFCGPHH_01543
+group_207,,hypothetical protein,BDMKMOGB_01112,IAAMHMBP_01683,PKFCGPHH_01149
+group_206,,Aldo-keto reductase/MSMEI_2347,BDMKMOGB_00323,IAAMHMBP_01553,PKFCGPHH_01564
+misCA,misCA,Membrane protein insertase MisCA,BDMKMOGB_00311,IAAMHMBP_01599,PKFCGPHH_01529
+group_205,,hypothetical protein,BDMKMOGB_00306,IAAMHMBP_01594,PKFCGPHH_01534
+dkgA,dkgA,Methylglyoxal reductase DkgA,BDMKMOGB_00987,IAAMHMBP_01618,PKFCGPHH_00910
+ykoD,ykoD,Putative HMP/thiamine import ATP-binding protein YkoD,BDMKMOGB_00791,IAAMHMBP_01637,PKFCGPHH_00736
+hdfR,hdfR,HTH-type transcriptional regulator HdfR,BDMKMOGB_00986,IAAMHMBP_01619,PKFCGPHH_00909
+mnmE,mnmE,tRNA modification GTPase MnmE,BDMKMOGB_00312,IAAMHMBP_01600,PKFCGPHH_01528
+group_204,,hypothetical protein,BDMKMOGB_00989,IAAMHMBP_01616,PKFCGPHH_00912
+lacF_1,lacF_1,Lactose transport system permease protein LacF,BDMKMOGB_00269,IAAMHMBP_01654,PKFCGPHH_00536
+sdhA,sdhA,L-serine dehydratase alpha chain,BDMKMOGB_00796,IAAMHMBP_01642,PKFCGPHH_00741
+rpsR,rpsR,Small ribosomal subunit protein bS18,BDMKMOGB_00300,IAAMHMBP_01588,PKFCGPHH_01540
+bglA,bglA,6-phospho-beta-glucosidase BglA,BDMKMOGB_01259,IAAMHMBP_01567,PKFCGPHH_01550
+lemA,lemA,Protein LemA,BDMKMOGB_00799,IAAMHMBP_01645,PKFCGPHH_00744
+htpX,htpX,Protease HtpX,BDMKMOGB_00798,IAAMHMBP_01644,PKFCGPHH_00743
+group_202,,hypothetical protein,BDMKMOGB_00789,IAAMHMBP_01635,PKFCGPHH_00734
+mdtP,mdtP,Multidrug transporter protein MdtP,BDMKMOGB_00792,IAAMHMBP_01638,PKFCGPHH_00737
+group_201,,hypothetical protein,BDMKMOGB_00266,IAAMHMBP_01651,PKFCGPHH_00533
+lacA,lacA,Galactoside O-acetyltransferase,BDMKMOGB_00274,IAAMHMBP_01659,PKFCGPHH_00541
+benM,benM,HTH-type transcriptional regulator BenM,BDMKMOGB_00334,IAAMHMBP_01614,PKFCGPHH_01575
+msbA,msbA,ATP-dependent lipid A-core flippase,BDMKMOGB_00788,IAAMHMBP_01634,PKFCGPHH_00733
+higB1,higB-1,Toxin HigB-1,BDMKMOGB_00292,IAAMHMBP_01569,PKFCGPHH_01548
+group_199,,hypothetical protein,BDMKMOGB_00985,IAAMHMBP_01620,PKFCGPHH_00908
+mltF,mltF,Membrane-bound lytic murein transglycosylase F,BDMKMOGB_01117,IAAMHMBP_01678,PKFCGPHH_01154
+group_198,,hypothetical protein,BDMKMOGB_00293,IAAMHMBP_01570,PKFCGPHH_01547
+ribE,ribE,Riboflavin synthase,BDMKMOGB_00331,IAAMHMBP_01545,PKFCGPHH_01572
+rhaS_2,rhaS_2,HTH-type transcriptional activator RhaS,BDMKMOGB_00793,IAAMHMBP_01639,PKFCGPHH_00738
+rpsF,rpsF,Small ribosomal subunit protein bS6,BDMKMOGB_00302,IAAMHMBP_01590,PKFCGPHH_01538
+group_197,,hypothetical protein,BDMKMOGB_00276,IAAMHMBP_01662,PKFCGPHH_00543
+rbsB_1,rbsB_1,Ribose import binding protein RbsB,BDMKMOGB_00282,IAAMHMBP_01668,PKFCGPHH_00549
+group_196,,Putative 3-methyladenine DNA glycosylase,BDMKMOGB_01116,IAAMHMBP_01679,PKFCGPHH_01153
+ptcB,ptcB,PTS system galactose-specific EIIB component,BDMKMOGB_01255,IAAMHMBP_01563,PKFCGPHH_01554
+yfbR,yfbR,5'-deoxynucleotidase YfbR,BDMKMOGB_00265,IAAMHMBP_01650,PKFCGPHH_00532
+group_195,,hypothetical protein,BDMKMOGB_00794,IAAMHMBP_01640,PKFCGPHH_00739
+pox5,pox5,Pyruvate oxidase,BDMKMOGB_00314,IAAMHMBP_01602,PKFCGPHH_01526
+ccpA_1,ccpA_1,Catabolite control protein A,BDMKMOGB_00267,IAAMHMBP_01652,PKFCGPHH_00534
+sufT,sufT,Fe-S protein maturation auxiliary factor SufT,BDMKMOGB_00797,IAAMHMBP_01643,PKFCGPHH_00742
+group_194,,hypothetical protein,BDMKMOGB_00325,IAAMHMBP_01551,PKFCGPHH_01566
+ybiR,ybiR;,Inner membrane protein YbiR;hypothetical protein,BDMKMOGB_00261;BDMKMOGB_00800,IAAMHMBP_01646,PKFCGPHH_00528
+walK,walK,Sensor histidine kinase WalK,BDMKMOGB_00981,IAAMHMBP_01624,PKFCGPHH_00904
+adhT,adhT,Alcohol dehydrogenase,BDMKMOGB_00319,IAAMHMBP_01557,PKFCGPHH_01560
+mnmG,mnmG,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG,BDMKMOGB_00313,IAAMHMBP_01601,PKFCGPHH_01527
+group_193,,hypothetical protein,BDMKMOGB_00283;BDMKMOGB_00284,IAAMHMBP_01669,PKFCGPHH_00550
+group_192,,D-lactate dehydrogenase,BDMKMOGB_00328,IAAMHMBP_01548,PKFCGPHH_01569
+group_191,,hypothetical protein,BDMKMOGB_00795,IAAMHMBP_01641,PKFCGPHH_00740
+group_190,,hypothetical protein,BDMKMOGB_00790,IAAMHMBP_01636,PKFCGPHH_00735
+hmo,hmo,4-hydroxymandelate oxidase,BDMKMOGB_00287,IAAMHMBP_01672,PKFCGPHH_00553
+gyrB,gyrB,DNA gyrase subunit B,BDMKMOGB_00304,IAAMHMBP_01592,PKFCGPHH_01536
+gdpP,gdpP,Cyclic-di-AMP phosphodiesterase GdpP,BDMKMOGB_00299,IAAMHMBP_01587,PKFCGPHH_01541
+lnrK,lnrK,Transcriptional regulatory protein LnrK,BDMKMOGB_00285,IAAMHMBP_01670,PKFCGPHH_00551
+group_189,,hypothetical protein,BDMKMOGB_01115,IAAMHMBP_01680,PKFCGPHH_01152
+group_188,,hypothetical protein,BDMKMOGB_01111,IAAMHMBP_01684,PKFCGPHH_01148
+urdA_3~~~urdA_2,urdA_3;urdA_2,Urocanate reductase,BDMKMOGB_00335;BDMKMOGB_00990,IAAMHMBP_01615,PKFCGPHH_01576;PKFCGPHH_00913
+ribD,ribD,Riboflavin biosynthesis protein RibD,BDMKMOGB_00332,IAAMHMBP_01544,PKFCGPHH_01573
+rnpA,rnpA,Ribonuclease P protein component,BDMKMOGB_00310,IAAMHMBP_01598,PKFCGPHH_01530
+cobB,cobB,NAD-dependent protein deacetylase,BDMKMOGB_01114,IAAMHMBP_01681,PKFCGPHH_01151
+mutS2_2~~~mutSB_1~~~mutS2~~~mutS2_1,mutS2_2;mutSB_1;mutS2;mutS2_1,Endonuclease MutS2;Putative endonuclease MutS2,BDMKMOGB_00784;BDMKMOGB_01271,IAAMHMBP_01630,PKFCGPHH_00898;PKFCGPHH_00729
+msmX_1,msmX_1,Oligosaccharides import ATP-binding protein MsmX,BDMKMOGB_00272,IAAMHMBP_01657,PKFCGPHH_00539
+gyrA,gyrA,DNA gyrase subunit A GyrA,BDMKMOGB_00303,IAAMHMBP_01591,PKFCGPHH_01537
+yfnB,yfnB,Putative HAD-hydrolase YfnB,BDMKMOGB_00326,IAAMHMBP_01550,PKFCGPHH_01567
+group_186,,hypothetical protein,BDMKMOGB_00295,IAAMHMBP_01583,PKFCGPHH_01545
+group_185,,hypothetical protein,BDMKMOGB_01254,IAAMHMBP_01562,PKFCGPHH_01555
+walR,walR,Transcriptional regulatory protein WalR,BDMKMOGB_00982,IAAMHMBP_01623,PKFCGPHH_00905
+group_184,,hypothetical protein,BDMKMOGB_00324,IAAMHMBP_01552,PKFCGPHH_01565
+manZ_1,manZ_1,PTS system mannose-specific EIID component,BDMKMOGB_00277,IAAMHMBP_01663,PKFCGPHH_00544
+group_182,,hypothetical protein,BDMKMOGB_00787,IAAMHMBP_01633,PKFCGPHH_00732
+glpF_1,glpF_1,Glycerol uptake facilitator protein,BDMKMOGB_00327,IAAMHMBP_01549,PKFCGPHH_01568
+recF,recF,DNA replication and repair protein RecF,BDMKMOGB_00305,IAAMHMBP_01593,PKFCGPHH_01535
+uvrB_2,uvrB_2,UvrABC system protein B,BDMKMOGB_00322,IAAMHMBP_01554,PKFCGPHH_01563
+dnaN,dnaN,Beta sliding clamp,BDMKMOGB_00307,IAAMHMBP_01595,PKFCGPHH_01533
+yydK,yydK,putative HTH-type transcriptional regulator YydK,BDMKMOGB_01256,IAAMHMBP_01564,PKFCGPHH_01553
+group_181,,hypothetical protein,BDMKMOGB_00262,IAAMHMBP_01647,PKFCGPHH_00529
+metB,metB,Cystathionine gamma-synthase,BDMKMOGB_00320,IAAMHMBP_01556,PKFCGPHH_01561
+def,def,Peptide deformylase,BDMKMOGB_00238,IAAMHMBP_00273,PKFCGPHH_00348
+ecsA,ecsA,ABC-type transporter ATP-binding protein EcsA,BDMKMOGB_00255,IAAMHMBP_00256,PKFCGPHH_00331
+fba,fba,Fructose-bisphosphate aldolase,BDMKMOGB_00245,IAAMHMBP_00266,PKFCGPHH_00341
+prsA,prsA,Foldase protein PrsA,BDMKMOGB_00252,IAAMHMBP_00259,PKFCGPHH_00334
+group_180,,hypothetical protein,BDMKMOGB_00256,IAAMHMBP_00255,PKFCGPHH_00330
+group_179,,hypothetical protein,BDMKMOGB_00253,IAAMHMBP_00258,PKFCGPHH_00333
+pbp2a,pbp2a,Penicillin-binding protein 2a,BDMKMOGB_00247,IAAMHMBP_00264,PKFCGPHH_00339
+nnrD,nnrD,ADP-dependent (S)-NAD(P)H-hydrate dehydratase,BDMKMOGB_00242,IAAMHMBP_00269,PKFCGPHH_00344
+hit,hit,Protein hit,BDMKMOGB_00254,IAAMHMBP_00257,PKFCGPHH_00332
+group_178,,hypothetical protein,BDMKMOGB_00248,IAAMHMBP_00263,PKFCGPHH_00338
+group_177,,hypothetical protein,BDMKMOGB_00260,IAAMHMBP_00251,PKFCGPHH_00326
+ppsA,ppsA,Phosphoenolpyruvate synthase,BDMKMOGB_00237,IAAMHMBP_00274,PKFCGPHH_00349
+argS,argS,Arginine--tRNA ligase,BDMKMOGB_00244,IAAMHMBP_00267,PKFCGPHH_00342
+yhaO,yhaO,putative metallophosphoesterase YhaO,BDMKMOGB_00249,IAAMHMBP_00262,PKFCGPHH_00337
+group_176,,hypothetical protein,BDMKMOGB_00246,IAAMHMBP_00265,PKFCGPHH_00340
+group_175,,hypothetical protein,BDMKMOGB_00250,IAAMHMBP_00261,PKFCGPHH_00336
+group_174,,hypothetical protein,BDMKMOGB_00239,IAAMHMBP_00272,PKFCGPHH_00347
+yhaM,yhaM,3'-5' exoribonuclease YhaM,BDMKMOGB_00251,IAAMHMBP_00260,PKFCGPHH_00335
+ytpP,ytpP,Thioredoxin-like protein YtpP,BDMKMOGB_00258,IAAMHMBP_00253,PKFCGPHH_00328
+dacA_2,dacA_2,D-alanyl-D-alanine carboxypeptidase DacA,BDMKMOGB_00243,IAAMHMBP_00268,PKFCGPHH_00343
+group_173,,hypothetical protein,BDMKMOGB_00240,IAAMHMBP_00271,PKFCGPHH_00346
+pheT_1,pheT_1,Phenylalanine--tRNA ligase beta subunit,BDMKMOGB_00259,IAAMHMBP_00252,PKFCGPHH_00327
+trmB,trmB,tRNA (guanine-N(7)-)-methyltransferase,BDMKMOGB_00257,IAAMHMBP_00254,PKFCGPHH_00329
+obg,obg,GTPase Obg,BDMKMOGB_00229,IAAMHMBP_01098,PKFCGPHH_00267
+rpsT,rpsT,Small ribosomal subunit protein bS20,BDMKMOGB_01228,IAAMHMBP_01120,PKFCGPHH_01092
+oatA,oatA,Peptidoglycan O-acetyltransferase OatA,BDMKMOGB_00228,IAAMHMBP_01097,PKFCGPHH_00266
+group_172,,hypothetical protein,BDMKMOGB_00210,IAAMHMBP_01079,PKFCGPHH_00248
+group_171,,hypothetical protein,BDMKMOGB_01148;BDMKMOGB_01231,IAAMHMBP_01117,PKFCGPHH_01089
+ribT,ribT,Protein RibT,BDMKMOGB_00214,IAAMHMBP_01083,PKFCGPHH_00252
+tig,tig,Trigger factor,BDMKMOGB_01146,IAAMHMBP_01115,PKFCGPHH_01087
+asnA,asnA,Aspartate--ammonia ligase,BDMKMOGB_01165,IAAMHMBP_01109,PKFCGPHH_01123
+der,der,GTPase Der,BDMKMOGB_00206,IAAMHMBP_01075,PKFCGPHH_00244
+rpmF,rpmF,Large ribosomal subunit protein bL32,BDMKMOGB_00224,IAAMHMBP_01093,PKFCGPHH_00262
+cmk,cmk,Cytidylate kinase,BDMKMOGB_00208,IAAMHMBP_01077,PKFCGPHH_00246
+group_170,,hypothetical protein,BDMKMOGB_01164,IAAMHMBP_01110,PKFCGPHH_01124
+engB,engB,putative GTP-binding protein EngB,BDMKMOGB_01144,IAAMHMBP_01113,PKFCGPHH_01128
+scpB,scpB,Segregation and condensation protein B,BDMKMOGB_00212,IAAMHMBP_01081,PKFCGPHH_00250
+rpsO,rpsO,Small ribosomal subunit protein uS15,BDMKMOGB_01229,IAAMHMBP_01119,PKFCGPHH_01091
+tuf,tuf,Elongation factor Tu,BDMKMOGB_01147,IAAMHMBP_01116,PKFCGPHH_01088
+pnbA_2,;pnbA_2,hypothetical protein;4-nitrobenzoate reductase,BDMKMOGB_01142;BDMKMOGB_01141,IAAMHMBP_01111,PKFCGPHH_01125;PKFCGPHH_01126
+yokD_1,;yokD_1,hypothetical protein;SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD,BDMKMOGB_00235,IAAMHMBP_01104,PKFCGPHH_00273
+hup,hup,DNA-binding protein HU,BDMKMOGB_00205,IAAMHMBP_01074,PKFCGPHH_00243
+cpdB,cpdB,2'3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase,BDMKMOGB_00223,IAAMHMBP_01092,PKFCGPHH_00261
+group_169,,hypothetical protein,BDMKMOGB_00220,IAAMHMBP_01089,PKFCGPHH_00258
+group_168,,hypothetical protein,BDMKMOGB_00209,IAAMHMBP_01078,PKFCGPHH_00247
+rnz,rnz,Ribonuclease Z,BDMKMOGB_00227,IAAMHMBP_01096,PKFCGPHH_00265
+rps1,rps1,Small ribosomal subunit protein bS1,BDMKMOGB_00207,IAAMHMBP_01076,PKFCGPHH_00245
+group_167,,hypothetical protein,BDMKMOGB_00221,IAAMHMBP_01090,PKFCGPHH_00259
+group_166,,hypothetical protein,BDMKMOGB_00234,IAAMHMBP_01103,PKFCGPHH_00272
+rihA_1,rihA_1,Pyrimidine-specific ribonucleoside hydrolase RihA,BDMKMOGB_00233,IAAMHMBP_01102,PKFCGPHH_00271
+agaC,agaC,N-acetylgalactosamine permease IIC component 1,BDMKMOGB_01169,IAAMHMBP_01106,PKFCGPHH_01119
+bcaP_1,bcaP_1,Branched-chain amino acid permease BcaP,BDMKMOGB_00232,IAAMHMBP_01101,PKFCGPHH_00270
+ctpE,ctpE,Calcium-transporting ATPase CtpE,BDMKMOGB_01166,IAAMHMBP_01108,PKFCGPHH_01122
+uptA,uptA,Undecaprenyl phosphate transporter A,BDMKMOGB_00231,IAAMHMBP_01100,PKFCGPHH_00269
+clpX,clpX,ATP-dependent Clp protease ATP-binding subunit ClpX,BDMKMOGB_01145,IAAMHMBP_01114,PKFCGPHH_01129
+group_165,,hypothetical protein,BDMKMOGB_01143,IAAMHMBP_01112,PKFCGPHH_01127
+pfkA,pfkA,ATP-dependent 6-phosphofructokinase,BDMKMOGB_00218,IAAMHMBP_01087,PKFCGPHH_00256
+group_164,,putative oxidoreductase,BDMKMOGB_00226,IAAMHMBP_01095,PKFCGPHH_00264
+rnj2,rnj2,Ribonuclease J 2,BDMKMOGB_01230,IAAMHMBP_01118,PKFCGPHH_01090
+manZ_2,manZ_2;,PTS system mannose-specific EIID component;hypothetical protein,BDMKMOGB_01168;BDMKMOGB_01167,IAAMHMBP_01107,PKFCGPHH_01120;PKFCGPHH_01121
+cvfB,cvfB,Conserved virulence factor B,BDMKMOGB_00216,IAAMHMBP_01085,PKFCGPHH_00254
+manX_1~~~manX_2,;manX_1;manX_2,hypothetical protein;PTS system mannose-specific EIIAB component,BDMKMOGB_01170;BDMKMOGB_00236,IAAMHMBP_01105,PKFCGPHH_01118
+ypiA,ypiA,TPR repeat-containing protein YpiA,BDMKMOGB_00204,IAAMHMBP_01073,2_refound_2_pseudo
+rluB,rluB,Ribosomal large subunit pseudouridine synthase B,BDMKMOGB_00211,IAAMHMBP_01080,PKFCGPHH_00249
+pyk,pyk,Pyruvate kinase,BDMKMOGB_00217,IAAMHMBP_01086,PKFCGPHH_00255
+group_163,,hypothetical protein,BDMKMOGB_00225,IAAMHMBP_01094,PKFCGPHH_00263
+uvrC,uvrC,UvrABC system protein C,BDMKMOGB_00230,IAAMHMBP_01099,PKFCGPHH_00268
+holA,holA,DNA polymerase III subunit delta,BDMKMOGB_01227,IAAMHMBP_01121,PKFCGPHH_01093
+dnaE,dnaE,DNA polymerase III subunit alpha,BDMKMOGB_00219,IAAMHMBP_01088,PKFCGPHH_00257
+group_162,,hypothetical protein,BDMKMOGB_01226,IAAMHMBP_01122,PKFCGPHH_01094
+scpA,scpA,Segregation and condensation protein A,BDMKMOGB_00213,IAAMHMBP_01082,PKFCGPHH_00251
+group_161,,IS91 family transposase ISMno24,BDMKMOGB_00215,IAAMHMBP_01084,PKFCGPHH_00253
+group_160,,hypothetical protein,BDMKMOGB_00222,IAAMHMBP_01091,PKFCGPHH_00260
+xerS,xerS,Tyrosine recombinase XerS,BDMKMOGB_00203,IAAMHMBP_00353,PKFCGPHH_01370
+group_158,,hypothetical protein,BDMKMOGB_00173,IAAMHMBP_01068,PKFCGPHH_00242
+xerC_2,xerC_2,Tyrosine recombinase XerC,BDMKMOGB_00186,IAAMHMBP_00337,PKFCGPHH_00228
+group_157,,hypothetical protein,BDMKMOGB_00196,IAAMHMBP_00347,PKFCGPHH_00218
+parE,parE,DNA topoisomerase IV subunit B ParE,BDMKMOGB_00191,IAAMHMBP_00342,PKFCGPHH_00223
+group_156,,hypothetical protein,BDMKMOGB_00201,IAAMHMBP_00352,PKFCGPHH_00213
+group_155,,hypothetical protein,BDMKMOGB_00200,IAAMHMBP_00351,PKFCGPHH_00214
+group_154,,hypothetical protein,BDMKMOGB_00175,IAAMHMBP_01066,PKFCGPHH_00240
+trmFO,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO,BDMKMOGB_00185,IAAMHMBP_00336,PKFCGPHH_00229
+group_153,,DegV domain-containing protein,BDMKMOGB_00176,IAAMHMBP_00327,PKFCGPHH_00239
+group_152,,hypothetical protein,BDMKMOGB_00183,IAAMHMBP_00334,PKFCGPHH_00231
+rbgA,rbgA,Ribosome biogenesis GTPase A,BDMKMOGB_00179,IAAMHMBP_00330,PKFCGPHH_00235
+rnhB,rnhB,Ribonuclease HII,BDMKMOGB_00180,IAAMHMBP_00331,PKFCGPHH_00234
+topA,topA,DNA topoisomerase 1,BDMKMOGB_00184,IAAMHMBP_00335,PKFCGPHH_00230
+cca,cca,CCA-adding enzyme,BDMKMOGB_00174,IAAMHMBP_01067,PKFCGPHH_00241
+group_151,,hypothetical protein,BDMKMOGB_00182,IAAMHMBP_00333,PKFCGPHH_00232
+nhaK,nhaK;,Sodium potassium lithium and rubidium/H(+) antiporter;hypothetical protein,BDMKMOGB_00178,IAAMHMBP_00329,PKFCGPHH_00237;PKFCGPHH_00236
+ppaC,ppaC,putative manganese-dependent inorganic pyrophosphatase,BDMKMOGB_00193,IAAMHMBP_00344,PKFCGPHH_00221
+group_150,,Putative peptidyl-prolyl cis-trans isomerase,BDMKMOGB_00194,IAAMHMBP_00345,PKFCGPHH_00220
+clpQ,clpQ,ATP-dependent protease subunit ClpQ,BDMKMOGB_00187,IAAMHMBP_00338,PKFCGPHH_00227
+clpY,clpY,ATP-dependent protease ATPase subunit ClpY,BDMKMOGB_00188,IAAMHMBP_00339,PKFCGPHH_00226
+rqcH,rqcH,Rqc2 RqcH,BDMKMOGB_00195,IAAMHMBP_00346,PKFCGPHH_00219
+group_149,,hypothetical protein,BDMKMOGB_00177,IAAMHMBP_00328,PKFCGPHH_00238
+plsY_1,plsY_1,Glycerol-3-phosphate acyltransferase,BDMKMOGB_00190,IAAMHMBP_00341,PKFCGPHH_00224
+parC,parC,DNA topoisomerase IV subunit A ParC,BDMKMOGB_00192,IAAMHMBP_00343,PKFCGPHH_00222
+degV,degV,Protein DegV,BDMKMOGB_00197,IAAMHMBP_00348,PKFCGPHH_00217
+lacX,lacX,Protein LacX plasmid,BDMKMOGB_00189,IAAMHMBP_00340,PKFCGPHH_00225
+dps,dps,DNA protection during starvation protein,BDMKMOGB_00199,IAAMHMBP_00350,PKFCGPHH_00215
+group_148,,Acetyltransferase,BDMKMOGB_00181,IAAMHMBP_00332,PKFCGPHH_00233
+group_147,,hypothetical protein,BDMKMOGB_00198,IAAMHMBP_00349,PKFCGPHH_00216
+glnQ_1,glnQ_1,Glutamine transport ATP-binding protein GlnQ,BDMKMOGB_01467,IAAMHMBP_00996,PKFCGPHH_00761
+mvaS,mvaS,Hydroxymethylglutaryl-CoA synthase,BDMKMOGB_01011,IAAMHMBP_00961,PKFCGPHH_00797
+pstB3,pstB3,Phosphate import ATP-binding protein PstB 3,BDMKMOGB_01478,IAAMHMBP_01007,PKFCGPHH_00750
+tagO,tagO,putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase,BDMKMOGB_00120,IAAMHMBP_00920,PKFCGPHH_00838
+group_146,,putative ABC transporter ATP-binding protein,BDMKMOGB_01469,IAAMHMBP_00998,PKFCGPHH_00759
+mvaA,mvaA,3-hydroxy-3-methylglutaryl-coenzyme A reductase,BDMKMOGB_01010,IAAMHMBP_00962,PKFCGPHH_00796
+group_145,,Putative transport protein,BDMKMOGB_00131,IAAMHMBP_00931,PKFCGPHH_00827
+elaA,elaA,Protein ElaA,BDMKMOGB_01441,IAAMHMBP_00971,PKFCGPHH_00787
+mdtG,mdtG,Multidrug resistance protein MdtG,BDMKMOGB_01474,IAAMHMBP_01003,PKFCGPHH_00754
+group_144,,hypothetical protein,BDMKMOGB_00127,IAAMHMBP_00927,PKFCGPHH_00831
+group_143,,hypothetical protein,BDMKMOGB_01442,IAAMHMBP_00972,PKFCGPHH_00786
+group_142,,hypothetical protein,BDMKMOGB_01275,IAAMHMBP_00902,PKFCGPHH_00923
+group_141,,hypothetical protein,BDMKMOGB_01470,IAAMHMBP_00999,PKFCGPHH_00758
+yfmL,yfmL,putative ATP-dependent RNA helicase YfmL,BDMKMOGB_01448,IAAMHMBP_00978,PKFCGPHH_00780
+group_140,,Flavodoxin,BDMKMOGB_01439,IAAMHMBP_00969,PKFCGPHH_00789
+nadK,nadK,NAD kinase,BDMKMOGB_00863,IAAMHMBP_00938,PKFCGPHH_00820
+group_139,,hypothetical protein,BDMKMOGB_00126,IAAMHMBP_00926,PKFCGPHH_00832
+gltT,gltT,Proton/sodium-glutamate symport protein,BDMKMOGB_01484,IAAMHMBP_01013,PKFCGPHH_01387
+pyrP,pyrP,Uracil permease,BDMKMOGB_01483,IAAMHMBP_01012,PKFCGPHH_00745
+group_138,,hypothetical protein,BDMKMOGB_01252,IAAMHMBP_00957,PKFCGPHH_00801
+group_137,,hypothetical protein,BDMKMOGB_01459,IAAMHMBP_00989,PKFCGPHH_00769
+comFA,comFA,Competence protein ComFA,BDMKMOGB_00118,IAAMHMBP_00918,PKFCGPHH_00840
+recX,recX,Regulatory protein RecX,BDMKMOGB_01013,IAAMHMBP_00959,PKFCGPHH_00799
+group_136,,hypothetical protein,BDMKMOGB_01460,IAAMHMBP_00990,PKFCGPHH_00768
+steT_2,steT_2,Serine/threonine exchanger SteT,BDMKMOGB_01450,IAAMHMBP_00980,PKFCGPHH_00778
+glnH,glnH,ABC transporter glutamine-binding protein GlnH,BDMKMOGB_01466,IAAMHMBP_00995,PKFCGPHH_00762
+group_135,,hypothetical protein,BDMKMOGB_01444,IAAMHMBP_00974,PKFCGPHH_00784
+map,map,Methionine aminopeptidase 1,BDMKMOGB_01438,IAAMHMBP_00968,PKFCGPHH_00790
+group_134,,hypothetical protein,BDMKMOGB_00872,IAAMHMBP_00947,PKFCGPHH_00811
+uppP,uppP,Undecaprenyl-diphosphatase,BDMKMOGB_00134,IAAMHMBP_00934,PKFCGPHH_00824
+celB,celB,PTS system cellobiose-specific EIIC component,BDMKMOGB_01447,IAAMHMBP_00977,PKFCGPHH_00781
+group_133,,hypothetical protein,BDMKMOGB_00135,IAAMHMBP_00935,PKFCGPHH_00823
+group_132,,hypothetical protein,BDMKMOGB_01452,IAAMHMBP_00982,PKFCGPHH_00776
+rlmCD,rlmCD,23S rRNA (uracil-C(5))-methyltransferase RlmCD,BDMKMOGB_01012,IAAMHMBP_00960,PKFCGPHH_00798
+corC,corC,Magnesium and cobalt efflux protein CorC,BDMKMOGB_01251,IAAMHMBP_00956,PKFCGPHH_00802
+group_131,,hypothetical protein,BDMKMOGB_00867,IAAMHMBP_00942,PKFCGPHH_00816
+pstS1,pstS1,Phosphate-binding protein PstS 1,BDMKMOGB_01481,IAAMHMBP_01010,PKFCGPHH_00747
+group_130,,hypothetical protein,BDMKMOGB_01249,IAAMHMBP_00954,PKFCGPHH_00804
+yvcJ,yvcJ,Nucleotide-binding protein YvcJ,BDMKMOGB_01272,IAAMHMBP_00905,PKFCGPHH_00920
+hpf,hpf,Ribosome hibernation promotion factor,BDMKMOGB_00116,IAAMHMBP_00916,PKFCGPHH_00842
+pstA,pstA,Phosphate transport system permease protein PstA,BDMKMOGB_01479,IAAMHMBP_01008,PKFCGPHH_00749
+bcaP_2,bcaP_2,Branched-chain amino acid permease BcaP,BDMKMOGB_01475,IAAMHMBP_01004,PKFCGPHH_00753
+cspR,cspR,Putative tRNA (cytidine(34)-2'-O)-methyltransferase,BDMKMOGB_00130,IAAMHMBP_00930,PKFCGPHH_00828
+rluD_2,rluD_2,Ribosomal large subunit pseudouridine synthase D,BDMKMOGB_00862,IAAMHMBP_00937,PKFCGPHH_00821
+hpt,hpt,Hypoxanthine-guanine phosphoribosyltransferase,BDMKMOGB_01451,IAAMHMBP_00981,PKFCGPHH_00777
+group_129,,hypothetical protein,BDMKMOGB_01480,IAAMHMBP_01009,PKFCGPHH_00748
+pgsA,pgsA,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,BDMKMOGB_00123,IAAMHMBP_00923,PKFCGPHH_00835
+galT,galT,Galactose-1-phosphate uridylyltransferase,BDMKMOGB_01330,IAAMHMBP_00951,PKFCGPHH_00807
+gtaB,gtaB,UTP--glucose-1-phosphate uridylyltransferase,BDMKMOGB_01006,IAAMHMBP_00966,PKFCGPHH_00792
+yjeM_2,yjeM_2,Inner membrane transporter YjeM,BDMKMOGB_01476,IAAMHMBP_01005,PKFCGPHH_00752
+ptsH,ptsH,Phosphocarrier protein HPr,BDMKMOGB_00871,IAAMHMBP_00946,PKFCGPHH_00812
+rbsKrbiA,rbsK/rbiA,Bifunctional ribokinase/ribose-5-phosphate isomerase A,BDMKMOGB_01458,IAAMHMBP_00988,PKFCGPHH_00770
+rihC,rihC,Non-specific ribonucleoside hydrolase RihC,BDMKMOGB_01456,IAAMHMBP_00986,PKFCGPHH_00772
+group_128,,hypothetical protein,BDMKMOGB_01328,IAAMHMBP_00949,PKFCGPHH_00809
+prfC,prfC,Peptide chain release factor 3,BDMKMOGB_01250,IAAMHMBP_00955,PKFCGPHH_00803
+trxB,trxB,Thioredoxin reductase,BDMKMOGB_00109,IAAMHMBP_00909,PKFCGPHH_00916
+group_127,,hypothetical protein,BDMKMOGB_01007,IAAMHMBP_00965,PKFCGPHH_00793
+whiA,whiA,putative cell division protein WhiA,BDMKMOGB_01274,IAAMHMBP_00903,PKFCGPHH_00922
+rny,rny,Ribonuclease Y,BDMKMOGB_00121,IAAMHMBP_00921,PKFCGPHH_00837
+group_126,,hypothetical protein,BDMKMOGB_01445,IAAMHMBP_00975,PKFCGPHH_00783
+hprK,hprK,HPr kinase/phosphorylase,BDMKMOGB_00112,IAAMHMBP_00912,PKFCGPHH_01287
+bioH_3,bioH_3,Pimeloyl-[acyl-carrier protein] methyl ester esterase,BDMKMOGB_01008,IAAMHMBP_00964,PKFCGPHH_00794
+group_125,,hypothetical protein,BDMKMOGB_00865,IAAMHMBP_00940,PKFCGPHH_00818
+ykoT,ykoT,putative glycosyltransferase YkoT,BDMKMOGB_01472,IAAMHMBP_01001,PKFCGPHH_00756
+group_124,,hypothetical protein,BDMKMOGB_00113,IAAMHMBP_00913,PKFCGPHH_01286
+group_123,,hypothetical protein,BDMKMOGB_01461,IAAMHMBP_00991,PKFCGPHH_00767
+yjbM,yjbM,GTP pyrophosphokinase YjbM,BDMKMOGB_00864,IAAMHMBP_00939,PKFCGPHH_00819
+pgcA,pgcA,Phosphoglucomutase,BDMKMOGB_00108,IAAMHMBP_00908,PKFCGPHH_00917
+ptsI,ptsI,Phosphoenolpyruvate-protein phosphotransferase,BDMKMOGB_00870,IAAMHMBP_00945,PKFCGPHH_00813
+spxH,spxH,ClpXP adapter protein SpxH,BDMKMOGB_00866,IAAMHMBP_00941,PKFCGPHH_00817
+udk,udk,Uridine kinase,BDMKMOGB_01471,IAAMHMBP_01000,PKFCGPHH_00757
+group_122,,putative ABC transporter ATP-binding protein,BDMKMOGB_01468,IAAMHMBP_00997,PKFCGPHH_00760
+glnM,glnM,putative glutamine ABC transporter permease protein GlnM,BDMKMOGB_01465,IAAMHMBP_00994,PKFCGPHH_00763
+galE_2,galE_2,UDP-glucose 4-epimerase,BDMKMOGB_01331,IAAMHMBP_00952,PKFCGPHH_00806
+prfB,prfB,Peptide chain release factor 2,BDMKMOGB_00114,IAAMHMBP_00914,PKFCGPHH_01285
+pnbA,pnbA,4-nitrobenzoate reductase,BDMKMOGB_01453,IAAMHMBP_00983,PKFCGPHH_00775
+glnP,glnP,putative glutamine ABC transporter permease protein GlnP,BDMKMOGB_01464,IAAMHMBP_00993,PKFCGPHH_00764
+galM,galM,Aldose 1-epimerase,BDMKMOGB_01329,IAAMHMBP_00950,PKFCGPHH_00808
+yigZ,yigZ,IMPACT family member YigZ,BDMKMOGB_00119,IAAMHMBP_00919,PKFCGPHH_00839
+pgl,pgl,6-phosphogluconolactonase,BDMKMOGB_00133,IAAMHMBP_00933,PKFCGPHH_00825
+gpsA,gpsA,Glycerol-3-phosphate dehydrogenase [NAD(P)+],BDMKMOGB_00110,IAAMHMBP_00910,PKFCGPHH_00915
+uvrB_1,uvrB_1,UvrABC system protein B,BDMKMOGB_00107,IAAMHMBP_00907,PKFCGPHH_00918
+group_121,,Adenine deaminase,BDMKMOGB_01485,IAAMHMBP_01015;IAAMHMBP_01014,PKFCGPHH_01386
+group_120,,Putative gluconeogenesis factor,BDMKMOGB_01273,IAAMHMBP_00904,PKFCGPHH_00921
+comFC,comFC,Competence protein ComFC,BDMKMOGB_00117,IAAMHMBP_00917,PKFCGPHH_00841
+mecA,mecA,Adapter protein MecA 1,BDMKMOGB_00868,IAAMHMBP_00943,PKFCGPHH_00815
+clpE_2,clpE_2,ATP-dependent Clp protease ATP-binding subunit ClpE,BDMKMOGB_00873,IAAMHMBP_00948,PKFCGPHH_00810
+group_119,,hypothetical protein,BDMKMOGB_00136,IAAMHMBP_00936,PKFCGPHH_00822
+group_118,,hypothetical protein,BDMKMOGB_00124,IAAMHMBP_00924,PKFCGPHH_00834
+group_117,,hypothetical protein,BDMKMOGB_01473,IAAMHMBP_01002,PKFCGPHH_00755
+rpiA,rpiA,Ribose-5-phosphate isomerase A,BDMKMOGB_01457,IAAMHMBP_00987,PKFCGPHH_00771
+group_116,,hypothetical protein,BDMKMOGB_01440,IAAMHMBP_00970,PKFCGPHH_00788
+group_115,,hypothetical protein,BDMKMOGB_01253,IAAMHMBP_00958,PKFCGPHH_00800
+recA,recA,Protein RecA,BDMKMOGB_00122,IAAMHMBP_00922,PKFCGPHH_00836
+xpkA,xpkA,Xylulose-5-phosphate phosphoketolase,BDMKMOGB_01454,IAAMHMBP_00984,PKFCGPHH_00774
+galK_1~~~galK_2,galK_1;galK_2,Galactokinase,BDMKMOGB_01248;BDMKMOGB_01332,IAAMHMBP_00953,PKFCGPHH_00805
+spoIIIE,spoIIIE,DNA translocase SpoIIIE,BDMKMOGB_00128,IAAMHMBP_00928,PKFCGPHH_00830
+secA,secA,Protein translocase subunit SecA,BDMKMOGB_00115,IAAMHMBP_00915,PKFCGPHH_01284
+group_114,,hypothetical protein,BDMKMOGB_01462;BDMKMOGB_01463,IAAMHMBP_00992,PKFCGPHH_00766;PKFCGPHH_00765
+phoU,phoU,Phosphate-specific transport system accessory protein PhoU,BDMKMOGB_01477,IAAMHMBP_01006,PKFCGPHH_00751
+group_113,,hypothetical protein,BDMKMOGB_01482,IAAMHMBP_01011,PKFCGPHH_00746
+group_112,,hypothetical protein,BDMKMOGB_01449,IAAMHMBP_00979,PKFCGPHH_00779
+group_111,,hypothetical protein,BDMKMOGB_01005,IAAMHMBP_00967,PKFCGPHH_00791
+pacL,pacL,Calcium-transporting ATPase,BDMKMOGB_00132,IAAMHMBP_00932,PKFCGPHH_00826
+group_110,,hypothetical protein,BDMKMOGB_00129,IAAMHMBP_00929,PKFCGPHH_00829
+uvrA_1,uvrA_1,UvrABC system protein A,BDMKMOGB_00106,IAAMHMBP_00906,PKFCGPHH_00919
+gmuR_2,gmuR_2,HTH-type transcriptional regulator GmuR,BDMKMOGB_01455,IAAMHMBP_00985,PKFCGPHH_00773
+spx,spx,Global transcriptional regulator Spx,BDMKMOGB_00869,IAAMHMBP_00944,PKFCGPHH_00814
+fabG,fabG,3-oxoacyl-[acyl-carrier-protein] reductase FabG,BDMKMOGB_00125,IAAMHMBP_00925,PKFCGPHH_00833
+mnaA,mnaA,UDP-N-acetylglucosamine 2-epimerase,BDMKMOGB_01443,IAAMHMBP_00973,PKFCGPHH_00785
+lgt,lgt,Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase,BDMKMOGB_00111,IAAMHMBP_00911,PKFCGPHH_00914
+thlA,thlA,Acetyl-CoA acetyltransferase,BDMKMOGB_01009,IAAMHMBP_00963,PKFCGPHH_00795
+group_109,,Putative protein phosphatase 2C-type,BDMKMOGB_00153,IAAMHMBP_00512,PKFCGPHH_00412
+group_108,,hypothetical protein,BDMKMOGB_00338,IAAMHMBP_00605,PKFCGPHH_00506
+yfkJ,yfkJ,Low molecular weight protein-tyrosine-phosphatase YfkJ,BDMKMOGB_00067,IAAMHMBP_00470,PKFCGPHH_01182
+group_106,,hypothetical protein,BDMKMOGB_01136,IAAMHMBP_00484,PKFCGPHH_00384
+tpiA,tpiA,Triosephosphate isomerase,BDMKMOGB_00097,IAAMHMBP_00893,PKFCGPHH_00659
+ackA,ackA,Acetate kinase,BDMKMOGB_01138,IAAMHMBP_00482,PKFCGPHH_01194
+dacA_3,dacA_3,D-alanyl-D-alanine carboxypeptidase DacA,BDMKMOGB_00623,IAAMHMBP_00617,PKFCGPHH_00518
+sufS,sufS,Cysteine desulfurase SufS,BDMKMOGB_01234,IAAMHMBP_00490,PKFCGPHH_00390
+rodA,rodA,Peptidoglycan glycosyltransferase RodA,BDMKMOGB_00615,IAAMHMBP_00422,PKFCGPHH_00941
+group_105,,hypothetical protein,BDMKMOGB_01265,IAAMHMBP_00478,PKFCGPHH_01190
+pgk,pgk,Phosphoglycerate kinase,BDMKMOGB_00098,IAAMHMBP_00894,PKFCGPHH_00658
+rpsB,rpsB,Small ribosomal subunit protein uS2,BDMKMOGB_00393,IAAMHMBP_00552,PKFCGPHH_00452
+group_103,,hypothetical protein,BDMKMOGB_00088,IAAMHMBP_00884,PKFCGPHH_00668
+copY,copY,Transcriptional repressor CopY,BDMKMOGB_00073,IAAMHMBP_00464,PKFCGPHH_01176
+iscU,iscU,Iron-sulfur cluster assembly scaffold protein IscU,BDMKMOGB_01233,IAAMHMBP_00491,PKFCGPHH_00391
+group_101,,hypothetical protein,BDMKMOGB_00353,IAAMHMBP_00590,PKFCGPHH_00491
+atpC,atpC,ATP synthase epsilon chain,BDMKMOGB_00610,IAAMHMBP_00427,PKFCGPHH_00936
+group_99,,hypothetical protein,BDMKMOGB_00411,IAAMHMBP_00534,PKFCGPHH_00434
+group_98,,hypothetical protein,BDMKMOGB_00348,IAAMHMBP_00595,PKFCGPHH_00496
+group_97,,hypothetical protein,BDMKMOGB_00167,IAAMHMBP_00498,PKFCGPHH_00398
+group_96,,Iron-sulfur cluster assembly SufBD family protein,BDMKMOGB_01235,IAAMHMBP_00489,PKFCGPHH_00389
+sufC,sufC,Vegetative protein 296,BDMKMOGB_01236,IAAMHMBP_00488,PKFCGPHH_00388
+ydjP,ydjP,AB hydrolase superfamily protein YdjP,BDMKMOGB_00627,IAAMHMBP_00621,PKFCGPHH_00522
+perR,perR,Peroxide-responsive repressor PerR,BDMKMOGB_00103,IAAMHMBP_00899,PKFCGPHH_00653
+smpB,smpB,SsrA-binding protein,BDMKMOGB_00093,IAAMHMBP_00889,PKFCGPHH_00663
+rasP,rasP,Regulator of sigma-W protease RasP,BDMKMOGB_00387,IAAMHMBP_00558,PKFCGPHH_00458
+group_92,,D-aspartate ligase,BDMKMOGB_01327,IAAMHMBP_00449,PKFCGPHH_00351
+group_91,,hypothetical protein,BDMKMOGB_00388,IAAMHMBP_00557,PKFCGPHH_00457
+potC,potC,Spermidine/putrescine transport system permease protein PotC,BDMKMOGB_00080,IAAMHMBP_00457,PKFCGPHH_01169
+group_86,,Putative phosphatase,BDMKMOGB_00075,IAAMHMBP_00462,PKFCGPHH_01174
+group_85,,hypothetical protein,BDMKMOGB_00350,IAAMHMBP_00593,PKFCGPHH_00494
+tlyA,tlyA,Hemolysin A,BDMKMOGB_00161,IAAMHMBP_00504,PKFCGPHH_00404
+potB,potB,Spermidine/putrescine transport system permease protein PotB,BDMKMOGB_00081,IAAMHMBP_00456,PKFCGPHH_01168
+rimP,rimP,Ribosome maturation factor RimP,BDMKMOGB_00384,IAAMHMBP_00561,PKFCGPHH_00461
+tsaE,tsaE,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE,BDMKMOGB_00089,IAAMHMBP_00885,PKFCGPHH_00667
+group_83,,hypothetical protein,BDMKMOGB_00086,IAAMHMBP_00451,PKFCGPHH_00670
+eno2,eno2,Enolase 2,BDMKMOGB_00096,IAAMHMBP_00892,PKFCGPHH_00660
+group_81,,DegV domain-containing protein,BDMKMOGB_00365,IAAMHMBP_00579,PKFCGPHH_00479
+ftsY,ftsY,Signal recognition particle receptor FtsY,BDMKMOGB_00413,IAAMHMBP_00532,PKFCGPHH_00432
+rpmB,rpmB,Large ribosomal subunit protein bL28,BDMKMOGB_00148,IAAMHMBP_00517,PKFCGPHH_00417
+rsmB,rsmB,Ribosomal RNA small subunit methyltransferase B,BDMKMOGB_00154,IAAMHMBP_00511,PKFCGPHH_00411
+aptA,aptA,Apulose-4-phosphate transketolase subunit A,BDMKMOGB_00360,IAAMHMBP_00584,PKFCGPHH_00484
+group_80,,Putative phosphatase,BDMKMOGB_00074,IAAMHMBP_00463,PKFCGPHH_01175
+dfrA,dfrA,Dihydrofolate reductase,BDMKMOGB_00339,IAAMHMBP_00604,PKFCGPHH_00505
+atpF,atpF,ATP synthase subunit b,BDMKMOGB_00605,IAAMHMBP_00432,PKFCGPHH_00931
+pgi,pgi,Glucose-6-phosphate isomerase,BDMKMOGB_00591,IAAMHMBP_00446,PKFCGPHH_00354
+prmC,prmC,Release factor glutamine methyltransferase,BDMKMOGB_00600,IAAMHMBP_00437,PKFCGPHH_00926
+group_78,,hypothetical protein,BDMKMOGB_00366,IAAMHMBP_00578,PKFCGPHH_00478
+dacA_1,dacA_1,Diadenylate cyclase,BDMKMOGB_00078,IAAMHMBP_00459,PKFCGPHH_01171
+rimM,rimM,Ribosome maturation factor RimM,BDMKMOGB_00406,IAAMHMBP_00539,PKFCGPHH_00439
+group_77,,hypothetical protein,BDMKMOGB_00356,IAAMHMBP_00587,PKFCGPHH_00488
+ribZ,ribZ,Riboflavin transporter RibZ,BDMKMOGB_00592,IAAMHMBP_00445,PKFCGPHH_00355
+group_76,,hypothetical protein,BDMKMOGB_00092,IAAMHMBP_00888,PKFCGPHH_00664
+glmM,glmM,Phosphoglucosamine mutase,BDMKMOGB_00076,IAAMHMBP_00461,PKFCGPHH_01173
+group_74,,hypothetical protein,BDMKMOGB_00065,IAAMHMBP_00472,PKFCGPHH_01184
+folD,folD,Bifunctional protein FolD protein,BDMKMOGB_00165,IAAMHMBP_00500,PKFCGPHH_00400
+xseA,xseA,Exodeoxyribonuclease 7 large subunit,BDMKMOGB_00164,IAAMHMBP_00501,PKFCGPHH_00401
+group_72,,hypothetical protein,BDMKMOGB_01266,IAAMHMBP_00479,PKFCGPHH_01191
+apt,apt,Adenine phosphoribosyltransferase,BDMKMOGB_00368,IAAMHMBP_00576,PKFCGPHH_00476
+atpH_1,atpH_1,ATP synthase subunit c,BDMKMOGB_00604,IAAMHMBP_00433,PKFCGPHH_00930
+group_71,,hypothetical protein,BDMKMOGB_01134,IAAMHMBP_00486,PKFCGPHH_00386
+rpoZ,rpoZ,DNA-directed RNA polymerase subunit omega,BDMKMOGB_00157,IAAMHMBP_00508,PKFCGPHH_00408
+group_69,,hypothetical protein,BDMKMOGB_00398,IAAMHMBP_00547,PKFCGPHH_00447
+thrP_1,thrP_1,Threonine/serine transporter ThrP,BDMKMOGB_00342,IAAMHMBP_00601,PKFCGPHH_00502
+crtE,crtE,Geranylgeranyl pyrophosphate synthase,BDMKMOGB_00162,IAAMHMBP_00503,PKFCGPHH_00403
+polC_1,polC_1,DNA polymerase III PolC-type,BDMKMOGB_00084,IAAMHMBP_00453,PKFCGPHH_01165
+qmcA,qmcA,Protein QmcA,BDMKMOGB_00341,IAAMHMBP_00602,PKFCGPHH_00503
+group_68,,hypothetical protein,BDMKMOGB_00614,IAAMHMBP_00423,PKFCGPHH_00940
+group_67,,NADH:fumarate oxidoreductase,BDMKMOGB_00620,IAAMHMBP_00614,PKFCGPHH_00515
+fumC,fumC,Fumarate hydratase class II,BDMKMOGB_00619,IAAMHMBP_00613,PKFCGPHH_00514
+group_66,,Iron-sulfur cluster assembly SufBD family protein,BDMKMOGB_01232,IAAMHMBP_00492,PKFCGPHH_00392
+tsf,tsf,Elongation factor Ts,BDMKMOGB_00392,IAAMHMBP_00553,PKFCGPHH_00453
+thrP_2,thrP_2,Threonine/serine transporter ThrP,BDMKMOGB_00343,IAAMHMBP_00600,PKFCGPHH_00501
+citX,citX,apo-citrate lyase phosphoribosyl-dephospho-CoA transferase,BDMKMOGB_00624,IAAMHMBP_00618,PKFCGPHH_00519
+group_64,,hypothetical protein,BDMKMOGB_00410,IAAMHMBP_00535,PKFCGPHH_00435
+mtsA,mtsA,Iron ABC transporter substrate-binding lipoprotein MtsA,BDMKMOGB_00064,IAAMHMBP_00473,PKFCGPHH_01185
+secG,secG,putative protein-export membrane protein SecG,BDMKMOGB_00095,IAAMHMBP_00891,PKFCGPHH_00661
+atpH_2,atpH_2,ATP synthase subunit delta,BDMKMOGB_00606,IAAMHMBP_00431,PKFCGPHH_00932
+group_63,,hypothetical protein,BDMKMOGB_00611,IAAMHMBP_00426,PKFCGPHH_00937
+yflS_2,yflS_2,Putative malate transporter YflS,BDMKMOGB_00621,IAAMHMBP_00615,PKFCGPHH_00516
+pepDA_1,pepDA_1,Dipeptidase A,BDMKMOGB_00412,IAAMHMBP_00533,PKFCGPHH_00433
+ffh,ffh,Signal recognition particle protein,BDMKMOGB_00408,IAAMHMBP_00537,PKFCGPHH_00437
+group_62,,hypothetical protein,BDMKMOGB_00593,IAAMHMBP_00444,PKFCGPHH_00356
+truB,truB,tRNA pseudouridine synthase B,BDMKMOGB_00378,IAAMHMBP_00567,PKFCGPHH_00467
+acpP,acpP,Acyl carrier protein,BDMKMOGB_00143,IAAMHMBP_00522,PKFCGPHH_00422
+axeA1,axeA1,Acetylxylan esterase,BDMKMOGB_00355,IAAMHMBP_00588,PKFCGPHH_00489
+rsgA,rsgA,Small ribosomal subunit biogenesis GTPase RsgA,BDMKMOGB_00151,IAAMHMBP_00514,PKFCGPHH_00414
+frr,frr,Ribosome-recycling factor,BDMKMOGB_00390,IAAMHMBP_00555,PKFCGPHH_00455
+atpD,atpD,ATP synthase subunit beta,BDMKMOGB_00609,IAAMHMBP_00428,PKFCGPHH_00935
+glpK_1,glpK_1,Glycerol kinase,BDMKMOGB_00362,IAAMHMBP_00582,PKFCGPHH_00482
+xseB,xseB,Exodeoxyribonuclease 7 small subunit,BDMKMOGB_00163,IAAMHMBP_00502,PKFCGPHH_00402
+scrB,scrB,Sucrose-6-phosphate hydrolase,BDMKMOGB_00402,IAAMHMBP_00543,PKFCGPHH_00443
+yflS_3,yflS_3,Putative malate transporter YflS,BDMKMOGB_00622,IAAMHMBP_00616,PKFCGPHH_00517
+group_61,,hypothetical protein,BDMKMOGB_00399,IAAMHMBP_00546,PKFCGPHH_00446
+group_60,,hypothetical protein,BDMKMOGB_00364,IAAMHMBP_00580,PKFCGPHH_00480
+efp_1,efp_1,Elongation factor P,BDMKMOGB_00168,IAAMHMBP_00497,PKFCGPHH_00397
+bglH,bglH,Aryl-phospho-beta-D-glucosidase BglH,BDMKMOGB_00347,IAAMHMBP_00596,PKFCGPHH_00497
+bglK_1,bglK_1,Beta-glucoside kinase,BDMKMOGB_00346,IAAMHMBP_00597,PKFCGPHH_00498
+group_59,,hypothetical protein,BDMKMOGB_00172,IAAMHMBP_00493,PKFCGPHH_00393
+murB,murB,UDP-N-acetylenolpyruvoylglucosamine reductase,BDMKMOGB_00083,IAAMHMBP_00454,PKFCGPHH_01166
+citE,citE,Citrate lyase subunit beta,BDMKMOGB_00631,IAAMHMBP_00625,PKFCGPHH_00526
+grpE,grpE,Protein GrpE,BDMKMOGB_00375,IAAMHMBP_00570,PKFCGPHH_00470
+atpA,atpA,ATP synthase subunit alpha,BDMKMOGB_00607,IAAMHMBP_00430,PKFCGPHH_00933
+clpP,clpP,ATP-dependent Clp protease proteolytic subunit,BDMKMOGB_00104,IAAMHMBP_00900,PKFCGPHH_00652
+group_58,,hypothetical protein,BDMKMOGB_01135,IAAMHMBP_00485,PKFCGPHH_00385
+oppC,oppC,Oligopeptide transport system permease protein OppC,BDMKMOGB_00139,IAAMHMBP_00526,PKFCGPHH_00426
+group_57,,hypothetical protein,BDMKMOGB_00352,IAAMHMBP_00591,PKFCGPHH_00492
+citF,citF,Citrate lyase alpha chain,BDMKMOGB_00632,IAAMHMBP_00626,PKFCGPHH_00527
+group_56,,hypothetical protein,BDMKMOGB_00345,IAAMHMBP_00598,PKFCGPHH_00499
+rpsP,rpsP,Small ribosomal subunit protein bS16,BDMKMOGB_00407,IAAMHMBP_00538,PKFCGPHH_00438
+ldh,ldh,L-lactate dehydrogenase,BDMKMOGB_00626,IAAMHMBP_00620,PKFCGPHH_00521
+group_55,,hypothetical protein,BDMKMOGB_00382,IAAMHMBP_00563,PKFCGPHH_00463
+group_54,,hypothetical protein,BDMKMOGB_00349,IAAMHMBP_00594,PKFCGPHH_00495
+group_53,,hypothetical protein,BDMKMOGB_01436,IAAMHMBP_00608,PKFCGPHH_00509
+csbB,csbB,Putative glycosyltransferase CsbB,BDMKMOGB_00337,IAAMHMBP_00606,PKFCGPHH_00507
+aimA,aimA,Glutamate/serine transporter AimA,BDMKMOGB_00102,IAAMHMBP_00898,PKFCGPHH_00654
+tdk,tdk,Thymidine kinase,BDMKMOGB_00598,IAAMHMBP_00439,PKFCGPHH_00924
+ribCF,ribCF,Bifunctional riboflavin kinase/FMN adenylyltransferase,BDMKMOGB_00377,IAAMHMBP_00568,PKFCGPHH_00468
+citD,citD,Citrate lyase acyl carrier protein,BDMKMOGB_00630,IAAMHMBP_00624,PKFCGPHH_00525
+aptB,aptB,Apulose-4-phosphate transketolase subunit B,BDMKMOGB_00361,IAAMHMBP_00583,PKFCGPHH_00483
+plsC,plsC,1-acyl-sn-glycerol-3-phosphate acyltransferase,BDMKMOGB_00395,IAAMHMBP_00550,PKFCGPHH_00450
+fmt,fmt,Methionyl-tRNA formyltransferase,BDMKMOGB_00155,IAAMHMBP_00510,PKFCGPHH_00410
+group_51,,Putative membrane protein insertion efficiency factor,BDMKMOGB_00613,IAAMHMBP_00424,PKFCGPHH_00939
+group_50,,putative protein,BDMKMOGB_00146,IAAMHMBP_00519,PKFCGPHH_00419
+gmk_1,gmk_1,Guanylate kinase,BDMKMOGB_00158,IAAMHMBP_00507,PKFCGPHH_00407
+sorC,sorC,Sorbitol operon regulator,BDMKMOGB_00628,IAAMHMBP_00622,PKFCGPHH_00523
+recN,recN,DNA repair protein RecN,BDMKMOGB_00160,IAAMHMBP_00505,PKFCGPHH_00405
+rpmA,rpmA,Large ribosomal subunit protein bL27,BDMKMOGB_00170,IAAMHMBP_00495,PKFCGPHH_00395
+proS,proS,Proline--tRNA ligase,BDMKMOGB_00386,IAAMHMBP_00559,PKFCGPHH_00459
+ccpA_2,ccpA_2,Catabolite control protein A,BDMKMOGB_00354,IAAMHMBP_00589,PKFCGPHH_00490
+thyA,thyA,Thymidylate synthase,BDMKMOGB_00340,IAAMHMBP_00603,PKFCGPHH_00504
+group_49,,hypothetical protein,BDMKMOGB_00159,IAAMHMBP_00506,PKFCGPHH_00406
+rulQ,rulQ,RNA-binding protein YlxQ,BDMKMOGB_00381,IAAMHMBP_00564,PKFCGPHH_00464
+oppB,oppB,Oligopeptide transport system permease protein OppB,BDMKMOGB_00140,IAAMHMBP_00525,PKFCGPHH_00425
+atpG,atpG,ATP synthase gamma chain,BDMKMOGB_00608,IAAMHMBP_00429,PKFCGPHH_00934
+upp,upp,Uracil phosphoribosyltransferase,BDMKMOGB_00602,IAAMHMBP_00435,PKFCGPHH_00928
+rplU,rplU,Large ribosomal subunit protein bL21,BDMKMOGB_00171,IAAMHMBP_00494,PKFCGPHH_00394
+yheI,yheI,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI,BDMKMOGB_00397,IAAMHMBP_00548,PKFCGPHH_00448
+lexA_2,lexA_2,LexA repressor,BDMKMOGB_00400,IAAMHMBP_00545,PKFCGPHH_00445
+oppF,oppF,Oligopeptide transport ATP-binding protein OppF,BDMKMOGB_00141,IAAMHMBP_00524,PKFCGPHH_00424
+cdaR,cdaR,CdaA regulatory protein CdaR,BDMKMOGB_00077,IAAMHMBP_00460,PKFCGPHH_01172
+comGA,comGA,Competence protein ComGA,BDMKMOGB_01262,IAAMHMBP_00475,PKFCGPHH_01187
+yheH,yheH,putative multidrug resistance ABC transporter ATP-binding/permease protein YheH,BDMKMOGB_00396,IAAMHMBP_00549,PKFCGPHH_00449
+pta,pta,Phosphate acetyltransferase,BDMKMOGB_00090,IAAMHMBP_00886,PKFCGPHH_00666
+group_47,,hypothetical protein,BDMKMOGB_01267;BDMKMOGB_01140,IAAMHMBP_00480,PKFCGPHH_01192
+group_46,,hypothetical protein,BDMKMOGB_01237,IAAMHMBP_00487,PKFCGPHH_00387
+degA,degA,HTH-type transcriptional regulator DegA,BDMKMOGB_00403,IAAMHMBP_00542,PKFCGPHH_00442
+lepA_1,lepA_1,Elongation factor 4,BDMKMOGB_00372,IAAMHMBP_00573,PKFCGPHH_00473
+mbl,mbl,Cell shape-determining protein Mbl,BDMKMOGB_00612,IAAMHMBP_00425,PKFCGPHH_00938
+comGC,comGC,Competence protein ComGC,BDMKMOGB_01264,IAAMHMBP_00477,PKFCGPHH_01189
+dnaK,dnaK,Chaperone protein DnaK,BDMKMOGB_00374,IAAMHMBP_00571,PKFCGPHH_00471
+group_44,,hypothetical protein,BDMKMOGB_01139,IAAMHMBP_00481,PKFCGPHH_01193
+group_43,,hypothetical protein,BDMKMOGB_00409,IAAMHMBP_00536,PKFCGPHH_00436
+ywlC,ywlC,Threonylcarbamoyl-AMP synthase,BDMKMOGB_00601,IAAMHMBP_00436,PKFCGPHH_00927
+group_42,,hypothetical protein,BDMKMOGB_01263,IAAMHMBP_00476,PKFCGPHH_01188
+tmk_1,;tmk_1,hypothetical protein;Thymidylate kinase,BDMKMOGB_00087,IAAMHMBP_00883,PKFCGPHH_00669
+copA,copA,Copper-exporting P-type ATPase,BDMKMOGB_00071,IAAMHMBP_00466,PKFCGPHH_01178
+plsX,plsX,Phosphate acyltransferase,BDMKMOGB_00144,IAAMHMBP_00521,PKFCGPHH_00421
+fluC2,fluC2,Fluoride-specific ion channel FluC 2,BDMKMOGB_00069,IAAMHMBP_00468,PKFCGPHH_01180
+yfiC,yfiC,tRNA1(Val) (adenine(37)-N6)-methyltransferase,BDMKMOGB_00394,IAAMHMBP_00551,PKFCGPHH_00451
+scrA,scrA,PTS system sucrose-specific EIIBCA component,BDMKMOGB_00401,IAAMHMBP_00544,PKFCGPHH_00444
+amiE,amiE,N-acetylmuramyl-L-alanine amidase,BDMKMOGB_00596,IAAMHMBP_00441,PKFCGPHH_01265
+group_41,,hypothetical protein,BDMKMOGB_01325,IAAMHMBP_00447,PKFCGPHH_00353
+rpe,rpe,Ribulose-phosphate 3-epimerase,BDMKMOGB_00150,IAAMHMBP_00515,PKFCGPHH_00415
+cytR_1,cytR_1,HTH-type transcriptional repressor CytR,BDMKMOGB_00359,IAAMHMBP_00585,PKFCGPHH_00485
+rplS,rplS,Large ribosomal subunit protein bL19,BDMKMOGB_00404,IAAMHMBP_00541,PKFCGPHH_00441
+oppD,oppD,Oligopeptide transport ATP-binding protein OppD,BDMKMOGB_00142,IAAMHMBP_00523,PKFCGPHH_00423
+gap,gap,Glyceraldehyde-3-phosphate dehydrogenase,BDMKMOGB_00099,IAAMHMBP_00895,PKFCGPHH_00657
+prkC,prkC,Serine/threonine-protein kinase PrkC,BDMKMOGB_00152,IAAMHMBP_00513,PKFCGPHH_00413
+recG,recG,ATP-dependent DNA helicase RecG,BDMKMOGB_00145,IAAMHMBP_00520,PKFCGPHH_00420
+oppA_2~~~oppA_3~~~oppA_1,oppA_2;oppA_3;oppA_1,Oligopeptide-binding protein OppA,BDMKMOGB_00137,IAAMHMBP_00529,PKFCGPHH_00429;PKFCGPHH_00428
+thiN,thiN,Thiamine pyrophosphokinase,BDMKMOGB_00149,IAAMHMBP_00516,PKFCGPHH_00416
+rhaS_1,rhaS_1,HTH-type transcriptional activator RhaS,BDMKMOGB_00351,IAAMHMBP_00592,PKFCGPHH_00493
+hrcA,hrcA,Heat-inducible transcription repressor HrcA,BDMKMOGB_00376,IAAMHMBP_00569,PKFCGPHH_00469
+rbfA,rbfA,Ribosome-binding factor A,BDMKMOGB_00379,IAAMHMBP_00566,PKFCGPHH_00466
+cggR,cggR,Central glycolytic genes regulator,BDMKMOGB_00100,IAAMHMBP_00896,PKFCGPHH_00656
+citC,citC,[Citrate [pro-3S]-lyase] ligase,BDMKMOGB_00629,IAAMHMBP_00623,PKFCGPHH_00524
+ltaS2,ltaS2,Lipoteichoic acid synthase 2,BDMKMOGB_01326,IAAMHMBP_00448,PKFCGPHH_00352
+group_39,,putative protein,BDMKMOGB_00147,IAAMHMBP_00518,PKFCGPHH_00418
+metN,metN,Methionine import ATP-binding protein MetN,BDMKMOGB_00617,IAAMHMBP_00611,PKFCGPHH_00512
+mscL,mscL,Large-conductance mechanosensitive channel,BDMKMOGB_01435,IAAMHMBP_00609,PKFCGPHH_00510
+ydfK,ydfK,putative membrane protein YdfK,BDMKMOGB_00344,IAAMHMBP_00599,PKFCGPHH_00500
+potD,potD,Spermidine/putrescine-binding periplasmic protein,BDMKMOGB_00079,IAAMHMBP_00458,PKFCGPHH_01170
+ung,ung,Uracil-DNA glycosylase,BDMKMOGB_00091,IAAMHMBP_00887,PKFCGPHH_00665
+group_38,,hypothetical protein,BDMKMOGB_00072,IAAMHMBP_00465,PKFCGPHH_01177
+mgtA,mgtA,Magnesium-transporting ATPase P-type 1,BDMKMOGB_00367,IAAMHMBP_00577,PKFCGPHH_00477
+rnc,rnc,Ribonuclease 3,BDMKMOGB_00415,IAAMHMBP_00530,PKFCGPHH_00430
+rnr,rnr,Ribonuclease R,BDMKMOGB_00094,IAAMHMBP_00890,PKFCGPHH_00662
+recJ,;recJ,hypothetical protein;Single-stranded-DNA-specific exonuclease RecJ,BDMKMOGB_00369;BDMKMOGB_00370,IAAMHMBP_00575,PKFCGPHH_00475
+prfA,prfA,Peptide chain release factor 1,BDMKMOGB_00599,IAAMHMBP_00438,PKFCGPHH_00925
+dltA_1,;dltA_1,hypothetical protein;D-alanine--D-alanyl carrier protein ligase,BDMKMOGB_00085,IAAMHMBP_00452,PKFCGPHH_01164
+metP,metP,Methionine import system permease protein MetP,BDMKMOGB_00618,IAAMHMBP_00612,PKFCGPHH_00513
+priA,priA,Replication restart protein PriA,BDMKMOGB_00156,IAAMHMBP_00509,PKFCGPHH_00409
+vanH~~~ldhA,vanH;ldhA,D-specific alpha-keto acid dehydrogenase;D-2-hydroxyacid dehydrogenase (NAD(+)),BDMKMOGB_00105,IAAMHMBP_00901,PKFCGPHH_00651
+potA,potA,Spermidine/putrescine import ATP-binding protein PotA,BDMKMOGB_00082,IAAMHMBP_00455,PKFCGPHH_01167
+nusA,nusA,Transcription termination/antitermination protein NusA,BDMKMOGB_00383,IAAMHMBP_00562,PKFCGPHH_00462
+ypdF,ypdF,Aminopeptidase YpdF,BDMKMOGB_00169,IAAMHMBP_00496,PKFCGPHH_00396
+fluC1,fluC1,Fluoride-specific ion channel FluC 1,BDMKMOGB_00070,IAAMHMBP_00467,PKFCGPHH_01179
+group_35,,hypothetical protein,BDMKMOGB_00068,IAAMHMBP_00469,PKFCGPHH_01181
+strA,strA,Sortase A,BDMKMOGB_00371,IAAMHMBP_00574,PKFCGPHH_00474
+uppS,uppS,Ditranspolycis-undecaprenyl-diphosphate synthase ((2E6E)-farnesyl-diphosphate specific),BDMKMOGB_00389,IAAMHMBP_00556,PKFCGPHH_00456
+lepA_2,lepA_2,Elongation factor 4,BDMKMOGB_00380,IAAMHMBP_00565,PKFCGPHH_00465
+atpB,atpB,ATP synthase subunit a,BDMKMOGB_00603,IAAMHMBP_00434,PKFCGPHH_00929
+oppA_1~~~oppA_2,oppA_1;oppA_2,Oligopeptide-binding protein OppA,BDMKMOGB_00138,IAAMHMBP_00527;IAAMHMBP_00528,PKFCGPHH_00427
+group_34,,hypothetical protein,BDMKMOGB_00336,IAAMHMBP_00607,PKFCGPHH_00508
+pyrH,pyrH,Uridylate kinase,BDMKMOGB_00391,IAAMHMBP_00554,PKFCGPHH_00454
+yjmC,yjmC,putative oxidoreductase YjmC,BDMKMOGB_00625,IAAMHMBP_00619,PKFCGPHH_00520
+ycaM_2~~~ycaM_1,ycaM_2;ycaM_1,Inner membrane transporter YcaM,BDMKMOGB_01261,IAAMHMBP_00474,PKFCGPHH_01186
+sftI,;sftI,hypothetical protein;Sulfoquinovose isomerase,BDMKMOGB_00357;BDMKMOGB_00358,IAAMHMBP_00586,PKFCGPHH_00486;PKFCGPHH_00487
+dnaJ,dnaJ,Chaperone protein DnaJ,BDMKMOGB_00373,IAAMHMBP_00572,PKFCGPHH_00472
+group_33,,putative transcriptional regulatory protein,BDMKMOGB_00066,IAAMHMBP_00471,PKFCGPHH_01183
+smc_2,smc_2,Chromosome partition protein Smc,BDMKMOGB_00414,IAAMHMBP_00531,PKFCGPHH_00431
+murT,murT,Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT,BDMKMOGB_00597,IAAMHMBP_00440,PKFCGPHH_01266
+nusB,nusB,Transcription antitermination protein NusB,BDMKMOGB_00166,IAAMHMBP_00499,PKFCGPHH_00399
+polC_2,polC_2,DNA polymerase III PolC-type,BDMKMOGB_00385,IAAMHMBP_00560,PKFCGPHH_00460
+trmD,trmD,tRNA (guanine-N(1)-)-methyltransferase,BDMKMOGB_00405,IAAMHMBP_00540,PKFCGPHH_00440
+metQ,metQ,putative D-methionine-binding lipoprotein MetQ,BDMKMOGB_00616,IAAMHMBP_00610,PKFCGPHH_00511
+group_28,,hypothetical protein,BDMKMOGB_00063,IAAMHMBP_00830,PKFCGPHH_01372
+group_27,,hypothetical protein,BDMKMOGB_00062,IAAMHMBP_00829,PKFCGPHH_01371
+group_639,,hypothetical protein,,IAAMHMBP_00131,PKFCGPHH_00707
+group_638,,hypothetical protein,,IAAMHMBP_00160,PKFCGPHH_01267
+group_630,,hypothetical protein,,IAAMHMBP_00377,PKFCGPHH_00586
+group_629,,hypothetical protein,,IAAMHMBP_00376,2_refound_5_pseudo
+group_628,,hypothetical protein,,IAAMHMBP_00374,PKFCGPHH_01452
+group_627,,hypothetical protein,,IAAMHMBP_00375,PKFCGPHH_01451
+group_626,,hypothetical protein,,IAAMHMBP_00372,PKFCGPHH_01389
+group_625,,hypothetical protein,,IAAMHMBP_00373,PKFCGPHH_01388
+group_624,,hypothetical protein,,IAAMHMBP_00369,PKFCGPHH_01391
+group_623,,hypothetical protein,,IAAMHMBP_00370;IAAMHMBP_00371,PKFCGPHH_01390
+group_621,,hypothetical protein,,IAAMHMBP_00168,PKFCGPHH_00944
+group_620,,hypothetical protein,,IAAMHMBP_00169,PKFCGPHH_00945
+group_619,lexA_1,LexA repressor,,IAAMHMBP_00194,PKFCGPHH_00962
+group_618,,hypothetical protein,,IAAMHMBP_00173,PKFCGPHH_00949
+group_617,,hypothetical protein,,IAAMHMBP_00190,PKFCGPHH_00958
+group_616,,hypothetical protein,,IAAMHMBP_00171,PKFCGPHH_00947
+group_614,,hypothetical protein,,IAAMHMBP_00191,PKFCGPHH_00959
+group_612,,hypothetical protein,,IAAMHMBP_00180,PKFCGPHH_00953
+group_611,,hypothetical protein,,IAAMHMBP_00170,PKFCGPHH_00946
+group_609,,hypothetical protein,,IAAMHMBP_00177,PKFCGPHH_00952
+group_608,,hypothetical protein,,IAAMHMBP_00176,PKFCGPHH_00951
+group_607,,hypothetical protein,,IAAMHMBP_00186,PKFCGPHH_00954
+group_606,,hypothetical protein,,IAAMHMBP_00187,PKFCGPHH_00955
+group_604,smc_2,Chromosome partition protein Smc,,IAAMHMBP_00166,PKFCGPHH_00942
+group_602,,hypothetical protein,,IAAMHMBP_00188,PKFCGPHH_00956
+xerC_1,xerC_1,Tyrosine recombinase XerC,,IAAMHMBP_00195,PKFCGPHH_00963
+group_600,,hypothetical protein,,IAAMHMBP_00167,PKFCGPHH_00943
+group_599,,hypothetical protein,,IAAMHMBP_00193,PKFCGPHH_00961
+group_598,,hypothetical protein,,IAAMHMBP_00172,PKFCGPHH_00948
+group_597,,hypothetical protein,,IAAMHMBP_00189,PKFCGPHH_00957
+group_595,,hypothetical protein,,IAAMHMBP_00192,PKFCGPHH_00960
+group_594,,hypothetical protein,,IAAMHMBP_00174,PKFCGPHH_00950
+group_592,,hypothetical protein,,IAAMHMBP_00161,PKFCGPHH_01269
+srtA,srtA,Sortase A,,IAAMHMBP_00162,PKFCGPHH_01270
+group_590,,hypothetical protein,,IAAMHMBP_00164,PKFCGPHH_01272
+group_589,,hypothetical protein,,IAAMHMBP_00163,PKFCGPHH_01271
+group_585,,hypothetical protein,,IAAMHMBP_00144,PKFCGPHH_00716
+group_584,,hypothetical protein,,IAAMHMBP_00142,PKFCGPHH_00714
+group_582,,hypothetical protein,,IAAMHMBP_00151,PKFCGPHH_00723
+group_580,,hypothetical protein,,IAAMHMBP_00141,PKFCGPHH_00713
+group_579,,hypothetical protein,,IAAMHMBP_00152,PKFCGPHH_00724
+group_578,,hypothetical protein,,IAAMHMBP_00147,PKFCGPHH_00719
+group_577,,hypothetical protein,,IAAMHMBP_00149,PKFCGPHH_00721
+group_576,,hypothetical protein,,IAAMHMBP_00143,PKFCGPHH_00715
+group_574,,hypothetical protein,,IAAMHMBP_00153,PKFCGPHH_00725
+group_573,,hypothetical protein,,IAAMHMBP_00148,PKFCGPHH_00720
+group_571,,hypothetical protein,,IAAMHMBP_00134,PKFCGPHH_00708
+group_570,,hypothetical protein,,IAAMHMBP_00136,PKFCGPHH_00709
+hhaIM,hhaIM,Type II methyltransferase M.HhaI,,IAAMHMBP_00137,PKFCGPHH_00710
+group_568,,hypothetical protein,,IAAMHMBP_00156,PKFCGPHH_00728
+group_567,,hypothetical protein,,IAAMHMBP_00140,PKFCGPHH_00712
+group_566,,hypothetical protein,,IAAMHMBP_00145,PKFCGPHH_00717
+group_565,,hypothetical protein,,IAAMHMBP_00146,PKFCGPHH_00718
+group_564,,hypothetical protein,,IAAMHMBP_00155,PKFCGPHH_00727
+group_563,,hypothetical protein,,IAAMHMBP_00150,PKFCGPHH_00722
+group_559,,hypothetical protein,,IAAMHMBP_00128,PKFCGPHH_01363
+group_558,,hypothetical protein,,IAAMHMBP_00127,PKFCGPHH_01362
+group_555,,hypothetical protein,,IAAMHMBP_00130,PKFCGPHH_01365
+group_553,,hypothetical protein,,IAAMHMBP_00129,PKFCGPHH_01364
+group_552,,hypothetical protein,,IAAMHMBP_00120,PKFCGPHH_00650
+topA_1~~~topA_2,topA_1;topA_2,DNA topoisomerase 1,,IAAMHMBP_00119,PKFCGPHH_00649
+group_536,,hypothetical protein,BDMKMOGB_01353,,PKFCGPHH_01455
+group_514,,hypothetical protein,BDMKMOGB_01243,,PKFCGPHH_01278
+group_513,,hypothetical protein,BDMKMOGB_01242,,PKFCGPHH_01277
+group_512,,hypothetical protein,,IAAMHMBP_01611,PKFCGPHH_00037
+group_511,,hypothetical protein,,IAAMHMBP_01610,PKFCGPHH_00038
+vmlR_2,vmlR_2,Ribosome protection protein VmlR,,IAAMHMBP_01609,PKFCGPHH_00039
+group_508,,hypothetical protein,,IAAMHMBP_01612,PKFCGPHH_00036
+group_487,,hypothetical protein,,IAAMHMBP_00739,PKFCGPHH_00643
+group_483,,hypothetical protein,,IAAMHMBP_00751,PKFCGPHH_00631
+group_480,,hypothetical protein,,IAAMHMBP_00737,PKFCGPHH_00644
+group_479,,hypothetical protein,,IAAMHMBP_00738,2_refound_6_pseudo
+cas1,cas1,CRISPR-associated endonuclease Cas1,,IAAMHMBP_00280,PKFCGPHH_00695
+group_478,,hypothetical protein,,IAAMHMBP_00283,PKFCGPHH_00698
+murP,murP,PTS system MurNAc-GlcNAc-specific EIIBC component,,IAAMHMBP_00282,PKFCGPHH_00697
+group_477,,hypothetical protein,,IAAMHMBP_00275,PKFCGPHH_00690
+cas2,cas2,CRISPR-associated endoribonuclease Cas2,,IAAMHMBP_00279,PKFCGPHH_00694
+group_475,,hypothetical protein,,IAAMHMBP_00278,PKFCGPHH_00693
+group_474,,hypothetical protein,,IAAMHMBP_00277,PKFCGPHH_00692
+cas92,cas9-2,CRISPR-associated endonuclease Cas9 2,,IAAMHMBP_00281,PKFCGPHH_00696
+group_473,,hypothetical protein,,IAAMHMBP_00276,PKFCGPHH_00691
+group_447,,hypothetical protein,BDMKMOGB_01032,,PKFCGPHH_01446
+group_446,ccpA_2,Catabolite control protein A,,IAAMHMBP_00387,PKFCGPHH_00988
+degA_1,degA_1,HTH-type transcriptional regulator DegA,,IAAMHMBP_00388,PKFCGPHH_00987
+hdfR_1,hdfR_1,HTH-type transcriptional regulator HdfR,,IAAMHMBP_00385,PKFCGPHH_00990
+group_445,yflS_1,Putative malate transporter YflS,,IAAMHMBP_00384,PKFCGPHH_00991
+vprA,vprA,Vinyl phenol reductase,,IAAMHMBP_00386,PKFCGPHH_00989
+group_421,,hypothetical protein,BDMKMOGB_00902,,PKFCGPHH_01609
+group_395,,hypothetical protein,BDMKMOGB_00783,IAAMHMBP_00789,
+vmlR_1,vmlR_1,Ribosome protection protein VmlR,,IAAMHMBP_00721,PKFCGPHH_00032
+yheI_2,yheI_2,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI,,IAAMHMBP_00720,PKFCGPHH_00033
+group_324,,hypothetical protein,,IAAMHMBP_00719,PKFCGPHH_00034
+group_323,,hypothetical protein,,IAAMHMBP_00718,PKFCGPHH_00035
+group_305,,hypothetical protein,BDMKMOGB_00482,IAAMHMBP_01209,
+group_304,,hypothetical protein,BDMKMOGB_00483,IAAMHMBP_01208,
+group_303,,hypothetical protein,BDMKMOGB_00474,IAAMHMBP_01217,
+group_302,,hypothetical protein,BDMKMOGB_00479,IAAMHMBP_01212,
+group_300,,hypothetical protein,BDMKMOGB_00470,IAAMHMBP_01221,
+group_299,,Single-stranded DNA-binding protein,BDMKMOGB_00476,IAAMHMBP_01215,
+group_298,,hypothetical protein,BDMKMOGB_00473,IAAMHMBP_01218,
+group_297,,hypothetical protein,BDMKMOGB_00475,IAAMHMBP_01216,
+group_296,,hypothetical protein,BDMKMOGB_00480,IAAMHMBP_01211,
+group_293,,hypothetical protein,BDMKMOGB_00481,IAAMHMBP_01210,
+group_292,,hypothetical protein,BDMKMOGB_00485,IAAMHMBP_01206,
+group_291,,hypothetical protein,BDMKMOGB_00478,IAAMHMBP_01213,
+group_290,,hypothetical protein,BDMKMOGB_00486,IAAMHMBP_01205,
+group_289,,hypothetical protein,BDMKMOGB_00484,IAAMHMBP_01207,
+group_288,,hypothetical protein,BDMKMOGB_00471,IAAMHMBP_01220,
+group_287,,hypothetical protein,BDMKMOGB_00477,IAAMHMBP_01214,
+group_286,,hypothetical protein,BDMKMOGB_00472,IAAMHMBP_01219,
+glvR,glvR,HTH-type transcriptional regulator GlvR,,IAAMHMBP_01254,PKFCGPHH_01047
+group_282,,hypothetical protein,,IAAMHMBP_01246,PKFCGPHH_01053
+simA,simA,6-phospho-alpha-glucosidase 1,,IAAMHMBP_01252,PKFCGPHH_01049
+group_277,rhaS_2,HTH-type transcriptional activator RhaS,,IAAMHMBP_01244,PKFCGPHH_01055
+aes,aes,Acetyl esterase,,IAAMHMBP_01245,PKFCGPHH_01054
+bglA_1,bglA_1,6-phospho-beta-glucosidase BglA,,IAAMHMBP_01243,PKFCGPHH_01056
+bglK_3,bglK_3,Beta-glucoside kinase,,IAAMHMBP_01247,PKFCGPHH_01052
+malP_2,malP_2,PTS system maltose-specific EIICB component,,IAAMHMBP_01253,PKFCGPHH_01048
+bglF,bglF,PTS system beta-glucoside-specific EIIBCA component,,IAAMHMBP_01242,PKFCGPHH_01057
+ydiM_1~~~ydiM_2,ydiM_1;;ydiM_2,Inner membrane transport protein YdiM;hypothetical protein,,IAAMHMBP_01248;IAAMHMBP_01249,PKFCGPHH_01051
+menH_2,;menH_2,hypothetical protein;2-succinyl-6-hydroxy-24-cyclohexadiene-1-carboxylate synthase,,IAAMHMBP_01250;IAAMHMBP_01251,PKFCGPHH_01050
+group_159,,hypothetical protein,BDMKMOGB_00202,,PKFCGPHH_01369
+ebh~~~ebh_1,ebh;ebh_1,Extracellular matrix-binding protein ebh,,IAAMHMBP_00450,PKFCGPHH_00350
+group_31,,hypothetical protein,BDMKMOGB_00054,IAAMHMBP_00821,
+ssb_1,ssb_1,Single-stranded DNA-binding protein,BDMKMOGB_00042,IAAMHMBP_00812,
+group_29,,hypothetical protein,BDMKMOGB_00040,IAAMHMBP_00810,
+group_26,,hypothetical protein,BDMKMOGB_00055,IAAMHMBP_00822,
+group_24,,hypothetical protein,BDMKMOGB_00041,IAAMHMBP_00811,
+group_23,,hypothetical protein,BDMKMOGB_00053,IAAMHMBP_00820,
+group_20,,hypothetical protein,BDMKMOGB_00034,IAAMHMBP_00804,
+group_19,,hypothetical protein,BDMKMOGB_00037,IAAMHMBP_00807,
+group_16,,hypothetical protein,BDMKMOGB_00038,IAAMHMBP_00808,
+group_15,,hypothetical protein,BDMKMOGB_00036,IAAMHMBP_00806,
+group_14,,hypothetical protein,BDMKMOGB_00032,IAAMHMBP_00802,
+group_13,,hypothetical protein,BDMKMOGB_00045,IAAMHMBP_00815,
+xerC_1~~~xerC_4,xerC_1;xerC_4,Tyrosine recombinase XerC,BDMKMOGB_00061,IAAMHMBP_00828,
+group_12,,hypothetical protein,BDMKMOGB_00043,IAAMHMBP_00813,
+group_11,,hypothetical protein,BDMKMOGB_00052,IAAMHMBP_00819,
+group_10,,hypothetical protein,BDMKMOGB_00057,IAAMHMBP_00824,
+group_9,,hypothetical protein,BDMKMOGB_00048,IAAMHMBP_00818,
+group_7,,hypothetical protein,BDMKMOGB_00039,IAAMHMBP_00809,
+group_6,,hypothetical protein,BDMKMOGB_00035,IAAMHMBP_00805,
+group_5,,hypothetical protein,BDMKMOGB_00033,IAAMHMBP_00803,
+group_4,,hypothetical protein,BDMKMOGB_00056,IAAMHMBP_00823,
+group_2,,hypothetical protein,BDMKMOGB_00044,IAAMHMBP_00814,
+group_0,,hypothetical protein,BDMKMOGB_00047,IAAMHMBP_00817,
+group_637,,hypothetical protein,,IAAMHMBP_01475,
+arcB,arcB,Delta(1)-pyrroline-2-carboxylate reductase,,IAAMHMBP_01474,
+group_636,,Putative 2-hydroxyacid dehydrogenase,,IAAMHMBP_01469,
+group_635,,hypothetical protein,,IAAMHMBP_01471,
+ddaH,ddaH,N(G)N(G)-dimethylarginine dimethylaminohydrolase,,IAAMHMBP_01470,
+argF_2,argF_2,Ornithine carbamoyltransferase,,IAAMHMBP_01472,
+pucR,pucR,Purine catabolism regulatory protein,,IAAMHMBP_01473,
+adh,adh,Alcohol dehydrogenase,,IAAMHMBP_00379,
+group_634,,hypothetical protein,,IAAMHMBP_00383,
+group_633,,hypothetical protein,,IAAMHMBP_00381,
+cysL_1,cysL_1,HTH-type transcriptional regulator CysL,,IAAMHMBP_00382,
+group_632,,Aspartate aminotransferase,,IAAMHMBP_00380,
+group_631,,hypothetical protein,,IAAMHMBP_00378,
+group_622,,hypothetical protein,,IAAMHMBP_00185,
+group_615,,hypothetical protein,,IAAMHMBP_00175,
+group_613,,hypothetical protein,,IAAMHMBP_00178,
+group_610,,hypothetical protein,,IAAMHMBP_00183,
+group_605,,hypothetical protein,,IAAMHMBP_00179,
+group_603,,hypothetical protein,,IAAMHMBP_00182,
+group_601,,hypothetical protein,,IAAMHMBP_00181,
+group_596,,hypothetical protein,,IAAMHMBP_00184,
+group_593,,hypothetical protein,,IAAMHMBP_00165,
+group_591,,hypothetical protein,,,PKFCGPHH_01268
+group_588,,hypothetical protein,,IAAMHMBP_00157,
+group_587,,hypothetical protein,,IAAMHMBP_00158,
+group_586,,hypothetical protein,,IAAMHMBP_00159,
+group_583,,hypothetical protein,,IAAMHMBP_00154,
+group_581,,hypothetical protein,,,PKFCGPHH_00711
+group_575,,hypothetical protein,,IAAMHMBP_00139,
+dpnM,dpnM,Type II methyltransferase M1.DpnII,,IAAMHMBP_00132,
+group_572,,hypothetical protein,,IAAMHMBP_00133,
+group_569,,hypothetical protein,,IAAMHMBP_00135,
+group_562,,hypothetical protein,,IAAMHMBP_00138,
+group_561,,hypothetical protein,,IAAMHMBP_00122,
+toxN_1,toxN_1,Endoribonuclease ToxN,,IAAMHMBP_00126,
+group_560,,hypothetical protein,,IAAMHMBP_00125,
+group_557,,hypothetical protein,,IAAMHMBP_00124,
+group_556,,hypothetical protein,,IAAMHMBP_00123,
+group_554,,hypothetical protein,,IAAMHMBP_00121,
+group_486,,hypothetical protein,,,PKFCGPHH_00645
+group_485,,hypothetical protein,,,PKFCGPHH_00648
+group_484,,hypothetical protein,,,PKFCGPHH_00646
+group_482,,hypothetical protein,,,PKFCGPHH_00647
+group_448,,hypothetical protein,,IAAMHMBP_01443,
+group_230,,hypothetical protein,,IAAMHMBP_01580,
+group_229,,hypothetical protein,,IAAMHMBP_01571,
+group_224,,hypothetical protein,,IAAMHMBP_01574,
+group_223,,hypothetical protein,,IAAMHMBP_01577,
+group_222,,hypothetical protein,,IAAMHMBP_01578,
+hsdRM,hsdRM,Type II methyltransferase M.BsuRI,,IAAMHMBP_01572,
+group_212,,hypothetical protein,,IAAMHMBP_01575,
+group_203,,hypothetical protein,,IAAMHMBP_01579,
+group_200,,hypothetical protein,,IAAMHMBP_01573,
+group_187,,hypothetical protein,,IAAMHMBP_01576,
+group_183,,hypothetical protein,,IAAMHMBP_01581,
+xerD,xerD,Tyrosine recombinase XerD,,,PKFCGPHH_00357
+group_107,,hypothetical protein,,,PKFCGPHH_00360
+group_104,,hypothetical protein,,,PKFCGPHH_00363
+group_102,,hypothetical protein,,,PKFCGPHH_00375
+group_100,,hypothetical protein,,,PKFCGPHH_00383
+group_95,ssb_1,Single-stranded DNA-binding protein,,,PKFCGPHH_00370
+group_94,,hypothetical protein,,,PKFCGPHH_00358
+group_93,,hypothetical protein,,,PKFCGPHH_00366
+group_90,,hypothetical protein,,,PKFCGPHH_00367
+group_89,,hypothetical protein,,,PKFCGPHH_00378
+group_88,,hypothetical protein,,,PKFCGPHH_00379
+group_87,,hypothetical protein,,,PKFCGPHH_00377
+group_84,,hypothetical protein,,,PKFCGPHH_00359
+group_82,,hypothetical protein,,,PKFCGPHH_00376
+group_79,,hypothetical protein,,,PKFCGPHH_00362
+group_75,,hypothetical protein,,,PKFCGPHH_00380
+group_73,,hypothetical protein,,,PKFCGPHH_00382
+group_70,,hypothetical protein,,,PKFCGPHH_00364
+group_65,,hypothetical protein,,,PKFCGPHH_00373
+group_52,,hypothetical protein,,,PKFCGPHH_00374
+xre,xre,HTH-type transcriptional regulator Xre,,,PKFCGPHH_00361
+group_48,,hypothetical protein,,,PKFCGPHH_00369
+group_45,,hypothetical protein,,,PKFCGPHH_00365
+group_40,,hypothetical protein,,,PKFCGPHH_00371
+group_37,,hypothetical protein,,,PKFCGPHH_00368
+group_36,,hypothetical protein,,,PKFCGPHH_00381
+group_32,,hypothetical protein,,,PKFCGPHH_00372
+lexA_1,lexA_1,LexA repressor,BDMKMOGB_00059,,
+group_30,,hypothetical protein,,IAAMHMBP_00816,
+lexA_4,lexA_4,LexA repressor,,IAAMHMBP_00826,
+group_25,,hypothetical protein,BDMKMOGB_00046,,
+group_22,,hypothetical protein,BDMKMOGB_00060,,
+group_21,,hypothetical protein,BDMKMOGB_00058,,
+group_18,,hypothetical protein,BDMKMOGB_00051,,
+group_17,,hypothetical protein,BDMKMOGB_00050,,
+group_8,,hypothetical protein,,IAAMHMBP_00825,
+group_3,,hypothetical protein,,IAAMHMBP_00827,
+group_1,,hypothetical protein,BDMKMOGB_00049,,
